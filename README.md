@@ -1,4 +1,5 @@
 # CountryInfo
 
+Brief Information on the Countries of the World.
 
-[COUNTRY INFORMATION](https://recreatorus.github.io/countryinfo/)
+[COUNTRY INFORMATION](https://recreatorus.github.io/countryinfo/ "Go to website")
