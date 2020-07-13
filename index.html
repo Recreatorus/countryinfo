@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Country information</title>
+  <meta name="description" content="Country information">
+  <meta name="keywords" content="country information,country phone code,current exchange rate,weather in the capital">
+  <meta name="author" content="recreatorus">
+  <meta property="og:title" content="Country information">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og:site_name" content="">
+  <meta property="og:description" content="Country information">
+  <meta name="robots" content="all">
+  <meta name="copyright" content="recreatorus">
+  <meta name="theme-color" content="#9CC2CE">
+  <meta name="twitter:title" content="Country information">
+  <meta name="twitter:image" content="">
+  <meta name="twitter:url" content="">
+  <meta name="twitter:card" content="">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preload" as="font" href="fonts/cormorant-garamond-v7-latin_cyrillic-500.woff2" type="font/woff2"
+    crossorigin>
+  <link rel="preload" as="font" href="fonts/rubik-v9-cyrillic_latin-300.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="fonts/rubik-v9-cyrillic_latin-regular.woff2" type="font/woff2" crossorigin>
+  <style>
+    @font-face {
+      font-family: 'Cormorant Garamond';
+      font-display: swap;
+      font-style: normal;
+      font-weight: 500;
+      src: local('Cormorant Garamond'), local('Cormorant Garamond'),
+        url('fonts/cormorant-garamond-v7-latin_cyrillic-500.woff2') format('woff2'),
+        url('fonts/cormorant-garamond-v7-latin_cyrillic-500.woff') format('woff');
+    }
+
+    @font-face {
+      font-family: 'Rubik';
+      font-display: swap;
+      font-style: normal;
+      font-weight: 300;
+      src: local('Rubik Light'), local('Rubik-Light'),
+        url('fonts/rubik-v9-cyrillic_latin-300.woff2') format('woff2'),
+        url('fonts/rubik-v9-cyrillic_latin-300.woff') format('woff');
+    }
+
+    @font-face {
+      font-family: 'Rubik';
+      font-display: swap;
+      font-style: normal;
+      font-weight: 400;
+      src: local('Rubik'), local('Rubik-Regular'),
+        url('fonts/rubik-v9-cyrillic_latin-regular.woff2') format('woff2'),
+        url('fonts/rubik-v9-cyrillic_latin-regular.woff') format('woff');
+    }
+  </style>
+  <!-- Resource scripts -->
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <div class="page">
+    <h1 class="noselect">Country information</h1>
+    <div class="wrapper">
+      <div data-text></div>
+      <span class="item">population</span>
+      <span class="item">country phone code</span>
+      <span class="item">current exchange rate</span>
+      <span class="item">weather in the capital</span>
+    </div>
+    <hr>
+    <div class="input-field">
+      <input id="search" type="text" class="validate" autocomplete="off" required />
+      <div class="bar"></div>
+      <label>Enter country (e.g. Russia)</label>
+    </div>
+    <div id="countryList" class="countryList"></div>
+  </div>
+
+  <script src="js/script.min.js"></script>
+</body>
+
+</html>
