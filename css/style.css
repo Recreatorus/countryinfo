@@ -727,7 +727,6 @@ hr {
   flex-wrap: wrap;
   gap: 1rem;
   align-items: flex-start;
-  margin: -0.5rem;
   padding: 1rem 0 2rem;
 }
 .countryList .card {
