@@ -788,6 +788,8 @@ hr {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  align-items: center;
+  min-height: 84px;
   margin-bottom: 1rem;
 }
 .card-top .card-title {
