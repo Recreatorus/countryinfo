@@ -821,6 +821,7 @@ hr {
   color: #4562f5;
 }
 .card-data .population span,
+.card-data .area span,
 .card-data .countryCode span,
 .card-data .time span {
   color: #9daed6;
