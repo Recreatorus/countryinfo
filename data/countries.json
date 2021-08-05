@@ -1689,7 +1689,7 @@
     "abbr": "PRK",
     "population": "25490965",
     "code": "KP",
-    "currency": "KRW",
+    "currency": "KPW",
     "timezones": "UTC+09:00",
     "area": "120538"
   },
@@ -2162,7 +2162,7 @@
     "abbr": "KOR",
     "population": "51269830",
     "code": "KR",
-    "currency": "KPW",
+    "currency": "KRW",
     "timezones": "UTC+09:00",
     "area": "100210"
   },
