@@ -1720,11 +1720,11 @@
     "phoneCode": "+47",
     "capital": "Oslo",
     "abbr": "NOR",
-    "population": "5421241",
+    "population": "5391369",
     "code": "NO",
     "currency": "NOK",
-    "timezones": "UTC+02:00",
-    "area": "323877"
+    "timezones": "UTC+01:00",
+    "area": "385207"
   },
   {
     "country": "Oman",
