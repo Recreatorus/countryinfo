@@ -1688,7 +1688,7 @@
     "capital": "Pyongyang",
     "abbr": "PRK",
     "population": "25490965",
-    "code": "KR",
+    "code": "KP",
     "currency": "KRW",
     "timezones": "UTC+09:00",
     "area": "120538"
@@ -2160,11 +2160,11 @@
     "phoneCode": "+82",
     "capital": "Seoul",
     "abbr": "KOR",
-    "population": "50982212",
-    "code": "KP",
+    "population": "51269830",
+    "code": "KR",
     "currency": "KPW",
     "timezones": "UTC+09:00",
-    "area": "99434"
+    "area": "100210"
   },
   {
     "country": "South Sudan",
