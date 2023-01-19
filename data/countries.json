@@ -47,7 +47,9 @@
     "code": "AS",
     "currency": "USD",
     "timezones": "UTC-11:00",
-    "area": "199"
+    "area": "199",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Andorra",
@@ -84,7 +86,9 @@
     "code": "AI",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "96"
+    "area": "96",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Antigua and Barbuda",
@@ -134,7 +138,9 @@
     "code": "AW",
     "currency": "AWG",
     "timezones": "UTC-04:00",
-    "area": "193"
+    "area": "193",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Australia",
@@ -184,7 +190,9 @@
     "code": "BS",
     "currency": "BSD",
     "timezones": "UTC-04:00",
-    "area": "13878"
+    "area": "13878",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Bahrain",
@@ -286,7 +294,9 @@
     "code": "BM",
     "currency": "BMD",
     "timezones": "UTC-03:00",
-    "area": "53"
+    "area": "53",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Bhutan",
@@ -323,7 +333,9 @@
     "code": "BO",
     "currency": "BOB",
     "timezones": "UTC-04:00",
-    "area": "322"
+    "area": "322",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -373,7 +385,9 @@
     "code": "IO",
     "currency": "USD",
     "timezones": "UTC+06:00",
-    "area": "78"
+    "area": "78",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "British Virgin Islands",
@@ -384,7 +398,9 @@
     "code": "VG",
     "currency": "USD",
     "timezones": "UTC-04:00",
-    "area": "151"
+    "area": "151",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Brunei",
@@ -499,7 +515,9 @@
     "code": "KY",
     "currency": "KYD",
     "timezones": "UTC-05:00",
-    "area": "264"
+    "area": "264",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Central African Republic",
@@ -588,7 +606,9 @@
     "code": "CK",
     "currency": "NZD",
     "timezones": "UTC-10:00",
-    "area": "236"
+    "area": "236",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Costa Rica",
@@ -651,7 +671,9 @@
     "code": "CW",
     "currency": "ANG",
     "timezones": "UTC-04:00",
-    "area": "444"
+    "area": "444",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Cyprus",
@@ -844,7 +866,9 @@
     "code": "FK",
     "currency": "FKP",
     "timezones": "UTC-03:00",
-    "area": "12173"
+    "area": "12173",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Faroe Islands",
@@ -855,7 +879,9 @@
     "code": "FO",
     "currency": "DKK",
     "timezones": "UTC+01:00",
-    "area": "1399"
+    "area": "1399",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Micronesia",
@@ -931,7 +957,9 @@
     "code": "PF",
     "currency": "XPF",
     "timezones": "UTC-10:00",
-    "area": "4000"
+    "area": "4000",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Gabon",
@@ -955,7 +983,9 @@
     "code": "GM",
     "currency": "GMD",
     "timezones": "UTC+00:00",
-    "area": "11295"
+    "area": "11295",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Georgia",
@@ -1005,7 +1035,9 @@
     "code": "GI",
     "currency": "GIP",
     "timezones": "UTC+02:00",
-    "area": "6"
+    "area": "6",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Greece",
@@ -1068,7 +1100,9 @@
     "code": "GU",
     "currency": "USD",
     "timezones": "UTC+10:00",
-    "area": "549"
+    "area": "549",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Guatemala",
@@ -1521,7 +1555,9 @@
     "code": "MO",
     "currency": "MOP",
     "timezones": "UTC+08:00",
-    "area": "18"
+    "area": "18",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "North Macedonia",
@@ -1753,7 +1789,9 @@
     "code": "MS",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "102"
+    "area": "102",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Morocco",
@@ -1855,7 +1893,9 @@
     "code": "AN",
     "currency": "EUR",
     "timezones": "UTC-04:00",
-    "area": "800"
+    "area": "800",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "New Caledonia",
@@ -1866,7 +1906,9 @@
     "code": "NC",
     "currency": "XPF",
     "timezones": "UTC+11:00",
-    "area": "18575"
+    "area": "18575",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "New Zealand",
@@ -1929,7 +1971,9 @@
     "code": "NU",
     "currency": "NZD",
     "timezones": "UTC-11:00",
-    "area": "260"
+    "area": "260",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Norfolk Island",
@@ -1940,7 +1984,9 @@
     "code": "NF",
     "currency": "AUD",
     "timezones": "UTC+11:00",
-    "area": "36"
+    "area": "36",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "North Korea",
@@ -1964,7 +2010,9 @@
     "code": "MP",
     "currency": "USD",
     "timezones": "UTC+10:00",
-    "area": "464"
+    "area": "464",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "North Macedonia",
@@ -1975,7 +2023,9 @@
     "code": "MK",
     "currency": "MKD",
     "timezones": "UTC+02:00",
-    "area": "25713"
+    "area": "25713",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Norway",
@@ -2168,7 +2218,9 @@
     "code": "CG",
     "currency": "XAF",
     "timezones": "UTC+01:00",
-    "area": "342000"
+    "area": "342000",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Reunion",
@@ -2231,7 +2283,9 @@
     "code": "BL",
     "currency": "EUR",
     "timezones": "UTC-04:00",
-    "area": "21"
+    "area": "21",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Saint Helena",
@@ -2242,7 +2296,9 @@
     "code": "SH",
     "currency": "SHP",
     "timezones": "UTC+00:00",
-    "area": "314"
+    "area": "314",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Saint Kitts and Nevis",
@@ -2266,7 +2322,9 @@
     "code": "MF",
     "currency": "EUR",
     "timezones": "UTC-04:00",
-    "area": "87"
+    "area": "87",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Saint Pierre and Miquelon",
@@ -2277,7 +2335,9 @@
     "code": "PM",
     "currency": "EUR",
     "timezones": "UTC-02:00",
-    "area": "242"
+    "area": "242",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Saint Vincent and the Grenadines",
@@ -2418,7 +2478,9 @@
     "code": "SX",
     "currency": "ANG",
     "timezones": "UTC-04:00",
-    "area": "34"
+    "area": "34",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Slovakia",
@@ -2715,7 +2777,9 @@
     "code": "TK",
     "currency": "NZD",
     "timezones": "UTC+13:00",
-    "area": "12"
+    "area": "12",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Tonga",
@@ -2791,7 +2855,9 @@
     "code": "TC",
     "currency": "USD",
     "timezones": "UTC-04:00",
-    "area": "430"
+    "area": "430",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Tuvalu",
@@ -2893,7 +2959,9 @@
     "code": "VI",
     "currency": "USD",
     "timezones": "UTC-04:00",
-    "area": "347"
+    "area": "347",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Uzbekistan",
@@ -2969,7 +3037,9 @@
     "code": "WF",
     "currency": "XPF",
     "timezones": "UTC+12:00",
-    "area": "200"
+    "area": "200",
+    "worldPercentage": 0,
+    "density": 0
   },
   {
     "country": "Yemen",
