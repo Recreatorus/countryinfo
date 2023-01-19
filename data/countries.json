@@ -4,33 +4,39 @@
     "phoneCode": "+93",
     "capital": "Kabul",
     "abbr": "AFG",
-    "population": "35530081",
+    "population": 42239854,
     "code": "AF",
     "currency": "AFN",
     "timezones": "UTC+04:30",
-    "area": "652090"
+    "area": 652230,
+    "worldPercentage": 0.0053,
+    "density": 64.7622
   },
   {
     "country": "Albania",
     "phoneCode": "+355",
     "capital": "Tirana",
     "abbr": "ALB",
-    "population": "2930187",
+    "population": 2832439,
     "code": "AL",
     "currency": "ALL",
     "timezones": "UTC+01:00",
-    "area": "28748"
+    "area": 28748,
+    "worldPercentage": 0.0004,
+    "density": 103.3737
   },
   {
     "country": "Algeria",
     "phoneCode": "+213",
     "capital": "Algiers",
     "abbr": "DZA",
-    "population": "41318142",
+    "population": 45606480,
     "code": "DZ",
     "currency": "DZD",
     "timezones": "UTC+01:00",
-    "area": "2381741"
+    "area": 2381741,
+    "worldPercentage": 0.0057,
+    "density": 19.1484
   },
   {
     "country": "American Samoa",
@@ -48,22 +54,26 @@
     "phoneCode": "+376",
     "capital": "Andorra la Vella",
     "abbr": "AND",
-    "population": "76965",
+    "population": 80088,
     "code": "AD",
     "currency": "EUR",
     "timezones": "UTC+01:00",
-    "area": "468"
+    "area": 468,
+    "worldPercentage": 0,
+    "density": 170.4
   },
   {
     "country": "Angola",
     "phoneCode": "+244",
     "capital": "Luanda",
     "abbr": "AGO",
-    "population": "29784193",
+    "population": 36684202,
     "code": "AO",
     "currency": "AOA",
     "timezones": "UTC+01:00",
-    "area": "1246700"
+    "area": 1246700,
+    "worldPercentage": 0.0046,
+    "density": 29.425
   },
   {
     "country": "Anguilla",
@@ -81,33 +91,39 @@
     "phoneCode": "+1-268",
     "capital": "Saint John's",
     "abbr": "ATG",
-    "population": "102012",
+    "population": 94298,
     "code": "AG",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "442"
+    "area": 442,
+    "worldPercentage": 0,
+    "density": 214.3136
   },
   {
     "country": "Argentina",
     "phoneCode": "+54",
     "capital": "Buenos Aires",
     "abbr": "ARG",
-    "population": "44271041",
+    "population": 45773884,
     "code": "AR",
     "currency": "ARS",
     "timezones": "UTC-03:00",
-    "area": "2780400"
+    "area": 2780400,
+    "worldPercentage": 0.0057,
+    "density": 16.726
   },
   {
     "country": "Armenia",
     "phoneCode": "+374",
     "capital": "Yerevan",
     "abbr": "ARM",
-    "population": "2930450",
+    "population": 2777970,
     "code": "AM",
     "currency": "AMD",
     "timezones": "UTC+04:00",
-    "area": "29800"
+    "area": 29743,
+    "worldPercentage": 0.0003,
+    "density": 97.5753
   },
   {
     "country": "Aruba",
@@ -125,33 +141,39 @@
     "phoneCode": "+61",
     "capital": "Canberra",
     "abbr": "AUS",
-    "population": "25499884",
+    "population": 26439111,
     "code": "AU",
     "currency": "AUD",
     "timezones": "UTC+10:00",
-    "area": "7741220"
+    "area": 7692024,
+    "worldPercentage": 0.0033,
+    "density": 3.4372
   },
   {
     "country": "Austria",
     "phoneCode": "+43",
     "capital": "Vienna",
     "abbr": "AUT",
-    "population": "9006398",
+    "population": 8958960,
     "code": "AT",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "83859"
+    "area": 83871,
+    "worldPercentage": 0.0011,
+    "density": 108.5671
   },
   {
     "country": "Azerbaijan",
     "phoneCode": "+994",
     "capital": "Baku",
     "abbr": "AZE",
-    "population": "9827589",
+    "population": 10412651,
     "code": "AZ",
     "currency": "AZN",
     "timezones": "UTC+04:00",
-    "area": "86600"
+    "area": 86600,
+    "worldPercentage": 0.0013,
+    "density": 125.991
   },
   {
     "country": "Bahamas",
@@ -169,77 +191,91 @@
     "phoneCode": "+973",
     "capital": "Manama",
     "abbr": "BHR",
-    "population": "1492584",
+    "population": 1485509,
     "code": "BH",
     "currency": "BHD",
     "timezones": "UTC+03:00",
-    "area": "694"
+    "area": 765,
+    "worldPercentage": 0.0002,
+    "density": 1892.3682
   },
   {
     "country": "Bangladesh",
     "phoneCode": "+880",
     "capital": "Dhaka",
     "abbr": "BGD",
-    "population": "164689383",
+    "population": 172954319,
     "code": "BD",
     "currency": "BDT",
     "timezones": "UTC+06:00",
-    "area": "143998"
+    "area": 147570,
+    "worldPercentage": 0.0216,
+    "density": 1328.6803
   },
   {
     "country": "Barbados",
     "phoneCode": "+1-246",
     "capital": "Bridgetown",
     "abbr": "BRB",
-    "population": "285719",
+    "population": 281995,
     "code": "BB",
     "currency": "BBD",
     "timezones": "UTC-04:00",
-    "area": "430"
+    "area": 430,
+    "worldPercentage": 0,
+    "density": 655.8023
   },
   {
     "country": "Belarus",
     "phoneCode": "+375",
     "capital": "Minsk",
     "abbr": "BLR",
-    "population": "9468338",
+    "population": 9498238,
     "code": "BY",
     "currency": "BYN",
     "timezones": "UTC+03:00",
-    "area": "207600"
+    "area": 207600,
+    "worldPercentage": 0.0012,
+    "density": 46.794
   },
   {
     "country": "Belgium",
     "phoneCode": "+32",
     "capital": "Brussels",
     "abbr": "BEL",
-    "population": "11429336",
+    "population": 11686140,
     "code": "BE",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "30518"
+    "area": 30528,
+    "worldPercentage": 0.0015,
+    "density": 385.9359
   },
   {
     "country": "Belize",
     "phoneCode": "+501",
     "capital": "Belmopan",
     "abbr": "BLZ",
-    "population": "374681",
+    "population": 410825,
     "code": "BZ",
     "currency": "BZD",
     "timezones": "UTC-06:00",
-    "area": "22696"
+    "area": 22966,
+    "worldPercentage": 0.0001,
+    "density": 18.0107
   },
   {
     "country": "Benin",
     "phoneCode": "+229",
     "capital": "Porto-Novo",
     "abbr": "BEN",
-    "population": "11175692",
+    "population": 13712828,
     "code": "BJ",
     "currency": "XOF",
     "timezones": "UTC+01:00",
-    "area": "112622"
+    "area": 112622,
+    "worldPercentage": 0.0017,
+    "density": 121.6107
   },
   {
     "country": "Bermuda",
@@ -257,22 +293,26 @@
     "phoneCode": "+975",
     "capital": "Thimphu",
     "abbr": "BTN",
-    "population": "807610",
+    "population": 787424,
     "code": "BT",
     "currency": "BTN",
     "timezones": "UTC+06:00",
-    "area": "47000"
+    "area": 38394,
+    "worldPercentage": 0.0001,
+    "density": 20.6456
   },
   {
     "country": "Bolivia",
     "phoneCode": "+591",
     "capital": "La Paz",
     "abbr": "BOL",
-    "population": "11051600",
+    "population": 12388571,
     "code": "BO",
     "currency": "BOB",
     "timezones": "UTC-04:00",
-    "area": "1098581"
+    "area": 1098581,
+    "worldPercentage": 0.0015,
+    "density": 11.436
   },
   {
     "country": "Bonaire, Sint Eustatius and Saba",
@@ -290,33 +330,39 @@
     "phoneCode": "+387",
     "capital": "Sarajevo",
     "abbr": "BIH",
-    "population": "3507017",
+    "population": 3210847,
     "code": "BA",
     "currency": "BAM",
     "timezones": "UTC+01:00",
-    "area": "51197"
+    "area": 51209,
+    "worldPercentage": 0.0004,
+    "density": 62.7119
   },
   {
     "country": "Botswana",
     "phoneCode": "+267",
     "capital": "Gaborone",
     "abbr": "BWA",
-    "population": "2291661",
+    "population": 2675352,
     "code": "BW",
     "currency": "BWP",
     "timezones": "UTC+02:00",
-    "area": "581730"
+    "area": 582000,
+    "worldPercentage": 0.0003,
+    "density": 4.7207
   },
   {
     "country": "Brazil",
     "phoneCode": "+55",
     "capital": "Brasília",
     "abbr": "BRA",
-    "population": "212559417",
+    "population": 216422446,
     "code": "BR",
     "currency": "BRL",
     "timezones": "UTC-03:00",
-    "area": "8547403"
+    "area": 8515767,
+    "worldPercentage": 0.027,
+    "density": 25.8936
   },
   {
     "country": "British Indian Ocean Territory",
@@ -341,92 +387,108 @@
     "area": "151"
   },
   {
-    "country": "Brunei Darussalam",
+    "country": "Brunei",
     "phoneCode": "+673",
     "capital": "Bandar Seri Begawan",
     "abbr": "BRN",
-    "population": "437479",
+    "population": 452524,
     "code": "BN",
     "currency": "BND",
     "timezones": "UTC+08:00",
-    "area": "5765"
+    "area": 5765,
+    "worldPercentage": 0.0001,
+    "density": 85.8679
   },
   {
     "country": "Bulgaria",
     "phoneCode": "+359",
     "capital": "Sofia",
     "abbr": "BGR",
-    "population": "7084571",
+    "population": 6687717,
     "code": "BG",
     "currency": "BGN",
     "timezones": "UTC+03:00",
-    "area": "110994"
+    "area": 110879,
+    "worldPercentage": 0.0008,
+    "density": 61.6039
   },
   {
     "country": "Burkina Faso",
     "phoneCode": "+226",
     "capital": "Ouagadougou",
     "abbr": "BFA",
-    "population": "19193382",
+    "population": 23251485,
     "code": "BF",
     "currency": "XOF",
     "timezones": "UTC+00:00",
-    "area": "274000"
+    "area": 272967,
+    "worldPercentage": 0.0029,
+    "density": 84.9835
   },
   {
     "country": "Burundi",
     "phoneCode": "+257",
     "capital": "Bujumbura",
     "abbr": "BDI",
-    "population": "10864245",
+    "population": 13238559,
     "code": "BI",
     "currency": "BIF",
     "timezones": "UTC+02:00",
-    "area": "27834"
+    "area": 27834,
+    "worldPercentage": 0.0017,
+    "density": 515.5202
   },
   {
-    "country": "Cabo Verde",
+    "country": "Cape Verde",
     "phoneCode": "+238",
     "capital": "Praia",
     "abbr": "CPV",
-    "population": "555987",
+    "population": 598682,
     "code": "CV",
     "currency": "CVE",
     "timezones": "UTC-01:00",
-    "area": "4033"
+    "area": 4033,
+    "worldPercentage": 0.0001,
+    "density": 148.4458
   },
   {
     "country": "Cambodia",
     "phoneCode": "+855",
     "capital": "Phnom Penh",
     "abbr": "KHM",
-    "population": "16005373",
+    "population": 16944826,
     "code": "KH",
     "currency": "KHR",
     "timezones": "UTC+07:00",
-    "area": "181035"
+    "area": 181035,
+    "worldPercentage": 0.0021,
+    "density": 95.9938
   },
   {
     "country": "Cameroon",
     "phoneCode": "+237",
     "capital": "Yaoundé",
     "abbr": "CMR",
-    "population": "24053727",
+    "population": 28647293,
     "code": "CM",
     "currency": "XAF",
     "timezones": "UTC+01:00",
-    "area": "475442"
+    "area": 475442,
+    "worldPercentage": 0.0036,
+    "density": 60.6023
   },
   {
     "country": "Canada",
     "phoneCode": "+1",
     "capital": "Ottawa",
     "abbr": "CAN",
-    "population": "37742154",
+    "population": 38781291,
     "code": "CA",
     "currency": "CAD",
     "timezones": "UTC-04:00",
-    "area": "9970610"
+    "area": 9984670,
+    "worldPercentage": 0.0048,
+    "density": 4.3256
   },
   {
     "country": "Cayman Islands",
@@ -444,66 +506,78 @@
     "phoneCode": "+236",
     "capital": "Bangui",
     "abbr": "CAF",
-    "population": "4659080",
+    "population": 5742315,
     "code": "CF",
     "currency": "XAF",
     "timezones": "UTC+01:00",
-    "area": "622984"
+    "area": 622984,
+    "worldPercentage": 0.0007,
+    "density": 9.2175
   },
   {
     "country": "Chad",
     "phoneCode": "+235",
     "capital": "N'Djamena",
     "abbr": "TCD",
-    "population": "14899994",
+    "population": 18278568,
     "code": "TD",
     "currency": "XAF",
     "timezones": "UTC+01:00",
-    "area": "1284000"
+    "area": 1284000,
+    "worldPercentage": 0.0023,
+    "density": 14.516
   },
   {
     "country": "Chile",
     "phoneCode": "+56",
     "capital": "Santiago",
     "abbr": "CHL",
-    "population": "18054726",
+    "population": 19629590,
     "code": "CL",
     "currency": "CLP",
     "timezones": "UTC-04:00",
-    "area": "756626"
+    "area": 756102,
+    "worldPercentage": 0.0025,
+    "density": 26.4005
   },
   {
     "country": "China",
     "phoneCode": "+86",
     "capital": "Beijing",
     "abbr": "CHN",
-    "population": "1411750000",
+    "population": 1425671352,
     "code": "CN",
     "currency": "CNY",
     "timezones": "UTC+08:00",
-    "area": "9598962"
+    "area": 9706961,
+    "worldPercentage": 0.1781,
+    "density": 151.2696
   },
   {
     "country": "Colombia",
     "phoneCode": "+57",
     "capital": "Bogotá",
     "abbr": "COL",
-    "population": "49065615",
+    "population": 52085168,
     "code": "CO",
     "currency": "COP",
     "timezones": "UTC-05:00",
-    "area": "1138914"
+    "area": 1141748,
+    "worldPercentage": 0.0065,
+    "density": 46.9447
   },
   {
     "country": "Comoros",
     "phoneCode": "+269",
     "capital": "Moroni",
     "abbr": "COM",
-    "population": "813912",
+    "population": 852075,
     "code": "KM",
     "currency": "KMF",
     "timezones": "UTC+03:00",
-    "area": "1862"
+    "area": 1862,
+    "worldPercentage": 0.0001,
+    "density": 457.8587
   },
   {
     "country": "Cook Islands",
@@ -521,44 +595,52 @@
     "phoneCode": "+506",
     "capital": "San José",
     "abbr": "CRI",
-    "population": "4905769",
+    "population": 5212173,
     "code": "CR",
     "currency": "CRC",
     "timezones": "UTC-06:00",
-    "area": "51100"
+    "area": 51100,
+    "worldPercentage": 0.0007,
+    "density": 102.0794
   },
   {
-    "country": "Côte dIvoire",
+    "country": "Ivory Coast",
     "phoneCode": "+225",
     "capital": "Yamoussoukro",
     "abbr": "CIV",
-    "population": "26378274",
+    "population": 28873034,
     "code": "CI",
     "currency": "XOF",
     "timezones": "UTC-00:00",
-    "area": "322463"
+    "area": 322463,
+    "worldPercentage": 0.0036,
+    "density": 90.7957
   },
   {
     "country": "Croatia",
     "phoneCode": "+385",
     "capital": "Zagreb",
     "abbr": "HRV",
-    "population": "4189353",
+    "population": 4008617,
     "code": "HR",
     "currency": "HRK",
     "timezones": "UTC+02:00",
-    "area": "56538"
+    "area": 56594,
+    "worldPercentage": 0.0005,
+    "density": 71.6336
   },
   {
     "country": "Cuba",
     "phoneCode": "+53",
     "capital": "Havana",
     "abbr": "CUB",
-    "population": "11326616",
+    "population": 11194449,
     "code": "CU",
     "currency": "CUP",
     "timezones": "UTC-04:00",
-    "area": "110861"
+    "area": 109884,
+    "worldPercentage": 0.0014,
+    "density": 107.8463
   },
   {
     "country": "Curaçao",
@@ -576,154 +658,182 @@
     "phoneCode": "+357",
     "capital": "Nicosia",
     "abbr": "CYP",
-    "population": "1179551",
+    "population": 1260138,
     "code": "CY",
     "currency": "EUR",
     "timezones": "UTC+03:00",
-    "area": "9251"
+    "area": 9251,
+    "worldPercentage": 0.0002,
+    "density": 136.3786
   },
   {
-    "country": "Czechia",
+    "country": "Czech Republic",
     "phoneCode": "+420",
     "capital": "Prague",
     "abbr": "CZE",
-    "population": "10708981",
+    "population": 10495295,
     "code": "CZ",
     "currency": "CZK",
     "timezones": "UTC+02:00",
-    "area": "78866"
+    "area": 78865,
+    "worldPercentage": 0.0013,
+    "density": 135.9521
   },
   {
-    "country": "Democratic Republic Of The Congo",
+    "country": "Denmark",
     "phoneCode": "+243",
     "capital": "Kinshasa",
     "abbr": "DNK",
-    "population": "89561403",
+    "population": 5910913,
     "code": "CD",
     "currency": "CDF",
     "timezones": "UTC+01:00",
-    "area": "2344858"
+    "area": 43094,
+    "worldPercentage": 0.0007,
+    "density": 147.7728
   },
   {
     "country": "Denmark",
     "phoneCode": "+45",
     "capital": "Copenhagen",
     "abbr": "DNK",
-    "population": "5733551",
+    "population": 5910913,
     "code": "DK",
     "currency": "DKK",
     "timezones": "UTC+02:00",
-    "area": "43094"
+    "area": 43094,
+    "worldPercentage": 0.0007,
+    "density": 147.7728
   },
   {
     "country": "Djibouti",
     "phoneCode": "+253",
     "capital": "Djibouti",
     "abbr": "DJI",
-    "population": "956985",
+    "population": 1136455,
     "code": "DJ",
     "currency": "DJF",
     "timezones": "UTC+03:00",
-    "area": "23200"
+    "area": 23200,
+    "worldPercentage": 0.0001,
+    "density": 49.0274
   },
   {
     "country": "Dominica",
     "phoneCode": "+1-767",
     "capital": "Roseau",
     "abbr": "DMA",
-    "population": "73925",
+    "population": 73040,
     "code": "DM",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "751"
+    "area": 751,
+    "worldPercentage": 0,
+    "density": 97.3867
   },
   {
     "country": "Dominican Republic",
     "phoneCode": "+1-809",
     "capital": "Santo Domingo",
     "abbr": "DOM",
-    "population": "10766998",
+    "population": 11332972,
     "code": "DO",
     "currency": "DOP",
     "timezones": "UTC-04:00",
-    "area": "48511"
+    "area": 48671,
+    "worldPercentage": 0.0014,
+    "density": 234.5885
   },
   {
     "country": "Ecuador",
     "phoneCode": "+593",
     "capital": "Quito",
     "abbr": "ECU",
-    "population": "16624858",
+    "population": 18190484,
     "code": "EC",
     "currency": "USD",
     "timezones": "UTC-05:00",
-    "area": "283561"
+    "area": 276841,
+    "worldPercentage": 0.0023,
+    "density": 73.2424
   },
   {
     "country": "Egypt",
     "phoneCode": "+20",
     "capital": "Cairo",
     "abbr": "EGY",
-    "population": "102334404",
+    "population": 112716598,
     "code": "EG",
     "currency": "EGP",
     "timezones": "UTC+02:00",
-    "area": "1001449"
+    "area": 1002450,
+    "worldPercentage": 0.0141,
+    "density": 113.2318
   },
   {
     "country": "El Salvador",
     "phoneCode": "+503",
     "capital": "San Salvador",
     "abbr": "SLV",
-    "population": "6377853",
+    "population": 6364943,
     "code": "SV",
     "currency": "USD",
     "timezones": "UTC-06:00",
-    "area": "21041"
+    "area": 21041,
+    "worldPercentage": 0.0008,
+    "density": 307.1884
   },
   {
     "country": "Equatorial Guinea",
     "phoneCode": "+240",
     "capital": "Malabo",
     "abbr": "GNQ",
-    "population": "1267689",
+    "population": 1714671,
     "code": "GQ",
     "currency": "XAF",
     "timezones": "UTC+01:00",
-    "area": "28051"
+    "area": 28051,
+    "worldPercentage": 0.0002,
+    "density": 61.1291
   },
   {
     "country": "Eritrea",
     "phoneCode": "+291",
     "capital": "Asmara",
     "abbr": "ERI",
-    "population": "5068831",
+    "population": 3748901,
     "code": "ER",
     "currency": "ERN",
     "timezones": "UTC+03:00",
-    "area": "117600"
+    "area": 117600,
+    "worldPercentage": 0.0005,
+    "density": 30.9722
   },
   {
     "country": "Estonia",
     "phoneCode": "+372",
     "capital": "Tallinn",
     "abbr": "EST",
-    "population": "1309632",
+    "population": 1322765,
     "code": "EE",
     "currency": "EUR",
     "timezones": "UTC+03:00",
-    "area": "45227"
+    "area": 45227,
+    "worldPercentage": 0.0002,
+    "density": 30.9419
   },
   {
     "country": "Ethiopia",
     "phoneCode": "+251",
     "capital": "Addis Ababa",
     "abbr": "ETH",
-    "population": "114963588",
+    "population": 126527060,
     "code": "ET",
     "currency": "ETB",
     "timezones": "UTC+03:00",
-    "area": "1104300"
+    "area": 1104300,
+    "worldPercentage": 0.0158,
+    "density": 112.1126
   },
   {
     "country": "Falkland Islands",
@@ -748,59 +858,69 @@
     "area": "1399"
   },
   {
-    "country": "Federated States of Micronesia",
+    "country": "Micronesia",
     "phoneCode": "+691",
     "capital": "Palikir",
     "abbr": "FSM",
-    "population": "115023",
+    "population": 115224,
     "code": "FM",
     "currency": "USD",
     "timezones": "UTC+11:00",
-    "area": "702"
+    "area": 702,
+    "worldPercentage": 0,
+    "density": 164.6057
   },
   {
     "country": "Fiji",
     "phoneCode": "+679",
     "capital": "Suva",
     "abbr": "FJI",
-    "population": "896445",
+    "population": 936375,
     "code": "FJ",
     "currency": "FJD",
     "timezones": "UTC+12:00",
-    "area": "18274"
+    "area": 18272,
+    "worldPercentage": 0.0001,
+    "density": 51.2521
   },
   {
     "country": "Finland",
     "phoneCode": "+358",
     "capital": "Helsinki",
     "abbr": "FIN",
-    "population": "5523231",
+    "population": 5545475,
     "code": "FI",
     "currency": "EUR",
     "timezones": "UTC+03:00",
-    "area": "338145"
+    "area": 338424,
+    "worldPercentage": 0.0007,
+    "density": 18.2453
   },
   {
     "country": "France",
     "phoneCode": "+33",
     "capital": "Paris",
     "abbr": "FRA",
-    "population": "65273511",
+    "population": 64756584,
     "code": "FR",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "551500"
+    "area": 551695,
+    "worldPercentage": 0.0081,
+    "density": 118.2646
   },
   {
     "country": "French Guiana",
     "phoneCode": "+594",
     "capital": "Cayenne",
     "abbr": "GUF",
-    "population": "282731",
+    "population": 312155,
     "code": "GF",
     "currency": "EUR",
     "timezones": "UTC-03:00",
-    "area": "90000"
+    "area": 83534,
+    "worldPercentage": 0,
+    "density": 3.7369
   },
   {
     "country": "French Polynesia",
@@ -818,11 +938,13 @@
     "phoneCode": "+241",
     "capital": "Libreville",
     "abbr": "GAB",
-    "population": "2025137",
+    "population": 2436566,
     "code": "GA",
     "currency": "XAF",
     "timezones": "UTC+01:00",
-    "area": "267668"
+    "area": 267668,
+    "worldPercentage": 0.0003,
+    "density": 9.4561
   },
   {
     "country": "Gambia",
@@ -840,33 +962,39 @@
     "phoneCode": "+995",
     "capital": "Tbilisi",
     "abbr": "GEO",
-    "population": "3989167",
+    "population": 3728282,
     "code": "GE",
     "currency": "GEL",
     "timezones": "UTC+04:00",
-    "area": "69700"
+    "area": 69700,
+    "worldPercentage": 0.0005,
+    "density": 53.6521
   },
   {
     "country": "Germany",
     "phoneCode": "+49",
     "capital": "Berlin",
     "abbr": "DEU",
-    "population": "83783942",
+    "population": 83294633,
     "code": "DE",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "357022"
+    "area": 357114,
+    "worldPercentage": 0.0104,
+    "density": 238.4002
   },
   {
     "country": "Ghana",
     "phoneCode": "+233",
     "capital": "Accra",
     "abbr": "GHA",
-    "population": "28833629",
+    "population": 34121985,
     "code": "GH",
     "currency": "GHS",
     "timezones": "UTC+00:00",
-    "area": "238533"
+    "area": 238533,
+    "worldPercentage": 0.0043,
+    "density": 149.965
   },
   {
     "country": "Gibraltar",
@@ -884,44 +1012,52 @@
     "phoneCode": "+30",
     "capital": "Athens",
     "abbr": "GRC",
-    "population": "11159773",
+    "population": 10341277,
     "code": "GR",
     "currency": "EUR",
     "timezones": "UTC+03:00",
-    "area": "131626"
+    "area": 131990,
+    "worldPercentage": 0.0013,
+    "density": 80.2271
   },
   {
     "country": "Greenland",
     "phoneCode": "+299",
     "capital": "Nuuk",
     "abbr": "GRL",
-    "population": "56480",
+    "population": 56643,
     "code": "GL",
     "currency": "DKK",
     "timezones": "UTC-02:00",
-    "area": "2166090"
+    "area": 2166086,
+    "worldPercentage": 0,
+    "density": 0.138
   },
   {
     "country": "Grenada",
     "phoneCode": " +1-473",
     "capital": "St. George's",
     "abbr": "GRD",
-    "population": "107825",
+    "population": 126183,
     "code": "GD",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "344"
+    "area": 344,
+    "worldPercentage": 0,
+    "density": 371.1265
   },
   {
     "country": "Guadeloupe",
     "phoneCode": "+590",
     "capital": "Basse-Terre",
     "abbr": "GLP",
-    "population": "449568",
+    "population": 395839,
     "code": "GP",
     "currency": "EUR",
     "timezones": "UTC-04:00",
-    "area": "1705"
+    "area": 1628,
+    "worldPercentage": 0,
+    "density": 243.1443
   },
   {
     "country": "Guam",
@@ -939,374 +1075,442 @@
     "phoneCode": "+502",
     "capital": "Guatemala City",
     "abbr": "GTM",
-    "population": "16913503",
+    "population": 18092026,
     "code": "GT",
     "currency": "GTQ",
     "timezones": "UTC-06:00",
-    "area": "108889"
+    "area": 108889,
+    "worldPercentage": 0.0023,
+    "density": 168.8319
   },
   {
     "country": "Guinea",
     "phoneCode": "+224",
     "capital": "Conakry",
     "abbr": "GIN",
-    "population": "12717176",
+    "population": 14190612,
     "code": "GN",
     "currency": "GNF",
     "timezones": "UTC+00:00",
-    "area": "245857"
+    "area": 245857,
+    "worldPercentage": 0.0018,
+    "density": 57.7511
   },
   {
     "country": "Guinea-Bissau",
     "phoneCode": "+245",
     "capital": "Bissau",
     "abbr": "GNB",
-    "population": "1861283",
+    "population": 2150842,
     "code": "GW",
     "currency": "XOF",
     "timezones": "UTC+00:00",
-    "area": "36125"
+    "area": 36125,
+    "worldPercentage": 0.0003,
+    "density": 76.488
   },
   {
     "country": "Guyana",
     "phoneCode": "+592",
     "capital": "Georgetown",
     "abbr": "GUY",
-    "population": "777859",
+    "population": 813834,
     "code": "GY",
     "currency": "GYD",
     "timezones": "UTC-04:00",
-    "area": "214969"
+    "area": 214969,
+    "worldPercentage": 0.0001,
+    "density": 4.1343
   },
   {
     "country": "Haiti",
     "phoneCode": "+509",
     "capital": "Port-au-Prince",
     "abbr": "HTI",
-    "population": "10981229",
+    "population": 11724763,
     "code": "HT",
     "currency": "HTG",
     "timezones": "UTC-04:00",
-    "area": "27750"
+    "area": 27750,
+    "worldPercentage": 0.0015,
+    "density": 425.4268
   },
   {
     "country": "Honduras",
     "phoneCode": "+504",
     "capital": "Tegucigalpa",
     "abbr": "HND",
-    "population": "9265067",
+    "population": 10593798,
     "code": "HN",
     "currency": "HNL",
     "timezones": "UTC-06:00",
-    "area": "112088"
+    "area": 112492,
+    "worldPercentage": 0.0013,
+    "density": 94.6805
   },
   {
     "country": "Hong Kong",
     "phoneCode": "+852",
     "capital": "Hong Kong",
     "abbr": "HKG",
-    "population": "7482000",
+    "population": 7491609,
     "code": "HK",
     "currency": "HKD",
     "timezones": "UTC+08:00",
-    "area": "1075"
+    "area": 1104,
+    "worldPercentage": 0.0009,
+    "density": 7134.8657
   },
   {
     "country": "Hungary",
     "phoneCode": "+36",
     "capital": "Budapest",
     "abbr": "HUN",
-    "population": "9721559",
+    "population": 10156239,
     "code": "HU",
     "currency": "HUF",
     "timezones": "UTC+02:00",
-    "area": "93030"
+    "area": 93028,
+    "worldPercentage": 0.0013,
+    "density": 111.2891
   },
   {
     "country": "Iceland",
     "phoneCode": "+354",
     "capital": "Reykjavík",
     "abbr": "ISL",
-    "population": "335025",
+    "population": 375318,
     "code": "IS",
     "currency": "ISK",
     "timezones": "UTC+00:00",
-    "area": "103000"
+    "area": 103000,
+    "worldPercentage": 0,
+    "density": 3.7223
   },
   {
     "country": "India",
     "phoneCode": "+91",
     "capital": "New Delhi",
     "abbr": "IND",
-    "population": "1417000000",
+    "population": 1428627663,
     "code": "IN",
     "currency": "INR",
     "timezones": "UTC+05:30",
-    "area": "3287263"
+    "area": 3287590,
+    "worldPercentage": 0.1785,
+    "density": 480.5033
   },
   {
     "country": "Indonesia",
     "phoneCode": "+62",
     "capital": "Jakarta",
     "abbr": "IDN",
-    "population": "273523615",
+    "population": 277534122,
     "code": "ID",
     "currency": "IDR",
     "timezones": "UTC+07:00",
-    "area": "1904569"
+    "area": 1904569,
+    "worldPercentage": 0.0347,
+    "density": 147.8196
   },
   {
     "country": "Iran",
     "phoneCode": "+98",
     "capital": "Tehran",
     "abbr": "IRN",
-    "population": "83992949",
+    "population": 89172767,
     "code": "IR",
     "currency": "IRR",
     "timezones": "UTC+04:30",
-    "area": "1648195"
+    "area": 1648195,
+    "worldPercentage": 0.0111,
+    "density": 54.9601
   },
   {
     "country": "Iraq",
     "phoneCode": "+964",
     "capital": "Baghdad",
     "abbr": "IRQ",
-    "population": "38274618",
+    "population": 45504560,
     "code": "IQ",
     "currency": "IQD",
     "timezones": "UTC+03:00",
-    "area": "438317"
+    "area": 438317,
+    "worldPercentage": 0.0057,
+    "density": 104.8183
   },
   {
     "country": "Ireland",
     "phoneCode": "+353",
     "capital": "Dublin",
     "abbr": "IRL",
-    "population": "4761657",
+    "population": 5056935,
     "code": "IE",
     "currency": "EUR",
     "timezones": "UTC+01:00",
-    "area": "70273"
+    "area": 70273,
+    "worldPercentage": 0.0006,
+    "density": 73.4059
   },
   {
     "country": "Israel",
     "phoneCode": "+972",
     "capital": "Jerusalem",
     "abbr": "ISR",
-    "population": "8321570",
+    "population": 9174520,
     "code": "IL",
     "currency": "ILS",
     "timezones": "UTC+03:00",
-    "area": "21056"
+    "area": 20770,
+    "worldPercentage": 0.0011,
+    "density": 423.9612
   },
   {
     "country": "Italy",
     "phoneCode": "+39",
     "capital": "Rome",
     "abbr": "ITA",
-    "population": "60461826",
+    "population": 58870762,
     "code": "IT",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "301316"
+    "area": 301336,
+    "worldPercentage": 0.0074,
+    "density": 199.078
   },
   {
     "country": "Jamaica",
     "phoneCode": "+1-876",
     "capital": "Kingston",
     "abbr": "JAM",
-    "population": "2890299",
+    "population": 2825544,
     "code": "JM",
     "currency": "JMD",
     "timezones": "UTC-05:00",
-    "area": "10990"
+    "area": 10991,
+    "worldPercentage": 0.0004,
+    "density": 260.8997
   },
   {
     "country": "Japan",
     "phoneCode": "+81",
     "capital": "Tokyo",
     "abbr": "JPN",
-    "population": "126476461",
+    "population": 123294513,
     "code": "JP",
     "currency": "JPY",
     "timezones": "UTC+09:00",
-    "area": "377829"
+    "area": 377930,
+    "worldPercentage": 0.0154,
+    "density": 338.2566
   },
   {
     "country": "Jordan",
     "phoneCode": "+962",
     "capital": "Amman",
     "abbr": "JOR",
-    "population": "9702353",
+    "population": 11337052,
     "code": "JO",
     "currency": "JOD",
     "timezones": "UTC+03:00",
-    "area": "88946"
+    "area": 89342,
+    "worldPercentage": 0.0014,
+    "density": 127.6781
   },
   {
     "country": "Kazakhstan",
     "phoneCode": "+77",
     "capital": "Astana (Nur-Sultan)",
     "abbr": "KAZ",
-    "population": "19062700",
+    "population": 19606633,
     "code": "KZ",
     "currency": "KZT",
     "timezones": "UTC+06:00",
-    "area": "2724900"
+    "area": 2724900,
+    "worldPercentage": 0.0024,
+    "density": 7.2625
   },
   {
     "country": "Kenya",
     "phoneCode": "+254",
     "capital": "Nairobi",
     "abbr": "KEN",
-    "population": "49699862",
+    "population": 55100586,
     "code": "KE",
     "currency": "KES",
     "timezones": "UTC+03:00",
-    "area": "580367"
+    "area": 580367,
+    "worldPercentage": 0.0069,
+    "density": 96.8138
   },
   {
     "country": "Kiribati",
     "phoneCode": "+686",
     "capital": "South Tarawa",
     "abbr": "KIR",
-    "population": "116398",
+    "population": 133515,
     "code": "KI",
     "currency": "AUD",
     "timezones": "UTC+12:00",
-    "area": "726"
+    "area": 811,
+    "worldPercentage": 0,
+    "density": 164.8333
   },
   {
-    "country": "Kosovo",
+    "country": "Kiribati",
     "phoneCode": "+383",
     "capital": "Pristina",
     "abbr": "KIR",
-    "population": "1873160",
+    "population": 133515,
     "code": "XK",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "10887"
+    "area": 811,
+    "worldPercentage": 0,
+    "density": 164.8333
   },
   {
     "country": "Kuwait",
     "phoneCode": "+965",
     "capital": "Kuwait City",
     "abbr": "KWT",
-    "population": "4136528",
+    "population": 4310108,
     "code": "KW",
     "currency": "KWD",
     "timezones": "UTC+03:00",
-    "area": "17818"
+    "area": 17818,
+    "worldPercentage": 0.0005,
+    "density": 241.8691
   },
   {
     "country": "Kyrgyzstan",
     "phoneCode": "+996",
     "capital": "Bishkek",
     "abbr": "KGZ",
-    "population": "6045117",
+    "population": 6735347,
     "code": "KG",
     "currency": "KGS",
     "timezones": "UTC+06:00",
-    "area": "199900"
+    "area": 199951,
+    "worldPercentage": 0.0008,
+    "density": 35.1165
   },
   {
     "country": "Laos",
     "phoneCode": "+856",
     "capital": "Vientiane",
     "abbr": "LAO",
-    "population": "6858160",
+    "population": 7633779,
     "code": "LA",
     "currency": "LAK",
     "timezones": "UTC+07:00",
-    "area": "236800"
+    "area": 236800,
+    "worldPercentage": 0.001,
+    "density": 33.0753
   },
   {
     "country": "Latvia",
     "phoneCode": "+371",
     "capital": "Riga",
     "abbr": "LVA",
-    "population": "1949670",
+    "population": 1830211,
     "code": "LV",
     "currency": "EUR",
     "timezones": "UTC+03:00",
-    "area": "64589"
+    "area": 64559,
+    "worldPercentage": 0.0002,
+    "density": 29.4104
   },
   {
     "country": "Lebanon",
     "phoneCode": "+961",
     "capital": "Beirut",
     "abbr": "LBN",
-    "population": "6082357",
+    "population": 5353930,
     "code": "LB",
     "currency": "LBP",
     "timezones": "UTC+03:00",
-    "area": "10400"
+    "area": 10452,
+    "worldPercentage": 0.0007,
+    "density": 523.3558
   },
   {
     "country": "Lesotho",
     "phoneCode": "+266",
     "capital": "Maseru",
     "abbr": "LSO",
-    "population": "2233339",
+    "population": 2330318,
     "code": "LS",
     "currency": "LSL",
     "timezones": "UTC+02:00",
-    "area": "30355"
+    "area": 30355,
+    "worldPercentage": 0.0003,
+    "density": 76.7562
   },
   {
     "country": "Liberia",
     "phoneCode": "+231",
     "capital": "Monrovia",
     "abbr": "LBR",
-    "population": "4731906",
+    "population": 5418377,
     "code": "LR",
     "currency": "LRD",
     "timezones": "UTC+00:00",
-    "area": "111369"
+    "area": 111369,
+    "worldPercentage": 0.0007,
+    "density": 56.2539
   },
   {
     "country": "Libya",
     "phoneCode": "+218",
     "capital": "Tripoli",
     "abbr": "LBY",
-    "population": "6871292",
+    "population": 6888388,
     "code": "LY",
     "currency": "LYD",
     "timezones": "UTC+02:00",
-    "area": "1759541"
+    "area": 1759540,
+    "worldPercentage": 0.0009,
+    "density": 3.9149
   },
   {
     "country": "Liechtenstein",
     "phoneCode": "+423",
     "capital": "Vaduz",
     "abbr": "LIE",
-    "population": "37922",
+    "population": 39584,
     "code": "LI",
     "currency": "CHF",
     "timezones": "UTC+02:00",
-    "area": "160"
+    "area": 160,
+    "worldPercentage": 0,
+    "density": 247.4
   },
   {
     "country": "Lithuania",
     "phoneCode": "+370",
     "capital": "Vilnius",
     "abbr": "LTU",
-    "population": "2890297",
+    "population": 2718352,
     "code": "LT",
     "currency": "LTL",
     "timezones": "UTC+03:00",
-    "area": "65301"
+    "area": 65300,
+    "worldPercentage": 0.0003,
+    "density": 43.4103
   },
   {
     "country": "Luxembourg",
     "phoneCode": "+352",
     "capital": "Luxembourg",
     "abbr": "LUX",
-    "population": "583455",
+    "population": 654768,
     "code": "LU",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "2586"
+    "area": 2586,
+    "worldPercentage": 0.0001,
+    "density": 254.3282
   },
   {
     "country": "Macao",
@@ -1324,187 +1528,221 @@
     "phoneCode": "+389",
     "capital": "Skopje",
     "abbr": "MKD",
-    "population": "2083374",
+    "population": 2085679,
     "code": "MK",
     "currency": "MKD",
     "timezones": "UTC+02:00",
-    "area": "25713"
+    "area": 25713,
+    "worldPercentage": 0.0003,
+    "density": 82.6994
   },
   {
     "country": "Madagascar",
     "phoneCode": "+261",
     "capital": "Antananarivo",
     "abbr": "MDG",
-    "population": "25570895",
+    "population": 30325732,
     "code": "MG",
     "currency": "MGA",
     "timezones": "UTC+03:00",
-    "area": "587041"
+    "area": 587041,
+    "worldPercentage": 0.0038,
+    "density": 52.124
   },
   {
     "country": "Malawi",
     "phoneCode": "+265",
     "capital": "Lilongwe",
     "abbr": "MWI",
-    "population": "19129952",
+    "population": 20931751,
     "code": "MW",
     "currency": "MWK",
     "timezones": "UTC+02:00",
-    "area": "118484"
+    "area": 118484,
+    "worldPercentage": 0.0026,
+    "density": 222.0169
   },
   {
     "country": "Malaysia",
     "phoneCode": "+60",
     "capital": "Kuala Lumpur",
     "abbr": "MYS",
-    "population": "32365999",
+    "population": 34308525,
     "code": "MY",
     "currency": "MYR",
     "timezones": "UTC+08:00",
-    "area": "329758"
+    "area": 330803,
+    "worldPercentage": 0.0043,
+    "density": 104.4241
   },
   {
     "country": "Maldives",
     "phoneCode": "+960",
     "capital": "Malé",
     "abbr": "MDV",
-    "population": "436330",
+    "population": 521020,
     "code": "MV",
     "currency": "MVR",
     "timezones": "UTC+05:00",
-    "area": "298"
+    "area": 300,
+    "worldPercentage": 0.0001,
+    "density": 1736.7367
   },
   {
     "country": "Mali",
     "phoneCode": "+223",
     "capital": "Bamako",
     "abbr": "MLI",
-    "population": "18541980",
+    "population": 23293698,
     "code": "ML",
     "currency": "XOF",
     "timezones": "UTC+00:00",
-    "area": "1240192"
+    "area": 1240192,
+    "worldPercentage": 0.0029,
+    "density": 19.0902
   },
   {
     "country": "Malta",
     "phoneCode": "+356",
     "capital": "Valletta",
     "abbr": "MLT",
-    "population": "430835",
+    "population": 535064,
     "code": "MT",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "316"
+    "area": 316,
+    "worldPercentage": 0.0001,
+    "density": 1672.075
   },
   {
     "country": "Marshall Islands",
     "phoneCode": "+692",
     "capital": "Majuro",
     "abbr": "MHL",
-    "population": "53127",
+    "population": 41996,
     "code": "MH",
     "currency": "USD",
     "timezones": "UTC+12:00",
-    "area": "181"
+    "area": 181,
+    "worldPercentage": 0,
+    "density": 233.3111
   },
   {
     "country": "Martinique",
     "phoneCode": "+596",
     "capital": "Fort-de-France",
     "abbr": "MTQ",
-    "population": "384896",
+    "population": 366981,
     "code": "MQ",
     "currency": "EUR",
     "timezones": "UTC-04:00",
-    "area": "1102"
+    "area": 1128,
+    "worldPercentage": 0,
+    "density": 325.3378
   },
   {
     "country": "Mauritania",
     "phoneCode": "+222",
     "capital": "Nouakchott",
     "abbr": "MRT",
-    "population": "4420184",
+    "population": 4862989,
     "code": "MR",
     "currency": "MRO",
     "timezones": "UTC+00:00",
-    "area": "1025520"
+    "area": 1030700,
+    "worldPercentage": 0.0006,
+    "density": 4.7181
   },
   {
     "country": "Mauritius",
     "phoneCode": "+230",
     "capital": "Port Louis",
     "abbr": "MUS",
-    "population": "1265138",
+    "population": 1300557,
     "code": "MU",
     "currency": "MUR",
     "timezones": "UTC+04:00",
-    "area": "2040"
+    "area": 2040,
+    "worldPercentage": 0.0002,
+    "density": 640.6685
   },
   {
     "country": "Mayotte",
     "phoneCode": "+262",
     "capital": "Mamoudzou",
     "abbr": "MYT",
-    "population": "253045",
+    "population": 335995,
     "code": "YT",
     "currency": "EUR",
     "timezones": "UTC+03:00",
-    "area": "373"
+    "area": 374,
+    "worldPercentage": 0,
+    "density": 898.3824
   },
   {
     "country": "Mexico",
     "phoneCode": "+52",
     "capital": "Mexico City",
     "abbr": "MEX",
-    "population": "128932753",
+    "population": 128455567,
     "code": "MX",
     "currency": "MXN",
     "timezones": "UTC-05:00",
-    "area": "1958201"
+    "area": 1964375,
+    "worldPercentage": 0.016,
+    "density": 66.0797
   },
   {
     "country": "Moldova",
     "phoneCode": "+373",
     "capital": "Chisinau",
     "abbr": "MDA",
-    "population": "4051212",
+    "population": 3435931,
     "code": "MD",
     "currency": "MDL",
     "timezones": "UTC+03:00",
-    "area": "33851"
+    "area": 33846,
+    "worldPercentage": 0.0004,
+    "density": 104.4845
   },
   {
     "country": "Monaco",
     "phoneCode": "+377",
     "capital": "Monaco",
     "abbr": "MCO",
-    "population": "38695",
+    "population": 36297,
     "code": "MC",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "1.5"
+    "area": 2.02,
+    "worldPercentage": 0,
+    "density": 18148.5
   },
   {
     "country": "Mongolia",
     "phoneCode": "+976",
     "capital": "Ulan Bator",
     "abbr": "MNG",
-    "population": "3075647",
+    "population": 3447157,
     "code": "MN",
     "currency": "MNT",
     "timezones": "UTC+08:00",
-    "area": "1566500"
+    "area": 1564110,
+    "worldPercentage": 0.0004,
+    "density": 2.2133
   },
   {
     "country": "Montenegro",
     "phoneCode": "+382",
     "capital": "Podgorica",
     "abbr": "MNE",
-    "population": "628066",
+    "population": 626485,
     "code": "ME",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "13812"
+    "area": 13812,
+    "worldPercentage": 0.0001,
+    "density": 46.5788
   },
   {
     "country": "Montserrat",
@@ -1522,77 +1760,91 @@
     "phoneCode": "+212",
     "capital": "Rabat",
     "abbr": "MAR",
-    "population": "36910560",
+    "population": 37840044,
     "code": "MA",
     "currency": "MAD",
     "timezones": "UTC+00:00",
-    "area": "446550"
+    "area": 446550,
+    "worldPercentage": 0.0047,
+    "density": 84.7861
   },
   {
     "country": "Mozambique",
     "phoneCode": "+258",
     "capital": "Maputo",
     "abbr": "MOZ",
-    "population": "31255435",
+    "population": 33897354,
     "code": "MZ",
     "currency": "MZN",
     "timezones": "UTC+02:00",
-    "area": "801590"
+    "area": 801590,
+    "worldPercentage": 0.0042,
+    "density": 43.1056
   },
   {
     "country": "Myanmar",
     "phoneCode": "+95",
     "capital": "Naypyidaw",
     "abbr": "MMR",
-    "population": "53370609",
+    "population": 54577997,
     "code": "MM",
     "currency": "MMK",
     "timezones": "UTC+06:30",
-    "area": "676578"
+    "area": 676578,
+    "worldPercentage": 0.0068,
+    "density": 83.6227
   },
   {
     "country": "Namibia",
     "phoneCode": "+264",
     "capital": "Windhoek",
     "abbr": "NAM",
-    "population": "2533794",
+    "population": 2604172,
     "code": "NA",
     "currency": "NAD",
     "timezones": "UTC+02:00",
-    "area": "824292"
+    "area": 825615,
+    "worldPercentage": 0.0003,
+    "density": 3.1631
   },
   {
     "country": "Nauru",
     "phoneCode": "+674",
     "capital": "Yaren",
     "abbr": "NRU",
-    "population": "11359",
+    "population": 12780,
     "code": "NR",
     "currency": "AUD",
     "timezones": "UTC+12:00",
-    "area": "21"
+    "area": 21,
+    "worldPercentage": 0,
+    "density": 639
   },
   {
     "country": "Nepal",
     "phoneCode": "+977",
     "capital": "Kathmandu",
     "abbr": "NPL",
-    "population": "29304998",
+    "population": 30896590,
     "code": "NP",
     "currency": "NPR",
     "timezones": "UTC+05:45",
-    "area": "147181"
+    "area": 147181,
+    "worldPercentage": 0.0039,
+    "density": 215.5325
   },
   {
     "country": "Netherlands",
     "phoneCode": "+31",
     "capital": "Amsterdam",
     "abbr": "NLD",
-    "population": "17035938",
+    "population": 17618299,
     "code": "NL",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "41526"
+    "area": 41850,
+    "worldPercentage": 0.0022,
+    "density": 523.264
   },
   {
     "country": "Netherlands Antilles",
@@ -1621,44 +1873,52 @@
     "phoneCode": "+64",
     "capital": "Wellington",
     "abbr": "NZL",
-    "population": "4822233",
+    "population": 5228100,
     "code": "NZ",
     "currency": "NZD",
     "timezones": "UTC+12:00",
-    "area": "270534"
+    "area": 270467,
+    "worldPercentage": 0.0007,
+    "density": 19.8553
   },
   {
     "country": "Nicaragua",
     "phoneCode": "+505",
     "capital": "Managua",
     "abbr": "NIC",
-    "population": "6217581",
+    "population": 7046310,
     "code": "NI",
     "currency": "NIO",
     "timezones": "UTC-06:00",
-    "area": "130000"
+    "area": 130373,
+    "worldPercentage": 0.0009,
+    "density": 58.5533
   },
   {
     "country": "Niger",
     "phoneCode": "+227",
     "capital": "Niamey",
     "abbr": "NER",
-    "population": "21477348",
+    "population": 27202843,
     "code": "NE",
     "currency": "XOF",
     "timezones": "UTC+01:00",
-    "area": "1267000"
+    "area": 1267000,
+    "worldPercentage": 0.0034,
+    "density": 21.4754
   },
   {
     "country": "Nigeria",
     "phoneCode": "+234",
     "capital": "Abuja",
     "abbr": "NGA",
-    "population": "206139589",
+    "population": 223804632,
     "code": "NG",
     "currency": "NGN",
     "timezones": "UTC+01:00",
-    "area": "923768"
+    "area": 923768,
+    "worldPercentage": 0.028,
+    "density": 245.7312
   },
   {
     "country": "Niue",
@@ -1687,11 +1947,13 @@
     "phoneCode": "+850",
     "capital": "Pyongyang",
     "abbr": "PRK",
-    "population": "25713726",
+    "population": 26160821,
     "code": "KP",
     "currency": "KPW",
     "timezones": "UTC+09:00",
-    "area": "120538"
+    "area": 120538,
+    "worldPercentage": 0.0033,
+    "density": 217.2645
   },
   {
     "country": "Northern Mariana Islands",
@@ -1720,154 +1982,182 @@
     "phoneCode": "+47",
     "capital": "Oslo",
     "abbr": "NOR",
-    "population": "5391369",
+    "population": 5474360,
     "code": "NO",
     "currency": "NOK",
     "timezones": "UTC+01:00",
-    "area": "385207"
+    "area": 323802,
+    "worldPercentage": 0.0007,
+    "density": 15.0277
   },
   {
     "country": "Oman",
     "phoneCode": "+968",
     "capital": "Muscat",
     "abbr": "OMN",
-    "population": "4636262",
+    "population": 4644384,
     "code": "OM",
     "currency": "OMR",
     "timezones": "UTC+04:00",
-    "area": "309500"
+    "area": 309500,
+    "worldPercentage": 0.0006,
+    "density": 15.0061
   },
   {
     "country": "Pakistan",
     "phoneCode": "+92",
     "capital": "Islamabad",
     "abbr": "PAK",
-    "population": "220892340",
+    "population": 240485658,
     "code": "PK",
     "currency": "PKR",
     "timezones": "UTC+05:00",
-    "area": "796095"
+    "area": 881912,
+    "worldPercentage": 0.03,
+    "density": 311.9625
   },
   {
     "country": "Palau",
     "phoneCode": "+680",
     "capital": "Ngerulmud",
     "abbr": "PLW",
-    "population": "21729",
+    "population": 18058,
     "code": "PW",
     "currency": "USD",
     "timezones": "UTC+09:00",
-    "area": "459"
+    "area": 459,
+    "worldPercentage": 0,
+    "density": 39.2565
   },
   {
     "country": "Palestine",
     "phoneCode": "+970",
     "capital": "Jerusalem(East)",
     "abbr": "PSE",
-    "population": "4920724",
+    "population": 5371230,
     "code": "PS",
     "currency": "ILS",
     "timezones": "UTC+03:00",
-    "area": "6257"
+    "area": 6220,
+    "worldPercentage": 0.0007,
+    "density": 892.2309
   },
   {
     "country": "Panama",
     "phoneCode": "+507",
     "capital": "Panama City",
     "abbr": "PAN",
-    "population": "4098587",
+    "population": 4468087,
     "code": "PA",
     "currency": "PAB",
     "timezones": "UTC-05:00",
-    "area": "75517"
+    "area": 75417,
+    "worldPercentage": 0.0006,
+    "density": 60.233
   },
   {
     "country": "Papua New Guinea",
     "phoneCode": "+675",
     "capital": "Port Moresby",
     "abbr": "PNG",
-    "population": "8251162",
+    "population": 10329931,
     "code": "PG",
     "currency": "PGK",
     "timezones": "UTC+10:00",
-    "area": "462840"
+    "area": 462840,
+    "worldPercentage": 0.0013,
+    "density": 22.8104
   },
   {
     "country": "Paraguay",
     "phoneCode": "+595",
     "capital": "Asunción",
     "abbr": "PRY",
-    "population": "6811297",
+    "population": 6861524,
     "code": "PY",
     "currency": "PYG",
     "timezones": "UTC-04:00",
-    "area": "406752"
+    "area": 406752,
+    "worldPercentage": 0.0009,
+    "density": 17.2704
   },
   {
     "country": "Peru",
     "phoneCode": "+51",
     "capital": "Lima",
     "abbr": "PER",
-    "population": "32165485",
+    "population": 34352719,
     "code": "PE",
     "currency": "PEN",
     "timezones": "UTC-05:00",
-    "area": "1285216"
+    "area": 1285216,
+    "worldPercentage": 0.0043,
+    "density": 26.8381
   },
   {
     "country": "Philippines",
     "phoneCode": "+63",
     "capital": "Manila",
     "abbr": "PHL",
-    "population": "109581078",
+    "population": 117337368,
     "code": "PH",
     "currency": "PHP",
     "timezones": "UTC+08:00",
-    "area": "300000"
+    "area": 342353,
+    "worldPercentage": 0.0147,
+    "density": 393.5251
   },
   {
     "country": "Poland",
     "phoneCode": "+48",
     "capital": "Warsaw",
     "abbr": "POL",
-    "population": "38170712",
+    "population": 41026067,
     "code": "PL",
     "currency": "PLN",
     "timezones": "UTC+01:00",
-    "area": "323250"
+    "area": 312679,
+    "worldPercentage": 0.0051,
+    "density": 134.0152
   },
   {
     "country": "Portugal",
     "phoneCode": "+351",
     "capital": "Lisbon",
     "abbr": "PRT",
-    "population": "10196709",
+    "population": 10247605,
     "code": "PT",
     "currency": "EUR",
     "timezones": "UTC+01:00",
-    "area": "91982"
+    "area": 92090,
+    "worldPercentage": 0.0013,
+    "density": 111.8666
   },
   {
     "country": "Puerto Rico",
     "phoneCode": "+1-787",
     "capital": "San Juan",
     "abbr": "PRI",
-    "population": "3663131",
+    "population": 3260314,
     "code": "PR",
     "currency": "USD",
     "timezones": "UTC-04:00",
-    "area": "8875"
+    "area": 8870,
+    "worldPercentage": 0.0004,
+    "density": 367.5664
   },
   {
     "country": "Qatar",
     "phoneCode": "+974",
     "capital": "Doha",
     "abbr": "QAT",
-    "population": "2639211",
+    "population": 2716391,
     "code": "QA",
     "currency": "QAR",
     "timezones": "UTC+03:00",
-    "area": "11000"
+    "area": 11586,
+    "worldPercentage": 0.0003,
+    "density": 236.4135
   },
   {
     "country": "Republic Of The Congo",
@@ -1881,48 +2171,56 @@
     "area": "342000"
   },
   {
-    "country": "Réunion",
+    "country": "Reunion",
     "phoneCode": "+262",
     "capital": "Saint-Denis",
     "abbr": "REU",
-    "population": "895312",
+    "population": 981796,
     "code": "RE",
     "currency": "EUR",
     "timezones": "UTC+04:00",
-    "area": "2510"
+    "area": 2511,
+    "worldPercentage": 0.0001,
+    "density": 390.8424
   },
   {
     "country": "Romania",
     "phoneCode": "+40",
     "capital": "Bucharest",
     "abbr": "ROU",
-    "population": "19679306",
+    "population": 19892812,
     "code": "RO",
     "currency": "RON",
     "timezones": "UTC+03:00",
-    "area": "238391"
+    "area": 238391,
+    "worldPercentage": 0.0025,
+    "density": 86.4604
   },
   {
     "country": "Russia",
     "phoneCode": "+7",
     "capital": "Moscow",
     "abbr": "RUS",
-    "population": "145934462",
+    "population": 144444359,
     "code": "RU",
     "currency": "RUB",
     "timezones": "UTC+03:00",
-    "area": "17125191"
+    "area": 17098242,
+    "worldPercentage": 0.018,
+    "density": 8.82
   },
   {
     "country": "Rwanda",
     "phoneCode": "+250",
     "capital": "Kigali",
     "abbr": "RWA",
-    "population": "12208407",
+    "population": 14094683,
     "code": "RW",
     "currency": "RWF",
     "timezones": "UTC+02:00",
-    "area": "26338"
+    "area": 26338,
+    "worldPercentage": 0.0018,
+    "density": 571.3289
   },
   {
     "country": "Saint Barthélemy",
@@ -1951,11 +2249,13 @@
     "phoneCode": "+1-869",
     "capital": "Basseterre",
     "abbr": "KNA",
-    "population": "55345",
+    "population": 47755,
     "code": "KN",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "261"
+    "area": 261,
+    "worldPercentage": 0,
+    "density": 183.6731
   },
   {
     "country": "Saint Martin",
@@ -1984,110 +2284,130 @@
     "phoneCode": "+1-784",
     "capital": "Kingstown",
     "abbr": "VCT",
-    "population": "109897",
+    "population": 103698,
     "code": "VC",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "388"
+    "area": 389,
+    "worldPercentage": 0,
+    "density": 265.8923
   },
   {
     "country": "Samoa",
     "phoneCode": "+685",
     "capital": "Apia",
     "abbr": "WSM",
-    "population": "196440",
+    "population": 225681,
     "code": "WS",
     "currency": "WST",
     "timezones": "UTC+13:00",
-    "area": "2831"
+    "area": 2842,
+    "worldPercentage": 0,
+    "density": 81.1802
   },
   {
     "country": "San Marino",
     "phoneCode": "+378",
     "capital": "City of San Marino",
     "abbr": "SMR",
-    "population": "33400",
+    "population": 33642,
     "code": "SM",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "61"
+    "area": 61,
+    "worldPercentage": 0,
+    "density": 560.7
   },
   {
-    "country": "São Tomé and Príncipe",
+    "country": "Sao Tome and Principe",
     "phoneCode": "+239",
     "capital": "São Tomé",
     "abbr": "STP",
-    "population": "219159",
+    "population": 231856,
     "code": "ST",
     "currency": "STD",
     "timezones": "UTC+00:00",
-    "area": "1001"
+    "area": 964,
+    "worldPercentage": 0,
+    "density": 241.5167
   },
   {
     "country": "Saudi Arabia",
     "phoneCode": "+966",
     "capital": "Riyadh",
     "abbr": "SAU",
-    "population": "32938213",
+    "population": 36947025,
     "code": "SA",
     "currency": "SAR",
     "timezones": "UTC+03:00",
-    "area": "2149690"
+    "area": 2149690,
+    "worldPercentage": 0.0046,
+    "density": 17.1871
   },
   {
     "country": "Senegal",
     "phoneCode": "+221",
     "capital": "Dakar",
     "abbr": "SEN",
-    "population": "15850567",
+    "population": 17763163,
     "code": "SN",
     "currency": "XOF",
     "timezones": "UTC+00:00",
-    "area": "196722"
+    "area": 196722,
+    "worldPercentage": 0.0022,
+    "density": 92.2618
   },
   {
     "country": "Serbia",
     "phoneCode": "+381",
     "capital": "Belgrade",
     "abbr": "SRB",
-    "population": "8737371",
+    "population": 7149077,
     "code": "RS",
     "currency": "RSD",
     "timezones": "UTC+02:00",
-    "area": "88361"
+    "area": 88361,
+    "worldPercentage": 0.0009,
+    "density": 81.7411
   },
   {
     "country": "Seychelles",
     "phoneCode": "+248",
     "capital": "Victoria",
     "abbr": "SYC",
-    "population": "98462",
+    "population": 107660,
     "code": "SC",
     "currency": "SCR",
     "timezones": "UTC+04:00",
-    "area": "455"
+    "area": 452,
+    "worldPercentage": 0,
+    "density": 234.0435
   },
   {
     "country": "Sierra Leone",
     "phoneCode": "+232",
     "capital": "Freetown",
     "abbr": "SLE",
-    "population": "7557212",
+    "population": 8791092,
     "code": "SL",
     "currency": "SLL",
     "timezones": "UTC+00:00",
-    "area": "71740"
+    "area": 71740,
+    "worldPercentage": 0.0011,
+    "density": 121.794
   },
   {
     "country": "Singapore",
     "phoneCode": "+65",
     "capital": "Singapore",
     "abbr": "SGP",
-    "population": "5708844",
+    "population": 6014723,
     "code": "SG",
     "currency": "SGD",
     "timezones": "UTC+08:00",
-    "area": "618"
+    "area": 710,
+    "worldPercentage": 0.0008,
+    "density": 8377.0515
   },
   {
     "country": "Sint Maarten (Dutch part)",
@@ -2105,242 +2425,286 @@
     "phoneCode": "+421",
     "capital": "Bratislava",
     "abbr": "SVK",
-    "population": "5459642",
+    "population": 5795199,
     "code": "SK",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "49012"
+    "area": 49037,
+    "worldPercentage": 0.0007,
+    "density": 118.1849
   },
   {
     "country": "Slovenia",
     "phoneCode": "+386",
     "capital": "Ljubljana",
     "abbr": "SVN",
-    "population": "2079976",
+    "population": 2119675,
     "code": "SI",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "20256"
+    "area": 20273,
+    "worldPercentage": 0.0003,
+    "density": 105.2658
   },
   {
     "country": "Solomon Islands",
     "phoneCode": "+677",
     "capital": "Honiara",
     "abbr": "SLB",
-    "population": "611343",
+    "population": 740424,
     "code": "SB",
     "currency": "SBD",
     "timezones": "UTC+11:00",
-    "area": "28896"
+    "area": 28896,
+    "worldPercentage": 0.0001,
+    "density": 26.4532
   },
   {
     "country": "Somalia",
     "phoneCode": "+252",
     "capital": "Mogadishu",
     "abbr": "SOM",
-    "population": "14742523",
+    "population": 18143378,
     "code": "SO",
     "currency": "SOS",
     "timezones": "UTC+03:00",
-    "area": "637657"
+    "area": 637657,
+    "worldPercentage": 0.0023,
+    "density": 28.9211
   },
   {
     "country": "South Africa",
     "phoneCode": "+27",
     "capital": "Pretoria",
     "abbr": "ZAF",
-    "population": "56717156",
+    "population": 60414495,
     "code": "ZA",
     "currency": "ZAR",
     "timezones": "UTC+02:00",
-    "area": "1221037"
+    "area": 1221037,
+    "worldPercentage": 0.0075,
+    "density": 49.8022
   },
   {
     "country": "South Korea",
     "phoneCode": "+82",
     "capital": "Seoul",
     "abbr": "KOR",
-    "population": "51269830",
+    "population": 51784059,
     "code": "KR",
     "currency": "KRW",
     "timezones": "UTC+09:00",
-    "area": "100210"
+    "area": 100210,
+    "worldPercentage": 0.0065,
+    "density": 530.5744
   },
   {
     "country": "South Sudan",
     "phoneCode": "+211",
     "capital": "Juba",
     "abbr": "SSD",
-    "population": "12575714",
+    "population": 11088796,
     "code": "SS",
     "currency": "SSP",
     "timezones": "UTC+02:00",
-    "area": "619745"
+    "area": 619745,
+    "worldPercentage": 0.0014,
+    "density": 17.5475
   },
   {
     "country": "Spain",
     "phoneCode": "+34",
     "capital": "Madrid",
     "abbr": "ESP",
-    "population": "46754778",
+    "population": 47519628,
     "code": "ES",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "505992"
+    "area": 505992,
+    "worldPercentage": 0.0059,
+    "density": 95.1236
   },
   {
     "country": "Sri Lanka",
     "phoneCode": "+94",
     "capital": "Colombo",
     "abbr": "LKA",
-    "population": "21413249",
+    "population": 21893579,
     "code": "LK",
     "currency": "LKR",
     "timezones": "UTC+05:30",
-    "area": "65610"
+    "area": 65610,
+    "worldPercentage": 0.0027,
+    "density": 353.9214
   },
   {
     "country": "Saint Lucia",
     "phoneCode": "+1-758",
     "capital": "Castries",
     "abbr": "LCA",
-    "population": "178844",
+    "population": 180251,
     "code": "LC",
     "currency": "XCD",
     "timezones": "UTC-04:00",
-    "area": "622"
+    "area": 616,
+    "worldPercentage": 0,
+    "density": 295.4934
   },
   {
     "country": "Sudan",
     "phoneCode": "+249",
     "capital": "Khartoum",
     "abbr": "SDN",
-    "population": "40533330",
+    "population": 48109006,
     "code": "SD",
     "currency": "SDG",
     "timezones": "UTC+03:00",
-    "area": "1886068"
+    "area": 1886068,
+    "worldPercentage": 0.006,
+    "density": 25.7543
   },
   {
-    "country": "Suricountry",
+    "country": "Suriname",
     "phoneCode": "+597",
     "capital": "Paramaribo",
     "abbr": "SUR",
-    "population": "575990",
+    "population": 623236,
     "code": "SR",
     "currency": "SRD",
     "timezones": "UTC-03:00",
-    "area": "163821"
+    "area": 163820,
+    "worldPercentage": 0.0001,
+    "density": 3.9951
   },
   {
-    "country": "Swaziland",
+    "country": "Eswatini",
     "phoneCode": "+268",
     "capital": "Lobamba",
     "abbr": "SWZ",
-    "population": "1008000",
+    "population": 1210822,
     "code": "SZ",
     "currency": "SZL",
     "timezones": "UTC+02:00",
-    "area": "17364"
+    "area": 17364,
+    "worldPercentage": 0.0002,
+    "density": 70.3966
   },
   {
     "country": "Sweden",
     "phoneCode": "+46",
     "capital": "Stockholm",
     "abbr": "SWE",
-    "population": "9910701",
+    "population": 10612086,
     "code": "SE",
     "currency": "SEK",
     "timezones": "UTC+02:00",
-    "area": "449964"
+    "area": 450295,
+    "worldPercentage": 0.0013,
+    "density": 26.0558
   },
   {
     "country": "Switzerland",
     "phoneCode": "+41",
     "capital": "Bern",
     "abbr": "CHE",
-    "population": "8476005",
+    "population": 8796669,
     "code": "CH",
     "currency": "CHF",
     "timezones": "UTC+02:00",
-    "area": "41284"
+    "area": 41284,
+    "worldPercentage": 0.0011,
+    "density": 222.6103
   },
   {
-    "country": "Syrian Arab Republic",
+    "country": "Syria",
     "phoneCode": "+963",
     "capital": "Damascus",
     "abbr": "SYR",
-    "population": "17500658",
+    "population": 23227014,
     "code": "SY",
     "currency": "SYP",
     "timezones": "UTC+03:00",
-    "area": "185180"
+    "area": 185180,
+    "worldPercentage": 0.0029,
+    "density": 126.4881
   },
   {
     "country": "Taiwan",
     "phoneCode": "+886",
     "capital": "Taipei",
     "abbr": "TWN",
-    "population": "23816775",
+    "population": 23923276,
     "code": "TW",
     "currency": "TWD",
     "timezones": "UTC+08:00",
-    "area": "36188"
+    "area": 36193,
+    "worldPercentage": 0.003,
+    "density": 660.9188
   },
   {
     "country": "Tajikistan",
     "phoneCode": "+992",
     "capital": "Dushanbe",
     "abbr": "TJK",
-    "population": "8921343",
+    "population": 10143543,
     "code": "TJ",
     "currency": "TJS",
     "timezones": "UTC+05:00",
-    "area": "143100"
+    "area": 143100,
+    "worldPercentage": 0.0013,
+    "density": 73.0855
   },
   {
     "country": "Tanzania",
     "phoneCode": "+255",
     "capital": "Dodoma",
     "abbr": "TZA",
-    "population": "59734218",
+    "population": 67438106,
     "code": "TZ",
     "currency": "TZS",
     "timezones": "UTC+03:00",
-    "area": "883749"
+    "area": 945087,
+    "worldPercentage": 0.0084,
+    "density": 76.1324
   },
   {
     "country": "Thailand",
     "phoneCode": "+66",
     "capital": "Bangkok",
     "abbr": "THA",
-    "population": "69799978",
+    "population": 71801279,
     "code": "TH",
     "currency": "THB",
     "timezones": "UTC+07:00",
-    "area": "513115"
+    "area": 513120,
+    "worldPercentage": 0.009,
+    "density": 140.5416
   },
   {
     "country": "Timor-Leste",
     "phoneCode": "+670",
     "capital": "Dili",
     "abbr": "TLS",
-    "population": "1318445",
+    "population": 1360596,
     "code": "TL",
     "currency": "USD",
     "timezones": "UTC+09:00",
-    "area": "15007"
+    "area": 14874,
+    "worldPercentage": 0.0002,
+    "density": 91.4994
   },
   {
     "country": "Togo",
     "phoneCode": "+228",
     "capital": "Lomé",
     "abbr": "TGO",
-    "population": "7797694",
+    "population": 9053799,
     "code": "TG",
     "currency": "XOF",
     "timezones": "UTC",
-    "area": "56785"
+    "area": 56785,
+    "worldPercentage": 0.0011,
+    "density": 166.4607
   },
   {
     "country": "Tokelau",
@@ -2358,55 +2722,65 @@
     "phoneCode": "+676",
     "capital": "Nuku'alofa",
     "abbr": "TON",
-    "population": "108020",
+    "population": 107773,
     "code": "TO",
     "currency": "TOP",
     "timezones": "UTC+13:00",
-    "area": "650"
+    "area": 747,
+    "worldPercentage": 0,
+    "density": 149.6847
   },
   {
     "country": "Trinidad and Tobago",
     "phoneCode": "+1-868",
     "capital": "Port of Spain",
     "abbr": "TTO",
-    "population": "1369125",
+    "population": 1534937,
     "code": "TT",
     "currency": "TTD",
     "timezones": "UTC-04:00",
-    "area": "5130"
+    "area": 5130,
+    "worldPercentage": 0.0002,
+    "density": 299.208
   },
   {
     "country": "Tunisia",
     "phoneCode": "+216",
     "capital": "Tunis",
     "abbr": "TUN",
-    "population": "11532127",
+    "population": 12458223,
     "code": "TN",
     "currency": "TND",
     "timezones": "UTC+01:00",
-    "area": "163610"
+    "area": 163610,
+    "worldPercentage": 0.0016,
+    "density": 80.1894
   },
   {
     "country": "Turkey",
     "phoneCode": "+90",
     "capital": "Ankara",
     "abbr": "TUR",
-    "population": "84339067",
+    "population": 85816199,
     "code": "TR",
     "currency": "TRY",
     "timezones": "UTC+03:00",
-    "area": "774815"
+    "area": 783562,
+    "worldPercentage": 0.0107,
+    "density": 109.5206
   },
   {
     "country": "Turkmenistan",
     "phoneCode": "+993",
     "capital": "Ashgabat",
     "abbr": "TKM",
-    "population": "5758075",
+    "population": 6516100,
     "code": "TM",
     "currency": "TMT",
     "timezones": "UTC+05:00",
-    "area": "488100"
+    "area": 488100,
+    "worldPercentage": 0.0008,
+    "density": 13.8661
   },
   {
     "country": "Turks and Caicos Islands",
@@ -2424,77 +2798,91 @@
     "phoneCode": "+688",
     "capital": "Funafuti",
     "abbr": "TUV",
-    "population": "11192",
+    "population": 11396,
     "code": "TV",
     "currency": "AUD",
     "timezones": "UTC+12:00",
-    "area": "26"
+    "area": 26,
+    "worldPercentage": 0,
+    "density": 379.8667
   },
   {
     "country": "Uganda",
     "phoneCode": "+256",
     "capital": "Kampala",
     "abbr": "UGA",
-    "population": "42862958",
+    "population": 48582334,
     "code": "UG",
     "currency": "UGX",
     "timezones": "UTC+03:00",
-    "area": "241038"
+    "area": 241550,
+    "worldPercentage": 0.0061,
+    "density": 242.2817
   },
   {
     "country": "Ukraine",
     "phoneCode": "+380",
     "capital": "Kiev",
     "abbr": "UKR",
-    "population": "44222947",
+    "population": 36744634,
     "code": "UA",
     "currency": "UAH",
     "timezones": "UTC+02:00",
-    "area": "603700"
+    "area": 603500,
+    "worldPercentage": 0.0046,
+    "density": 63.4184
   },
   {
     "country": "United Arab Emirates",
     "phoneCode": "+971",
     "capital": "Abu Dhabi",
     "abbr": "ARE",
-    "population": "9400145",
+    "population": 9516871,
     "code": "AE",
     "currency": "AED",
     "timezones": "UTC+04:00",
-    "area": "83600"
+    "area": 83600,
+    "worldPercentage": 0.0012,
+    "density": 134.0027
   },
   {
     "country": "United Kingdom",
     "phoneCode": "+44",
     "capital": "London",
     "abbr": "GBR",
-    "population": "67886011",
+    "population": 67736802,
     "code": "GB",
     "currency": "GBP",
     "timezones": "UTC+01:00",
-    "area": "242900"
+    "area": 242900,
+    "worldPercentage": 0.0085,
+    "density": 279.9851
   },
   {
     "country": "United States",
     "phoneCode": "+1",
     "capital": "Washington, D.C.",
     "abbr": "USA",
-    "population": "331449281",
+    "population": 339996563,
     "code": "US",
     "currency": "USD",
     "timezones": "UTC-04:00",
-    "area": "9519431"
+    "area": 9372610,
+    "worldPercentage": 0.0425,
+    "density": 37.1686
   },
   {
     "country": "Uruguay",
     "phoneCode": "+598",
     "capital": "Montevideo",
     "abbr": "URY",
-    "population": "3456750",
+    "population": 3423108,
     "code": "UY",
     "currency": "UYU",
     "timezones": "UTC-03:00",
-    "area": "175016"
+    "area": 181034,
+    "worldPercentage": 0.0004,
+    "density": 19.5584
   },
   {
     "country": "U.S. Virgin Islands",
@@ -2512,55 +2900,65 @@
     "phoneCode": "+998",
     "capital": "Tashkent",
     "abbr": "UZB",
-    "population": "31910641",
+    "population": 35163944,
     "code": "UZ",
     "currency": "UZS",
     "timezones": "UTC+05:00",
-    "area": "447400"
+    "area": 447400,
+    "worldPercentage": 0.0044,
+    "density": 79.8002
   },
   {
     "country": "Vanuatu",
     "phoneCode": "+678",
     "capital": "Port Vila",
     "abbr": "VUT",
-    "population": "276244",
+    "population": 334506,
     "code": "VU",
     "currency": "VUV",
     "timezones": "UTC+11:00",
-    "area": "12189"
+    "area": 12189,
+    "worldPercentage": 0,
+    "density": 27.441
   },
   {
     "country": "Vatican City",
     "phoneCode": "+39",
     "capital": "Vatican City",
     "abbr": "VAT",
-    "population": "825",
+    "population": 518,
     "code": "VA",
     "currency": "EUR",
     "timezones": "UTC+02:00",
-    "area": "0.49"
+    "area": 0.44,
+    "worldPercentage": null,
+    "density": 1177.2727
   },
   {
     "country": "Venezuela",
     "phoneCode": "+58",
     "capital": "Caracas",
     "abbr": "VEN",
-    "population": "28435940",
+    "population": 28838499,
     "code": "VE",
     "currency": "VEF",
     "timezones": "UTC-04:00",
-    "area": "912050"
+    "area": 916445,
+    "worldPercentage": 0.0036,
+    "density": 32.6949
   },
   {
     "country": "Vietnam",
     "phoneCode": "+84",
     "capital": "Hanoi",
     "abbr": "VNM",
-    "population": "97338579",
+    "population": 98858950,
     "code": "VN",
     "currency": "VND",
     "timezones": "UTC+07:00",
-    "area": "331689"
+    "area": 331212,
+    "worldPercentage": 0.0123,
+    "density": 315.411
   },
   {
     "country": "Wallis and Futuna",
@@ -2578,32 +2976,38 @@
     "phoneCode": "+967",
     "capital": "Sana'a",
     "abbr": "YEM",
-    "population": "28250420",
+    "population": 34449825,
     "code": "YE",
     "currency": "YER",
     "timezones": "UTC+03:00",
-    "area": "527968"
+    "area": 527968,
+    "worldPercentage": 0.0043,
+    "density": 65.2496
   },
   {
     "country": "Zambia",
     "phoneCode": "+260",
     "capital": "Lusaka",
     "abbr": "ZMB",
-    "population": "17094130",
+    "population": 20569737,
     "code": "ZM",
     "currency": "ZMK",
     "timezones": "UTC+02:00",
-    "area": "752618"
+    "area": 752612,
+    "worldPercentage": 0.0026,
+    "density": 27.6702
   },
   {
     "country": "Zimbabwe",
     "phoneCode": "+263",
     "capital": "Harare",
     "abbr": "ZWE",
-    "population": "16529904",
+    "population": 16665409,
     "code": "ZW",
     "currency": "ZWL",
     "timezones": "UTC+02:00",
-    "area": "390757"
+    "area": 390757,
+    "worldPercentage": 0.0021,
+    "density": 43.0798
   }
 ]
