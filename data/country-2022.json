@@ -8,7 +8,7 @@
     "gdppc2022": "2465.865",
     "gdp2022": "3468.566",
     "gdpppppc2022": "8293.202",
-    "growth": "6,8"
+    "growth": "6.8"
   },
   {
     "name": "China",
@@ -19,7 +19,7 @@
     "gdppc2022": "12970.328",
     "gdp2022": "18321.197",
     "gdpppppc2022": "21290.888",
-    "growth": "3,2"
+    "growth": "3.2"
   },
   {
     "name": "United States",
@@ -30,7 +30,7 @@
     "gdppc2022": "75179.586",
     "gdp2022": "25035.164",
     "gdpppppc2022": "75179.586",
-    "growth": "1,6"
+    "growth": "1.6"
   },
   {
     "name": "Indonesia",
@@ -41,7 +41,7 @@
     "gdppc2022": "4691.236",
     "gdp2022": "1289.429",
     "gdpppppc2022": "14638.413",
-    "growth": "5,3"
+    "growth": "5.3"
   },
   {
     "name": "Pakistan",
@@ -63,7 +63,7 @@
     "gdppc2022": "2326.23",
     "gdp2022": "504.203",
     "gdpppppc2022": "5883.806",
-    "growth": "3,2"
+    "growth": "3.2"
   },
   {
     "name": "Brazil",
@@ -74,7 +74,7 @@
     "gdppc2022": "8857.47",
     "gdp2022": "1894.708",
     "gdpppppc2022": "17683.838",
-    "growth": "2,8"
+    "growth": "2.8"
   },
   {
     "name": "Bangladesh",
@@ -85,7 +85,7 @@
     "gdppc2022": "2734.109",
     "gdp2022": "460.751",
     "gdpppppc2022": "7985.102",
-    "growth": "7,2"
+    "growth": "7.2"
   },
   {
     "name": "Russia",
@@ -96,7 +96,7 @@
     "gdppc2022": "14665.248",
     "gdp2022": "2133.092",
     "gdpppppc2022": "31967.031",
-    "growth": "-3,4"
+    "growth": "-3.4"
   },
   {
     "name": "Mexico",
@@ -107,7 +107,7 @@
     "gdppc2022": "10947.978",
     "gdp2022": "1424.533",
     "gdpppppc2022": "22440.143",
-    "growth": "2,1"
+    "growth": "2.1"
   },
   {
     "name": "Japan",
@@ -118,7 +118,7 @@
     "gdppc2022": "34357.864",
     "gdp2022": "4300.621",
     "gdpppppc2022": "48812.76",
-    "growth": "1,7"
+    "growth": "1.7"
   },
   {
     "name": "Ethiopia",
@@ -129,7 +129,7 @@
     "gdppc2022": "1097.584",
     "gdp2022": "111.181",
     "gdpppppc2022": "3433.956",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Philippines",
@@ -140,7 +140,7 @@
     "gdppc2022": "3597.483",
     "gdp2022": "401.662",
     "gdpppppc2022": "10343.625",
-    "growth": "6,5"
+    "growth": "6.5"
   },
   {
     "name": "Egypt",
@@ -151,7 +151,7 @@
     "gdppc2022": "4504.369",
     "gdp2022": "469.094",
     "gdpppppc2022": "15958.549",
-    "growth": "6,6"
+    "growth": "6.6"
   },
   {
     "name": "Vietnam",
@@ -173,7 +173,7 @@
     "gdppc2022": "660.21",
     "gdp2022": "63.909",
     "gdpppppc2022": "1327.829",
-    "growth": "6,1"
+    "growth": "6.1"
   },
   {
     "name": "Iran",
@@ -206,7 +206,7 @@
     "gdppc2022": "48397.797",
     "gdp2022": "4031.149",
     "gdpppppc2022": "63834.857",
-    "growth": "1,5"
+    "growth": "1.5"
   },
   {
     "name": "Thailand",
@@ -217,7 +217,7 @@
     "gdppc2022": "7630.871",
     "gdp2022": "534.758",
     "gdpppppc2022": "21114.181",
-    "growth": "2,8"
+    "growth": "2.8"
   },
   {
     "name": "United Kingdom",
@@ -228,7 +228,7 @@
     "gdppc2022": "47317.565",
     "gdp2022": "3198.47",
     "gdpppppc2022": "55862.093",
-    "growth": "3,6"
+    "growth": "3.6"
   },
   {
     "name": "France",
@@ -239,7 +239,7 @@
     "gdppc2022": "42330.451",
     "gdp2022": "2778.09",
     "gdpppppc2022": "56199.896",
-    "growth": "2,5"
+    "growth": "2.5"
   },
   {
     "name": "Tanzania",
@@ -250,7 +250,7 @@
     "gdppc2022": "1245.04",
     "gdp2022": "76.582",
     "gdpppppc2022": "3374.249",
-    "growth": "4,5"
+    "growth": "4.5"
   },
   {
     "name": "South Africa",
@@ -261,7 +261,7 @@
     "gdppc2022": "6738.926",
     "gdp2022": "411.48",
     "gdpppppc2022": "15555.895",
-    "growth": "2,1"
+    "growth": "2.1"
   },
   {
     "name": "Italy",
@@ -272,7 +272,7 @@
     "gdppc2022": "33739.75",
     "gdp2022": "1996.934",
     "gdpppppc2022": "51061.789",
-    "growth": "3,2"
+    "growth": "3.2"
   },
   {
     "name": "Kenya",
@@ -283,7 +283,7 @@
     "gdppc2022": "2255.48",
     "gdp2022": "114.858",
     "gdpppppc2022": "6121.947",
-    "growth": "5,3"
+    "growth": "5.3"
   },
   {
     "name": "Myanmar",
@@ -305,7 +305,7 @@
     "gdppc2022": "6644.492",
     "gdp2022": "342.919",
     "gdpppppc2022": "18693.142",
-    "growth": "7,6"
+    "growth": "7.6"
   },
   {
     "name": "South Korea",
@@ -316,7 +316,7 @@
     "gdppc2022": "33591.577",
     "gdp2022": "1734.207",
     "gdpppppc2022": "53574.173",
-    "growth": "2,6"
+    "growth": "2.6"
   },
   {
     "name": "Uganda",
@@ -327,7 +327,7 @@
     "gdppc2022": "1105.59",
     "gdp2022": "48.352",
     "gdpppppc2022": "3018.456",
-    "growth": "4,4"
+    "growth": "4.4"
   },
   {
     "name": "Spain",
@@ -338,7 +338,7 @@
     "gdppc2022": "29198.086",
     "gdp2022": "1389.927",
     "gdpppppc2022": "46551.157",
-    "growth": "4,3"
+    "growth": "4.3"
   },
   {
     "name": "Argentina",
@@ -360,7 +360,7 @@
     "gdppc2022": "916.033",
     "gdp2022": "42.762",
     "gdpppppc2022": "4449.591",
-    "growth": "-0,3"
+    "growth": "-0.3"
   },
   {
     "name": "Algeria",
@@ -371,7 +371,7 @@
     "gdppc2022": "4151.437",
     "gdp2022": "187.155",
     "gdpppppc2022": "13323.931",
-    "growth": "4,7"
+    "growth": "4.7"
   },
   {
     "name": "Ukraine",
@@ -393,7 +393,7 @@
     "gdppc2022": "6695.851",
     "gdp2022": "282.876",
     "gdpppppc2022": "12408.385",
-    "growth": "9,3"
+    "growth": "9.3"
   },
   {
     "name": "Afghanistan",
@@ -404,7 +404,7 @@
     "gdppc2022": "0",
     "gdp2022": "0",
     "gdpppppc2022": "0",
-    "growth": "no data"
+    "growth": "0"
   },
   {
     "name": "Canada",
@@ -415,7 +415,7 @@
     "gdppc2022": "56794.018",
     "gdp2022": "2200.352",
     "gdpppppc2022": "57827.452",
-    "growth": "3,3"
+    "growth": "3.3"
   },
   {
     "name": "Morocco",
@@ -426,7 +426,7 @@
     "gdppc2022": "3896.214",
     "gdp2022": "142.874",
     "gdpppppc2022": "9808.319",
-    "growth": "0,8"
+    "growth": "0.8"
   },
   {
     "name": "Poland",
@@ -437,7 +437,7 @@
     "gdppc2022": "19023.228",
     "gdp2022": "716.305",
     "gdpppppc2022": "42465.861",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Saudi Arabia",
@@ -448,7 +448,7 @@
     "gdppc2022": "27941.493",
     "gdp2022": "1010.588",
     "gdpppppc2022": "55802.338",
-    "growth": "7,6"
+    "growth": "7.6"
   },
   {
     "name": "Angola",
@@ -459,7 +459,7 @@
     "gdppc2022": "3790.704",
     "gdp2022": "124.794",
     "gdpppppc2022": "7455.467",
-    "growth": "2,9"
+    "growth": "2.9"
   },
   {
     "name": "Uzbekistan",
@@ -470,7 +470,7 @@
     "gdppc2022": "2243.096",
     "gdp2022": "79.117",
     "gdpppppc2022": "9478.457",
-    "growth": "5,2"
+    "growth": "5.2"
   },
   {
     "name": "Peru",
@@ -481,7 +481,7 @@
     "gdppc2022": "7004.793",
     "gdp2022": "239.333",
     "gdpppppc2022": "15273.233",
-    "growth": "2,7"
+    "growth": "2.7"
   },
   {
     "name": "Malaysia",
@@ -492,7 +492,7 @@
     "gdppc2022": "13107.875",
     "gdp2022": "434.059",
     "gdpppppc2022": "33112.707",
-    "growth": "5,4"
+    "growth": "5.4"
   },
   {
     "name": "Mozambique",
@@ -503,7 +503,7 @@
     "gdppc2022": "542.095",
     "gdp2022": "17.873",
     "gdpppppc2022": "1457.113",
-    "growth": "3,7"
+    "growth": "3.7"
   },
   {
     "name": "Ghana",
@@ -514,7 +514,7 @@
     "gdppc2022": "2368.814",
     "gdp2022": "75.996",
     "gdpppppc2022": "6780.281",
-    "growth": "3,6"
+    "growth": "3.6"
   },
   {
     "name": "Yemen",
@@ -536,7 +536,7 @@
     "gdppc2022": "1292.959",
     "gdp2022": "39.028",
     "gdpppppc2022": "4676.572",
-    "growth": "4,2"
+    "growth": "4.2"
   },
   {
     "name": "Venezuela",
@@ -558,7 +558,7 @@
     "gdppc2022": "521.578",
     "gdp2022": "15.106",
     "gdpppppc2022": "1790.292",
-    "growth": "4,2"
+    "growth": "4.2"
   },
   {
     "name": "Cameroon",
@@ -569,7 +569,7 @@
     "gdppc2022": "1584.003",
     "gdp2022": "44.212",
     "gdpppppc2022": "4418.989",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Ivory Coast",
@@ -580,7 +580,7 @@
     "gdppc2022": "0",
     "gdp2022": "0",
     "gdpppppc2022": "0",
-    "growth": "5,5"
+    "growth": "5.5"
   },
   {
     "name": "Niger",
@@ -591,7 +591,7 @@
     "gdppc2022": "561.222",
     "gdp2022": "14.639",
     "gdpppppc2022": "1443.351",
-    "growth": "6,7"
+    "growth": "6.7"
   },
   {
     "name": "Australia",
@@ -602,7 +602,7 @@
     "gdppc2022": "66407.604",
     "gdp2022": "1724.787",
     "gdpppppc2022": "62191.593",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "North Korea",
@@ -612,7 +612,8 @@
     "id": "KP",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Taiwan",
@@ -623,7 +624,7 @@
     "gdppc2022": "35513.192",
     "gdp2022": "828.659",
     "gdpppppc2022": "69500.026",
-    "growth": "3,3"
+    "growth": "3.3"
   },
   {
     "name": "Burkina Faso",
@@ -634,7 +635,7 @@
     "gdppc2022": "824.884",
     "gdp2022": "18.268",
     "gdpppppc2022": "2655.596",
-    "growth": "3,6"
+    "growth": "3.6"
   },
   {
     "name": "Sri Lanka",
@@ -645,7 +646,7 @@
     "gdppc2022": "3292.571",
     "gdp2022": "73.739",
     "gdpppppc2022": "14230.062",
-    "growth": "-8,7"
+    "growth": "-8.7"
   },
   {
     "name": "Mali",
@@ -656,7 +657,7 @@
     "gdppc2022": "857.976",
     "gdp2022": "18.434",
     "gdpppppc2022": "2608.761",
-    "growth": "2,5"
+    "growth": "2.5"
   },
   {
     "name": "Malawi",
@@ -667,7 +668,7 @@
     "gdppc2022": "522.963",
     "gdp2022": "11.554",
     "gdpppppc2022": "1587.784",
-    "growth": "0,9"
+    "growth": "0.9"
   },
   {
     "name": "Zambia",
@@ -678,7 +679,7 @@
     "gdppc2022": "1348.36",
     "gdp2022": "27.025",
     "gdpppppc2022": "3808.053",
-    "growth": "2,9"
+    "growth": "2.9"
   },
   {
     "name": "Syria",
@@ -689,7 +690,7 @@
     "gdppc2022": "0",
     "gdp2022": "0",
     "gdpppppc2022": "0",
-    "growth": "no data"
+    "growth": "0"
   },
   {
     "name": "Chile",
@@ -711,7 +712,7 @@
     "gdppc2022": "11590.632",
     "gdp2022": "224.338",
     "gdpppppc2022": "30827.307",
-    "growth": "2,5"
+    "growth": "2.5"
   },
   {
     "name": "Romania",
@@ -722,7 +723,7 @@
     "gdppc2022": "15618.842",
     "gdp2022": "299.885",
     "gdpppppc2022": "38096.843",
-    "growth": "4,8"
+    "growth": "4.8"
   },
   {
     "name": "Guatemala",
@@ -733,7 +734,7 @@
     "gdppc2022": "4879.866",
     "gdp2022": "91.318",
     "gdpppppc2022": "9931.434",
-    "growth": "3,4"
+    "growth": "3.4"
   },
   {
     "name": "Ecuador",
@@ -744,7 +745,7 @@
     "gdppc2022": "6412.728",
     "gdp2022": "115.469",
     "gdpppppc2022": "12763.078",
-    "growth": "2,9"
+    "growth": "2.9"
   },
   {
     "name": "Senegal",
@@ -755,7 +756,7 @@
     "gdppc2022": "1558.144",
     "gdp2022": "27.542",
     "gdpppppc2022": "4113.045",
-    "growth": "4,7"
+    "growth": "4.7"
   },
   {
     "name": "Chad",
@@ -766,7 +767,7 @@
     "gdppc2022": "743.373",
     "gdp2022": "12.945",
     "gdpppppc2022": "1718.575",
-    "growth": "3,3"
+    "growth": "3.3"
   },
   {
     "name": "Netherlands",
@@ -777,7 +778,7 @@
     "gdppc2022": "56297.803",
     "gdp2022": "990.583",
     "gdpppppc2022": "69714.52",
-    "growth": "4,5"
+    "growth": "4.5"
   },
   {
     "name": "Cambodia",
@@ -788,7 +789,7 @@
     "gdppc2022": "1771.384",
     "gdp2022": "28.33",
     "gdpppppc2022": "5582.957",
-    "growth": "5,1"
+    "growth": "5.1"
   },
   {
     "name": "Somalia",
@@ -799,7 +800,7 @@
     "gdppc2022": "539.001",
     "gdp2022": "8.416",
     "gdpppppc2022": "1322.027",
-    "growth": "1,9"
+    "growth": "1.9"
   },
   {
     "name": "Zimbabwe",
@@ -821,7 +822,7 @@
     "gdppc2022": "1345.568",
     "gdp2022": "19.745",
     "gdpppppc2022": "2993.08",
-    "growth": "4,6"
+    "growth": "4.6"
   },
   {
     "name": "Rwanda",
@@ -843,7 +844,7 @@
     "gdppc2022": "1366.871",
     "gdp2022": "17.547",
     "gdpppppc2022": "4182.901",
-    "growth": "5,7"
+    "growth": "5.7"
   },
   {
     "name": "Burundi",
@@ -854,7 +855,7 @@
     "gdppc2022": "292.619",
     "gdp2022": "3.686",
     "gdpppppc2022": "865.04",
-    "growth": "3,3"
+    "growth": "3.3"
   },
   {
     "name": "Tunisia",
@@ -865,7 +866,7 @@
     "gdppc2022": "3815.82",
     "gdp2022": "46.282",
     "gdpppppc2022": "12490.201",
-    "growth": "2,2"
+    "growth": "2.2"
   },
   {
     "name": "Bolivia",
@@ -876,7 +877,7 @@
     "gdppc2022": "3631.335",
     "gdp2022": "43.431",
     "gdpppppc2022": "9933.292",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Haiti",
@@ -887,7 +888,7 @@
     "gdppc2022": "1672.69",
     "gdp2022": "20.182",
     "gdpppppc2022": "3165.897",
-    "growth": "-1,2"
+    "growth": "-1.2"
   },
   {
     "name": "Belgium",
@@ -898,7 +899,7 @@
     "gdppc2022": "50597.868",
     "gdp2022": "589.491",
     "gdpppppc2022": "62065.143",
-    "growth": "2,4"
+    "growth": "2.4"
   },
   {
     "name": "South Sudan",
@@ -909,7 +910,7 @@
     "gdppc2022": "327.898",
     "gdp2022": "4.784",
     "gdpppppc2022": "934.404",
-    "growth": "6,5"
+    "growth": "6.5"
   },
   {
     "name": "Cuba",
@@ -919,7 +920,8 @@
     "id": "CU",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Dominican Republic",
@@ -930,7 +932,7 @@
     "gdppc2022": "10573.148",
     "gdp2022": "112.417",
     "gdpppppc2022": "24119.545",
-    "growth": "5,3"
+    "growth": "5.3"
   },
   {
     "name": "Czech Republic",
@@ -941,7 +943,7 @@
     "gdppc2022": "28094.618",
     "gdp2022": "295.618",
     "gdpppppc2022": "48918.581",
-    "growth": "1,9"
+    "growth": "1.9"
   },
   {
     "name": "Greece",
@@ -952,7 +954,7 @@
     "gdppc2022": "20875.779",
     "gdp2022": "222.008",
     "gdpppppc2022": "36465.543",
-    "growth": "5,2"
+    "growth": "5.2"
   },
   {
     "name": "Jordan",
@@ -963,7 +965,7 @@
     "gdppc2022": "4666.199",
     "gdp2022": "48.066",
     "gdpppppc2022": "11974.857",
-    "growth": "2,4"
+    "growth": "2.4"
   },
   {
     "name": "Azerbaijan",
@@ -974,7 +976,7 @@
     "gdppc2022": "6842.028",
     "gdp2022": "70.066",
     "gdpppppc2022": "17448.2",
-    "growth": "3,7"
+    "growth": "3.7"
   },
   {
     "name": "Honduras",
@@ -985,7 +987,7 @@
     "gdppc2022": "2969.35",
     "gdp2022": "30.568",
     "gdpppppc2022": "6769.153",
-    "growth": "3,4"
+    "growth": "3.4"
   },
   {
     "name": "Sweden",
@@ -996,7 +998,7 @@
     "gdppc2022": "56361.425",
     "gdp2022": "603.922",
     "gdpppppc2022": "63877.422",
-    "growth": "2,6"
+    "growth": "2.6"
   },
   {
     "name": "Portugal",
@@ -1007,7 +1009,7 @@
     "gdppc2022": "24910.413",
     "gdp2022": "255.854",
     "gdpppppc2022": "42066.503",
-    "growth": "6,2"
+    "growth": "6.2"
   },
   {
     "name": "United Arab Emirates",
@@ -1018,7 +1020,7 @@
     "gdppc2022": "47792.94",
     "gdp2022": "503.913",
     "gdpppppc2022": "77272.298",
-    "growth": "5,1"
+    "growth": "5.1"
   },
   {
     "name": "Tajikistan",
@@ -1029,7 +1031,7 @@
     "gdppc2022": "1014.926",
     "gdp2022": "9.983",
     "gdpppppc2022": "4802.833",
-    "growth": "5,5"
+    "growth": "5.5"
   },
   {
     "name": "Hungary",
@@ -1040,7 +1042,7 @@
     "gdppc2022": "18982.752",
     "gdp2022": "184.651",
     "gdpppppc2022": "42132.307",
-    "growth": "5,7"
+    "growth": "5.7"
   },
   {
     "name": "Belarus",
@@ -1062,7 +1064,7 @@
     "gdppc2022": "3427.214",
     "gdp2022": "31.362",
     "gdpppppc2022": "4270.985",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Austria",
@@ -1073,7 +1075,7 @@
     "gdppc2022": "52061.652",
     "gdp2022": "468.046",
     "gdpppppc2022": "66680.123",
-    "growth": "4,7"
+    "growth": "4.7"
   },
   {
     "name": "Israel",
@@ -1084,7 +1086,7 @@
     "gdppc2022": "55358.835",
     "gdp2022": "527.179",
     "gdpppppc2022": "52173.077",
-    "growth": "6,1"
+    "growth": "6.1"
   },
   {
     "name": "Switzerland",
@@ -1095,7 +1097,7 @@
     "gdppc2022": "92434.492",
     "gdp2022": "807.418",
     "gdpppppc2022": "84468.909",
-    "growth": "2,2"
+    "growth": "2.2"
   },
   {
     "name": "Togo",
@@ -1106,7 +1108,7 @@
     "gdppc2022": "960.833",
     "gdp2022": "8.359",
     "gdpppppc2022": "2618.515",
-    "growth": "5,4"
+    "growth": "5.4"
   },
   {
     "name": "Serbia",
@@ -1117,7 +1119,7 @@
     "gdppc2022": "9164.266",
     "gdp2022": "62.721",
     "gdpppppc2022": "24084.408",
-    "growth": "3,5"
+    "growth": "3.5"
   },
   {
     "name": "Sierra Leone",
@@ -1128,7 +1130,7 @@
     "gdppc2022": "493.572",
     "gdp2022": "4.101",
     "gdpppppc2022": "1972.044",
-    "growth": "2,4"
+    "growth": "2.4"
   },
   {
     "name": "Hong Kong",
@@ -1139,7 +1141,7 @@
     "gdppc2022": "49699.594",
     "gdp2022": "368.373",
     "gdpppppc2022": "69987.043",
-    "growth": "-0,8"
+    "growth": "-0.8"
   },
   {
     "name": "Laos",
@@ -1150,7 +1152,7 @@
     "gdppc2022": "2172.151",
     "gdp2022": "16.25",
     "gdpppppc2022": "9166.251",
-    "growth": "2,2"
+    "growth": "2.2"
   },
   {
     "name": "Paraguay",
@@ -1161,7 +1163,7 @@
     "gdppc2022": "5615.392",
     "gdp2022": "41.855",
     "gdpppppc2022": "14528.418",
-    "growth": "0,2"
+    "growth": "0.2"
   },
   {
     "name": "Libya",
@@ -1172,7 +1174,7 @@
     "gdppc2022": "6025.68",
     "gdp2022": "40.836",
     "gdpppppc2022": "18944.704",
-    "growth": "-18,5"
+    "growth": "-18.5"
   },
   {
     "name": "Bulgaria",
@@ -1183,7 +1185,7 @@
     "gdppc2022": "12505.009",
     "gdp2022": "85.008",
     "gdpppppc2022": "29177.955",
-    "growth": "3,9"
+    "growth": "3.9"
   },
   {
     "name": "Nicaragua",
@@ -1205,7 +1207,7 @@
     "gdppc2022": "1434.873",
     "gdp2022": "9.75",
     "gdpppppc2022": "0",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Lebanon",
@@ -1216,7 +1218,7 @@
     "gdppc2022": "0",
     "gdp2022": "0",
     "gdpppppc2022": "0",
-    "growth": "no data"
+    "growth": "0"
   },
   {
     "name": "El Salvador",
@@ -1227,7 +1229,7 @@
     "gdppc2022": "4883.047",
     "gdp2022": "31.989",
     "gdpppppc2022": "10576.061",
-    "growth": "2,6"
+    "growth": "2.6"
   },
   {
     "name": "Turkmenistan",
@@ -1238,7 +1240,7 @@
     "gdppc2022": "11928.799",
     "gdp2022": "74.439",
     "gdpppppc2022": "18875.202",
-    "growth": "1,2"
+    "growth": "1.2"
   },
   {
     "name": "Singapore",
@@ -1260,7 +1262,7 @@
     "gdppc2022": "65713.412",
     "gdp2022": "386.724",
     "gdpppppc2022": "69845.087",
-    "growth": "2,6"
+    "growth": "2.6"
   },
   {
     "name": "Republic of the Congo",
@@ -1271,7 +1273,7 @@
     "gdppc2022": "2945.102",
     "gdp2022": "14.486",
     "gdpppppc2022": "4682.245",
-    "growth": "4,3"
+    "growth": "4.3"
   },
   {
     "name": "Finland",
@@ -1282,7 +1284,7 @@
     "gdppc2022": "50818.382",
     "gdp2022": "281.411",
     "gdpppppc2022": "58659.002",
-    "growth": "2,1"
+    "growth": "2.1"
   },
   {
     "name": "Norway",
@@ -1293,7 +1295,7 @@
     "gdppc2022": "92645.973",
     "gdp2022": "504.703",
     "gdpppppc2022": "78127.605",
-    "growth": "3,6"
+    "growth": "3.6"
   },
   {
     "name": "Slovakia",
@@ -1303,7 +1305,8 @@
     "id": "SK",
     "gdppc2022": "20564.859",
     "gdp2022": "112.418",
-    "gdpppppc2022": "38620.155"
+    "gdpppppc2022": "38620.155",
+    "growth": "1.8"
   },
   {
     "name": "Palestine",
@@ -1313,7 +1316,8 @@
     "id": "PS",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Oman",
@@ -1324,7 +1328,7 @@
     "gdppc2022": "23541.507",
     "gdp2022": "108.969",
     "gdpppppc2022": "41150.002",
-    "growth": "4,4"
+    "growth": "4.4"
   },
   {
     "name": "Liberia",
@@ -1335,7 +1339,7 @@
     "gdppc2022": "735.185",
     "gdp2022": "3.9",
     "gdpppppc2022": "1666.573",
-    "growth": "3,7"
+    "growth": "3.7"
   },
   {
     "name": "Costa Rica",
@@ -1346,7 +1350,7 @@
     "gdppc2022": "13089.857",
     "gdp2022": "68.489",
     "gdpppppc2022": "24836.575",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Ireland",
@@ -1368,7 +1372,7 @@
     "gdppc2022": "495.936",
     "gdp2022": "2.488",
     "gdpppppc2022": "1088.293",
-    "growth": "1,5"
+    "growth": "1.5"
   },
   {
     "name": "Mauritania",
@@ -1390,7 +1394,7 @@
     "gdppc2022": "47278.493",
     "gdp2022": "242.7",
     "gdpppppc2022": "50851.077",
-    "growth": "2,3"
+    "growth": "2.3"
   },
   {
     "name": "Panama",
@@ -1401,7 +1405,7 @@
     "gdppc2022": "16172.621",
     "gdp2022": "71.085",
     "gdpppppc2022": "36370.383",
-    "growth": "7,5"
+    "growth": "7.5"
   },
   {
     "name": "Kuwait",
@@ -1412,7 +1416,7 @@
     "gdppc2022": "38123.224",
     "gdp2022": "183.568",
     "gdpppppc2022": "51527.916",
-    "growth": "8,7"
+    "growth": "8.7"
   },
   {
     "name": "Croatia",
@@ -1423,7 +1427,7 @@
     "gdppc2022": "17318.053",
     "gdp2022": "69.38",
     "gdpppppc2022": "37549.795",
-    "growth": "5,9"
+    "growth": "5.9"
   },
   {
     "name": "Moldova",
@@ -1456,7 +1460,7 @@
     "gdppc2022": "646.957",
     "gdp2022": "2.369",
     "gdpppppc2022": "2078.439",
-    "growth": "2,6"
+    "growth": "2.6"
   },
   {
     "name": "Uruguay",
@@ -1467,7 +1471,7 @@
     "gdppc2022": "20017.557",
     "gdp2022": "71.161",
     "gdpppppc2022": "27232.786",
-    "growth": "5,3"
+    "growth": "5.3"
   },
   {
     "name": "Mongolia",
@@ -1478,7 +1482,7 @@
     "gdppc2022": "4541.572",
     "gdp2022": "15.72",
     "gdpppppc2022": "13611.353",
-    "growth": "2,5"
+    "growth": "2.5"
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -1489,7 +1493,7 @@
     "gdppc2022": "6818.396",
     "gdp2022": "23.681",
     "gdpppppc2022": "17899.097",
-    "growth": "2,4"
+    "growth": "2.4"
   },
   {
     "name": "Jamaica",
@@ -1500,7 +1504,7 @@
     "gdppc2022": "5870.1",
     "gdp2022": "16.104",
     "gdpppppc2022": "11962.381",
-    "growth": "2,8"
+    "growth": "2.8"
   },
   {
     "name": "Qatar",
@@ -1511,7 +1515,7 @@
     "gdppc2022": "82886.789",
     "gdp2022": "221.369",
     "gdpppppc2022": "113674.648",
-    "growth": "3,4"
+    "growth": "3.4"
   },
   {
     "name": "Armenia",
@@ -1544,7 +1548,7 @@
     "gdppc2022": "38442.851",
     "gdp2022": "118.677",
     "gdpppppc2022": "43820.098",
-    "growth": "4,8"
+    "growth": "4.8"
   },
   {
     "name": "Lithuania",
@@ -1555,7 +1559,7 @@
     "gdppc2022": "24031.619",
     "gdp2022": "68.031",
     "gdpppppc2022": "46158.603",
-    "growth": "1,8"
+    "growth": "1.8"
   },
   {
     "name": "Namibia",
@@ -1588,7 +1592,7 @@
     "gdppc2022": "7347.738",
     "gdp2022": "18.005",
     "gdpppppc2022": "19198.583",
-    "growth": "4,1"
+    "growth": "4.1"
   },
   {
     "name": "Gabon",
@@ -1599,7 +1603,7 @@
     "gdppc2022": "10281.775",
     "gdp2022": "22.221",
     "gdpppppc2022": "18088.44",
-    "growth": "2,7"
+    "growth": "2.7"
   },
   {
     "name": "Lesotho",
@@ -1610,7 +1614,7 @@
     "gdppc2022": "1186.744",
     "gdp2022": "2.507",
     "gdpppppc2022": "3027.681",
-    "growth": "2,1"
+    "growth": "2.1"
   },
   {
     "name": "North Macedonia",
@@ -1621,7 +1625,7 @@
     "gdppc2022": "6815.772",
     "gdp2022": "14.101",
     "gdpppppc2022": "19783.01",
-    "growth": "2,7"
+    "growth": "2.7"
   },
   {
     "name": "Slovenia",
@@ -1632,7 +1636,7 @@
     "gdppc2022": "29469.394",
     "gdp2022": "62.191",
     "gdpppppc2022": "49967.798",
-    "growth": "5,7"
+    "growth": "5.7"
   },
   {
     "name": "Guinea-Bissau",
@@ -1643,7 +1647,7 @@
     "gdppc2022": "856.62",
     "gdp2022": "1.624",
     "gdpppppc2022": "2850.695",
-    "growth": "3,8"
+    "growth": "3.8"
   },
   {
     "name": "Latvia",
@@ -1654,7 +1658,7 @@
     "gdppc2022": "21481.52",
     "gdp2022": "40.588",
     "gdpppppc2022": "38123.988",
-    "growth": "2,5"
+    "growth": "2.5"
   },
   {
     "name": "Bahrain",
@@ -1665,7 +1669,7 @@
     "gdppc2022": "28691.769",
     "gdp2022": "43.544",
     "gdpppppc2022": "57921.465",
-    "growth": "3,4"
+    "growth": "3.4"
   },
   {
     "name": "Equatorial Guinea",
@@ -1676,7 +1680,7 @@
     "gdppc2022": "11264.416",
     "gdp2022": "16.877",
     "gdpppppc2022": "19433.23",
-    "growth": "5,8"
+    "growth": "5.8"
   },
   {
     "name": "Trinidad and Tobago",
@@ -1698,7 +1702,7 @@
     "gdppc2022": "1792.71",
     "gdp2022": "2.455",
     "gdpppppc2022": "3904.374",
-    "growth": "3,3"
+    "growth": "3.3"
   },
   {
     "name": "Estonia",
@@ -1720,7 +1724,7 @@
     "gdppc2022": "9111.606",
     "gdp2022": "11.497",
     "gdpppppc2022": "25372.214",
-    "growth": "6,1"
+    "growth": "6.1"
   },
   {
     "name": "Cyprus",
@@ -1731,7 +1735,7 @@
     "gdppc2022": "29534.735",
     "gdp2022": "26.705",
     "gdpppppc2022": "49504.443",
-    "growth": "3,5"
+    "growth": "3.5"
   },
   {
     "name": "Eswatini",
@@ -1742,7 +1746,7 @@
     "gdppc2022": "4056.177",
     "gdp2022": "4.669",
     "gdpppppc2022": "11053.991",
-    "growth": "2,4"
+    "growth": "2.4"
   },
   {
     "name": "Djibouti",
@@ -1753,7 +1757,7 @@
     "gdppc2022": "3665.827",
     "gdp2022": "3.725",
     "gdpppppc2022": "6513.859",
-    "growth": "3,6"
+    "growth": "3.6"
   },
   {
     "name": "Fiji",
@@ -1764,7 +1768,7 @@
     "gdppc2022": "5341.288",
     "gdp2022": "4.859",
     "gdpppppc2022": "13943.665",
-    "growth": "12,5"
+    "growth": "12.5"
   },
   {
     "name": "Reunion",
@@ -1774,7 +1778,8 @@
     "id": "RE",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Comoros",
@@ -1796,7 +1801,7 @@
     "gdppc2022": "18744.631",
     "gdp2022": "14.839",
     "gdpppppc2022": "42646.639",
-    "growth": "57,8"
+    "growth": "57.8"
   },
   {
     "name": "Bhutan",
@@ -1818,7 +1823,7 @@
     "gdppc2022": "2239.622",
     "gdp2022": "1.601",
     "gdpppppc2022": "2336.403",
-    "growth": "-4,5"
+    "growth": "-4.5"
   },
   {
     "name": "Macau",
@@ -1829,7 +1834,7 @@
     "gdppc2022": "33608.412",
     "gdp2022": "23.42",
     "gdpppppc2022": "57929.408",
-    "growth": "-22,4"
+    "growth": "-22.4"
   },
   {
     "name": "Luxembourg",
@@ -1840,7 +1845,7 @@
     "gdppc2022": "127672.531",
     "gdp2022": "82.154",
     "gdpppppc2022": "141587.11",
-    "growth": "1,6"
+    "growth": "1.6"
   },
   {
     "name": "Montenegro",
@@ -1851,7 +1856,7 @@
     "gdppc2022": "9849.566",
     "gdp2022": "6.127",
     "gdpppppc2022": "26032.366",
-    "growth": "7,2"
+    "growth": "7.2"
   },
   {
     "name": "Western Sahara",
@@ -1861,7 +1866,8 @@
     "id": "EH",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Suriname",
@@ -1872,7 +1878,7 @@
     "gdppc2022": "4879.822",
     "gdp2022": "3.011",
     "gdpppppc2022": "17350.393",
-    "growth": "1,3"
+    "growth": "1.3"
   },
   {
     "name": "Cabo Verde",
@@ -1894,7 +1900,7 @@
     "gdppc2022": "15097.148",
     "gdp2022": "5.9",
     "gdpppppc2022": "30888.258",
-    "growth": "8,7"
+    "growth": "8.7"
   },
   {
     "name": "Brunei",
@@ -1905,7 +1911,7 @@
     "gdppc2022": "42939.398",
     "gdp2022": "18.464",
     "gdpppppc2022": "74195.971",
-    "growth": "1,2"
+    "growth": "1.2"
   },
   {
     "name": "Malta",
@@ -1916,7 +1922,7 @@
     "gdppc2022": "32912.469",
     "gdp2022": "17.156",
     "gdpppppc2022": "56337.686",
-    "growth": "6,2"
+    "growth": "6.2"
   },
   {
     "name": "Belize",
@@ -1927,7 +1933,7 @@
     "gdppc2022": "6096.324",
     "gdp2022": "2.676",
     "gdpppppc2022": "9622.876",
-    "growth": "3,5"
+    "growth": "3.5"
   },
   {
     "name": "Bahamas",
@@ -1948,7 +1954,8 @@
     "id": "GP",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Martinique",
@@ -1958,7 +1965,8 @@
     "id": "MQ",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Iceland",
@@ -1969,7 +1977,7 @@
     "gdppc2022": "73981.336",
     "gdp2022": "27.702",
     "gdpppppc2022": "66466.993",
-    "growth": "5,1"
+    "growth": "5.1"
   },
   {
     "name": "Vanuatu",
@@ -1980,7 +1988,7 @@
     "gdppc2022": "3049.75",
     "gdp2022": "0.984",
     "gdpppppc2022": "2857.958",
-    "growth": "1,7"
+    "growth": "1.7"
   },
   {
     "name": "French Guiana",
@@ -1990,7 +1998,8 @@
     "id": "GF",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "New Caledonia",
@@ -2000,7 +2009,8 @@
     "id": "NC",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Barbados",
@@ -2011,7 +2021,7 @@
     "gdppc2022": "20003.712",
     "gdp2022": "5.788",
     "gdpppppc2022": "17313.737",
-    "growth": "10,5"
+    "growth": "10.5"
   },
   {
     "name": "Mayotte",
@@ -2021,7 +2031,8 @@
     "id": "YT",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "French Polynesia",
@@ -2031,7 +2042,8 @@
     "id": "PF",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Sao Tome and Principe",
@@ -2042,7 +2054,7 @@
     "gdppc2022": "0",
     "gdp2022": "0",
     "gdpppppc2022": "0",
-    "growth": "1,4"
+    "growth": "1.4"
   },
   {
     "name": "Samoa",
@@ -2064,7 +2076,7 @@
     "gdppc2022": "10762.966",
     "gdp2022": "1.972",
     "gdpppppc2022": "16417.395",
-    "growth": "9,1"
+    "growth": "9.1"
   },
   {
     "name": "Guam",
@@ -2074,7 +2086,8 @@
     "id": "GU",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Curacao",
@@ -2084,7 +2097,8 @@
     "id": "CW",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Kiribati",
@@ -2106,7 +2120,7 @@
     "gdppc2022": "4072.076",
     "gdp2022": "0.428",
     "gdpppppc2022": "3675.09",
-    "growth": "-0,6"
+    "growth": "-0.6"
   },
   {
     "name": "Grenada",
@@ -2117,7 +2131,7 @@
     "gdppc2022": "10476.518",
     "gdp2022": "1.192",
     "gdpppppc2022": "18436.3",
-    "growth": "3,6"
+    "growth": "3.6"
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -2160,7 +2174,8 @@
     "id": "VI",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Antigua and Barbuda",
@@ -2182,7 +2197,7 @@
     "gdppc2022": "20265.681",
     "gdp2022": "2.005",
     "gdpppppc2022": "37660.943",
-    "growth": "10,9"
+    "growth": "10.9"
   },
   {
     "name": "Isle of Man",
@@ -2192,7 +2207,8 @@
     "id": "IM",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Andorra",
@@ -2203,7 +2219,7 @@
     "gdppc2022": "40722.63",
     "gdp2022": "3.302",
     "gdpppppc2022": "65371.537",
-    "growth": "6,6"
+    "growth": "6.6"
   },
   {
     "name": "Dominica",
@@ -2224,7 +2240,8 @@
     "id": "KY",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Bermuda",
@@ -2234,7 +2251,8 @@
     "id": "BM",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Marshall Islands",
@@ -2245,7 +2263,7 @@
     "gdppc2022": "4858.526",
     "gdp2022": "0.271",
     "gdpppppc2022": "4394.726",
-    "growth": "1,5"
+    "growth": "1.5"
   },
   {
     "name": "Northern Mariana Islands",
@@ -2255,7 +2273,8 @@
     "id": "MP",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Greenland",
@@ -2265,7 +2284,8 @@
     "id": "GL",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "American Samoa",
@@ -2275,7 +2295,8 @@
     "id": "AS",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -2286,7 +2307,7 @@
     "gdppc2022": "19128.582",
     "gdp2022": "1.115",
     "gdpppppc2022": "27781.504",
-    "growth": "9,8"
+    "growth": "9.8"
   },
   {
     "name": "Faroe Islands",
@@ -2296,7 +2317,8 @@
     "id": "FO",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Sint Maarten",
@@ -2306,7 +2328,8 @@
     "id": "SX",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Monaco",
@@ -2316,7 +2339,8 @@
     "id": "MC",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Turks and Caicos Islands",
@@ -2326,7 +2350,8 @@
     "id": "TC",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Saint Martin",
@@ -2336,7 +2361,8 @@
     "id": "SX",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Saint Martin",
@@ -2346,7 +2372,8 @@
     "id": "MF",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Liechtenstein",
@@ -2356,7 +2383,8 @@
     "id": "LI",
     "gdppc2022": "98424",
     "gdp2022": "18.545",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "San Marino",
@@ -2367,7 +2395,7 @@
     "gdppc2022": "47700.042",
     "gdp2022": "1.623",
     "gdpppppc2022": "72069.805",
-    "growth": "3,1"
+    "growth": "3.1"
   },
   {
     "name": "Gibraltar",
@@ -2398,7 +2426,7 @@
     "gdppc2022": "12662.998",
     "gdp2022": "0.226",
     "gdpppppc2022": "13215.43",
-    "growth": "-2,8"
+    "growth": "-2.8"
   },
   {
     "name": "Cook Islands",
@@ -2408,7 +2436,8 @@
     "id": "CK",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Anguilla",
@@ -2418,7 +2447,8 @@
     "id": "AI",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Tuvalu",
@@ -2439,7 +2469,8 @@
     "id": "WF",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Nauru",
@@ -2450,7 +2481,7 @@
     "gdppc2022": "10004.731",
     "gdp2022": "0.134",
     "gdpppppc2022": "10834.366",
-    "growth": "0,9"
+    "growth": "0.9"
   },
   {
     "name": "Saint Barthelemy",
@@ -2460,7 +2491,8 @@
     "id": "BL",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -2470,7 +2502,8 @@
     "id": "PM",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Montserrat",
@@ -2480,7 +2513,8 @@
     "id": "MS",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Falkland Islands",
@@ -2490,7 +2524,8 @@
     "id": "FK",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Niue",
@@ -2500,7 +2535,8 @@
     "id": "NU",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Tokelau",
@@ -2510,7 +2546,8 @@
     "id": "TK",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   },
   {
     "name": "Vatican City",
@@ -2520,6 +2557,7 @@
     "id": "VA",
     "gdppc2022": "0",
     "gdp2022": "0",
-    "gdpppppc2022": "0"
+    "gdpppppc2022": "0",
+    "growth": "0"
   }
 ]
