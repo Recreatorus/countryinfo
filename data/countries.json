@@ -3495,12 +3495,12 @@
     "ppp": "0"
   },
   {
-    "country": "West Sahara",
-    "phoneCode": "0",
+    "country": "Western Sahara",
+    "phoneCode": "+212",
     "capital": "El-Aun",
-    "abbr": "",
+    "abbr": "ESH",
     "id": "EH",
-    "currency": "",
+    "currency": "MAD",
     "timezones": "UTC+00:00",
     "area": 266800,
     "density": "0",
