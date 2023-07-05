@@ -3510,6 +3510,21 @@
     "ppp": "0"
   },
   {
+    "country": "Svalbard",
+    "phoneCode": "",
+    "capital": "Longyearbyen",
+    "abbr": "",
+    "id": "SJ",
+    "currency": "NOK",
+    "timezones": "UTC+01:00",
+    "area": 62.045,
+    "density": "0.044",
+    "pop2022": "2.530",
+    "gdp": "0.277",
+    "gdppc": "94368",
+    "ppp": "0"
+  },
+  {
     "country": "Yemen",
     "phoneCode": "+967",
     "capital": "Sana'a",
