@@ -3511,9 +3511,9 @@
   },
   {
     "country": "Svalbard",
-    "phoneCode": "",
+    "phoneCode": "+47",
     "capital": "Longyearbyen",
-    "abbr": "",
+    "abbr": "SJM",
     "id": "SJ",
     "currency": "NOK",
     "timezones": "UTC+01:00",
