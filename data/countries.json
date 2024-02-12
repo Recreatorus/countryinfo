@@ -13,7 +13,11 @@
     "gdp": "0",
     "gdppc": "0",
     "ppp": "0",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "0",
+    "code": "AFG",
+    "altName": "Afghanistan",
+    "rusName": "Афганистан"
   },
   {
     "country": "Albania",
@@ -29,7 +33,11 @@
     "gdp": "18.509",
     "gdppc": "6457.217",
     "ppp": "17875.115",
-    "debt": "67.6"
+    "debt": "67.6",
+    "gdp2023": "23.032",
+    "code": "ALB",
+    "altName": "Albania",
+    "rusName": "Албания"
   },
   {
     "country": "Algeria",
@@ -45,7 +53,11 @@
     "gdp": "195.415",
     "gdppc": "4314.657",
     "ppp": "12866.854",
-    "debt": "52.4"
+    "debt": "52.4",
+    "gdp2023": "224.107",
+    "code": "DZA",
+    "altName": "Algeria",
+    "rusName": "Алжир"
   },
   {
     "country": "American Samoa",
@@ -77,7 +89,11 @@
     "gdp": "3.4",
     "gdppc": "41931.03",
     "ppp": "66883.303",
-    "debt": "38.8"
+    "debt": "38.8",
+    "gdp2023": "3.692",
+    "code": "AND",
+    "altName": "Andorra",
+    "rusName": "Андорра"
   },
   {
     "country": "Angola",
@@ -93,7 +109,11 @@
     "gdp": "121.417",
     "gdppc": "3399.954",
     "ppp": "6922.857",
-    "debt": "67"
+    "debt": "67",
+    "gdp2023": "93.796",
+    "code": "AGO",
+    "altName": "Angola",
+    "rusName": "Ангола"
   },
   {
     "country": "Anguilla",
@@ -125,7 +145,11 @@
     "gdp": "1.682",
     "gdppc": "16693.288",
     "ppp": "22224.846",
-    "debt": "90.6"
+    "debt": "90.6",
+    "gdp2023": "1.949",
+    "code": "ATG",
+    "altName": "Antigua and Barbuda",
+    "rusName": "Антигуа и Барбуда"
   },
   {
     "country": "Argentina",
@@ -141,7 +165,11 @@
     "gdp": "632.241",
     "gdppc": "13655.2",
     "ppp": "26466.9",
-    "debt": "84.5"
+    "debt": "84.5",
+    "gdp2023": "621.833",
+    "code": "ARG",
+    "altName": "Argentina",
+    "rusName": "Аргентина"
   },
   {
     "country": "Armenia",
@@ -157,7 +185,11 @@
     "gdp": "19.503",
     "gdppc": "6583.61",
     "ppp": "17794.745",
-    "debt": "49.3"
+    "debt": "49.3",
+    "gdp2023": "24.54",
+    "code": "ARM",
+    "altName": "Armenia",
+    "rusName": "Армения"
   },
   {
     "country": "Aruba",
@@ -173,7 +205,11 @@
     "gdp": "3.493",
     "gdppc": "31934.458",
     "ppp": "47244.332",
-    "debt": "92"
+    "debt": "92",
+    "gdp2023": "3.827",
+    "code": "ABW",
+    "altName": "Aruba",
+    "rusName": "Аруба"
   },
   {
     "country": "Australia",
@@ -189,7 +225,11 @@
     "gdp": "1701.893",
     "gdppc": "65526.118",
     "ppp": "62714.193",
-    "debt": "55.7"
+    "debt": "55.7",
+    "gdp2023": "1687.713",
+    "code": "AUS",
+    "altName": "Australia",
+    "rusName": "Австралия"
   },
   {
     "country": "Austria",
@@ -205,7 +245,11 @@
     "gdp": "471.685",
     "gdppc": "52264.871",
     "ppp": "66983.987",
-    "debt": "77.8"
+    "debt": "77.8",
+    "gdp2023": "526.182",
+    "code": "AUT",
+    "altName": "Austria",
+    "rusName": "Австрия"
   },
   {
     "country": "Azerbaijan",
@@ -221,7 +265,11 @@
     "gdp": "69.906",
     "gdppc": "6826.434",
     "ppp": "17668.1",
-    "debt": "20.7"
+    "debt": "20.7",
+    "gdp2023": "77.392",
+    "code": "AZE",
+    "altName": "Azerbaijan",
+    "rusName": "Азербайджан"
   },
   {
     "country": "Bahamas",
@@ -237,7 +285,11 @@
     "gdp": "13.038",
     "gdppc": "33120.642",
     "ppp": "41023.087",
-    "debt": "89.4"
+    "debt": "89.4",
+    "gdp2023": "13.876",
+    "code": "BHS",
+    "altName": "Bahamas",
+    "rusName": "Багамские Острова"
   },
   {
     "country": "Bahrain",
@@ -253,7 +305,11 @@
     "gdp": "44.388",
     "gdppc": "28784.993",
     "ppp": "58083.079",
-    "debt": "117.6"
+    "debt": "117.6",
+    "gdp2023": "44.994",
+    "code": "BHR",
+    "altName": "Bahrain",
+    "rusName": "Бахрейн"
   },
   {
     "country": "Bangladesh",
@@ -269,7 +325,11 @@
     "gdp": "460.201",
     "gdppc": "2730.846",
     "ppp": "7950.625",
-    "debt": "39.1"
+    "debt": "39.1",
+    "gdp2023": "446.349",
+    "code": "BGD",
+    "altName": "Bangladesh",
+    "rusName": "Бангладеш"
   },
   {
     "country": "Barbados",
@@ -285,7 +345,11 @@
     "gdp": "5.665",
     "gdppc": "19579.156",
     "ppp": "17358.876",
-    "debt": "120.8"
+    "debt": "120.8",
+    "gdp2023": "6.22",
+    "code": "BRB",
+    "altName": "Barbados",
+    "rusName": "Барбадос"
   },
   {
     "country": "Belarus",
@@ -301,7 +365,11 @@
     "gdp": "73.12",
     "gdppc": "7859.631",
     "ppp": "22312.211",
-    "debt": "39.8"
+    "debt": "39.8",
+    "gdp2023": "68.864",
+    "code": "BLR",
+    "altName": "Belarus",
+    "rusName": "Белоруссия"
   },
   {
     "country": "Belgium",
@@ -317,7 +385,11 @@
     "gdp": "582.21",
     "gdppc": "50114.397",
     "ppp": "63070.222",
-    "debt": "105.3"
+    "debt": "105.3",
+    "gdp2023": "627.511",
+    "code": "BEL",
+    "altName": "Belgium",
+    "rusName": "Бельгия"
   },
   {
     "country": "Belize",
@@ -333,7 +405,11 @@
     "gdp": "2.95",
     "gdppc": "6678.061",
     "ppp": "10439.647",
-    "debt": "64.1"
+    "debt": "64.1",
+    "gdp2023": "3.218",
+    "code": "BLZ",
+    "altName": "Belize",
+    "rusName": "Белиз"
   },
   {
     "country": "Benin",
@@ -349,7 +425,11 @@
     "gdp": "17.413",
     "gdppc": "1296.588",
     "ppp": "4024.034",
-    "debt": "52.4"
+    "debt": "52.4",
+    "gdp2023": "19.94",
+    "code": "BEN",
+    "altName": "Benin",
+    "rusName": "Бенин"
   },
   {
     "country": "Bermuda",
@@ -381,7 +461,11 @@
     "gdp": "2.642",
     "gdppc": "3477.572",
     "ppp": "13164.764",
-    "debt": "124.8"
+    "debt": "124.8",
+    "gdp2023": "2.686",
+    "code": "BTN",
+    "altName": "Bhutan",
+    "rusName": "Бутан"
   },
   {
     "country": "Bolivia",
@@ -397,7 +481,11 @@
     "gdp": "43.221",
     "gdppc": "3613.837",
     "ppp": "9909.879",
-    "debt": "82.6"
+    "debt": "82.6",
+    "gdp2023": "46.796",
+    "code": "BOL",
+    "altName": "Bolivia",
+    "rusName": "Боливия"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -413,7 +501,11 @@
     "gdp": "25.484",
     "gdppc": "7337.72",
     "ppp": "18463.81",
-    "debt": "29.6"
+    "debt": "29.6",
+    "gdp2023": "26.945",
+    "code": "BIH",
+    "altName": "Bosnia and Herzegovina",
+    "rusName": "Босния и Герцеговина"
   },
   {
     "country": "Botswana",
@@ -429,7 +521,11 @@
     "gdp": "19.176",
     "gdppc": "7257.119",
     "ppp": "18346.671",
-    "debt": "19.9"
+    "debt": "19.9",
+    "gdp2023": "20.756",
+    "code": "BWA",
+    "altName": "Botswana",
+    "rusName": "Ботсвана"
   },
   {
     "country": "Brazil",
@@ -445,7 +541,11 @@
     "gdp": "1924.134",
     "gdppc": "8995.029",
     "ppp": "17938.506",
-    "debt": "85.9"
+    "debt": "85.9",
+    "gdp2023": "2126.809",
+    "code": "BRA",
+    "altName": "Brazil",
+    "rusName": "Бразилия"
   },
   {
     "country": "British Indian Ocean Territory",
@@ -480,7 +580,7 @@
     "debt": "0"
   },
   {
-    "country": "Brunei Darussalam",
+    "country": "Brunei",
     "phoneCode": "+673",
     "capital": "Bandar Seri Begawan",
     "abbr": "BRN",
@@ -493,7 +593,11 @@
     "gdp": "16.639",
     "gdppc": "37667.277",
     "ppp": "70500.213",
-    "debt": "2.1"
+    "debt": "2.1",
+    "gdp2023": "15.153",
+    "code": "BRN",
+    "altName": "Brunei",
+    "rusName": "Бруней"
   },
   {
     "country": "Bulgaria",
@@ -509,7 +613,11 @@
     "gdp": "89.115",
     "gdppc": "13109.206",
     "ppp": "30215.95",
-    "debt": "21.8"
+    "debt": "21.8",
+    "gdp2023": "103.099",
+    "code": "BGR",
+    "altName": "Bulgaria",
+    "rusName": "Болгария"
   },
   {
     "country": "Burkina Faso",
@@ -525,7 +633,11 @@
     "gdp": "19.568",
     "gdppc": "859.504",
     "ppp": "2573.667",
-    "debt": "54.3"
+    "debt": "54.3",
+    "gdp2023": "20.785",
+    "code": "BFA",
+    "altName": "Burkina Faso",
+    "rusName": "Буркина-Фасо"
   },
   {
     "country": "Burundi",
@@ -541,7 +653,11 @@
     "gdp": "3.894",
     "gdppc": "309.112",
     "ppp": "855.819",
-    "debt": "68.3"
+    "debt": "68.3",
+    "gdp2023": "3.19",
+    "code": "BDI",
+    "altName": "Burundi",
+    "rusName": "Бурунди"
   },
   {
     "country": "Cabo Verde",
@@ -557,7 +673,11 @@
     "gdp": "2.224",
     "gdppc": "3900.539",
     "ppp": "9019.499",
-    "debt": "127.4"
+    "debt": "127.4",
+    "gdp2023": "2.598",
+    "code": "CPV",
+    "altName": "Cabo Verde",
+    "rusName": "Кабо-Верде"
   },
   {
     "country": "Cambodia",
@@ -573,7 +693,11 @@
     "gdp": "28.544",
     "gdppc": "1784.786",
     "ppp": "5600.541",
-    "debt": "36.5"
+    "debt": "36.5",
+    "gdp2023": "30.943",
+    "code": "KHM",
+    "altName": "Cambodia",
+    "rusName": "Камбоджа"
   },
   {
     "country": "Cameroon",
@@ -589,7 +713,11 @@
     "gdp": "43.716",
     "gdppc": "1566.245",
     "ppp": "4414.532",
-    "debt": "46.4"
+    "debt": "46.4",
+    "gdp2023": "49.262",
+    "code": "CMR",
+    "altName": "Cameroon",
+    "rusName": "Камерун"
   },
   {
     "country": "Canada",
@@ -605,7 +733,11 @@
     "gdp": "2139.84",
     "gdppc": "55085.452",
     "ppp": "58292.472",
-    "debt": "106.6"
+    "debt": "106.6",
+    "gdp2023": "2117.805",
+    "code": "CAN",
+    "altName": "Canada",
+    "rusName": "Канада"
   },
   {
     "country": "Cayman Islands",
@@ -637,7 +769,11 @@
     "gdp": "2.462",
     "gdppc": "490.67",
     "ppp": "1080.189",
-    "debt": "50.7"
+    "debt": "50.7",
+    "gdp2023": "2.76",
+    "code": "CAF",
+    "altName": "Central African Republic",
+    "rusName": "ЦАР"
   },
   {
     "country": "Chad",
@@ -653,7 +789,11 @@
     "gdp": "11.909",
     "gdppc": "683.892",
     "ppp": "1710.692",
-    "debt": "50.4"
+    "debt": "50.4",
+    "gdp2023": "12.596",
+    "code": "TCD",
+    "altName": "Chad",
+    "rusName": "Чад"
   },
   {
     "country": "Chile",
@@ -669,7 +809,11 @@
     "gdp": "300.729",
     "gdppc": "15094.829",
     "ppp": "29083.071",
-    "debt": "38"
+    "debt": "38",
+    "gdp2023": "344.4",
+    "code": "CHL",
+    "altName": "Chile",
+    "rusName": "Чили"
   },
   {
     "country": "China",
@@ -685,7 +829,11 @@
     "gdp": "18100.044",
     "gdppc": "12813.765",
     "ppp": "21391.848",
-    "debt": "77.1"
+    "debt": "77.1",
+    "gdp2023": "17700.899",
+    "code": "CHN",
+    "altName": "China",
+    "rusName": "Китай (Китайская Народная Республика)"
   },
   {
     "country": "Colombia",
@@ -701,7 +849,11 @@
     "gdp": "343.939",
     "gdppc": "6664.269",
     "ppp": "18762.313",
-    "debt": "63.6"
+    "debt": "63.6",
+    "gdp2023": "363.835",
+    "code": "COL",
+    "altName": "Colombia",
+    "rusName": "Колумбия"
   },
   {
     "country": "Comoros",
@@ -717,7 +869,11 @@
     "gdp": "1.233",
     "gdppc": "1290.743",
     "ppp": "3357.886",
-    "debt": "29.1"
+    "debt": "29.1",
+    "gdp2023": "1.364",
+    "code": "COM",
+    "altName": "Comoros",
+    "rusName": "Коморы"
   },
   {
     "country": "Cook Islands",
@@ -749,7 +905,11 @@
     "gdp": "68.385",
     "gdppc": "13077.23",
     "ppp": "25005.134",
-    "debt": "63.8"
+    "debt": "63.8",
+    "gdp2023": "85.59",
+    "code": "CRI",
+    "altName": "Costa Rica",
+    "rusName": "Коста-Рика"
   },
   {
     "country": "Côte d'Ivoire",
@@ -765,7 +925,11 @@
     "gdp": "0",
     "gdppc": "0",
     "ppp": "0",
-    "debt": "56.8"
+    "debt": "56.8",
+    "gdp2023": "79.43",
+    "code": "CIV",
+    "altName": "Côte d'Ivoire",
+    "rusName": "Кот-д'Ивуар"
   },
   {
     "country": "Croatia",
@@ -781,7 +945,11 @@
     "gdp": "71.019",
     "gdppc": "18427.262",
     "ppp": "40143.463",
-    "debt": "67.5"
+    "debt": "67.5",
+    "gdp2023": "80.185",
+    "code": "HRV",
+    "altName": "Croatia",
+    "rusName": "Хорватия"
   },
   {
     "country": "Cuba",
@@ -829,7 +997,11 @@
     "gdp": "28.467",
     "gdppc": "31465.518",
     "ppp": "51775.252",
-    "debt": "86.5"
+    "debt": "86.5",
+    "gdp2023": "32.032",
+    "code": "CYP",
+    "altName": "Cyprus",
+    "rusName": "Кипр"
   },
   {
     "country": "Czech Republic",
@@ -845,10 +1017,14 @@
     "gdp": "290.397",
     "gdppc": "27612.934",
     "ppp": "49420.992",
-    "debt": "42.3"
+    "debt": "42.3",
+    "gdp2023": "335.243",
+    "code": "CZE",
+    "altName": "Czech Republic",
+    "rusName": "Чехия"
   },
   {
-    "country": "Congo. Dem. Rep.",
+    "country": "The Democratic Republic of Congo",
     "phoneCode": "+243",
     "capital": "Kinshasa",
     "abbr": "DNK",
@@ -861,7 +1037,11 @@
     "gdp": "62.859",
     "gdppc": "649.369",
     "ppp": "1378.97",
-    "debt": "14.6"
+    "debt": "14.6",
+    "gdp2023": "67.512",
+    "code": "COD",
+    "altName": "Congo, Dem. Rep.",
+    "rusName": "ДР Конго"
   },
   {
     "country": "Denmark",
@@ -877,7 +1057,11 @@
     "gdp": "390.677",
     "gdppc": "66516.079",
     "ppp": "70924.341",
-    "debt": "29.7"
+    "debt": "29.7",
+    "gdp2023": "420.8",
+    "code": "DNK",
+    "altName": "Denmark",
+    "rusName": "Дания"
   },
   {
     "country": "Djibouti",
@@ -893,7 +1077,11 @@
     "gdp": "3.646",
     "gdppc": "3588.496",
     "ppp": "6469.889",
-    "debt": "40.6"
+    "debt": "40.6",
+    "gdp2023": "3.873",
+    "code": "DJI",
+    "altName": "Djibouti",
+    "rusName": "Джибути"
   },
   {
     "country": "Dominica",
@@ -909,7 +1097,11 @@
     "gdp": "0.612",
     "gdppc": "8253.162",
     "ppp": "13072.434",
-    "debt": "104.8"
+    "debt": "104.8",
+    "gdp2023": "0.697",
+    "code": "DMA",
+    "altName": "Dominica",
+    "rusName": "Доминика"
   },
   {
     "country": "Dominican Republic",
@@ -925,7 +1117,11 @@
     "gdp": "112.502",
     "gdppc": "10581.202",
     "ppp": "24135.432",
-    "debt": "58.9"
+    "debt": "58.9",
+    "gdp2023": "120.629",
+    "code": "DOM",
+    "altName": "Dominican Republic",
+    "rusName": "Доминиканская Республика"
   },
   {
     "country": "Ecuador",
@@ -941,7 +1137,11 @@
     "gdp": "116.36",
     "gdppc": "6462.217",
     "ppp": "12829.66",
-    "debt": "57.3"
+    "debt": "57.3",
+    "gdp2023": "118.686",
+    "code": "ECU",
+    "altName": "Ecuador",
+    "rusName": "Эквадор"
   },
   {
     "country": "Egypt",
@@ -957,7 +1157,11 @@
     "gdp": "475.231",
     "gdppc": "4563.298",
     "ppp": "16080.464",
-    "debt": "88.5"
+    "debt": "88.5",
+    "gdp2023": "398.397",
+    "code": "EGY",
+    "altName": "Egypt",
+    "rusName": "Египет"
   },
   {
     "country": "El Salvador",
@@ -973,7 +1177,11 @@
     "gdp": "31.605",
     "gdppc": "4987.903",
     "ppp": "10989.166",
-    "debt": "77.2"
+    "debt": "77.2",
+    "gdp2023": "35.339",
+    "code": "SLV",
+    "altName": "El Salvador",
+    "rusName": "Сальвадор"
   },
   {
     "country": "Equatorial Guinea",
@@ -989,7 +1197,11 @@
     "gdp": "16.451",
     "gdppc": "10980.2",
     "ppp": "18715.741",
-    "debt": "27.1"
+    "debt": "27.1",
+    "gdp2023": "10.041",
+    "code": "GNQ",
+    "altName": "Equatorial Guinea",
+    "rusName": "Экваториальная Гвинея"
   },
   {
     "country": "Eritrea",
@@ -1005,7 +1217,11 @@
     "gdp": "2.383",
     "gdppc": "650.819",
     "ppp": "2085.595",
-    "debt": "163.8"
+    "debt": "163.8",
+    "gdp2023": "0",
+    "code": "ERI",
+    "altName": "Eritrea",
+    "rusName": "Эритрея"
   },
   {
     "country": "Estonia",
@@ -1021,7 +1237,11 @@
     "gdp": "38.131",
     "gdppc": "28631.096",
     "ppp": "45206.426",
-    "debt": "17.2"
+    "debt": "17.2",
+    "gdp2023": "41.799",
+    "code": "EST",
+    "altName": "Estonia",
+    "rusName": "Эстония"
   },
   {
     "country": "Ethiopia",
@@ -1037,7 +1257,11 @@
     "gdp": "120.369",
     "gdppc": "1156.478",
     "ppp": "3434.875",
-    "debt": "46.4"
+    "debt": "46.4",
+    "gdp2023": "155.804",
+    "code": "ETH",
+    "altName": "Ethiopia",
+    "rusName": "Эфиопия"
   },
   {
     "country": "Falkland Islands",
@@ -1085,7 +1309,11 @@
     "gdp": "0.423",
     "gdppc": "4032.65",
     "ppp": "3687.809",
-    "debt": "14"
+    "debt": "14",
+    "gdp2023": "0.458",
+    "code": "FSM",
+    "altName": "Micronesia",
+    "rusName": "Микронезия"
   },
   {
     "country": "Fiji",
@@ -1101,7 +1329,11 @@
     "gdp": "4.837",
     "gdppc": "5317.079",
     "ppp": "14237.307",
-    "debt": "92.8"
+    "debt": "92.8",
+    "gdp2023": "5.511",
+    "code": "FJI",
+    "altName": "Fiji",
+    "rusName": "Фиджи"
   },
   {
     "country": "Finland",
@@ -1117,7 +1349,11 @@
     "gdp": "281.047",
     "gdppc": "50655.133",
     "ppp": "58651.077",
-    "debt": "74.8"
+    "debt": "74.8",
+    "gdp2023": "305.689",
+    "code": "FIN",
+    "altName": "Finland",
+    "rusName": "Финляндия"
   },
   {
     "country": "France",
@@ -1133,7 +1369,11 @@
     "gdp": "2784.02",
     "gdppc": "42409.045",
     "ppp": "56426.287",
-    "debt": "111.1"
+    "debt": "111.1",
+    "gdp2023": "3049.016",
+    "code": "FRA",
+    "altName": "France",
+    "rusName": "Франция"
   },
   {
     "country": "French Guiana",
@@ -1181,7 +1421,11 @@
     "gdp": "21.931",
     "gdppc": "10147.63",
     "ppp": "18171.232",
-    "debt": "55.1"
+    "debt": "55.1",
+    "gdp2023": "19.319",
+    "code": "GAB",
+    "altName": "Gabon",
+    "rusName": "Габон"
   },
   {
     "country": "Gambia",
@@ -1197,7 +1441,11 @@
     "gdp": "2.133",
     "gdppc": "830.761",
     "ppp": "2633.587",
-    "debt": "84"
+    "debt": "84",
+    "gdp2023": "2.388",
+    "code": "GMB",
+    "altName": "Gambia",
+    "rusName": "Гамбия"
   },
   {
     "country": "Georgia",
@@ -1213,7 +1461,11 @@
     "gdp": "24.606",
     "gdppc": "6670.727",
     "ppp": "20243.589",
-    "debt": "39.8"
+    "debt": "39.8",
+    "gdp2023": "30.023",
+    "code": "GEO",
+    "altName": "Georgia",
+    "rusName": "Грузия"
   },
   {
     "country": "Germany",
@@ -1229,7 +1481,11 @@
     "gdp": "4075.395",
     "gdppc": "48636.03",
     "ppp": "63815.766",
-    "debt": "66.5"
+    "debt": "66.5",
+    "gdp2023": "4429.838",
+    "code": "DEU",
+    "altName": "Germany",
+    "rusName": "Германия"
   },
   {
     "country": "Ghana",
@@ -1245,7 +1501,11 @@
     "gdp": "72.839",
     "gdppc": "2270.41",
     "ppp": "6779.32",
-    "debt": "88.8"
+    "debt": "88.8",
+    "gdp2023": "76.628",
+    "code": "GHA",
+    "altName": "Ghana",
+    "rusName": "Гана"
   },
   {
     "country": "Gibraltar",
@@ -1277,7 +1537,11 @@
     "gdp": "219.237",
     "gdppc": "20615.206",
     "ppp": "36908.947",
-    "debt": "177.4"
+    "debt": "177.4",
+    "gdp2023": "242.385",
+    "code": "GRC",
+    "altName": "Greece",
+    "rusName": "Греция"
   },
   {
     "country": "Greenland",
@@ -1309,7 +1573,11 @@
     "gdp": "1.193",
     "gdppc": "10488.39",
     "ppp": "18757.24",
-    "debt": "64.5"
+    "debt": "64.5",
+    "gdp2023": "1.306",
+    "code": "GRD",
+    "altName": "Grenada",
+    "rusName": "Гренада"
   },
   {
     "country": "Guadeloupe",
@@ -1357,7 +1625,11 @@
     "gdp": "93.655",
     "gdppc": "5004.742",
     "ppp": "10023.458",
-    "debt": "30.1"
+    "debt": "30.1",
+    "gdp2023": "102.765",
+    "code": "GTM",
+    "altName": "Guatemala",
+    "rusName": "Гватемала"
   },
   {
     "country": "Guinea",
@@ -1373,7 +1645,11 @@
     "gdp": "20.469",
     "gdppc": "1394.852",
     "ppp": "3009.6",
-    "debt": "33.4"
+    "debt": "33.4",
+    "gdp2023": "23.205",
+    "code": "GIN",
+    "altName": "Guinea",
+    "rusName": "Гвинея"
   },
   {
     "country": "Guinea-Bissau",
@@ -1389,7 +1665,11 @@
     "gdp": "1.705",
     "gdppc": "898.93",
     "ppp": "2891.666",
-    "debt": "79.5"
+    "debt": "79.5",
+    "gdp2023": "1.991",
+    "code": "GNB",
+    "altName": "Guinea-Bissau",
+    "rusName": "Гвинея-Бисау"
   },
   {
     "country": "Guyana",
@@ -1405,7 +1685,11 @@
     "gdp": "14.521",
     "gdppc": "18342.283",
     "ppp": "42698.862",
-    "debt": "27.8"
+    "debt": "27.8",
+    "gdp2023": "16.329",
+    "code": "GUY",
+    "altName": "Guyana",
+    "rusName": "Гайана"
   },
   {
     "country": "Haiti",
@@ -1421,7 +1705,11 @@
     "gdp": "20.535",
     "gdppc": "1702.001",
     "ppp": "3161.3",
-    "debt": "25"
+    "debt": "25",
+    "gdp2023": "25.986",
+    "code": "HTI",
+    "altName": "Haiti",
+    "rusName": "Гаити"
   },
   {
     "country": "Honduras",
@@ -1437,10 +1725,14 @@
     "gdp": "31.521",
     "gdppc": "3061.969",
     "ppp": "6831.884",
-    "debt": "50"
+    "debt": "50",
+    "gdp2023": "33.992",
+    "code": "HND",
+    "altName": "Honduras",
+    "rusName": "Гондурас"
   },
   {
-    "country": "Hong Kong SAR",
+    "country": "Hong Kong",
     "phoneCode": "+852",
     "capital": "Hong Kong",
     "abbr": "HKG",
@@ -1453,7 +1745,11 @@
     "gdp": "360.983",
     "gdppc": "49225.862",
     "ppp": "69152.552",
-    "debt": "4.3"
+    "debt": "4.3",
+    "gdp2023": "385.546",
+    "code": "HKG",
+    "altName": "Hong Kong SAR",
+    "rusName": "Гонконг"
   },
   {
     "country": "Hungary",
@@ -1469,7 +1765,11 @@
     "gdp": "168.294",
     "gdppc": "17301.218",
     "ppp": "42044.46",
-    "debt": "76.4"
+    "debt": "76.4",
+    "gdp2023": "203.829",
+    "code": "HUN",
+    "altName": "Hungary",
+    "rusName": "Венгрия"
   },
   {
     "country": "Iceland",
@@ -1485,7 +1785,11 @@
     "gdp": "27.842",
     "gdppc": "73998.14",
     "ppp": "66512.417",
-    "debt": "68.7"
+    "debt": "68.7",
+    "gdp2023": "30.57",
+    "code": "ISL",
+    "altName": "Iceland",
+    "rusName": "Исландия"
   },
   {
     "country": "India",
@@ -1501,7 +1805,11 @@
     "gdp": "3386.403",
     "gdppc": "2379.209",
     "ppp": "8329.326",
-    "debt": "83.1"
+    "debt": "83.1",
+    "gdp2023": "3732.224",
+    "code": "IND",
+    "altName": "India",
+    "rusName": "Индия"
   },
   {
     "country": "Indonesia",
@@ -1517,7 +1825,11 @@
     "gdp": "1318.807",
     "gdppc": "4798.119",
     "ppp": "14687.08",
-    "debt": "39.9"
+    "debt": "39.9",
+    "gdp2023": "1417.387",
+    "code": "IDN",
+    "altName": "Indonesia",
+    "rusName": "Индонезия"
   },
   {
     "country": "Iran",
@@ -1533,7 +1845,11 @@
     "gdp": "352.213",
     "gdppc": "4110.327",
     "ppp": "18635.457",
-    "debt": "34"
+    "debt": "34",
+    "gdp2023": "366.438",
+    "code": "IRN",
+    "altName": "Iran",
+    "rusName": "Иран"
   },
   {
     "country": "Iraq",
@@ -1549,7 +1865,11 @@
     "gdp": "270.364",
     "gdppc": "6399.688",
     "ppp": "12322.288",
-    "debt": "43.3"
+    "debt": "43.3",
+    "gdp2023": "254.993",
+    "code": "IRQ",
+    "altName": "Iraq",
+    "rusName": "Ирак"
   },
   {
     "country": "Ireland",
@@ -1565,7 +1885,11 @@
     "gdp": "529.661",
     "gdppc": "103175.698",
     "ppp": "133789.48",
-    "debt": "45.2"
+    "debt": "45.2",
+    "gdp2023": "589.569",
+    "code": "IRL",
+    "altName": "Ireland",
+    "rusName": "Ирландия"
   },
   {
     "country": "Israel",
@@ -1581,7 +1905,11 @@
     "gdp": "522.53",
     "gdppc": "54710.337",
     "ppp": "52349.165",
-    "debt": "60.9"
+    "debt": "60.9",
+    "gdp2023": "521.688",
+    "code": "ISR",
+    "altName": "Israel",
+    "rusName": "Израиль"
   },
   {
     "country": "Italy",
@@ -1597,7 +1925,11 @@
     "gdp": "2012.013",
     "gdppc": "34113.201",
     "ppp": "51847.161",
-    "debt": "144.7"
+    "debt": "144.7",
+    "gdp2023": "2186.082",
+    "code": "ITA",
+    "altName": "Italy",
+    "rusName": "Италия"
   },
   {
     "country": "Jamaica",
@@ -1613,7 +1945,11 @@
     "gdp": "16.039",
     "gdppc": "5846.202",
     "ppp": "12159.159",
-    "debt": "84.1"
+    "debt": "84.1",
+    "gdp2023": "18.761",
+    "code": "JAM",
+    "altName": "Jamaica",
+    "rusName": "Ямайка"
   },
   {
     "country": "Japan",
@@ -1629,7 +1965,11 @@
     "gdp": "4233.538",
     "gdppc": "33821.931",
     "ppp": "49043.995",
-    "debt": "261.3"
+    "debt": "261.3",
+    "gdp2023": "4230.862",
+    "code": "JPN",
+    "altName": "Japan",
+    "rusName": "Япония"
   },
   {
     "country": "Jordan",
@@ -1645,7 +1985,11 @@
     "gdp": "48.836",
     "gdppc": "4740.941",
     "ppp": "12105.668",
-    "debt": "89.4"
+    "debt": "89.4",
+    "gdp2023": "50.022",
+    "code": "JOR",
+    "altName": "Jordan",
+    "rusName": "Иордания"
   },
   {
     "country": "Kazakhstan",
@@ -1661,7 +2005,11 @@
     "gdp": "225.784",
     "gdppc": "11439.506",
     "ppp": "30543.89",
-    "debt": "23.5"
+    "debt": "23.5",
+    "gdp2023": "259.292",
+    "code": "KAZ",
+    "altName": "Kazakhstan",
+    "rusName": "Казахстан"
   },
   {
     "country": "Kenya",
@@ -1677,7 +2025,11 @@
     "gdp": "115.989",
     "gdppc": "2277.692",
     "ppp": "6144.161",
-    "debt": "67.9"
+    "debt": "67.9",
+    "gdp2023": "112.749",
+    "code": "KEN",
+    "altName": "Kenya",
+    "rusName": "Кения"
   },
   {
     "country": "Kiribati",
@@ -1693,7 +2045,11 @@
     "gdp": "0.224",
     "gdppc": "1821.553",
     "ppp": "2271.316",
-    "debt": "15.2"
+    "debt": "15.2",
+    "gdp2023": "0.246",
+    "code": "KIR",
+    "altName": "Kiribati",
+    "rusName": "Кирибати"
   },
   {
     "country": "Kosovo",
@@ -1709,7 +2065,11 @@
     "gdp": "9.363",
     "gdppc": "5290.475",
     "ppp": "14543.121",
-    "debt": "19.3"
+    "debt": "19.3",
+    "gdp2023": "10.469",
+    "code": "XKX",
+    "altName": "Kosovo",
+    "rusName": "Косово"
   },
   {
     "country": "Kuwait",
@@ -1725,10 +2085,14 @@
     "gdp": "184.558",
     "gdppc": "38328.894",
     "ppp": "51471",
-    "debt": "2.9"
+    "debt": "2.9",
+    "gdp2023": "159.687",
+    "code": "KWT",
+    "altName": "Kuwait",
+    "rusName": "Кувейт"
   },
   {
-    "country": "Kyrgyz Republic",
+    "country": "Kyrgyzstan",
     "phoneCode": "+996",
     "capital": "Bishkek",
     "abbr": "KGZ",
@@ -1741,7 +2105,11 @@
     "gdp": "11.052",
     "gdppc": "1626.453",
     "ppp": "5929.891",
-    "debt": "53.5"
+    "debt": "53.5",
+    "gdp2023": "12.681",
+    "code": "KGZ",
+    "altName": "Kyrgyzstan",
+    "rusName": "Киргизия"
   },
   {
     "country": "Laos",
@@ -1757,7 +2125,11 @@
     "gdp": "15.304",
     "gdppc": "2046.856",
     "ppp": "9207.279",
-    "debt": "128.5"
+    "debt": "128.5",
+    "gdp2023": "14.244",
+    "code": "LAO",
+    "altName": "Laos",
+    "rusName": "Лаос"
   },
   {
     "country": "Latvia",
@@ -1773,7 +2145,11 @@
     "gdp": "42.225",
     "gdppc": "22347.97",
     "ppp": "38544.51",
-    "debt": "41.6"
+    "debt": "41.6",
+    "gdp2023": "46.668",
+    "code": "LVA",
+    "altName": "Latvia",
+    "rusName": "Латвия"
   },
   {
     "country": "Lebanon",
@@ -1789,7 +2165,11 @@
     "gdp": "0",
     "gdppc": "0",
     "ppp": "0",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "0",
+    "code": "LBN",
+    "altName": "Lebanon",
+    "rusName": "Ливан"
   },
   {
     "country": "Lesotho",
@@ -1805,7 +2185,11 @@
     "gdp": "2.48",
     "gdppc": "1173.963",
     "ppp": "3100.442",
-    "debt": "57.9"
+    "debt": "57.9",
+    "gdp2023": "2.373",
+    "code": "LSO",
+    "altName": "Lesotho",
+    "rusName": "Лесото"
   },
   {
     "country": "Liberia",
@@ -1821,10 +2205,14 @@
     "gdp": "3.974",
     "gdppc": "749.187",
     "ppp": "1689.924",
-    "debt": "55.4"
+    "debt": "55.4",
+    "gdp2023": "4.347",
+    "code": "LBR",
+    "altName": "Liberia",
+    "rusName": "Либерия"
   },
   {
-    "country": "Libyan Arab Jamahiriya",
+    "country": "Libya",
     "phoneCode": "+218",
     "capital": "Tripoli",
     "abbr": "LBY",
@@ -1837,7 +2225,11 @@
     "gdp": "44.066",
     "gdppc": "6502.171",
     "ppp": "20358.377",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "40.194",
+    "code": "LBY",
+    "altName": "Libya",
+    "rusName": "Ливия"
   },
   {
     "country": "Liechtenstein",
@@ -1869,7 +2261,11 @@
     "gdp": "70.523",
     "gdppc": "25036.193",
     "ppp": "47107.245",
-    "debt": "39.6"
+    "debt": "39.6",
+    "gdp2023": "79.427",
+    "code": "LTU",
+    "altName": "Lithuania",
+    "rusName": "Литва"
   },
   {
     "country": "Luxembourg",
@@ -1885,10 +2281,14 @@
     "gdp": "82.34",
     "gdppc": "127579.81",
     "ppp": "138193.039",
-    "debt": "24.3"
+    "debt": "24.3",
+    "gdp2023": "89.095",
+    "code": "LUX",
+    "altName": "Luxembourg",
+    "rusName": "Люксембург"
   },
   {
-    "country": "Macao SAR",
+    "country": "Macao",
     "phoneCode": "+853",
     "capital": "",
     "abbr": "MAC",
@@ -1901,7 +2301,11 @@
     "gdp": "21.979",
     "gdppc": "31539.494",
     "ppp": "55209.46",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "38.48",
+    "code": "MAC",
+    "altName": "Macao SAR, China",
+    "rusName": "Макао"
   },
   {
     "country": "North Macedonia",
@@ -1917,7 +2321,11 @@
     "gdp": "13.671",
     "gdppc": "6608.08",
     "ppp": "20052.684",
-    "debt": "51.8"
+    "debt": "51.8",
+    "gdp2023": "15.801",
+    "code": "MKD",
+    "altName": "North Macedonia",
+    "rusName": "Северная Македония"
   },
   {
     "country": "Madagascar",
@@ -1933,7 +2341,11 @@
     "gdp": "15.233",
     "gdppc": "525.968",
     "ppp": "1821.123",
-    "debt": "57"
+    "debt": "57",
+    "gdp2023": "15.763",
+    "code": "MDG",
+    "altName": "Madagascar",
+    "rusName": "Мадагаскар"
   },
   {
     "country": "Malawi",
@@ -1949,7 +2361,11 @@
     "gdp": "12.512",
     "gdppc": "566.353",
     "ppp": "1627.823",
-    "debt": "70.1"
+    "debt": "70.1",
+    "gdp2023": "13.176",
+    "code": "MWI",
+    "altName": "Malawi",
+    "rusName": "Малави"
   },
   {
     "country": "Malaysia",
@@ -1965,7 +2381,11 @@
     "gdp": "407.923",
     "gdppc": "12364.058",
     "ppp": "34391.666",
-    "debt": "66.3"
+    "debt": "66.3",
+    "gdp2023": "430.895",
+    "code": "MYS",
+    "altName": "Malaysia",
+    "rusName": "Малайзия"
   },
   {
     "country": "Maldives",
@@ -1981,7 +2401,11 @@
     "gdp": "6.207",
     "gdppc": "15883.268",
     "ppp": "33208.306",
-    "debt": "114.9"
+    "debt": "114.9",
+    "gdp2023": "6.977",
+    "code": "MDV",
+    "altName": "Maldives",
+    "rusName": "Мальдивы"
   },
   {
     "country": "Mali",
@@ -1997,7 +2421,11 @@
     "gdp": "19.048",
     "gdppc": "842.059",
     "ppp": "2514.452",
-    "debt": "53.2"
+    "debt": "53.2",
+    "gdp2023": "21.309",
+    "code": "MLI",
+    "altName": "Mali",
+    "rusName": "Мали"
   },
   {
     "country": "Malta",
@@ -2013,7 +2441,11 @@
     "gdp": "17.779",
     "gdppc": "34127.131",
     "ppp": "58072.141",
-    "debt": "55.8"
+    "debt": "55.8",
+    "gdp2023": "20.311",
+    "code": "MLT",
+    "altName": "Malta",
+    "rusName": "Мальта"
   },
   {
     "country": "Marshall Islands",
@@ -2029,7 +2461,11 @@
     "gdp": "0.276",
     "gdppc": "4946.421",
     "ppp": "4401.655",
-    "debt": "21.2"
+    "debt": "21.2",
+    "gdp2023": "0.277",
+    "code": "MHL",
+    "altName": "Marshall Islands",
+    "rusName": "Маршалловы Острова"
   },
   {
     "country": "Martinique",
@@ -2061,7 +2497,11 @@
     "gdp": "10.321",
     "gdppc": "2381.322",
     "ppp": "7012.768",
-    "debt": "47.7"
+    "debt": "47.7",
+    "gdp2023": "10.357",
+    "code": "MRT",
+    "altName": "Mauritania",
+    "rusName": "Мавритания"
   },
   {
     "country": "Mauritius",
@@ -2077,7 +2517,11 @@
     "gdp": "12.772",
     "gdppc": "10122.642",
     "ppp": "26851.346",
-    "debt": "80.9"
+    "debt": "80.9",
+    "gdp2023": "14.819",
+    "code": "MUS",
+    "altName": "Mauritius",
+    "rusName": "Маврикий"
   },
   {
     "country": "Mayotte",
@@ -2109,7 +2553,11 @@
     "gdp": "1414.101",
     "gdppc": "10867.807",
     "ppp": "22726.233",
-    "debt": "56"
+    "debt": "56",
+    "gdp2023": "1811.468",
+    "code": "MEX",
+    "altName": "Mexico",
+    "rusName": "Мексика"
   },
   {
     "country": "Moldova",
@@ -2125,7 +2573,11 @@
     "gdp": "14.41",
     "gdppc": "5671.224",
     "ppp": "15617.095",
-    "debt": "33.5"
+    "debt": "33.5",
+    "gdp2023": "16",
+    "code": "MDA",
+    "altName": "Moldova",
+    "rusName": "Молдавия"
   },
   {
     "country": "Monaco",
@@ -2157,7 +2609,11 @@
     "gdp": "16.833",
     "gdppc": "4863.023",
     "ppp": "13970.815",
-    "debt": "82.4"
+    "debt": "82.4",
+    "gdp2023": "18.782",
+    "code": "MNG",
+    "altName": "Mongolia",
+    "rusName": "Монголия"
   },
   {
     "country": "Montenegro",
@@ -2173,7 +2629,11 @@
     "gdp": "6.104",
     "gdppc": "9811.86",
     "ppp": "25927.061",
-    "debt": "71.2"
+    "debt": "71.2",
+    "gdp2023": "7.058",
+    "code": "MNE",
+    "altName": "Montenegro",
+    "rusName": "Черногория"
   },
   {
     "country": "Montserrat",
@@ -2205,7 +2665,11 @@
     "gdp": "138.052",
     "gdppc": "3764.72",
     "ppp": "9878.037",
-    "debt": "68.8"
+    "debt": "68.8",
+    "gdp2023": "147.343",
+    "code": "MAR",
+    "altName": "Morocco",
+    "rusName": "Марокко"
   },
   {
     "country": "Mozambique",
@@ -2221,7 +2685,11 @@
     "gdp": "17.94",
     "gdppc": "544.129",
     "ppp": "1467.761",
-    "debt": "104.5"
+    "debt": "104.5",
+    "gdp2023": "21.936",
+    "code": "MOZ",
+    "altName": "Mozambique",
+    "rusName": "Мозамбик"
   },
   {
     "country": "Myanmar",
@@ -2237,7 +2705,11 @@
     "gdp": "56.757",
     "gdppc": "1053.273",
     "ppp": "4846.715",
-    "debt": "63.9"
+    "debt": "63.9",
+    "gdp2023": "74.861",
+    "code": "MMR",
+    "altName": "Myanmar",
+    "rusName": "Мьянма"
   },
   {
     "country": "Namibia",
@@ -2253,7 +2725,11 @@
     "gdp": "12.345",
     "gdppc": "4753.998",
     "ppp": "10916.49",
-    "debt": "71.3"
+    "debt": "71.3",
+    "gdp2023": "12.647",
+    "code": "NAM",
+    "altName": "Namibia",
+    "rusName": "Намибия"
   },
   {
     "country": "Nauru",
@@ -2269,7 +2745,11 @@
     "gdp": "0.151",
     "gdppc": "12035.233",
     "ppp": "11025.512",
-    "debt": "24.3"
+    "debt": "24.3",
+    "gdp2023": "0.15",
+    "code": "NRU",
+    "altName": "Nauru",
+    "rusName": "Науру"
   },
   {
     "country": "Nepal",
@@ -2285,7 +2765,11 @@
     "gdp": "40.149",
     "gdppc": "1331.541",
     "ppp": "4770.065",
-    "debt": "43.8"
+    "debt": "43.8",
+    "gdp2023": "41.339",
+    "code": "NPL",
+    "altName": "Nepal",
+    "rusName": "Непал"
   },
   {
     "country": "Netherlands",
@@ -2301,7 +2785,11 @@
     "gdp": "993.681",
     "gdppc": "56489.068",
     "ppp": "69963.25",
-    "debt": "48.5"
+    "debt": "48.5",
+    "gdp2023": "1092.748",
+    "code": "NLD",
+    "altName": "Netherlands",
+    "rusName": "Нидерланды"
   },
   {
     "country": "Netherlands Antilles",
@@ -2349,7 +2837,11 @@
     "gdp": "241.938",
     "gdppc": "47208.355",
     "ppp": "51860.746",
-    "debt": "52.8"
+    "debt": "52.8",
+    "gdp2023": "249.415",
+    "code": "NZL",
+    "altName": "New Zealand",
+    "rusName": "Новая Зеландия"
   },
   {
     "country": "Nicaragua",
@@ -2365,7 +2857,11 @@
     "gdp": "15.77",
     "gdppc": "2386.754",
     "ppp": "7180.699",
-    "debt": "46"
+    "debt": "46",
+    "gdp2023": "17.353",
+    "code": "NIC",
+    "altName": "Nicaragua",
+    "rusName": "Никарагуа"
   },
   {
     "country": "Niger",
@@ -2381,7 +2877,11 @@
     "gdp": "15.222",
     "gdppc": "583.584",
     "ppp": "1507.305",
-    "debt": "51.1"
+    "debt": "51.1",
+    "gdp2023": "17.073",
+    "code": "NER",
+    "altName": "Niger",
+    "rusName": "Нигер"
   },
   {
     "country": "Nigeria",
@@ -2397,7 +2897,11 @@
     "gdp": "477.376",
     "gdppc": "2202.456",
     "ppp": "5908.77",
-    "debt": "38"
+    "debt": "38",
+    "gdp2023": "390.002",
+    "code": "NGA",
+    "altName": "Nigeria",
+    "rusName": "Нигерия"
   },
   {
     "country": "Niue",
@@ -2477,7 +2981,11 @@
     "gdp": "13.671",
     "gdppc": "6608.08",
     "ppp": "20052.684",
-    "debt": "51.8"
+    "debt": "51.8",
+    "gdp2023": "15.801",
+    "code": "MKD",
+    "altName": "North Macedonia",
+    "rusName": "Северная Македония"
   },
   {
     "country": "Norway",
@@ -2493,7 +3001,11 @@
     "gdp": "579.267",
     "gdppc": "106328.405",
     "ppp": "78408.122",
-    "debt": "39.6"
+    "debt": "39.6",
+    "gdp2023": "546.768",
+    "code": "NOR",
+    "altName": "Norway",
+    "rusName": "Норвегия"
   },
   {
     "country": "Oman",
@@ -2509,7 +3021,11 @@
     "gdp": "114.667",
     "gdppc": "24772.462",
     "ppp": "41250.78",
-    "debt": "40.1"
+    "debt": "40.1",
+    "gdp2023": "108.282",
+    "code": "OMN",
+    "altName": "Oman",
+    "rusName": "Оман"
   },
   {
     "country": "Pakistan",
@@ -2525,7 +3041,11 @@
     "gdp": "376.493",
     "gdppc": "1658.363",
     "ppp": "6685.044",
-    "debt": "75.8"
+    "debt": "75.8",
+    "gdp2023": "340.636",
+    "code": "PAK",
+    "altName": "Pakistan",
+    "rusName": "Пакистан"
   },
   {
     "country": "Palau",
@@ -2541,7 +3061,11 @@
     "gdp": "0.225",
     "gdppc": "12716.22",
     "ppp": "14525.803",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "0.267",
+    "code": "PLW",
+    "altName": "Palau",
+    "rusName": "Палау"
   },
   {
     "country": "Palestine",
@@ -2573,7 +3097,11 @@
     "gdp": "71.966",
     "gdppc": "16373.052",
     "ppp": "37336.412",
-    "debt": "54.9"
+    "debt": "54.9",
+    "gdp2023": "82.348",
+    "code": "PAN",
+    "altName": "Panama",
+    "rusName": "Панама"
   },
   {
     "country": "Papua New Guinea",
@@ -2589,7 +3117,11 @@
     "gdp": "31.819",
     "gdppc": "3477.158",
     "ppp": "4281.761",
-    "debt": "49.2"
+    "debt": "49.2",
+    "gdp2023": "31.692",
+    "code": "PNG",
+    "altName": "Papua New Guinea",
+    "rusName": "Папуа — Новая Гвинея"
   },
   {
     "country": "Paraguay",
@@ -2605,7 +3137,11 @@
     "gdp": "41.284",
     "gdppc": "5538.714",
     "ppp": "14552.819",
-    "debt": "40.9"
+    "debt": "40.9",
+    "gdp2023": "44.142",
+    "code": "PRY",
+    "altName": "Paraguay",
+    "rusName": "Парагвай"
   },
   {
     "country": "Peru",
@@ -2621,7 +3157,11 @@
     "gdp": "242.396",
     "gdppc": "7094.448",
     "ppp": "15325.405",
-    "debt": "33.4"
+    "debt": "33.4",
+    "gdp2023": "264.636",
+    "code": "PER",
+    "altName": "Peru",
+    "rusName": "Перу"
   },
   {
     "country": "Philippines",
@@ -2637,7 +3177,11 @@
     "gdp": "404.261",
     "gdppc": "3623.389",
     "ppp": "10497.101",
-    "debt": "57.5"
+    "debt": "57.5",
+    "gdp2023": "435.675",
+    "code": "PHL",
+    "altName": "Philippines",
+    "rusName": "Филиппины"
   },
   {
     "country": "Poland",
@@ -2653,7 +3197,11 @@
     "gdp": "688.301",
     "gdppc": "18279.514",
     "ppp": "43480.398",
-    "debt": "49.6"
+    "debt": "49.6",
+    "gdp2023": "842.172",
+    "code": "POL",
+    "altName": "Poland",
+    "rusName": "Польша"
   },
   {
     "country": "Portugal",
@@ -2669,7 +3217,11 @@
     "gdp": "252.381",
     "gdppc": "24522.077",
     "ppp": "42633.757",
-    "debt": "116"
+    "debt": "116",
+    "gdp2023": "276.432",
+    "code": "PRT",
+    "altName": "Portugal",
+    "rusName": "Португалия"
   },
   {
     "country": "Puerto Rico",
@@ -2685,7 +3237,11 @@
     "gdp": "116.459",
     "gdppc": "36798.351",
     "ppp": "41641.894",
-    "debt": "16.3"
+    "debt": "16.3",
+    "gdp2023": "117.515",
+    "code": "PRI",
+    "altName": "Puerto Rico",
+    "rusName": "Пуэрто-Рико"
   },
   {
     "country": "Qatar",
@@ -2701,7 +3257,11 @@
     "gdp": "225.477",
     "gdppc": "84424.832",
     "ppp": "115044.813",
-    "debt": "45.3"
+    "debt": "45.3",
+    "gdp2023": "235.5",
+    "code": "QAT",
+    "altName": "Qatar",
+    "rusName": "Катар"
   },
   {
     "country": "Congo",
@@ -2717,7 +3277,11 @@
     "gdp": "12.53",
     "gdppc": "2547.288",
     "ppp": "4889.378",
-    "debt": "99.6"
+    "debt": "99.6",
+    "gdp2023": "14.407",
+    "code": "COG",
+    "altName": "Republic of the Congo",
+    "rusName": "Республика Конго"
   },
   {
     "country": "Reunion",
@@ -2749,7 +3313,11 @@
     "gdp": "301.845",
     "gdppc": "15851.136",
     "ppp": "38721.348",
-    "debt": "48.7"
+    "debt": "48.7",
+    "gdp2023": "350.414",
+    "code": "ROU",
+    "altName": "Romania",
+    "rusName": "Румыния"
   },
   {
     "country": "Russian Federation",
@@ -2765,7 +3333,11 @@
     "gdp": "2215.294",
     "gdppc": "15443.829",
     "ppp": "33262.704",
-    "debt": "19.6"
+    "debt": "19.6",
+    "gdp2023": "1862.47",
+    "code": "RUS",
+    "altName": "Russia",
+    "rusName": "Россия"
   },
   {
     "country": "Rwanda",
@@ -2781,7 +3353,11 @@
     "gdp": "12.703",
     "gdppc": "958.41",
     "ppp": "2866.562",
-    "debt": "64.4"
+    "debt": "64.4",
+    "gdp2023": "13.927",
+    "code": "RWA",
+    "altName": "Rwanda",
+    "rusName": "Руанда"
   },
   {
     "country": "Saint Barthelemy",
@@ -2829,7 +3405,11 @@
     "gdp": "0.973",
     "gdppc": "16694.941",
     "ppp": "27617.008",
-    "debt": "64.8"
+    "debt": "64.8",
+    "gdp2023": "1.069",
+    "code": "KNA",
+    "altName": "Saint Kitts and Nevis",
+    "rusName": "Сент-Китс и Невис"
   },
   {
     "country": "Sint Maarten (France)",
@@ -2877,7 +3457,11 @@
     "gdp": "0.947",
     "gdppc": "8537.409",
     "ppp": "16185.459",
-    "debt": "86.8"
+    "debt": "86.8",
+    "gdp2023": "1.039",
+    "code": "VCT",
+    "altName": "Saint Vincent and the Grenadines",
+    "rusName": "Сент-Винсент и Гренадины"
   },
   {
     "country": "Samoa",
@@ -2893,7 +3477,11 @@
     "gdp": "0.832",
     "gdppc": "4140.002",
     "ppp": "5838.587",
-    "debt": "43.7"
+    "debt": "43.7",
+    "gdp2023": "0.939",
+    "code": "WSM",
+    "altName": "Samoa",
+    "rusName": "Самоа"
   },
   {
     "country": "San Marino",
@@ -2909,7 +3497,11 @@
     "gdp": "1.686",
     "gdppc": "49555.374",
     "ppp": "75335.491",
-    "debt": "81.2"
+    "debt": "81.2",
+    "gdp2023": "1.998",
+    "code": "SMR",
+    "altName": "San Marino",
+    "rusName": "Сан-Марино"
   },
   {
     "country": "Sao Tome and Principe",
@@ -2925,7 +3517,11 @@
     "gdp": "0",
     "gdppc": "0",
     "ppp": "0",
-    "debt": "58.1"
+    "debt": "58.1",
+    "gdp2023": "0.674",
+    "code": "STP",
+    "altName": "Sao Tome and Principe",
+    "rusName": "Сан-Томе и Принсипи"
   },
   {
     "country": "Saudi Arabia",
@@ -2941,7 +3537,11 @@
     "gdp": "1108.149",
     "gdppc": "31849.729",
     "ppp": "61807.594",
-    "debt": "22.6"
+    "debt": "22.6",
+    "gdp2023": "1069.437",
+    "code": "SAU",
+    "altName": "Saudi Arabia",
+    "rusName": "Саудовская Аравия"
   },
   {
     "country": "Senegal",
@@ -2957,7 +3557,11 @@
     "gdp": "27.462",
     "gdppc": "1553.584",
     "ppp": "4126.205",
-    "debt": "75"
+    "debt": "75",
+    "gdp2023": "31.141",
+    "code": "SEN",
+    "altName": "Senegal",
+    "rusName": "Сенегал"
   },
   {
     "country": "Serbia",
@@ -2973,7 +3577,11 @@
     "gdp": "70.909",
     "gdppc": "10360.718",
     "ppp": "23919.7",
-    "debt": "53.5"
+    "debt": "53.5",
+    "gdp2023": "75.015",
+    "code": "SRB",
+    "altName": "Serbia",
+    "rusName": "Сербия"
   },
   {
     "country": "Seychelles",
@@ -2989,7 +3597,11 @@
     "gdp": "1.926",
     "gdppc": "19466.276",
     "ppp": "37088.646",
-    "debt": "63.4"
+    "debt": "63.4",
+    "gdp2023": "2.085",
+    "code": "SYC",
+    "altName": "Seychelles",
+    "rusName": "Сейшельские Острова"
   },
   {
     "country": "Sierra Leone",
@@ -3005,7 +3617,11 @@
     "gdp": "3.939",
     "gdppc": "474.058",
     "ppp": "1985.587",
-    "debt": "98.8"
+    "debt": "98.8",
+    "gdp2023": "3.519",
+    "code": "SLE",
+    "altName": "Sierra Leone",
+    "rusName": "Сьерра-Леоне"
   },
   {
     "country": "Singapore",
@@ -3021,7 +3637,11 @@
     "gdp": "466.789",
     "gdppc": "82807.649",
     "ppp": "127563.808",
-    "debt": "134.2"
+    "debt": "134.2",
+    "gdp2023": "497.347",
+    "code": "SGP",
+    "altName": "Singapore",
+    "rusName": "Сингапур"
   },
   {
     "country": "Sint Maarten",
@@ -3053,7 +3673,11 @@
     "gdp": "113.529",
     "gdppc": "20889.59",
     "ppp": "39490.023",
-    "debt": "58.8"
+    "debt": "58.8",
+    "gdp2023": "133.044",
+    "code": "SVK",
+    "altName": "Slovak Republic",
+    "rusName": "Словакия"
   },
   {
     "country": "Slovenia",
@@ -3069,7 +3693,11 @@
     "gdp": "62.167",
     "gdppc": "29502.336",
     "ppp": "50058.763",
-    "debt": "70.2"
+    "debt": "70.2",
+    "gdp2023": "68.394",
+    "code": "SVN",
+    "altName": "Slovenia",
+    "rusName": "Словения"
   },
   {
     "country": "Solomon Islands",
@@ -3085,7 +3713,11 @@
     "gdp": "1.596",
     "gdppc": "2211.49",
     "ppp": "2324.932",
-    "debt": "16.9"
+    "debt": "16.9",
+    "gdp2023": "1.69",
+    "code": "SLB",
+    "altName": "Solomon Islands",
+    "rusName": "Соломоновы Острова"
   },
   {
     "country": "Somalia",
@@ -3101,7 +3733,11 @@
     "gdp": "8.158",
     "gdppc": "522.448",
     "ppp": "1323.397",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "11.515",
+    "code": "SOM",
+    "altName": "Somalia",
+    "rusName": "Сомали"
   },
   {
     "country": "South Africa",
@@ -3117,10 +3753,14 @@
     "gdp": "405.705",
     "gdppc": "6694.358",
     "ppp": "15718.395",
-    "debt": "71"
+    "debt": "71",
+    "gdp2023": "380.906",
+    "code": "ZAF",
+    "altName": "South Africa",
+    "rusName": "ЮАР"
   },
   {
-    "country": "Korea",
+    "country": "South Korea",
     "phoneCode": "+82",
     "capital": "Seoul",
     "abbr": "KOR",
@@ -3133,7 +3773,11 @@
     "gdp": "1665.246",
     "gdppc": "32250.409",
     "ppp": "53735.869",
-    "debt": "54.3"
+    "debt": "54.3",
+    "gdp2023": "1709.232",
+    "code": "KOR",
+    "altName": "Korea, Rep.",
+    "rusName": "Республика Корея"
   },
   {
     "country": "South Sudan",
@@ -3149,7 +3793,11 @@
     "gdp": "0",
     "gdppc": "0",
     "ppp": "0",
-    "debt": "39.6"
+    "debt": "39.6",
+    "gdp2023": "6.267",
+    "code": "SSD",
+    "altName": "South Sudan",
+    "rusName": "Южный Судан"
   },
   {
     "country": "Spain",
@@ -3165,7 +3813,11 @@
     "gdp": "1400.52",
     "gdppc": "29420.615",
     "ppp": "47111.338",
-    "debt": "112"
+    "debt": "112",
+    "gdp2023": "1582.054",
+    "code": "ESP",
+    "altName": "Spain",
+    "rusName": "Испания"
   },
   {
     "country": "Sri Lanka",
@@ -3181,7 +3833,11 @@
     "gdp": "75.296",
     "gdppc": "3362.075",
     "ppp": "14283.293",
-    "debt": "117.7"
+    "debt": "117.7",
+    "gdp2023": "0",
+    "code": "LKA",
+    "altName": "Sri Lanka",
+    "rusName": "Шри-Ланка"
   },
   {
     "country": "Saint Lucia",
@@ -3197,7 +3853,11 @@
     "gdp": "2.084",
     "gdppc": "11370.586",
     "ppp": "17348.444",
-    "debt": "83.5"
+    "debt": "83.5",
+    "gdp2023": "2.469",
+    "code": "LCA",
+    "altName": "Saint Lucia",
+    "rusName": "Сент-Люсия"
   },
   {
     "country": "Sudan",
@@ -3213,7 +3873,11 @@
     "gdp": "49.423",
     "gdppc": "1058.724",
     "ppp": "4366.388",
-    "debt": "127.6"
+    "debt": "127.6",
+    "gdp2023": "25.569",
+    "code": "SDN",
+    "altName": "Sudan",
+    "rusName": "Судан"
   },
   {
     "country": "Suriname",
@@ -3229,7 +3893,11 @@
     "gdp": "3.521",
     "gdppc": "5705.726",
     "ppp": "17549.645",
-    "debt": "123.2"
+    "debt": "123.2",
+    "gdp2023": "3.539",
+    "code": "SUR",
+    "altName": "Suriname",
+    "rusName": "Суринам"
   },
   {
     "country": "Eswatini",
@@ -3245,7 +3913,11 @@
     "gdp": "4.462",
     "gdppc": "3876.193",
     "ppp": "10881.751",
-    "debt": "45.4"
+    "debt": "45.4",
+    "gdp2023": "4.648",
+    "code": "SWZ",
+    "altName": "Eswatini",
+    "rusName": "Эсватини"
   },
   {
     "country": "Sweden",
@@ -3261,7 +3933,11 @@
     "gdp": "585.939",
     "gdppc": "55689.403",
     "ppp": "65496.374",
-    "debt": "31.7"
+    "debt": "31.7",
+    "gdp2023": "597.11",
+    "code": "SWE",
+    "altName": "Sweden",
+    "rusName": "Швеция"
   },
   {
     "country": "Switzerland",
@@ -3277,7 +3953,11 @@
     "gdp": "807.234",
     "gdppc": "92371.449",
     "ppp": "84660.827",
-    "debt": "39.1"
+    "debt": "39.1",
+    "gdp2023": "905.684",
+    "code": "CHE",
+    "altName": "Switzerland",
+    "rusName": "Швейцария"
   },
   {
     "country": "Syria",
@@ -3293,7 +3973,11 @@
     "gdp": "0",
     "gdppc": "0",
     "ppp": "0",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "0",
+    "code": "SYR",
+    "altName": "Syrian Arab Republic",
+    "rusName": "Сирия"
   },
   {
     "country": "Taiwan",
@@ -3309,7 +3993,11 @@
     "gdp": "761.691",
     "gdppc": "32643.218",
     "ppp": "69150.72",
-    "debt": "27.5"
+    "debt": "27.5",
+    "gdp2023": "751.93",
+    "code": "TWN",
+    "altName": "Taiwan",
+    "rusName": "Тайвань"
   },
   {
     "country": "Tajikistan",
@@ -3325,7 +4013,11 @@
     "gdp": "10.467",
     "gdppc": "1064.12",
     "ppp": "4942.609",
-    "debt": "34.6"
+    "debt": "34.6",
+    "gdp2023": "11.816",
+    "code": "TJK",
+    "altName": "Tajikistan",
+    "rusName": "Таджикистан"
   },
   {
     "country": "Tanzania",
@@ -3341,7 +4033,11 @@
     "gdp": "77.063",
     "gdppc": "1252.854",
     "ppp": "3393.846",
-    "debt": "41.6"
+    "debt": "41.6",
+    "gdp2023": "84.033",
+    "code": "TZA",
+    "altName": "Tanzania",
+    "rusName": "Танзания"
   },
   {
     "country": "Thailand",
@@ -3357,7 +4053,11 @@
     "gdp": "536.16",
     "gdppc": "7650.884",
     "ppp": "21152.758",
-    "debt": "60.5"
+    "debt": "60.5",
+    "gdp2023": "512.193",
+    "code": "THA",
+    "altName": "Thailand",
+    "rusName": "Таиланд"
   },
   {
     "country": "Timor-Leste",
@@ -3373,7 +4073,11 @@
     "gdp": "3.659",
     "gdppc": "2671.972",
     "ppp": "5478.516",
-    "debt": "7.5"
+    "debt": "7.5",
+    "gdp2023": "2.023",
+    "code": "TLS",
+    "altName": "Timor-Leste",
+    "rusName": "Восточный Тимор"
   },
   {
     "country": "Togo",
@@ -3389,7 +4093,11 @@
     "gdp": "8.173",
     "gdppc": "921.322",
     "ppp": "2576.786",
-    "debt": "68"
+    "debt": "68",
+    "gdp2023": "9.111",
+    "code": "TGO",
+    "altName": "Togo",
+    "rusName": "Того"
   },
   {
     "country": "Tokelau",
@@ -3421,7 +4129,11 @@
     "gdp": "0.498",
     "gdppc": "4978.403",
     "ppp": "6686.356",
-    "debt": "46.6"
+    "debt": "46.6",
+    "gdp2023": "0.547",
+    "code": "TON",
+    "altName": "Tonga",
+    "rusName": "Тонга"
   },
   {
     "country": "Trinidad and Tobago",
@@ -3437,7 +4149,11 @@
     "gdp": "27.883",
     "gdppc": "19717.785",
     "ppp": "30075.082",
-    "debt": "53.8"
+    "debt": "53.8",
+    "gdp2023": "27.887",
+    "code": "TTO",
+    "altName": "Trinidad and Tobago",
+    "rusName": "Тринидад и Тобаго"
   },
   {
     "country": "Tunisia",
@@ -3453,7 +4169,11 @@
     "gdp": "46.601",
     "gdppc": "3842.113",
     "ppp": "12723.433",
-    "debt": "79.4"
+    "debt": "79.4",
+    "gdp2023": "51.271",
+    "code": "TUN",
+    "altName": "Tunisia",
+    "rusName": "Тунис"
   },
   {
     "country": "Turkey",
@@ -3469,7 +4189,11 @@
     "gdp": "905.527",
     "gdppc": "10618.285",
     "ppp": "39300.606",
-    "debt": "31.2"
+    "debt": "31.2",
+    "gdp2023": "1154.6",
+    "code": "TUR",
+    "altName": "Türkiye",
+    "rusName": "Турция"
   },
   {
     "country": "Turkmenistan",
@@ -3485,7 +4209,11 @@
     "gdp": "78.003",
     "gdppc": "12499.946",
     "ppp": "19058.911",
-    "debt": "5.2"
+    "debt": "5.2",
+    "gdp2023": "81.822",
+    "code": "TKM",
+    "altName": "Turkmenistan",
+    "rusName": "Туркмения"
   },
   {
     "country": "Turks and Caicos Islands",
@@ -3517,7 +4245,11 @@
     "gdp": "0.06",
     "gdppc": "5570.524",
     "ppp": "5375.797",
-    "debt": "7.6"
+    "debt": "7.6",
+    "gdp2023": "0.063",
+    "code": "TUV",
+    "altName": "Tuvalu",
+    "rusName": "Тувалу"
   },
   {
     "country": "Uganda",
@@ -3533,7 +4265,11 @@
     "gdp": "48.841",
     "gdppc": "1116.777",
     "ppp": "3026.503",
-    "debt": "50.8"
+    "debt": "50.8",
+    "gdp2023": "52.39",
+    "code": "UGA",
+    "altName": "Uganda",
+    "rusName": "Уганда"
   },
   {
     "country": "Ukraine",
@@ -3549,7 +4285,11 @@
     "gdp": "151.502",
     "gdppc": "4348.57",
     "ppp": "12660.148",
-    "debt": "81.7"
+    "debt": "81.7",
+    "gdp2023": "173.413",
+    "code": "UKR",
+    "altName": "Ukraine",
+    "rusName": "Украина"
   },
   {
     "country": "United Arab Emirates",
@@ -3565,7 +4305,11 @@
     "gdp": "507.535",
     "gdppc": "51305.686",
     "ppp": "83726.915",
-    "debt": "30"
+    "debt": "30",
+    "gdp2023": "509.179",
+    "code": "ARE",
+    "altName": "United Arab Emirates",
+    "rusName": "ОАЭ"
   },
   {
     "country": "United Kingdom",
@@ -3581,7 +4325,11 @@
     "gdp": "3070.6",
     "gdppc": "45294.805",
     "ppp": "54795.095",
-    "debt": "102.6"
+    "debt": "102.6",
+    "gdp2023": "3332.059",
+    "code": "GBR",
+    "altName": "Great Britain",
+    "rusName": "Великобритания"
   },
   {
     "country": "United States",
@@ -3597,7 +4345,11 @@
     "gdp": "25464.475",
     "gdppc": "76348.494",
     "ppp": "76348.494",
-    "debt": "121.7"
+    "debt": "121.7",
+    "gdp2023": "26949.643",
+    "code": "USA",
+    "altName": "United States",
+    "rusName": "США"
   },
   {
     "country": "Uruguay",
@@ -3613,7 +4365,11 @@
     "gdp": "71.887",
     "gdppc": "20221.94",
     "ppp": "27226.512",
-    "debt": "61"
+    "debt": "61",
+    "gdp2023": "76.244",
+    "code": "URY",
+    "altName": "Uruguay",
+    "rusName": "Уругвай"
   },
   {
     "country": "Virgin Islands. U.S.",
@@ -3645,7 +4401,11 @@
     "gdp": "80.418",
     "gdppc": "2279.992",
     "ppp": "9634.286",
-    "debt": "34.3"
+    "debt": "34.3",
+    "gdp2023": "90.392",
+    "code": "UZB",
+    "altName": "Uzbekistan",
+    "rusName": "Узбекистан"
   },
   {
     "country": "Vanuatu",
@@ -3661,7 +4421,11 @@
     "gdp": "1.001",
     "gdppc": "3102.955",
     "ppp": "2889.907",
-    "debt": "45.8"
+    "debt": "45.8",
+    "gdp2023": "1.166",
+    "code": "VUT",
+    "altName": "Vanuatu",
+    "rusName": "Вануату"
   },
   {
     "country": "Vatican",
@@ -3693,7 +4457,11 @@
     "gdp": "93.111",
     "gdppc": "3459.154",
     "ppp": "7259.276",
-    "debt": "157.8"
+    "debt": "157.8",
+    "gdp2023": "92.21",
+    "code": "VEN",
+    "altName": "Venezuela",
+    "rusName": "Венесуэла"
   },
   {
     "country": "Vietnam",
@@ -3709,7 +4477,11 @@
     "gdp": "406.452",
     "gdppc": "4086.519",
     "ppp": "13283.995",
-    "debt": "37.1"
+    "debt": "37.1",
+    "gdp2023": "433.356",
+    "code": "VNM",
+    "altName": "Vietnam",
+    "rusName": "Вьетнам"
   },
   {
     "country": "Wallis and Futuna",
@@ -3773,7 +4545,11 @@
     "gdp": "20.645",
     "gdppc": "619.55",
     "ppp": "2021.342",
-    "debt": "73.5"
+    "debt": "73.5",
+    "gdp2023": "21.045",
+    "code": "YEM",
+    "altName": "Yemen",
+    "rusName": "Йемен"
   },
   {
     "country": "Zambia",
@@ -3789,7 +4565,11 @@
     "gdp": "28.5",
     "gdppc": "1423.753",
     "ppp": "3845.825",
-    "debt": "0"
+    "debt": "0",
+    "gdp2023": "29.536",
+    "code": "ZMB",
+    "altName": "Zambia",
+    "rusName": "Замбия"
   },
   {
     "country": "Zimbabwe",
@@ -3805,6 +4585,10 @@
     "gdp": "33.02",
     "gdppc": "2087.671",
     "ppp": "2522.949",
-    "debt": "92.8"
+    "debt": "92.8",
+    "gdp2023": "32.424",
+    "code": "ZWE",
+    "altName": "Zimbabwe",
+    "rusName": "Зимбабве"
   }
 ]
