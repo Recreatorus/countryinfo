@@ -15,7 +15,8 @@
     "gdpppppc2023": "0",
     "rusName": "Афганистан",
     "debt": "0",
-    "pop2023": 42239854
+    "pop2023": 42239854,
+    "growthgdp2023": "0"
   },
   {
     "country": "Albania",
@@ -33,7 +34,8 @@
     "gdpppppc2023": "19566.008",
     "rusName": "Албания",
     "debt": "67.6",
-    "pop2023": 2832439
+    "pop2023": 2832439,
+    "growthgdp2023": "3.6"
   },
   {
     "country": "Algeria",
@@ -51,7 +53,8 @@
     "gdpppppc2023": "13681.621",
     "rusName": "Алжир",
     "debt": "52.4",
-    "pop2023": 45606480
+    "pop2023": 45606480,
+    "growthgdp2023": "3.8"
   },
   {
     "country": "American Samoa",
@@ -69,7 +72,8 @@
     "gdpppppc2023": "0",
     "rusName": "Американское Самоа",
     "debt": "0",
-    "pop2023": 43914
+    "pop2023": 43914,
+    "growthgdp2023": "0"
   },
   {
     "country": "Andorra",
@@ -87,7 +91,8 @@
     "gdpppppc2023": "68232.145",
     "rusName": "Андорра",
     "debt": "38.8",
-    "pop2023": 80088
+    "pop2023": 80088,
+    "growthgdp2023": "2.1"
   },
   {
     "country": "Angola",
@@ -105,7 +110,8 @@
     "gdpppppc2023": "7077.302",
     "rusName": "Ангола",
     "debt": "67",
-    "pop2023": 36684202
+    "pop2023": 36684202,
+    "growthgdp2023": "1.3"
   },
   {
     "country": "Anguilla",
@@ -123,7 +129,8 @@
     "gdpppppc2023": "0",
     "rusName": "Ангилья",
     "debt": "0",
-    "pop2023": 15899
+    "pop2023": 15899,
+    "growthgdp2023": "0"
   },
   {
     "country": "Antigua and Barbuda",
@@ -141,7 +148,8 @@
     "gdpppppc2023": "25448.994",
     "rusName": "Антигуа и Барбуда",
     "debt": "90.6",
-    "pop2023": 94298
+    "pop2023": 94298,
+    "growthgdp2023": "5.6"
   },
   {
     "country": "Argentina",
@@ -159,7 +167,8 @@
     "gdpppppc2023": "26506.087",
     "rusName": "Аргентина",
     "debt": "84.5",
-    "pop2023": 45773884
+    "pop2023": 45773884,
+    "growthgdp2023": "-2.5"
   },
   {
     "country": "Armenia",
@@ -177,7 +186,8 @@
     "gdpppppc2023": "19744.708",
     "rusName": "Армения",
     "debt": "49.3",
-    "pop2023": 2777970
+    "pop2023": 2777970,
+    "growthgdp2023": "7"
   },
   {
     "country": "Aruba",
@@ -195,7 +205,8 @@
     "gdpppppc2023": "51352.313",
     "rusName": "Аруба",
     "debt": "92",
-    "pop2023": 106277
+    "pop2023": 106277,
+    "growthgdp2023": "2.3"
   },
   {
     "country": "Australia",
@@ -213,7 +224,8 @@
     "gdpppppc2023": "64673.825",
     "rusName": "Австралия",
     "debt": "55.7",
-    "pop2023": 26439111
+    "pop2023": 26439111,
+    "growthgdp2023": "1.8"
   },
   {
     "country": "Austria",
@@ -231,7 +243,8 @@
     "gdpppppc2023": "69069.001",
     "rusName": "Австрия",
     "debt": "77.8",
-    "pop2023": 8958960
+    "pop2023": 8958960,
+    "growthgdp2023": "0.1"
   },
   {
     "country": "Azerbaijan",
@@ -249,7 +262,8 @@
     "gdpppppc2023": "18694.357",
     "rusName": "Азербайджан",
     "debt": "20.7",
-    "pop2023": 10412651
+    "pop2023": 10412651,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Bahamas",
@@ -267,7 +281,8 @@
     "gdpppppc2023": "44949.516",
     "rusName": "Багамские Острова",
     "debt": "89.4",
-    "pop2023": 412623
+    "pop2023": 412623,
+    "growthgdp2023": "4.3"
   },
   {
     "country": "Bahrain",
@@ -285,7 +300,8 @@
     "gdpppppc2023": "60715.023",
     "rusName": "Бахрейн",
     "debt": "117.6",
-    "pop2023": 1485509
+    "pop2023": 1485509,
+    "growthgdp2023": "2.7"
   },
   {
     "country": "Bangladesh",
@@ -303,7 +319,8 @@
     "gdpppppc2023": "8673.259",
     "rusName": "Бангладеш",
     "debt": "39.1",
-    "pop2023": 172954319
+    "pop2023": 172954319,
+    "growthgdp2023": "6"
   },
   {
     "country": "Barbados",
@@ -321,7 +338,8 @@
     "gdpppppc2023": "18738.267",
     "rusName": "Барбадос",
     "debt": "120.8",
-    "pop2023": 281995
+    "pop2023": 281995,
+    "growthgdp2023": "4.5"
   },
   {
     "country": "Belarus",
@@ -339,7 +357,8 @@
     "gdpppppc2023": "24016.597",
     "rusName": "Белоруссия",
     "debt": "39.8",
-    "pop2023": 9498238
+    "pop2023": 9498238,
+    "growthgdp2023": "1.6"
   },
   {
     "country": "Belgium",
@@ -357,7 +376,8 @@
     "gdpppppc2023": "65813.45",
     "rusName": "Бельгия",
     "debt": "105.3",
-    "pop2023": 11686140
+    "pop2023": 11686140,
+    "growthgdp2023": "1"
   },
   {
     "country": "Belize",
@@ -375,7 +395,8 @@
     "gdpppppc2023": "11166.103",
     "rusName": "Белиз",
     "debt": "64.1",
-    "pop2023": 410825
+    "pop2023": 410825,
+    "growthgdp2023": "4"
   },
   {
     "country": "Benin",
@@ -393,7 +414,8 @@
     "gdpppppc2023": "4305.305",
     "rusName": "Бенин",
     "debt": "52.4",
-    "pop2023": 13712828
+    "pop2023": 13712828,
+    "growthgdp2023": "5.5"
   },
   {
     "country": "Bermuda",
@@ -411,7 +433,8 @@
     "gdpppppc2023": "0",
     "rusName": "Бермудские Острова",
     "debt": "0",
-    "pop2023": 64069
+    "pop2023": 64069,
+    "growthgdp2023": "0"
   },
   {
     "country": "Bhutan",
@@ -429,7 +452,8 @@
     "gdpppppc2023": "14296.921",
     "rusName": "Бутан",
     "debt": "124.8",
-    "pop2023": 787424
+    "pop2023": 787424,
+    "growthgdp2023": "5.3"
   },
   {
     "country": "Bolivia",
@@ -447,7 +471,8 @@
     "gdpppppc2023": "10340.343",
     "rusName": "Боливия",
     "debt": "82.6",
-    "pop2023": 12388571
+    "pop2023": 12388571,
+    "growthgdp2023": "1.8"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -465,7 +490,8 @@
     "gdpppppc2023": "19633.561",
     "rusName": "Босния и Герцеговина",
     "debt": "29.6",
-    "pop2023": 3210847
+    "pop2023": 3210847,
+    "growthgdp2023": "2"
   },
   {
     "country": "Botswana",
@@ -483,7 +509,8 @@
     "gdpppppc2023": "19394.054",
     "rusName": "Ботсвана",
     "debt": "19.9",
-    "pop2023": 2675352
+    "pop2023": 2675352,
+    "growthgdp2023": "3.8"
   },
   {
     "country": "Brazil",
@@ -501,7 +528,8 @@
     "gdpppppc2023": "20078.869",
     "rusName": "Бразилия",
     "debt": "85.9",
-    "pop2023": 216422446
+    "pop2023": 216422446,
+    "growthgdp2023": "3.1"
   },
   {
     "country": "British Indian Ocean Territory",
@@ -519,7 +547,8 @@
     "gdpppppc2023": "0",
     "rusName": "Британская территория в Индийском океане",
     "debt": "0.0",
-    "pop2023": 0
+    "pop2023": 0,
+    "growthgdp2023": "0"
   },
   {
     "country": "British Virgin Islands",
@@ -537,7 +566,8 @@
     "gdpppppc2023": "0",
     "rusName": "Британские Виргинские острова",
     "debt": "0.0",
-    "pop2023": 31538
+    "pop2023": 31538,
+    "growthgdp2023": "0"
   },
   {
     "country": "Brunei",
@@ -555,7 +585,8 @@
     "gdpppppc2023": "72609.57",
     "rusName": "Бруней",
     "debt": "2.1",
-    "pop2023": 452524
+    "pop2023": 452524,
+    "growthgdp2023": "-0.8"
   },
   {
     "country": "Bulgaria",
@@ -573,7 +604,8 @@
     "gdpppppc2023": "33780.382",
     "rusName": "Болгария",
     "debt": "21.8",
-    "pop2023": 6687717
+    "pop2023": 6687717,
+    "growthgdp2023": "1.7"
   },
   {
     "country": "Burkina Faso",
@@ -591,7 +623,8 @@
     "gdpppppc2023": "2682.633",
     "rusName": "Буркина-Фасо",
     "debt": "54.3",
-    "pop2023": 23251485
+    "pop2023": 23251485,
+    "growthgdp2023": "4.4"
   },
   {
     "country": "Burundi",
@@ -609,10 +642,11 @@
     "gdpppppc2023": "890.181",
     "rusName": "Бурунди",
     "debt": "68.3",
-    "pop2023": 13238559
+    "pop2023": 13238559,
+    "growthgdp2023": "3.3"
   },
   {
-    "country": "Cape Verde",
+    "country": "Cabo Verde",
     "phoneCode": "+238",
     "capital": "Praia",
     "abbr": "CPV",
@@ -627,7 +661,8 @@
     "gdpppppc2023": "9909.372",
     "rusName": "Кабо-Верде",
     "debt": "127.4",
-    "pop2023": 598682
+    "pop2023": 598682,
+    "growthgdp2023": "4.4"
   },
   {
     "country": "Cambodia",
@@ -645,7 +680,8 @@
     "gdpppppc2023": "6086.738",
     "rusName": "Камбоджа",
     "debt": "36.5",
-    "pop2023": 16944826
+    "pop2023": 16944826,
+    "growthgdp2023": "5.6"
   },
   {
     "country": "Cameroon",
@@ -663,7 +699,8 @@
     "gdpppppc2023": "4660.749",
     "rusName": "Камерун",
     "debt": "46.4",
-    "pop2023": 28647293
+    "pop2023": 28647293,
+    "growthgdp2023": "4"
   },
   {
     "country": "Canada",
@@ -681,7 +718,8 @@
     "gdpppppc2023": "59813.405",
     "rusName": "Канада",
     "debt": "106.6",
-    "pop2023": 38781291
+    "pop2023": 38781291,
+    "growthgdp2023": "1.3"
   },
   {
     "country": "Cayman Islands",
@@ -699,7 +737,8 @@
     "gdpppppc2023": "0",
     "rusName": "Каймановы о-ва",
     "debt": "0",
-    "pop2023": 69310
+    "pop2023": 69310,
+    "growthgdp2023": "0"
   },
   {
     "country": "Central African Republic",
@@ -717,7 +756,8 @@
     "gdpppppc2023": "1109.166",
     "rusName": "ЦАР",
     "debt": "50.7",
-    "pop2023": 5742315
+    "pop2023": 5742315,
+    "growthgdp2023": "1"
   },
   {
     "country": "Chad",
@@ -735,7 +775,8 @@
     "gdpppppc2023": "1806.554",
     "rusName": "Чад",
     "debt": "50.4",
-    "pop2023": 18278568
+    "pop2023": 18278568,
+    "growthgdp2023": "4"
   },
   {
     "country": "Chile",
@@ -753,7 +794,8 @@
     "gdpppppc2023": "29934.527",
     "rusName": "Чили",
     "debt": "38",
-    "pop2023": 19629590
+    "pop2023": 19629590,
+    "growthgdp2023": "-0.5"
   },
   {
     "country": "China",
@@ -771,7 +813,8 @@
     "gdpppppc2023": "23308.77",
     "rusName": "Китай (Китайская Народная Республика)",
     "debt": "77.1",
-    "pop2023": 1425671352
+    "pop2023": 1425671352,
+    "growthgdp2023": "5"
   },
   {
     "country": "Colombia",
@@ -789,7 +832,8 @@
     "gdpppppc2023": "19482.312",
     "rusName": "Колумбия",
     "debt": "63.6",
-    "pop2023": 52085168
+    "pop2023": 52085168,
+    "growthgdp2023": "1.4"
   },
   {
     "country": "Comoros",
@@ -807,7 +851,8 @@
     "gdpppppc2023": "3463.629",
     "rusName": "Коморы",
     "debt": "29.1",
-    "pop2023": 852075
+    "pop2023": 852075,
+    "growthgdp2023": "3"
   },
   {
     "country": "Cook Islands",
@@ -825,7 +870,8 @@
     "gdpppppc2023": "0",
     "rusName": "Острова Кука",
     "debt": "0",
-    "pop2023": 17044
+    "pop2023": 17044,
+    "growthgdp2023": "0"
   },
   {
     "country": "Costa Rica",
@@ -843,10 +889,11 @@
     "gdpppppc2023": "26809.246",
     "rusName": "Коста-Рика",
     "debt": "63.8",
-    "pop2023": 5212173
+    "pop2023": 5212173,
+    "growthgdp2023": "4.4"
   },
   {
-    "country": "Ivory Coast",
+    "country": "Côte d'Ivoire",
     "phoneCode": "+225",
     "capital": "Yamoussoukro",
     "abbr": "CIV",
@@ -861,7 +908,8 @@
     "gdpppppc2023": "6960.091",
     "rusName": "Кот-д'Ивуар",
     "debt": "56.8",
-    "pop2023": 28873034
+    "pop2023": 28873034,
+    "growthgdp2023": "6.2"
   },
   {
     "country": "Croatia",
@@ -879,7 +927,8 @@
     "gdpppppc2023": "42873.038",
     "rusName": "Хорватия",
     "debt": "67.5",
-    "pop2023": 4008617
+    "pop2023": 4008617,
+    "growthgdp2023": "2.7"
   },
   {
     "country": "Cuba",
@@ -897,7 +946,8 @@
     "gdpppppc2023": "0",
     "rusName": "Куба",
     "debt": "0",
-    "pop2023": 11194449
+    "pop2023": 11194449,
+    "growthgdp2023": "0"
   },
   {
     "country": "Curacao",
@@ -915,7 +965,8 @@
     "gdpppppc2023": "0",
     "rusName": "Кюрасао",
     "debt": "0",
-    "pop2023": 192077
+    "pop2023": 192077,
+    "growthgdp2023": "0"
   },
   {
     "country": "Cyprus",
@@ -933,7 +984,8 @@
     "gdpppppc2023": "53931.286",
     "rusName": "Кипр",
     "debt": "86.5",
-    "pop2023": 1260138
+    "pop2023": 1260138,
+    "growthgdp2023": "2.2"
   },
   {
     "country": "Czech Republic",
@@ -951,14 +1003,15 @@
     "gdpppppc2023": "49025.44",
     "rusName": "Чехия",
     "debt": "42.3",
-    "pop2023": 10495295
+    "pop2023": 10495295,
+    "growthgdp2023": "0.2"
   },
   {
     "country": "Denmark",
     "phoneCode": "+243",
     "capital": "Kinshasa",
     "abbr": "DNK",
-    "id": "CD",
+    "id": "DK",
     "currency": "CDF",
     "timezones": "UTC+01:00",
     "area": 2344858,
@@ -967,9 +1020,10 @@
     "gdp2023": "67.512",
     "gdppc2023": "675.477",
     "gdpppppc2023": "1509.618",
-    "rusName": "ДР Конго",
+    "rusName": "Дания",
     "debt": "14.6",
-    "pop2023": 5910913
+    "pop2023": 5910913,
+    "growthgdp2023": "1.7"
   },
   {
     "country": "Denmark",
@@ -987,7 +1041,8 @@
     "gdpppppc2023": "74957.663",
     "rusName": "Дания",
     "debt": "29.7",
-    "pop2023": 5910913
+    "pop2023": 5910913,
+    "growthgdp2023": "1.7"
   },
   {
     "country": "Djibouti",
@@ -1005,7 +1060,8 @@
     "gdpppppc2023": "6985.11",
     "rusName": "Джибути",
     "debt": "40.6",
-    "pop2023": 1136455
+    "pop2023": 1136455,
+    "growthgdp2023": "5"
   },
   {
     "country": "Dominica",
@@ -1023,7 +1079,8 @@
     "gdpppppc2023": "14347.83",
     "rusName": "Доминика",
     "debt": "104.8",
-    "pop2023": 73040
+    "pop2023": 73040,
+    "growthgdp2023": "4.6"
   },
   {
     "country": "Dominican Republic",
@@ -1041,7 +1098,8 @@
     "gdpppppc2023": "25523.019",
     "rusName": "Доминиканская Республика",
     "debt": "58.9",
-    "pop2023": 11332972
+    "pop2023": 11332972,
+    "growthgdp2023": "3"
   },
   {
     "country": "Ecuador",
@@ -1059,7 +1117,8 @@
     "gdpppppc2023": "13285.241",
     "rusName": "Эквадор",
     "debt": "57.3",
-    "pop2023": 18190484
+    "pop2023": 18190484,
+    "growthgdp2023": "1.4"
   },
   {
     "country": "Egypt",
@@ -1077,7 +1136,8 @@
     "gdpppppc2023": "17123.033",
     "rusName": "Египет",
     "debt": "88.5",
-    "pop2023": 112716598
+    "pop2023": 112716598,
+    "growthgdp2023": "4.2"
   },
   {
     "country": "El Salvador",
@@ -1095,7 +1155,8 @@
     "gdpppppc2023": "11717.11",
     "rusName": "Сальвадор",
     "debt": "77.2",
-    "pop2023": 6364943
+    "pop2023": 6364943,
+    "growthgdp2023": "2.2"
   },
   {
     "country": "Equatorial Guinea",
@@ -1113,7 +1174,8 @@
     "gdpppppc2023": "18362.862",
     "rusName": "Экваториальная Гвинея",
     "debt": "27.1",
-    "pop2023": 1714671
+    "pop2023": 1714671,
+    "growthgdp2023": "-6.2"
   },
   {
     "country": "Eritrea",
@@ -1131,7 +1193,8 @@
     "gdpppppc2023": "0",
     "rusName": "Эритрея",
     "debt": "163.8",
-    "pop2023": 3748901
+    "pop2023": 3748901,
+    "growthgdp2023": "0"
   },
   {
     "country": "Estonia",
@@ -1149,7 +1212,8 @@
     "gdpppppc2023": "45235.528",
     "rusName": "Эстония",
     "debt": "17.2",
-    "pop2023": 1322765
+    "pop2023": 1322765,
+    "growthgdp2023": "-2.3"
   },
   {
     "country": "Ethiopia",
@@ -1167,7 +1231,8 @@
     "gdpppppc2023": "3719.216",
     "rusName": "Эфиопия",
     "debt": "46.4",
-    "pop2023": 126527060
+    "pop2023": 126527060,
+    "growthgdp2023": "6.1"
   },
   {
     "country": "Falkland Islands",
@@ -1185,7 +1250,8 @@
     "gdpppppc2023": "0",
     "rusName": "Фолклендские острова (Мальвинские)",
     "debt": "0",
-    "pop2023": 3791
+    "pop2023": 3791,
+    "growthgdp2023": "0"
   },
   {
     "country": "Faroe Islands",
@@ -1203,7 +1269,8 @@
     "gdpppppc2023": "0",
     "rusName": "Фарерские острова",
     "debt": "0",
-    "pop2023": 53270
+    "pop2023": 53270,
+    "growthgdp2023": "0"
   },
   {
     "country": "Micronesia",
@@ -1221,7 +1288,8 @@
     "gdpppppc2023": "3922.057",
     "rusName": "Микронезия",
     "debt": "14",
-    "pop2023": 115224
+    "pop2023": 115224,
+    "growthgdp2023": "2.6"
   },
   {
     "country": "Fiji",
@@ -1239,7 +1307,8 @@
     "gdpppppc2023": "16563.813",
     "rusName": "Фиджи",
     "debt": "92.8",
-    "pop2023": 936375
+    "pop2023": 936375,
+    "growthgdp2023": "7.5"
   },
   {
     "country": "Finland",
@@ -1257,7 +1326,8 @@
     "gdpppppc2023": "59869.124",
     "rusName": "Финляндия",
     "debt": "74.8",
-    "pop2023": 5545475
+    "pop2023": 5545475,
+    "growthgdp2023": "-0.1"
   },
   {
     "country": "France",
@@ -1275,7 +1345,8 @@
     "gdpppppc2023": "58765.134",
     "rusName": "Франция",
     "debt": "111.1",
-    "pop2023": 64756584
+    "pop2023": 64756584,
+    "growthgdp2023": "1"
   },
   {
     "country": "French Guiana",
@@ -1293,7 +1364,8 @@
     "gdpppppc2023": "0",
     "rusName": "Французская Гвиана",
     "debt": "0",
-    "pop2023": 312155
+    "pop2023": 312155,
+    "growthgdp2023": "0"
   },
   {
     "country": "French Polynesia",
@@ -1311,7 +1383,8 @@
     "gdpppppc2023": "0",
     "rusName": "Французская Полинезия",
     "debt": "0",
-    "pop2023": 308872
+    "pop2023": 308872,
+    "growthgdp2023": "0"
   },
   {
     "country": "Gabon",
@@ -1329,7 +1402,8 @@
     "gdpppppc2023": "19165.299",
     "rusName": "Габон",
     "debt": "55.1",
-    "pop2023": 2436566
+    "pop2023": 2436566,
+    "growthgdp2023": "2.8"
   },
   {
     "country": "Gambia",
@@ -1347,7 +1421,8 @@
     "gdpppppc2023": "2837.139",
     "rusName": "Гамбия",
     "debt": "84",
-    "pop2023": 2773168
+    "pop2023": 2773168,
+    "growthgdp2023": "5.6"
   },
   {
     "country": "Georgia",
@@ -1365,7 +1440,8 @@
     "gdpppppc2023": "22357.411",
     "rusName": "Грузия",
     "debt": "39.8",
-    "pop2023": 3728282
+    "pop2023": 3728282,
+    "growthgdp2023": "6.2"
   },
   {
     "country": "Germany",
@@ -1383,7 +1459,8 @@
     "gdpppppc2023": "66037.756",
     "rusName": "Германия",
     "debt": "66.5",
-    "pop2023": 83294633
+    "pop2023": 83294633,
+    "growthgdp2023": "-0.5"
   },
   {
     "country": "Ghana",
@@ -1401,7 +1478,8 @@
     "gdpppppc2023": "6905.036",
     "rusName": "Гана",
     "debt": "88.8",
-    "pop2023": 34121985
+    "pop2023": 34121985,
+    "growthgdp2023": "1.2"
   },
   {
     "country": "Gibraltar",
@@ -1419,7 +1497,8 @@
     "gdpppppc2023": "0",
     "rusName": "Гибралтар",
     "debt": "0",
-    "pop2023": 32688
+    "pop2023": 32688,
+    "growthgdp2023": "0"
   },
   {
     "country": "Greece",
@@ -1437,7 +1516,8 @@
     "gdpppppc2023": "39864.061",
     "rusName": "Греция",
     "debt": "177.4",
-    "pop2023": 10341277
+    "pop2023": 10341277,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Greenland",
@@ -1455,7 +1535,8 @@
     "gdpppppc2023": "0",
     "rusName": "Гренландия",
     "debt": "0",
-    "pop2023": 56643
+    "pop2023": 56643,
+    "growthgdp2023": "0"
   },
   {
     "country": "Grenada",
@@ -1473,7 +1554,8 @@
     "gdpppppc2023": "20195.315",
     "rusName": "Гренада",
     "debt": "64.5",
-    "pop2023": 126183
+    "pop2023": 126183,
+    "growthgdp2023": "3.9"
   },
   {
     "country": "Guadeloupe",
@@ -1491,7 +1573,8 @@
     "gdpppppc2023": "0",
     "rusName": "Гваделупа",
     "debt": "0",
-    "pop2023": 395839
+    "pop2023": 395839,
+    "growthgdp2023": "0"
   },
   {
     "country": "Guam",
@@ -1509,7 +1592,8 @@
     "gdpppppc2023": "0",
     "rusName": "Гуам",
     "debt": "0",
-    "pop2023": 172952
+    "pop2023": 172952,
+    "growthgdp2023": "0"
   },
   {
     "country": "Guatemala",
@@ -1527,7 +1611,8 @@
     "gdpppppc2023": "10595.281",
     "rusName": "Гватемала",
     "debt": "30.1",
-    "pop2023": 18092026
+    "pop2023": 18092026,
+    "growthgdp2023": "3.4"
   },
   {
     "country": "Guinea",
@@ -1545,7 +1630,8 @@
     "gdpppppc2023": "3241.098",
     "rusName": "Гвинея",
     "debt": "33.4",
-    "pop2023": 14190612
+    "pop2023": 14190612,
+    "growthgdp2023": "5.9"
   },
   {
     "country": "Guinea-Bissau",
@@ -1563,7 +1649,8 @@
     "gdpppppc2023": "3088.346",
     "rusName": "Гвинея-Бисау",
     "debt": "79.5",
-    "pop2023": 2150842
+    "pop2023": 2150842,
+    "growthgdp2023": "4.5"
   },
   {
     "country": "Guyana",
@@ -1581,7 +1668,8 @@
     "gdpppppc2023": "61098.781",
     "rusName": "Гайана",
     "debt": "27.8",
-    "pop2023": 813834
+    "pop2023": 813834,
+    "growthgdp2023": "38.4"
   },
   {
     "country": "Haiti",
@@ -1599,7 +1687,8 @@
     "gdpppppc2023": "3185.684",
     "rusName": "Гаити",
     "debt": "25",
-    "pop2023": 11724763
+    "pop2023": 11724763,
+    "growthgdp2023": "-1.5"
   },
   {
     "country": "Honduras",
@@ -1617,7 +1706,8 @@
     "gdpppppc2023": "7162.661",
     "rusName": "Гондурас",
     "debt": "50",
-    "pop2023": 10593798
+    "pop2023": 10593798,
+    "growthgdp2023": "2.9"
   },
   {
     "country": "Hong Kong",
@@ -1635,7 +1725,8 @@
     "gdpppppc2023": "72860.759",
     "rusName": "Гонконг",
     "debt": "4.3",
-    "pop2023": 7491609
+    "pop2023": 7491609,
+    "growthgdp2023": "4.4"
   },
   {
     "country": "Hungary",
@@ -1653,7 +1744,8 @@
     "gdpppppc2023": "43601.432",
     "rusName": "Венгрия",
     "debt": "76.4",
-    "pop2023": 10156239
+    "pop2023": 10156239,
+    "growthgdp2023": "-0.3"
   },
   {
     "country": "Iceland",
@@ -1671,7 +1763,8 @@
     "gdpppppc2023": "69833.112",
     "rusName": "Исландия",
     "debt": "68.7",
-    "pop2023": 375318
+    "pop2023": 375318,
+    "growthgdp2023": "3.3"
   },
   {
     "country": "India",
@@ -1689,7 +1782,8 @@
     "gdpppppc2023": "9183.374",
     "rusName": "Индия",
     "debt": "83.1",
-    "pop2023": 1428627663
+    "pop2023": 1428627663,
+    "growthgdp2023": "6.3"
   },
   {
     "country": "Indonesia",
@@ -1707,7 +1801,8 @@
     "gdpppppc2023": "15835.822",
     "rusName": "Индонезия",
     "debt": "39.9",
-    "pop2023": 277534122
+    "pop2023": 277534122,
+    "growthgdp2023": "5"
   },
   {
     "country": "Iran",
@@ -1725,7 +1820,8 @@
     "gdpppppc2023": "19941.534",
     "rusName": "Иран",
     "debt": "34",
-    "pop2023": 89172767
+    "pop2023": 89172767,
+    "growthgdp2023": "3"
   },
   {
     "country": "Iraq",
@@ -1743,7 +1839,8 @@
     "gdpppppc2023": "11742.403",
     "rusName": "Ирак",
     "debt": "43.3",
-    "pop2023": 45504560
+    "pop2023": 45504560,
+    "growthgdp2023": "-2.7"
   },
   {
     "country": "Ireland",
@@ -1761,7 +1858,8 @@
     "gdpppppc2023": "137638.163",
     "rusName": "Ирландия",
     "debt": "45.2",
-    "pop2023": 5056935
+    "pop2023": 5056935,
+    "growthgdp2023": "2"
   },
   {
     "country": "Israel",
@@ -1779,7 +1877,8 @@
     "gdpppppc2023": "54771.428",
     "rusName": "Израиль",
     "debt": "60.9",
-    "pop2023": 9174520
+    "pop2023": 9174520,
+    "growthgdp2023": "3.1"
   },
   {
     "country": "Italy",
@@ -1797,7 +1896,8 @@
     "gdpppppc2023": "54258.988",
     "rusName": "Италия",
     "debt": "144.7",
-    "pop2023": 58870762
+    "pop2023": 58870762,
+    "growthgdp2023": "0.7"
   },
   {
     "country": "Jamaica",
@@ -1815,7 +1915,8 @@
     "gdpppppc2023": "12994.583",
     "rusName": "Ямайка",
     "debt": "84.1",
-    "pop2023": 2825544
+    "pop2023": 2825544,
+    "growthgdp2023": "2"
   },
   {
     "country": "Japan",
@@ -1833,7 +1934,8 @@
     "gdpppppc2023": "52119.561",
     "rusName": "Япония",
     "debt": "261.3",
-    "pop2023": 123294513
+    "pop2023": 123294513,
+    "growthgdp2023": "2"
   },
   {
     "country": "Jordan",
@@ -1851,7 +1953,8 @@
     "gdpppppc2023": "12809.173",
     "rusName": "Иордания",
     "debt": "89.4",
-    "pop2023": 11337052
+    "pop2023": 11337052,
+    "growthgdp2023": "2.6"
   },
   {
     "country": "Kazakhstan",
@@ -1869,7 +1972,8 @@
     "gdpppppc2023": "32712.116",
     "rusName": "Казахстан",
     "debt": "23.5",
-    "pop2023": 19606633
+    "pop2023": 19606633,
+    "growthgdp2023": "4.6"
   },
   {
     "country": "Kenya",
@@ -1887,7 +1991,8 @@
     "gdpppppc2023": "6576.846",
     "rusName": "Кения",
     "debt": "67.9",
-    "pop2023": 55100586
+    "pop2023": 55100586,
+    "growthgdp2023": "5"
   },
   {
     "country": "Kiribati",
@@ -1905,14 +2010,15 @@
     "gdpppppc2023": "2380.609",
     "rusName": "Кирибати",
     "debt": "15.2",
-    "pop2023": 133515
+    "pop2023": 133515,
+    "growthgdp2023": "2.6"
   },
   {
     "country": "Kiribati",
     "phoneCode": "+383",
     "capital": "Pristina",
     "abbr": "KIR",
-    "id": "XK",
+    "id": "KI",
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 10887,
@@ -1921,9 +2027,10 @@
     "gdp2023": "10.469",
     "gdppc2023": "5912.079",
     "gdpppppc2023": "15766.509",
-    "rusName": "Косово",
+    "rusName": "Кирибати",
     "debt": "19.3",
-    "pop2023": 133515
+    "pop2023": 133515,
+    "growthgdp2023": "2.6"
   },
   {
     "country": "Kuwait",
@@ -1941,7 +2048,8 @@
     "gdpppppc2023": "51764.825",
     "rusName": "Кувейт",
     "debt": "2.9",
-    "pop2023": 4310108
+    "pop2023": 4310108,
+    "growthgdp2023": "-0.6"
   },
   {
     "country": "Kyrgyzstan",
@@ -1959,7 +2067,8 @@
     "gdpppppc2023": "6438.072",
     "rusName": "Киргизия",
     "debt": "53.5",
-    "pop2023": 6735347
+    "pop2023": 6735347,
+    "growthgdp2023": "3.4"
   },
   {
     "country": "Laos",
@@ -1977,7 +2086,8 @@
     "gdpppppc2023": "9787.046",
     "rusName": "Лаос",
     "debt": "128.5",
-    "pop2023": 7633779
+    "pop2023": 7633779,
+    "growthgdp2023": "4"
   },
   {
     "country": "Latvia",
@@ -1995,7 +2105,8 @@
     "gdpppppc2023": "40891.797",
     "rusName": "Латвия",
     "debt": "41.6",
-    "pop2023": 1830211
+    "pop2023": 1830211,
+    "growthgdp2023": "0.5"
   },
   {
     "country": "Lebanon",
@@ -2013,7 +2124,8 @@
     "gdpppppc2023": "0",
     "rusName": "Ливан",
     "debt": "0",
-    "pop2023": 5353930
+    "pop2023": 5353930,
+    "growthgdp2023": "0"
   },
   {
     "country": "Lesotho",
@@ -2031,7 +2143,8 @@
     "gdpppppc2023": "3234.577",
     "rusName": "Лесото",
     "debt": "57.9",
-    "pop2023": 2330318
+    "pop2023": 2330318,
+    "growthgdp2023": "2.1"
   },
   {
     "country": "Liberia",
@@ -2049,7 +2162,8 @@
     "gdpppppc2023": "1789.067",
     "rusName": "Либерия",
     "debt": "55.4",
-    "pop2023": 5418377
+    "pop2023": 5418377,
+    "growthgdp2023": "4.6"
   },
   {
     "country": "Libya",
@@ -2067,7 +2181,8 @@
     "gdpppppc2023": "24381.729",
     "rusName": "Ливия",
     "debt": "0",
-    "pop2023": 6888388
+    "pop2023": 6888388,
+    "growthgdp2023": "12.5"
   },
   {
     "country": "Liechtenstein",
@@ -2085,7 +2200,8 @@
     "gdpppppc2023": "0",
     "rusName": "Лихтенштейн",
     "debt": "0",
-    "pop2023": 39584
+    "pop2023": 39584,
+    "growthgdp2023": "0"
   },
   {
     "country": "Lithuania",
@@ -2103,7 +2219,8 @@
     "gdpppppc2023": "49244.687",
     "rusName": "Литва",
     "debt": "39.6",
-    "pop2023": 2718352
+    "pop2023": 2718352,
+    "growthgdp2023": "-0.2"
   },
   {
     "country": "Luxembourg",
@@ -2121,10 +2238,11 @@
     "gdpppppc2023": "143303.598",
     "rusName": "Люксембург",
     "debt": "24.3",
-    "pop2023": 654768
+    "pop2023": 654768,
+    "growthgdp2023": "-0.4"
   },
   {
-    "country": "Macau",
+    "country": "Macao",
     "phoneCode": "+853",
     "capital": "",
     "abbr": "MAC",
@@ -2139,7 +2257,8 @@
     "gdpppppc2023": "98157.449",
     "rusName": "Макао",
     "debt": "0",
-    "pop2023": 704149
+    "pop2023": 704149,
+    "growthgdp2023": "74.4"
   },
   {
     "country": "North Macedonia",
@@ -2157,7 +2276,8 @@
     "gdpppppc2023": "21391.25",
     "rusName": "Северная Македония",
     "debt": "51.8",
-    "pop2023": 2085679
+    "pop2023": 2085679,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Madagascar",
@@ -2175,7 +2295,8 @@
     "gdpppppc2023": "1906.648",
     "rusName": "Мадагаскар",
     "debt": "57",
-    "pop2023": 30325732
+    "pop2023": 30325732,
+    "growthgdp2023": "4"
   },
   {
     "country": "Malawi",
@@ -2193,7 +2314,8 @@
     "gdpppppc2023": "1668.319",
     "rusName": "Малави",
     "debt": "70.1",
-    "pop2023": 20931751
+    "pop2023": 20931751,
+    "growthgdp2023": "1.7"
   },
   {
     "country": "Malaysia",
@@ -2211,7 +2333,8 @@
     "gdpppppc2023": "37082.838",
     "rusName": "Малайзия",
     "debt": "66.3",
-    "pop2023": 34308525
+    "pop2023": 34308525,
+    "growthgdp2023": "4"
   },
   {
     "country": "Maldives",
@@ -2229,7 +2352,8 @@
     "gdpppppc2023": "37093.89",
     "rusName": "Мальдивы",
     "debt": "114.9",
-    "pop2023": 521021
+    "pop2023": 521021,
+    "growthgdp2023": "8.1"
   },
   {
     "country": "Mali",
@@ -2247,7 +2371,8 @@
     "gdpppppc2023": "2639.381",
     "rusName": "Мали",
     "debt": "53.2",
-    "pop2023": 23293698
+    "pop2023": 23293698,
+    "growthgdp2023": "4.5"
   },
   {
     "country": "Malta",
@@ -2265,7 +2390,8 @@
     "gdpppppc2023": "63481.05",
     "rusName": "Мальта",
     "debt": "55.8",
-    "pop2023": 535064
+    "pop2023": 535064,
+    "growthgdp2023": "3.8"
   },
   {
     "country": "Marshall Islands",
@@ -2283,7 +2409,8 @@
     "gdpppppc2023": "5823.434",
     "rusName": "Маршалловы Острова",
     "debt": "21.2",
-    "pop2023": 41996
+    "pop2023": 41996,
+    "growthgdp2023": "3"
   },
   {
     "country": "Martinique",
@@ -2301,7 +2428,8 @@
     "gdpppppc2023": "0",
     "rusName": "Мартиника",
     "debt": "0",
-    "pop2023": 366981
+    "pop2023": 366981,
+    "growthgdp2023": "0"
   },
   {
     "country": "Mauritania",
@@ -2319,7 +2447,8 @@
     "gdpppppc2023": "7542.405",
     "rusName": "Мавритания",
     "debt": "47.7",
-    "pop2023": 4862989
+    "pop2023": 4862989,
+    "growthgdp2023": "4.5"
   },
   {
     "country": "Mauritius",
@@ -2337,7 +2466,8 @@
     "gdpppppc2023": "29349.345",
     "rusName": "Маврикий",
     "debt": "80.9",
-    "pop2023": 1300557
+    "pop2023": 1300557,
+    "growthgdp2023": "5.1"
   },
   {
     "country": "Mayotte",
@@ -2355,7 +2485,8 @@
     "gdpppppc2023": "0",
     "rusName": "Майотта",
     "debt": "0",
-    "pop2023": 335995
+    "pop2023": 335995,
+    "growthgdp2023": "0"
   },
   {
     "country": "Mexico",
@@ -2373,7 +2504,8 @@
     "gdpppppc2023": "24975.953",
     "rusName": "Мексика",
     "debt": "56",
-    "pop2023": 128455567
+    "pop2023": 128455567,
+    "growthgdp2023": "3.2"
   },
   {
     "country": "Moldova",
@@ -2391,7 +2523,8 @@
     "gdpppppc2023": "16915.706",
     "rusName": "Молдавия",
     "debt": "33.5",
-    "pop2023": 3435931
+    "pop2023": 3435931,
+    "growthgdp2023": "2"
   },
   {
     "country": "Monaco",
@@ -2409,7 +2542,8 @@
     "gdpppppc2023": "0",
     "rusName": "Монако",
     "debt": "0",
-    "pop2023": 36297
+    "pop2023": 36297,
+    "growthgdp2023": "0"
   },
   {
     "country": "Mongolia",
@@ -2427,7 +2561,8 @@
     "gdpppppc2023": "15087.999",
     "rusName": "Монголия",
     "debt": "82.4",
-    "pop2023": 3447157
+    "pop2023": 3447157,
+    "growthgdp2023": "5.5"
   },
   {
     "country": "Montenegro",
@@ -2445,7 +2580,8 @@
     "gdpppppc2023": "28002.045",
     "rusName": "Черногория",
     "debt": "71.2",
-    "pop2023": 626485
+    "pop2023": 626485,
+    "growthgdp2023": "4.5"
   },
   {
     "country": "Montserrat",
@@ -2463,7 +2599,8 @@
     "gdpppppc2023": "0",
     "rusName": "Монтсеррат",
     "debt": "0",
-    "pop2023": 4386
+    "pop2023": 4386,
+    "growthgdp2023": "0"
   },
   {
     "country": "Morocco",
@@ -2481,7 +2618,8 @@
     "gdpppppc2023": "10408.314",
     "rusName": "Марокко",
     "debt": "68.8",
-    "pop2023": 37840044
+    "pop2023": 37840044,
+    "growthgdp2023": "2.4"
   },
   {
     "country": "Mozambique",
@@ -2499,7 +2637,8 @@
     "gdpppppc2023": "1584.487",
     "rusName": "Мозамбик",
     "debt": "104.5",
-    "pop2023": 33897354
+    "pop2023": 33897354,
+    "growthgdp2023": "7"
   },
   {
     "country": "Myanmar",
@@ -2517,7 +2656,8 @@
     "gdpppppc2023": "5124.365",
     "rusName": "Мьянма",
     "debt": "63.9",
-    "pop2023": 54577997
+    "pop2023": 54577997,
+    "growthgdp2023": "2.6"
   },
   {
     "country": "Namibia",
@@ -2535,7 +2675,8 @@
     "gdpppppc2023": "11603.027",
     "rusName": "Намибия",
     "debt": "71.3",
-    "pop2023": 2604172
+    "pop2023": 2604172,
+    "growthgdp2023": "2.8"
   },
   {
     "country": "Nauru",
@@ -2553,7 +2694,8 @@
     "gdpppppc2023": "11169.063",
     "rusName": "Науру",
     "debt": "24.3",
-    "pop2023": 12780
+    "pop2023": 12780,
+    "growthgdp2023": "0.5"
   },
   {
     "country": "Nepal",
@@ -2571,7 +2713,8 @@
     "gdpppppc2023": "4934.162",
     "rusName": "Непал",
     "debt": "43.8",
-    "pop2023": 30896590
+    "pop2023": 30896590,
+    "growthgdp2023": "0.8"
   },
   {
     "country": "Netherlands",
@@ -2589,7 +2732,8 @@
     "gdpppppc2023": "73316.845",
     "rusName": "Нидерланды",
     "debt": "48.5",
-    "pop2023": 17618299
+    "pop2023": 17618299,
+    "growthgdp2023": "0.6"
   },
   {
     "country": "Netherlands Antilles",
@@ -2607,7 +2751,8 @@
     "gdpppppc2023": "0",
     "rusName": "Антильские острова",
     "debt": "0",
-    "pop2023": 0
+    "pop2023": 0,
+    "growthgdp2023": "0"
   },
   {
     "country": "New Caledonia",
@@ -2625,7 +2770,8 @@
     "gdpppppc2023": "0",
     "rusName": "Новая Каледония",
     "debt": "0",
-    "pop2023": 292991
+    "pop2023": 292991,
+    "growthgdp2023": "0"
   },
   {
     "country": "New Zealand",
@@ -2643,7 +2789,8 @@
     "gdpppppc2023": "53809.189",
     "rusName": "Новая Зеландия",
     "debt": "52.8",
-    "pop2023": 5228100
+    "pop2023": 5228100,
+    "growthgdp2023": "1.1"
   },
   {
     "country": "Nicaragua",
@@ -2661,7 +2808,8 @@
     "gdpppppc2023": "7642.307",
     "rusName": "Никарагуа",
     "debt": "46",
-    "pop2023": 7046310
+    "pop2023": 7046310,
+    "growthgdp2023": "3"
   },
   {
     "country": "Niger",
@@ -2679,7 +2827,8 @@
     "gdpppppc2023": "1579.054",
     "rusName": "Нигер",
     "debt": "51.1",
-    "pop2023": 27202843
+    "pop2023": 27202843,
+    "growthgdp2023": "4.1"
   },
   {
     "country": "Nigeria",
@@ -2697,7 +2846,8 @@
     "gdpppppc2023": "6147.678",
     "rusName": "Нигерия",
     "debt": "38",
-    "pop2023": 223804632
+    "pop2023": 223804632,
+    "growthgdp2023": "2.9"
   },
   {
     "country": "Niue",
@@ -2715,7 +2865,8 @@
     "gdpppppc2023": "0",
     "rusName": "Ниуэ",
     "debt": "0",
-    "pop2023": 1935
+    "pop2023": 1935,
+    "growthgdp2023": "0"
   },
   {
     "country": "Norfolk Island",
@@ -2733,7 +2884,8 @@
     "gdpppppc2023": "0",
     "rusName": "Остров Норфолк",
     "debt": "0",
-    "pop2023": 0
+    "pop2023": 0,
+    "growthgdp2023": "0"
   },
   {
     "country": "North Korea",
@@ -2751,7 +2903,8 @@
     "gdpppppc2023": "0",
     "rusName": "Северная Корея",
     "debt": "0",
-    "pop2023": 26160821
+    "pop2023": 26160821,
+    "growthgdp2023": "0"
   },
   {
     "country": "Northern Mariana Islands",
@@ -2769,7 +2922,8 @@
     "gdpppppc2023": "0",
     "rusName": "Северные Марианские острова",
     "debt": "0",
-    "pop2023": 49796
+    "pop2023": 49796,
+    "growthgdp2023": "0"
   },
   {
     "country": "Northern Mariana Islands",
@@ -2787,7 +2941,8 @@
     "gdpppppc2023": "21391.25",
     "rusName": "Северная Македония",
     "debt": "51.8",
-    "pop2023": 49796
+    "pop2023": 49796,
+    "growthgdp2023": "0"
   },
   {
     "country": "Norway",
@@ -2805,7 +2960,8 @@
     "gdpppppc2023": "82236.121",
     "rusName": "Норвегия",
     "debt": "39.6",
-    "pop2023": 5474360
+    "pop2023": 5474360,
+    "growthgdp2023": "2.3"
   },
   {
     "country": "Oman",
@@ -2823,7 +2979,8 @@
     "gdpppppc2023": "39336.136",
     "rusName": "Оман",
     "debt": "40.1",
-    "pop2023": 4644384
+    "pop2023": 4644384,
+    "growthgdp2023": "1.2"
   },
   {
     "country": "Pakistan",
@@ -2841,7 +2998,8 @@
     "gdpppppc2023": "6773.546",
     "rusName": "Пакистан",
     "debt": "75.8",
-    "pop2023": 240485658
+    "pop2023": 240485658,
+    "growthgdp2023": "-0.5"
   },
   {
     "country": "Palau",
@@ -2859,7 +3017,8 @@
     "gdpppppc2023": "15169.597",
     "rusName": "Палау",
     "debt": "0",
-    "pop2023": 18058
+    "pop2023": 18058,
+    "growthgdp2023": "0.8"
   },
   {
     "country": "Palestine",
@@ -2877,7 +3036,8 @@
     "gdpppppc2023": "0",
     "rusName": "Палестина",
     "debt": "0",
-    "pop2023": 5371230
+    "pop2023": 5371230,
+    "growthgdp2023": "0"
   },
   {
     "country": "Panama",
@@ -2895,7 +3055,8 @@
     "gdpppppc2023": "42738.204",
     "rusName": "Панама",
     "debt": "54.9",
-    "pop2023": 4468087
+    "pop2023": 4468087,
+    "growthgdp2023": "6"
   },
   {
     "country": "Papua New Guinea",
@@ -2913,7 +3074,8 @@
     "gdpppppc2023": "3403.237",
     "rusName": "Папуа — Новая Гвинея",
     "debt": "49.2",
-    "pop2023": 10329931
+    "pop2023": 10329931,
+    "growthgdp2023": "3"
   },
   {
     "country": "Paraguay",
@@ -2931,7 +3093,8 @@
     "gdpppppc2023": "15533.102",
     "rusName": "Парагвай",
     "debt": "40.9",
-    "pop2023": 6861524
+    "pop2023": 6861524,
+    "growthgdp2023": "4.5"
   },
   {
     "country": "Peru",
@@ -2949,7 +3112,8 @@
     "gdpppppc2023": "15893.525",
     "rusName": "Перу",
     "debt": "33.4",
-    "pop2023": 34352719
+    "pop2023": 34352719,
+    "growthgdp2023": "1.1"
   },
   {
     "country": "Philippines",
@@ -2967,7 +3131,8 @@
     "gdpppppc2023": "11326.006",
     "rusName": "Филиппины",
     "debt": "57.5",
-    "pop2023": 117337368
+    "pop2023": 117337368,
+    "growthgdp2023": "5.3"
   },
   {
     "country": "Poland",
@@ -2985,7 +3150,8 @@
     "gdpppppc2023": "45538.129",
     "rusName": "Польша",
     "debt": "49.6",
-    "pop2023": 41026067
+    "pop2023": 41026067,
+    "growthgdp2023": "0.6"
   },
   {
     "country": "Portugal",
@@ -3003,7 +3169,8 @@
     "gdpppppc2023": "45226.978",
     "rusName": "Португалия",
     "debt": "116",
-    "pop2023": 10247605
+    "pop2023": 10247605,
+    "growthgdp2023": "2.3"
   },
   {
     "country": "Puerto Rico",
@@ -3021,7 +3188,8 @@
     "gdpppppc2023": "41682.181",
     "rusName": "Пуэрто-Рико",
     "debt": "16.3",
-    "pop2023": 3260314
+    "pop2023": 3260314,
+    "growthgdp2023": "-0.7"
   },
   {
     "country": "Qatar",
@@ -3039,7 +3207,8 @@
     "gdpppppc2023": "114210.448",
     "rusName": "Катар",
     "debt": "45.3",
-    "pop2023": 2716391
+    "pop2023": 2716391,
+    "growthgdp2023": "2.4"
   },
   {
     "country": "Congo",
@@ -3057,7 +3226,8 @@
     "gdpppppc2023": "5552.345",
     "rusName": "Республика Конго",
     "debt": "99.6",
-    "pop2023": 0
+    "pop2023": 0,
+    "growthgdp2023": "0"
   },
   {
     "country": "Reunion",
@@ -3075,7 +3245,8 @@
     "gdpppppc2023": "0",
     "rusName": "Рейюньион",
     "debt": "0",
-    "pop2023": 981796
+    "pop2023": 981796,
+    "growthgdp2023": "0"
   },
   {
     "country": "Romania",
@@ -3093,10 +3264,11 @@
     "gdpppppc2023": "41029.176",
     "rusName": "Румыния",
     "debt": "48.7",
-    "pop2023": 19892812
+    "pop2023": 19892812,
+    "growthgdp2023": "2.2"
   },
   {
-    "country": "Russia",
+    "country": "Russian Federation",
     "phoneCode": "+7",
     "capital": "Moscow",
     "abbr": "RUS",
@@ -3111,7 +3283,8 @@
     "gdpppppc2023": "35309.622",
     "rusName": "Россия",
     "debt": "19.6",
-    "pop2023": 144444359
+    "pop2023": 144444359,
+    "growthgdp2023": "2.2"
   },
   {
     "country": "Rwanda",
@@ -3129,7 +3302,8 @@
     "gdpppppc2023": "3136.995",
     "rusName": "Руанда",
     "debt": "64.4",
-    "pop2023": 14094683
+    "pop2023": 14094683,
+    "growthgdp2023": "6.2"
   },
   {
     "country": "Saint Barthelemy",
@@ -3147,7 +3321,8 @@
     "gdpppppc2023": "0",
     "rusName": "Сен-Бартельми",
     "debt": "0",
-    "pop2023": 10994
+    "pop2023": 10994,
+    "growthgdp2023": "0"
   },
   {
     "country": "Saint Helena",
@@ -3165,7 +3340,8 @@
     "gdpppppc2023": "0",
     "rusName": "о.Святой Елены",
     "debt": "0",
-    "pop2023": 0
+    "pop2023": 0,
+    "growthgdp2023": "0"
   },
   {
     "country": "Saint Kitts and Nevis",
@@ -3183,7 +3359,8 @@
     "gdpppppc2023": "29893.173",
     "rusName": "Сент-Китс и Невис",
     "debt": "64.8",
-    "pop2023": 47755
+    "pop2023": 47755,
+    "growthgdp2023": "4.9"
   },
   {
     "country": "Saint Martin",
@@ -3201,7 +3378,8 @@
     "gdpppppc2023": "0",
     "rusName": "Сен-Мартен (Франция)",
     "debt": "0",
-    "pop2023": 32077
+    "pop2023": 32077,
+    "growthgdp2023": "0"
   },
   {
     "country": "Saint Pierre and Miquelon",
@@ -3219,7 +3397,8 @@
     "gdpppppc2023": "0",
     "rusName": "Сен-Пьер и Микелон",
     "debt": "0",
-    "pop2023": 5840
+    "pop2023": 5840,
+    "growthgdp2023": "0"
   },
   {
     "country": "Saint Vincent and the Grenadines",
@@ -3237,7 +3416,8 @@
     "gdpppppc2023": "17840.433",
     "rusName": "Сент-Винсент и Гренадины",
     "debt": "86.8",
-    "pop2023": 103698
+    "pop2023": 103698,
+    "growthgdp2023": "6.2"
   },
   {
     "country": "Samoa",
@@ -3255,7 +3435,8 @@
     "gdpppppc2023": "6544.417",
     "rusName": "Самоа",
     "debt": "43.7",
-    "pop2023": 225681
+    "pop2023": 225681,
+    "growthgdp2023": "8"
   },
   {
     "country": "San Marino",
@@ -3273,7 +3454,8 @@
     "gdpppppc2023": "84135.423",
     "rusName": "Сан-Марино",
     "debt": "81.2",
-    "pop2023": 33642
+    "pop2023": 33642,
+    "growthgdp2023": "2.2"
   },
   {
     "country": "Sao Tome and Principe",
@@ -3291,7 +3473,8 @@
     "gdpppppc2023": "4146.532",
     "rusName": "Сан-Томе и Принсипи",
     "debt": "58.1",
-    "pop2023": 231856
+    "pop2023": 231856,
+    "growthgdp2023": "0.5"
   },
   {
     "country": "Saudi Arabia",
@@ -3309,7 +3492,8 @@
     "gdpppppc2023": "68452.845",
     "rusName": "Саудовская Аравия",
     "debt": "22.6",
-    "pop2023": 36947025
+    "pop2023": 36947025,
+    "growthgdp2023": "0.8"
   },
   {
     "country": "Senegal",
@@ -3327,7 +3511,8 @@
     "gdpppppc2023": "4324.881",
     "rusName": "Сенегал",
     "debt": "75",
-    "pop2023": 17763163
+    "pop2023": 17763163,
+    "growthgdp2023": "4.1"
   },
   {
     "country": "Serbia",
@@ -3345,7 +3530,8 @@
     "gdpppppc2023": "26074.158",
     "rusName": "Сербия",
     "debt": "53.5",
-    "pop2023": 7149077
+    "pop2023": 7149077,
+    "growthgdp2023": "2"
   },
   {
     "country": "Seychelles",
@@ -3363,7 +3549,8 @@
     "gdpppppc2023": "41828.746",
     "rusName": "Сейшельские Острова",
     "debt": "63.4",
-    "pop2023": 107660
+    "pop2023": 107660,
+    "growthgdp2023": "4.2"
   },
   {
     "country": "Sierra Leone",
@@ -3381,7 +3568,8 @@
     "gdpppppc2023": "2097.104",
     "rusName": "Сьерра-Леоне",
     "debt": "98.8",
-    "pop2023": 8791092
+    "pop2023": 8791092,
+    "growthgdp2023": "2.7"
   },
   {
     "country": "Singapore",
@@ -3399,7 +3587,8 @@
     "gdpppppc2023": "133107.623",
     "rusName": "Сингапур",
     "debt": "134.2",
-    "pop2023": 6014723
+    "pop2023": 6014723,
+    "growthgdp2023": "1"
   },
   {
     "country": "Sint Maarten",
@@ -3417,7 +3606,8 @@
     "gdpppppc2023": "0",
     "rusName": "Синт-Мартен (остров)",
     "debt": "0",
-    "pop2023": 44222
+    "pop2023": 44222,
+    "growthgdp2023": "0"
   },
   {
     "country": "Slovakia",
@@ -3435,7 +3625,8 @@
     "gdpppppc2023": "42228.008",
     "rusName": "Словакия",
     "debt": "58.8",
-    "pop2023": 5795199
+    "pop2023": 5795199,
+    "growthgdp2023": "1.3"
   },
   {
     "country": "Slovenia",
@@ -3453,7 +3644,8 @@
     "gdpppppc2023": "51406.557",
     "rusName": "Словения",
     "debt": "70.2",
-    "pop2023": 2119675
+    "pop2023": 2119675,
+    "growthgdp2023": "2"
   },
   {
     "country": "Solomon Islands",
@@ -3471,7 +3663,8 @@
     "gdpppppc2023": "2410.755",
     "rusName": "Соломоновы Острова",
     "debt": "16.9",
-    "pop2023": 740424
+    "pop2023": 740424,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Somalia",
@@ -3489,7 +3682,8 @@
     "gdpppppc2023": "1998.474",
     "rusName": "Сомали",
     "debt": "0",
-    "pop2023": 18143378
+    "pop2023": 18143378,
+    "growthgdp2023": "2.8"
   },
   {
     "country": "South Africa",
@@ -3507,7 +3701,8 @@
     "gdpppppc2023": "16211.158",
     "rusName": "ЮАР",
     "debt": "71",
-    "pop2023": 60414495
+    "pop2023": 60414495,
+    "growthgdp2023": "0.9"
   },
   {
     "country": "South Korea",
@@ -3525,7 +3720,8 @@
     "gdpppppc2023": "56708.953",
     "rusName": "Республика Корея",
     "debt": "54.3",
-    "pop2023": 51784059
+    "pop2023": 51784059,
+    "growthgdp2023": "1.4"
   },
   {
     "country": "South Sudan",
@@ -3543,7 +3739,8 @@
     "gdpppppc2023": "475.805",
     "rusName": "Южный Судан",
     "debt": "39.6",
-    "pop2023": 11088796
+    "pop2023": 11088796,
+    "growthgdp2023": "3.5"
   },
   {
     "country": "Spain",
@@ -3561,7 +3758,8 @@
     "gdpppppc2023": "50471.689",
     "rusName": "Испания",
     "debt": "112",
-    "pop2023": 47519628
+    "pop2023": 47519628,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Sri Lanka",
@@ -3579,7 +3777,8 @@
     "gdpppppc2023": "0",
     "rusName": "Шри-Ланка",
     "debt": "117.7",
-    "pop2023": 21893579
+    "pop2023": 21893579,
+    "growthgdp2023": "0"
   },
   {
     "country": "Saint Lucia",
@@ -3597,7 +3796,8 @@
     "gdpppppc2023": "18972.853",
     "rusName": "Сент-Люсия",
     "debt": "83.5",
-    "pop2023": 180251
+    "pop2023": 180251,
+    "growthgdp2023": "3.2"
   },
   {
     "country": "Sudan",
@@ -3615,7 +3815,8 @@
     "gdpppppc2023": "3604.78",
     "rusName": "Судан",
     "debt": "127.6",
-    "pop2023": 48109006
+    "pop2023": 48109006,
+    "growthgdp2023": "-18.3"
   },
   {
     "country": "Suriname",
@@ -3633,7 +3834,8 @@
     "gdpppppc2023": "18311",
     "rusName": "Суринам",
     "debt": "123.2",
-    "pop2023": 623236
+    "pop2023": 623236,
+    "growthgdp2023": "2.1"
   },
   {
     "country": "Eswatini",
@@ -3651,7 +3853,8 @@
     "gdpppppc2023": "11858.754",
     "rusName": "Эсватини",
     "debt": "45.4",
-    "pop2023": 1210822
+    "pop2023": 1210822,
+    "growthgdp2023": "3.1"
   },
   {
     "country": "Sweden",
@@ -3669,7 +3872,8 @@
     "gdpppppc2023": "66209.341",
     "rusName": "Швеция",
     "debt": "31.7",
-    "pop2023": 10612086
+    "pop2023": 10612086,
+    "growthgdp2023": "-0.7"
   },
   {
     "country": "Switzerland",
@@ -3687,7 +3891,8 @@
     "gdpppppc2023": "89537.321",
     "rusName": "Швейцария",
     "debt": "39.1",
-    "pop2023": 8796669
+    "pop2023": 8796669,
+    "growthgdp2023": "0.9"
   },
   {
     "country": "Syria",
@@ -3705,7 +3910,8 @@
     "gdpppppc2023": "0",
     "rusName": "Сирия",
     "debt": "0",
-    "pop2023": 23227014
+    "pop2023": 23227014,
+    "growthgdp2023": "0"
   },
   {
     "country": "Taiwan",
@@ -3723,7 +3929,8 @@
     "gdpppppc2023": "72485.43",
     "rusName": "Тайвань",
     "debt": "27.5",
-    "pop2023": 23923276
+    "pop2023": 23923276,
+    "growthgdp2023": "0.8"
   },
   {
     "country": "Tajikistan",
@@ -3741,7 +3948,8 @@
     "gdpppppc2023": "5360.891",
     "rusName": "Таджикистан",
     "debt": "34.6",
-    "pop2023": 10143543
+    "pop2023": 10143543,
+    "growthgdp2023": "6.5"
   },
   {
     "country": "Tanzania",
@@ -3759,7 +3967,8 @@
     "gdpppppc2023": "3595.103",
     "rusName": "Танзания",
     "debt": "41.6",
-    "pop2023": 67438106
+    "pop2023": 67438106,
+    "growthgdp2023": "5.2"
   },
   {
     "country": "Thailand",
@@ -3777,7 +3986,8 @@
     "gdpppppc2023": "22490.567",
     "rusName": "Таиланд",
     "debt": "60.5",
-    "pop2023": 71801279
+    "pop2023": 71801279,
+    "growthgdp2023": "2.7"
   },
   {
     "country": "Timor-Leste",
@@ -3795,7 +4005,8 @@
     "gdpppppc2023": "3746.94",
     "rusName": "Восточный Тимор",
     "debt": "7.5",
-    "pop2023": 1360596
+    "pop2023": 1360596,
+    "growthgdp2023": "1.5"
   },
   {
     "country": "Togo",
@@ -3813,7 +4024,8 @@
     "gdpppppc2023": "2767.562",
     "rusName": "Того",
     "debt": "68",
-    "pop2023": 9053799
+    "pop2023": 9053799,
+    "growthgdp2023": "5.4"
   },
   {
     "country": "Tokelau",
@@ -3831,7 +4043,8 @@
     "gdpppppc2023": "0",
     "rusName": "Токелау",
     "debt": "0",
-    "pop2023": 1893
+    "pop2023": 1893,
+    "growthgdp2023": "0"
   },
   {
     "country": "Tonga",
@@ -3849,7 +4062,8 @@
     "gdpppppc2023": "7126.662",
     "rusName": "Тонга",
     "debt": "46.6",
-    "pop2023": 107773
+    "pop2023": 107773,
+    "growthgdp2023": "2.6"
   },
   {
     "country": "Trinidad and Tobago",
@@ -3867,7 +4081,8 @@
     "gdpppppc2023": "30718.751",
     "rusName": "Тринидад и Тобаго",
     "debt": "53.8",
-    "pop2023": 1534937
+    "pop2023": 1534937,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Tunisia",
@@ -3885,7 +4100,8 @@
     "gdpppppc2023": "13248.945",
     "rusName": "Тунис",
     "debt": "79.4",
-    "pop2023": 12458223
+    "pop2023": 12458223,
+    "growthgdp2023": "1.3"
   },
   {
     "country": "Turkey",
@@ -3903,7 +4119,8 @@
     "gdpppppc2023": "41887.53",
     "rusName": "Турция",
     "debt": "31.2",
-    "pop2023": 85816199
+    "pop2023": 85816199,
+    "growthgdp2023": "4"
   },
   {
     "country": "Turkmenistan",
@@ -3921,7 +4138,8 @@
     "gdpppppc2023": "19938.639",
     "rusName": "Туркмения",
     "debt": "5.2",
-    "pop2023": 6516100
+    "pop2023": 6516100,
+    "growthgdp2023": "2.5"
   },
   {
     "country": "Turks and Caicos Islands",
@@ -3939,7 +4157,8 @@
     "gdpppppc2023": "0",
     "rusName": "Туркс и Кайкос",
     "debt": "0",
-    "pop2023": 46062
+    "pop2023": 46062,
+    "growthgdp2023": "0"
   },
   {
     "country": "Tuvalu",
@@ -3957,7 +4176,8 @@
     "gdpppppc2023": "5765.703",
     "rusName": "Тувалу",
     "debt": "7.6",
-    "pop2023": 11396
+    "pop2023": 11396,
+    "growthgdp2023": "3.9"
   },
   {
     "country": "Uganda",
@@ -3975,7 +4195,8 @@
     "gdpppppc2023": "3222.403",
     "rusName": "Уганда",
     "debt": "50.8",
-    "pop2023": 48582334
+    "pop2023": 48582334,
+    "growthgdp2023": "4.6"
   },
   {
     "country": "Ukraine",
@@ -3993,7 +4214,8 @@
     "gdpppppc2023": "14303.981",
     "rusName": "Украина",
     "debt": "81.7",
-    "pop2023": 36744634
+    "pop2023": 36744634,
+    "growthgdp2023": "2"
   },
   {
     "country": "United Arab Emirates",
@@ -4011,7 +4233,8 @@
     "gdpppppc2023": "88961.771",
     "rusName": "ОАЭ",
     "debt": "30",
-    "pop2023": 9516871
+    "pop2023": 9516871,
+    "growthgdp2023": "3.4"
   },
   {
     "country": "United Kingdom",
@@ -4029,7 +4252,8 @@
     "gdpppppc2023": "56835.721",
     "rusName": "Великобритания",
     "debt": "102.6",
-    "pop2023": 67736802
+    "pop2023": 67736802,
+    "growthgdp2023": "0.5"
   },
   {
     "country": "United States",
@@ -4047,7 +4271,8 @@
     "gdpppppc2023": "80412.41",
     "rusName": "США",
     "debt": "121.7",
-    "pop2023": 339996563
+    "pop2023": 339996563,
+    "growthgdp2023": "2.1"
   },
   {
     "country": "Uruguay",
@@ -4065,7 +4290,8 @@
     "gdpppppc2023": "28983.788",
     "rusName": "Уругвай",
     "debt": "61",
-    "pop2023": 3423108
+    "pop2023": 3423108,
+    "growthgdp2023": "1"
   },
   {
     "country": "United States Virgin Islands",
@@ -4083,7 +4309,8 @@
     "gdpppppc2023": "0",
     "rusName": "Виргинские острова США",
     "debt": "0",
-    "pop2023": 98750
+    "pop2023": 98750,
+    "growthgdp2023": "0"
   },
   {
     "country": "Uzbekistan",
@@ -4101,7 +4328,8 @@
     "gdpppppc2023": "10316.372",
     "rusName": "Узбекистан",
     "debt": "34.3",
-    "pop2023": 35163944
+    "pop2023": 35163944,
+    "growthgdp2023": "5.5"
   },
   {
     "country": "Vanuatu",
@@ -4119,7 +4347,8 @@
     "gdpppppc2023": "2939.818",
     "rusName": "Вануату",
     "debt": "45.8",
-    "pop2023": 334506
+    "pop2023": 334506,
+    "growthgdp2023": "1.5"
   },
   {
     "country": "Vatican City",
@@ -4137,7 +4366,8 @@
     "gdpppppc2023": "0",
     "rusName": "Ватикан",
     "debt": "0",
-    "pop2023": 518
+    "pop2023": 518,
+    "growthgdp2023": "0"
   },
   {
     "country": "Venezuela",
@@ -4155,7 +4385,8 @@
     "gdpppppc2023": "7985.061",
     "rusName": "Венесуэла",
     "debt": "157.8",
-    "pop2023": 28838499
+    "pop2023": 28838499,
+    "growthgdp2023": "4"
   },
   {
     "country": "Vietnam",
@@ -4173,7 +4404,8 @@
     "gdpppppc2023": "14285.088",
     "rusName": "Вьетнам",
     "debt": "37.1",
-    "pop2023": 98858950
+    "pop2023": 98858950,
+    "growthgdp2023": "4.7"
   },
   {
     "country": "Wallis and Futuna",
@@ -4191,7 +4423,8 @@
     "gdpppppc2023": "0",
     "rusName": "Уоллис и Футуна",
     "debt": "0",
-    "pop2023": 11502
+    "pop2023": 11502,
+    "growthgdp2023": "0"
   },
   {
     "country": "Western Sahara",
@@ -4209,7 +4442,8 @@
     "gdpppppc2023": "0",
     "rusName": "Западная Сахара",
     "debt": "0",
-    "pop2023": 587259
+    "pop2023": 587259,
+    "growthgdp2023": "0"
   },
   {
     "country": "Svalbard",
@@ -4227,7 +4461,8 @@
     "gdpppppc2023": "0",
     "rusName": "Шпицберген",
     "debt": "0",
-    "pop2023": 0
+    "pop2023": 0,
+    "growthgdp2023": "0"
   },
   {
     "country": "Yemen",
@@ -4245,7 +4480,8 @@
     "gdpppppc2023": "2053.449",
     "rusName": "Йемен",
     "debt": "73.5",
-    "pop2023": 34449825
+    "pop2023": 34449825,
+    "growthgdp2023": "-0.5"
   },
   {
     "country": "Zambia",
@@ -4263,7 +4499,8 @@
     "gdpppppc2023": "4068.44",
     "rusName": "Замбия",
     "debt": "0",
-    "pop2023": 20569737
+    "pop2023": 20569737,
+    "growthgdp2023": "3.6"
   },
   {
     "country": "Zimbabwe",
@@ -4281,6 +4518,7 @@
     "gdpppppc2023": "2749.777",
     "rusName": "Зимбабве",
     "debt": "92.8",
-    "pop2023": 16665409
+    "pop2023": 16665409,
+    "growthgdp2023": "4.1"
   }
 ]
