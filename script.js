@@ -19,7 +19,7 @@ var A=a=>typeof a=='number',b=a=>typeof a=='undefined',c=document.getElementById
               <div class="population">
               Population: <span>${new Intl.NumberFormat('ru-RU').format(aV.pop2023)}</span></div>
               <div class="density">Density: <span>${new Intl.NumberFormat('ru-RU').format(Math.round10(aV.density,-1))} /km<sup>2</sup></span></div>
-              <div class="area">Area: <span>${(aV.area/1000).toFixed(1).replace(/\B(?=(\d{3})+(?!\d))/g,' ')}K km<sup>2</sup></span></div>
+              <div class="area">Area: <span>${new Intl.NumberFormat('ru-RU').format(Math.round10(aV.area,0))} km<sup>2</sup></span></div>
               <div class="area">GDP (2023): <span>$${new Intl.NumberFormat('ru-RU').format(Math.round10(aV.gdp2023,0))} bln.</span></div>
               <div class="area">GDP PC (2023): <span>$${new Intl.NumberFormat('ru-RU').format(Math.round10(aV.gdppc2023,0))}</span></div>
               <div class="area">GDP PPP (2023): <span>$${new Intl.NumberFormat('ru-RU').format(Math.round10(aV.gdpppppc2023,0))}</span></div>
