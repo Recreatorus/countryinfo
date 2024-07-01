@@ -1,5 +1,6 @@
 [
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Afghanistan",
     "phoneCode": "+93",
@@ -16,10 +17,10 @@
     "rusName": "Афганистан",
     "debt": "0",
     "pop2023": 42239854,
-    "growthgdp2023": "0",
     "code": "AFG"
   },
   {
+    "growthgdp2023": "3.3",
     "gdp2023": "22.743",
     "country": "Albania",
     "phoneCode": "+355",
@@ -36,10 +37,10 @@
     "rusName": "Албания",
     "debt": "67.6",
     "pop2023": 2832439,
-    "growthgdp2023": "3.6",
     "code": "ALB"
   },
   {
+    "growthgdp2023": "4.2",
     "gdp2023": "244.746",
     "country": "Algeria",
     "phoneCode": "+213",
@@ -56,10 +57,10 @@
     "rusName": "Алжир",
     "debt": "52.4",
     "pop2023": 45606480,
-    "growthgdp2023": "3.8",
     "code": "DZA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "American Samoa",
     "phoneCode": "+1-684",
@@ -75,10 +76,10 @@
     "gdpppppc2023": "0",
     "rusName": "Американское Самоа",
     "debt": "0",
-    "pop2023": 43914,
-    "growthgdp2023": "0"
+    "pop2023": 43914
   },
   {
+    "growthgdp2023": "2.3",
     "gdp2023": "3.726",
     "country": "Andorra",
     "phoneCode": "+376",
@@ -95,10 +96,10 @@
     "rusName": "Андорра",
     "debt": "38.8",
     "pop2023": 80088,
-    "growthgdp2023": "2.1",
     "code": "AND"
   },
   {
+    "growthgdp2023": "0.5",
     "gdp2023": "94.381",
     "country": "Angola",
     "phoneCode": "+244",
@@ -115,10 +116,10 @@
     "rusName": "Ангола",
     "debt": "67",
     "pop2023": 36684202,
-    "growthgdp2023": "1.3",
     "code": "AGO"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Anguilla",
     "phoneCode": "+1-264",
@@ -134,10 +135,10 @@
     "gdpppppc2023": "0",
     "rusName": "Ангилья",
     "debt": "0",
-    "pop2023": 15899,
-    "growthgdp2023": "0"
+    "pop2023": 15899
   },
   {
+    "growthgdp2023": "5.9",
     "gdp2023": "1.954",
     "country": "Antigua and Barbuda",
     "phoneCode": "+1-268",
@@ -154,10 +155,10 @@
     "rusName": "Антигуа и Барбуда",
     "debt": "90.6",
     "pop2023": 94298,
-    "growthgdp2023": "5.6",
     "code": "ATG"
   },
   {
+    "growthgdp2023": "-1.6",
     "gdp2023": "654.892",
     "country": "Argentina",
     "phoneCode": "+54",
@@ -174,10 +175,10 @@
     "rusName": "Аргентина",
     "debt": "84.5",
     "pop2023": 45773884,
-    "growthgdp2023": "-2.5",
     "code": "ARG"
   },
   {
+    "growthgdp2023": "8.7",
     "gdp2023": "24.155",
     "country": "Armenia",
     "phoneCode": "+374",
@@ -194,10 +195,10 @@
     "rusName": "Армения",
     "debt": "49.3",
     "pop2023": 2777970,
-    "growthgdp2023": "7",
     "code": "ARM"
   },
   {
+    "growthgdp2023": "5.3",
     "gdp2023": "3.937",
     "country": "Aruba",
     "phoneCode": "+297",
@@ -214,10 +215,10 @@
     "rusName": "Аруба",
     "debt": "92",
     "pop2023": 106277,
-    "growthgdp2023": "2.3",
     "code": "ABW"
   },
   {
+    "growthgdp2023": "2.1",
     "gdp2023": "1741.882",
     "country": "Australia",
     "phoneCode": "+61",
@@ -234,10 +235,10 @@
     "rusName": "Австралия",
     "debt": "55.7",
     "pop2023": 26439111,
-    "growthgdp2023": "1.8",
     "code": "AUS"
   },
   {
+    "growthgdp2023": "-0.7",
     "gdp2023": "519.71",
     "country": "Austria",
     "phoneCode": "+43",
@@ -254,10 +255,10 @@
     "rusName": "Австрия",
     "debt": "77.8",
     "pop2023": 8958960,
-    "growthgdp2023": "0.1",
     "code": "AUT"
   },
   {
+    "growthgdp2023": "1.1",
     "gdp2023": "76.639",
     "country": "Azerbaijan",
     "phoneCode": "+994",
@@ -274,10 +275,10 @@
     "rusName": "Азербайджан",
     "debt": "20.7",
     "pop2023": 10412651,
-    "growthgdp2023": "2.5",
     "code": "AZE"
   },
   {
+    "growthgdp2023": "4.3",
     "gdp2023": "13.816",
     "country": "Bahamas",
     "phoneCode": "+1-242",
@@ -294,10 +295,10 @@
     "rusName": "Багамские Острова",
     "debt": "89.4",
     "pop2023": 412623,
-    "growthgdp2023": "4.3",
     "code": "BHS"
   },
   {
+    "growthgdp2023": "2.6",
     "gdp2023": "44.674",
     "country": "Bahrain",
     "phoneCode": "+973",
@@ -314,10 +315,10 @@
     "rusName": "Бахрейн",
     "debt": "117.6",
     "pop2023": 1485509,
-    "growthgdp2023": "2.7",
     "code": "BHR"
   },
   {
+    "growthgdp2023": "6",
     "gdp2023": "446.349",
     "country": "Bangladesh",
     "phoneCode": "+880",
@@ -334,10 +335,10 @@
     "rusName": "Бангладеш",
     "debt": "39.1",
     "pop2023": 172954319,
-    "growthgdp2023": "6",
     "code": "BGD"
   },
   {
+    "growthgdp2023": "4.4",
     "gdp2023": "6.388",
     "country": "Barbados",
     "phoneCode": "+1-246",
@@ -354,10 +355,10 @@
     "rusName": "Барбадос",
     "debt": "120.8",
     "pop2023": 281995,
-    "growthgdp2023": "4.5",
     "code": "BRB"
   },
   {
+    "growthgdp2023": "3.9",
     "gdp2023": "71.805",
     "country": "Belarus",
     "phoneCode": "+375",
@@ -374,10 +375,10 @@
     "rusName": "Белоруссия",
     "debt": "39.8",
     "pop2023": 9498238,
-    "growthgdp2023": "1.6",
     "code": "BLR"
   },
   {
+    "growthgdp2023": "1.5",
     "gdp2023": "630.11",
     "country": "Belgium",
     "phoneCode": "+32",
@@ -394,10 +395,10 @@
     "rusName": "Бельгия",
     "debt": "105.3",
     "pop2023": 11686140,
-    "growthgdp2023": "1",
     "code": "BEL"
   },
   {
+    "growthgdp2023": "4.7",
     "gdp2023": "3.094",
     "country": "Belize",
     "phoneCode": "+501",
@@ -414,10 +415,10 @@
     "rusName": "Белиз",
     "debt": "64.1",
     "pop2023": 410825,
-    "growthgdp2023": "4",
     "code": "BLZ"
   },
   {
+    "growthgdp2023": "5.8",
     "gdp2023": "19.398",
     "country": "Benin",
     "phoneCode": "+229",
@@ -434,10 +435,10 @@
     "rusName": "Бенин",
     "debt": "52.4",
     "pop2023": 13712828,
-    "growthgdp2023": "5.5",
     "code": "BEN"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Bermuda",
     "phoneCode": "+1-441",
@@ -453,10 +454,10 @@
     "gdpppppc2023": "0",
     "rusName": "Бермудские Острова",
     "debt": "0",
-    "pop2023": 64069,
-    "growthgdp2023": "0"
+    "pop2023": 64069
   },
   {
+    "growthgdp2023": "4.6",
     "gdp2023": "2.897",
     "country": "Bhutan",
     "phoneCode": "+975",
@@ -473,10 +474,10 @@
     "rusName": "Бутан",
     "debt": "124.8",
     "pop2023": 787424,
-    "growthgdp2023": "5.3",
     "code": "BTN"
   },
   {
+    "growthgdp2023": "2.5",
     "gdp2023": "46.473",
     "country": "Bolivia",
     "phoneCode": "+591",
@@ -493,10 +494,10 @@
     "rusName": "Боливия",
     "debt": "82.6",
     "pop2023": 12388571,
-    "growthgdp2023": "1.8",
     "code": "BOL"
   },
   {
+    "growthgdp2023": "1.8",
     "gdp2023": "27.216",
     "country": "Bosnia and Herzegovina",
     "phoneCode": "+387",
@@ -513,10 +514,10 @@
     "rusName": "Босния и Герцеговина",
     "debt": "29.6",
     "pop2023": 3210847,
-    "growthgdp2023": "2",
     "code": "BIH"
   },
   {
+    "growthgdp2023": "3.2",
     "gdp2023": "20.445",
     "country": "Botswana",
     "phoneCode": "+267",
@@ -533,10 +534,10 @@
     "rusName": "Ботсвана",
     "debt": "19.9",
     "pop2023": 2675352,
-    "growthgdp2023": "3.8",
     "code": "BWA"
   },
   {
+    "growthgdp2023": "2.9",
     "gdp2023": "2173.671",
     "country": "Brazil",
     "phoneCode": "+55",
@@ -553,10 +554,10 @@
     "rusName": "Бразилия",
     "debt": "85.9",
     "pop2023": 216422446,
-    "growthgdp2023": "3.1",
     "code": "BRA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "British Indian Ocean Territory",
     "phoneCode": "+246",
@@ -572,10 +573,10 @@
     "gdpppppc2023": "0",
     "rusName": "Британская территория в Индийском океане",
     "debt": "0.0",
-    "pop2023": 0,
-    "growthgdp2023": "0"
+    "pop2023": 0
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "British Virgin Islands",
     "phoneCode": "+1-284",
@@ -591,10 +592,10 @@
     "gdpppppc2023": "0",
     "rusName": "Британские Виргинские острова",
     "debt": "0.0",
-    "pop2023": 31538,
-    "growthgdp2023": "0"
+    "pop2023": 31538
   },
   {
+    "growthgdp2023": "1.4",
     "gdp2023": "15.128",
     "country": "Brunei",
     "phoneCode": "+673",
@@ -611,10 +612,10 @@
     "rusName": "Бруней",
     "debt": "2.1",
     "pop2023": 452524,
-    "growthgdp2023": "-0.8",
     "code": "BRN"
   },
   {
+    "growthgdp2023": "1.8",
     "gdp2023": "101.611",
     "country": "Bulgaria",
     "phoneCode": "+359",
@@ -631,10 +632,10 @@
     "rusName": "Болгария",
     "debt": "21.8",
     "pop2023": 6687717,
-    "growthgdp2023": "1.7",
     "code": "BGR"
   },
   {
+    "growthgdp2023": "3.6",
     "gdp2023": "20.382",
     "country": "Burkina Faso",
     "phoneCode": "+226",
@@ -651,10 +652,10 @@
     "rusName": "Буркина-Фасо",
     "debt": "54.3",
     "pop2023": 23251485,
-    "growthgdp2023": "4.4",
     "code": "BFA"
   },
   {
+    "growthgdp2023": "2.7",
     "gdp2023": "4.216",
     "country": "Burundi",
     "phoneCode": "+257",
@@ -671,10 +672,10 @@
     "rusName": "Бурунди",
     "debt": "68.3",
     "pop2023": 13238559,
-    "growthgdp2023": "3.3",
     "code": "BDI"
   },
   {
+    "growthgdp2023": "4.8",
     "gdp2023": "2.52",
     "country": "Cabo Verde",
     "phoneCode": "+238",
@@ -691,10 +692,10 @@
     "rusName": "Кабо-Верде",
     "debt": "127.4",
     "pop2023": 598682,
-    "growthgdp2023": "4.4",
     "code": "CPV"
   },
   {
+    "growthgdp2023": "5",
     "gdp2023": "41.855",
     "country": "Cambodia",
     "phoneCode": "+855",
@@ -711,10 +712,10 @@
     "rusName": "Камбоджа",
     "debt": "36.5",
     "pop2023": 16944826,
-    "growthgdp2023": "5.6",
     "code": "KHM"
   },
   {
+    "growthgdp2023": "4",
     "gdp2023": "48.958",
     "country": "Cameroon",
     "phoneCode": "+237",
@@ -731,10 +732,10 @@
     "rusName": "Камерун",
     "debt": "46.4",
     "pop2023": 28647293,
-    "growthgdp2023": "4",
     "code": "CMR"
   },
   {
+    "growthgdp2023": "1.1",
     "gdp2023": "2140.086",
     "country": "Canada",
     "phoneCode": "+1",
@@ -751,10 +752,10 @@
     "rusName": "Канада",
     "debt": "106.6",
     "pop2023": 38781291,
-    "growthgdp2023": "1.3",
     "code": "CAN"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Cayman Islands",
     "phoneCode": "+1-345",
@@ -770,10 +771,10 @@
     "gdpppppc2023": "0",
     "rusName": "Каймановы о-ва",
     "debt": "0",
-    "pop2023": 69310,
-    "growthgdp2023": "0"
+    "pop2023": 69310
   },
   {
+    "growthgdp2023": "0.7",
     "gdp2023": "2.632",
     "country": "Central African Republic",
     "phoneCode": "+236",
@@ -790,10 +791,10 @@
     "rusName": "ЦАР",
     "debt": "50.7",
     "pop2023": 5742315,
-    "growthgdp2023": "1",
     "code": "CAF"
   },
   {
+    "growthgdp2023": "4.4",
     "gdp2023": "17.493",
     "country": "Chad",
     "phoneCode": "+235",
@@ -810,10 +811,10 @@
     "rusName": "Чад",
     "debt": "50.4",
     "pop2023": 18278568,
-    "growthgdp2023": "4",
     "code": "TCD"
   },
   {
+    "growthgdp2023": "0.2",
     "gdp2023": "335.658",
     "country": "Chile",
     "phoneCode": "+56",
@@ -830,10 +831,10 @@
     "rusName": "Чили",
     "debt": "38",
     "pop2023": 19629590,
-    "growthgdp2023": "-0.5",
     "code": "CHL"
   },
   {
+    "growthgdp2023": "5.2",
     "gdp2023": "17662.041",
     "country": "China",
     "phoneCode": "+86",
@@ -850,10 +851,10 @@
     "rusName": "Китай (Китайская Народная Республика)",
     "debt": "77.1",
     "pop2023": 1425671352,
-    "growthgdp2023": "5",
     "code": "CHN"
   },
   {
+    "growthgdp2023": "0.6",
     "gdp2023": "363.616",
     "country": "Colombia",
     "phoneCode": "+57",
@@ -870,10 +871,10 @@
     "rusName": "Колумбия",
     "debt": "63.6",
     "pop2023": 52085168,
-    "growthgdp2023": "1.4",
     "code": "COL"
   },
   {
+    "growthgdp2023": "3",
     "gdp2023": "1.34",
     "country": "Comoros",
     "phoneCode": "+269",
@@ -890,10 +891,10 @@
     "rusName": "Коморы",
     "debt": "29.1",
     "pop2023": 852075,
-    "growthgdp2023": "3",
     "code": "COM"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Cook Islands",
     "phoneCode": "+682",
@@ -909,10 +910,10 @@
     "gdpppppc2023": "0",
     "rusName": "Острова Кука",
     "debt": "0",
-    "pop2023": 17044,
-    "growthgdp2023": "0"
+    "pop2023": 17044
   },
   {
+    "growthgdp2023": "5.1",
     "gdp2023": "86.509",
     "country": "Costa Rica",
     "phoneCode": "+506",
@@ -929,10 +930,10 @@
     "rusName": "Коста-Рика",
     "debt": "63.8",
     "pop2023": 5212173,
-    "growthgdp2023": "4.4",
     "code": "CRI"
   },
   {
+    "growthgdp2023": "6.2",
     "gdp2023": "79.978",
     "country": "Côte d'Ivoire",
     "phoneCode": "+225",
@@ -949,10 +950,10 @@
     "rusName": "Кот-д'Ивуар",
     "debt": "56.8",
     "pop2023": 28873034,
-    "growthgdp2023": "6.2",
     "code": "CIV"
   },
   {
+    "growthgdp2023": "2.8",
     "gdp2023": "82.044",
     "country": "Croatia",
     "phoneCode": "+385",
@@ -969,10 +970,10 @@
     "rusName": "Хорватия",
     "debt": "67.5",
     "pop2023": 4008617,
-    "growthgdp2023": "2.7",
     "code": "HRV"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Cuba",
     "phoneCode": "+53",
@@ -988,10 +989,10 @@
     "gdpppppc2023": "0",
     "rusName": "Куба",
     "debt": "0",
-    "pop2023": 11194449,
-    "growthgdp2023": "0"
+    "pop2023": 11194449
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Curacao",
     "phoneCode": "+599",
@@ -1007,10 +1008,10 @@
     "gdpppppc2023": "0",
     "rusName": "Кюрасао",
     "debt": "0",
-    "pop2023": 192077,
-    "growthgdp2023": "0"
+    "pop2023": 192077
   },
   {
+    "growthgdp2023": "2.5",
     "gdp2023": "32.185",
     "country": "Cyprus",
     "phoneCode": "+357",
@@ -1027,10 +1028,10 @@
     "rusName": "Кипр",
     "debt": "86.5",
     "pop2023": 1260138,
-    "growthgdp2023": "2.2",
     "code": "CYP"
   },
   {
+    "growthgdp2023": "-0.4",
     "gdp2023": "332.025",
     "country": "Czech Republic",
     "phoneCode": "+420",
@@ -1047,12 +1048,12 @@
     "rusName": "Чехия",
     "debt": "42.3",
     "pop2023": 10495295,
-    "growthgdp2023": "0.2",
     "code": "CZE"
   },
   {
+    "growthgdp2023": "6.1",
     "gdp2023": "67.268",
-    "country": "Congo DR (The Democratic Republic of Congo)",
+    "country": "The Democratic Republic of Congo",
     "phoneCode": "+243",
     "capital": "Kinshasa",
     "abbr": "COD",
@@ -1067,10 +1068,10 @@
     "rusName": "ДР Конго",
     "debt": "14.6",
     "pop2023": 102262808,
-    "growthgdp2023": "6.7",
     "code": "COD"
   },
   {
+    "growthgdp2023": "1.8",
     "gdp2023": "405.199",
     "country": "Denmark",
     "phoneCode": "+45",
@@ -1087,10 +1088,10 @@
     "rusName": "Дания",
     "debt": "29.7",
     "pop2023": 5910913,
-    "growthgdp2023": "1.7",
     "code": "DNK"
   },
   {
+    "growthgdp2023": "7",
     "gdp2023": "4.023",
     "country": "Djibouti",
     "phoneCode": "+253",
@@ -1107,10 +1108,10 @@
     "rusName": "Джибути",
     "debt": "40.6",
     "pop2023": 1136455,
-    "growthgdp2023": "5",
     "code": "DJI"
   },
   {
+    "growthgdp2023": "4.7",
     "gdp2023": "0.658",
     "country": "Dominica",
     "phoneCode": "+1-767",
@@ -1127,10 +1128,10 @@
     "rusName": "Доминика",
     "debt": "104.8",
     "pop2023": 73040,
-    "growthgdp2023": "4.6",
     "code": "DMA"
   },
   {
+    "growthgdp2023": "2.4",
     "gdp2023": "119.966",
     "country": "Dominican Republic",
     "phoneCode": "+1-809",
@@ -1147,10 +1148,10 @@
     "rusName": "Доминиканская Республика",
     "debt": "58.9",
     "pop2023": 11332972,
-    "growthgdp2023": "3",
     "code": "DOM"
   },
   {
+    "growthgdp2023": "2.3",
     "gdp2023": "120.175",
     "country": "Ecuador",
     "phoneCode": "+593",
@@ -1167,10 +1168,10 @@
     "rusName": "Эквадор",
     "debt": "57.3",
     "pop2023": 18190484,
-    "growthgdp2023": "1.4",
     "code": "ECU"
   },
   {
+    "growthgdp2023": "3.8",
     "gdp2023": "393.909",
     "country": "Egypt",
     "phoneCode": "+20",
@@ -1187,10 +1188,10 @@
     "rusName": "Египет",
     "debt": "88.5",
     "pop2023": 112716598,
-    "growthgdp2023": "4.2",
     "code": "EGY"
   },
   {
+    "growthgdp2023": "3.5",
     "gdp2023": "34.016",
     "country": "El Salvador",
     "phoneCode": "+503",
@@ -1207,10 +1208,10 @@
     "rusName": "Сальвадор",
     "debt": "77.2",
     "pop2023": 6364943,
-    "growthgdp2023": "2.2",
     "code": "SLV"
   },
   {
+    "growthgdp2023": "-5.9",
     "gdp2023": "10.284",
     "country": "Equatorial Guinea",
     "phoneCode": "+240",
@@ -1227,10 +1228,10 @@
     "rusName": "Экваториальная Гвинея",
     "debt": "27.1",
     "pop2023": 1714671,
-    "growthgdp2023": "-6.2",
     "code": "GNQ"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Eritrea",
     "phoneCode": "+291",
@@ -1247,10 +1248,10 @@
     "rusName": "Эритрея",
     "debt": "163.8",
     "pop2023": 3748901,
-    "growthgdp2023": "0",
     "code": "ERI"
   },
   {
+    "growthgdp2023": "-3",
     "gdp2023": "40.757",
     "country": "Estonia",
     "phoneCode": "+372",
@@ -1267,10 +1268,10 @@
     "rusName": "Эстония",
     "debt": "17.2",
     "pop2023": 1322765,
-    "growthgdp2023": "-2.3",
     "code": "EST"
   },
   {
+    "growthgdp2023": "7.2",
     "gdp2023": "159.747",
     "country": "Ethiopia",
     "phoneCode": "+251",
@@ -1287,10 +1288,10 @@
     "rusName": "Эфиопия",
     "debt": "46.4",
     "pop2023": 126527060,
-    "growthgdp2023": "6.1",
     "code": "ETH"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Falkland Islands",
     "phoneCode": "+500",
@@ -1306,10 +1307,10 @@
     "gdpppppc2023": "0",
     "rusName": "Фолклендские острова (Мальвинские)",
     "debt": "0",
-    "pop2023": 3791,
-    "growthgdp2023": "0"
+    "pop2023": 3791
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Faroe Islands",
     "phoneCode": "+298",
@@ -1325,10 +1326,10 @@
     "gdpppppc2023": "0",
     "rusName": "Фарерские острова",
     "debt": "0",
-    "pop2023": 53270,
-    "growthgdp2023": "0"
+    "pop2023": 53270
   },
   {
+    "growthgdp2023": "0.8",
     "gdp2023": "0.46",
     "country": "Micronesia",
     "phoneCode": "+691",
@@ -1345,10 +1346,10 @@
     "rusName": "Микронезия",
     "debt": "14",
     "pop2023": 115224,
-    "growthgdp2023": "2.6",
     "code": "FSM"
   },
   {
+    "growthgdp2023": "8",
     "gdp2023": "5.497",
     "country": "Fiji",
     "phoneCode": "+679",
@@ -1365,10 +1366,10 @@
     "rusName": "Фиджи",
     "debt": "92.8",
     "pop2023": 936375,
-    "growthgdp2023": "7.5",
     "code": "FJI"
   },
   {
+    "growthgdp2023": "-1",
     "gdp2023": "300.499",
     "country": "Finland",
     "phoneCode": "+358",
@@ -1385,10 +1386,10 @@
     "rusName": "Финляндия",
     "debt": "74.8",
     "pop2023": 5545475,
-    "growthgdp2023": "-0.1",
     "code": "FIN"
   },
   {
+    "growthgdp2023": "0.9",
     "gdp2023": "3031.778",
     "country": "France",
     "phoneCode": "+33",
@@ -1405,10 +1406,10 @@
     "rusName": "Франция",
     "debt": "111.1",
     "pop2023": 64756584,
-    "growthgdp2023": "1",
     "code": "FRA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "French Guiana",
     "phoneCode": "+594",
@@ -1424,10 +1425,10 @@
     "gdpppppc2023": "0",
     "rusName": "Французская Гвиана",
     "debt": "0",
-    "pop2023": 312155,
-    "growthgdp2023": "0"
+    "pop2023": 312155
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "French Polynesia",
     "phoneCode": "+689",
@@ -1443,10 +1444,10 @@
     "gdpppppc2023": "0",
     "rusName": "Французская Полинезия",
     "debt": "0",
-    "pop2023": 308872,
-    "growthgdp2023": "0"
+    "pop2023": 308872
   },
   {
+    "growthgdp2023": "2.3",
     "gdp2023": "20.524",
     "country": "Gabon",
     "phoneCode": "+241",
@@ -1463,10 +1464,10 @@
     "rusName": "Габон",
     "debt": "55.1",
     "pop2023": 2436566,
-    "growthgdp2023": "2.8",
     "code": "GAB"
   },
   {
+    "growthgdp2023": "5.6",
     "gdp2023": "2.362",
     "country": "Gambia",
     "phoneCode": "+220",
@@ -1483,10 +1484,10 @@
     "rusName": "Гамбия",
     "debt": "84",
     "pop2023": 2773168,
-    "growthgdp2023": "5.6",
     "code": "GMB"
   },
   {
+    "growthgdp2023": "7.5",
     "gdp2023": "30.536",
     "country": "Georgia",
     "phoneCode": "+995",
@@ -1503,10 +1504,10 @@
     "rusName": "Грузия",
     "debt": "39.8",
     "pop2023": 3728282,
-    "growthgdp2023": "6.2",
     "code": "GEO"
   },
   {
+    "growthgdp2023": "-0.3",
     "gdp2023": "4457.366",
     "country": "Germany",
     "phoneCode": "+49",
@@ -1523,10 +1524,10 @@
     "rusName": "Германия",
     "debt": "66.5",
     "pop2023": 83294633,
-    "growthgdp2023": "-0.5",
     "code": "DEU"
   },
   {
+    "growthgdp2023": "2.3",
     "gdp2023": "76.277",
     "country": "Ghana",
     "phoneCode": "+233",
@@ -1543,10 +1544,10 @@
     "rusName": "Гана",
     "debt": "88.8",
     "pop2023": 34121985,
-    "growthgdp2023": "1.2",
     "code": "GHA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Gibraltar",
     "phoneCode": "+350",
@@ -1562,10 +1563,10 @@
     "gdpppppc2023": "0",
     "rusName": "Гибралтар",
     "debt": "0",
-    "pop2023": 32688,
-    "growthgdp2023": "0"
+    "pop2023": 32688
   },
   {
+    "growthgdp2023": "2",
     "gdp2023": "238.275",
     "country": "Greece",
     "phoneCode": "+30",
@@ -1582,10 +1583,10 @@
     "rusName": "Греция",
     "debt": "177.4",
     "pop2023": 10341277,
-    "growthgdp2023": "2.5",
     "code": "GRC"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Greenland",
     "phoneCode": "+299",
@@ -1601,10 +1602,10 @@
     "gdpppppc2023": "0",
     "rusName": "Гренландия",
     "debt": "0",
-    "pop2023": 56643,
-    "growthgdp2023": "0"
+    "pop2023": 56643
   },
   {
+    "growthgdp2023": "4.8",
     "gdp2023": "1.328",
     "country": "Grenada",
     "phoneCode": " +1-473",
@@ -1621,10 +1622,10 @@
     "rusName": "Гренада",
     "debt": "64.5",
     "pop2023": 126183,
-    "growthgdp2023": "3.9",
     "code": "GRD"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Guadeloupe",
     "phoneCode": "+590",
@@ -1640,10 +1641,10 @@
     "gdpppppc2023": "0",
     "rusName": "Гваделупа",
     "debt": "0",
-    "pop2023": 395839,
-    "growthgdp2023": "0"
+    "pop2023": 395839
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Guam",
     "phoneCode": "+1-671",
@@ -1659,10 +1660,10 @@
     "gdpppppc2023": "0",
     "rusName": "Гуам",
     "debt": "0",
-    "pop2023": 172952,
-    "growthgdp2023": "0"
+    "pop2023": 172952
   },
   {
+    "growthgdp2023": "3.5",
     "gdp2023": "102.036",
     "country": "Guatemala",
     "phoneCode": "+502",
@@ -1679,10 +1680,10 @@
     "rusName": "Гватемала",
     "debt": "30.1",
     "pop2023": 18092026,
-    "growthgdp2023": "3.4",
     "code": "GTM"
   },
   {
+    "growthgdp2023": "5.7",
     "gdp2023": "23.005",
     "country": "Guinea",
     "phoneCode": "+224",
@@ -1699,10 +1700,10 @@
     "rusName": "Гвинея",
     "debt": "33.4",
     "pop2023": 14190612,
-    "growthgdp2023": "5.9",
     "code": "GIN"
   },
   {
+    "growthgdp2023": "4.2",
     "gdp2023": "1.969",
     "country": "Guinea-Bissau",
     "phoneCode": "+245",
@@ -1719,10 +1720,10 @@
     "rusName": "Гвинея-Бисау",
     "debt": "79.5",
     "pop2023": 2150842,
-    "growthgdp2023": "4.5",
     "code": "GNB"
   },
   {
+    "growthgdp2023": "33",
     "gdp2023": "17.05",
     "country": "Guyana",
     "phoneCode": "+592",
@@ -1739,10 +1740,10 @@
     "rusName": "Гайана",
     "debt": "27.8",
     "pop2023": 813834,
-    "growthgdp2023": "38.4",
     "code": "GUY"
   },
   {
+    "growthgdp2023": "-1.9",
     "gdp2023": "21.533",
     "country": "Haiti",
     "phoneCode": "+509",
@@ -1759,10 +1760,10 @@
     "rusName": "Гаити",
     "debt": "25",
     "pop2023": 11724763,
-    "growthgdp2023": "-1.5",
     "code": "HTI"
   },
   {
+    "growthgdp2023": "3.5",
     "gdp2023": "34.886",
     "country": "Honduras",
     "phoneCode": "+504",
@@ -1779,10 +1780,10 @@
     "rusName": "Гондурас",
     "debt": "50",
     "pop2023": 10593798,
-    "growthgdp2023": "2.9",
     "code": "HND"
   },
   {
+    "growthgdp2023": "3.2",
     "gdp2023": "376.969",
     "country": "Hong Kong",
     "phoneCode": "+852",
@@ -1799,10 +1800,10 @@
     "rusName": "Гонконг",
     "debt": "4.3",
     "pop2023": 7491609,
-    "growthgdp2023": "4.4",
     "code": "HKG"
   },
   {
+    "growthgdp2023": "-0.9",
     "gdp2023": "212.61",
     "country": "Hungary",
     "phoneCode": "+36",
@@ -1819,10 +1820,10 @@
     "rusName": "Венгрия",
     "debt": "76.4",
     "pop2023": 10156239,
-    "growthgdp2023": "-0.3",
     "code": "HUN"
   },
   {
+    "growthgdp2023": "4.1",
     "gdp2023": "31.02",
     "country": "Iceland",
     "phoneCode": "+354",
@@ -1839,10 +1840,10 @@
     "rusName": "Исландия",
     "debt": "68.7",
     "pop2023": 375318,
-    "growthgdp2023": "3.3",
     "code": "ISL"
   },
   {
+    "growthgdp2023": "7.8",
     "gdp2023": "3572.078",
     "country": "India",
     "phoneCode": "+91",
@@ -1859,10 +1860,10 @@
     "rusName": "Индия",
     "debt": "83.1",
     "pop2023": 1428627663,
-    "growthgdp2023": "6.3",
     "code": "IND"
   },
   {
+    "growthgdp2023": "5",
     "gdp2023": "1371.171",
     "country": "Indonesia",
     "phoneCode": "+62",
@@ -1879,10 +1880,10 @@
     "rusName": "Индонезия",
     "debt": "39.9",
     "pop2023": 277534122,
-    "growthgdp2023": "5",
     "code": "IDN"
   },
   {
+    "growthgdp2023": "4.7",
     "gdp2023": "403.526",
     "country": "Iran",
     "phoneCode": "+98",
@@ -1899,10 +1900,10 @@
     "rusName": "Иран",
     "debt": "34",
     "pop2023": 89172767,
-    "growthgdp2023": "3",
     "code": "IRN"
   },
   {
+    "growthgdp2023": "-2.2",
     "gdp2023": "254.416",
     "country": "Iraq",
     "phoneCode": "+964",
@@ -1919,10 +1920,10 @@
     "rusName": "Ирак",
     "debt": "43.3",
     "pop2023": 45504560,
-    "growthgdp2023": "-2.7",
     "code": "IRQ"
   },
   {
+    "growthgdp2023": "-3.2",
     "gdp2023": "545.787",
     "country": "Ireland",
     "phoneCode": "+353",
@@ -1939,10 +1940,10 @@
     "rusName": "Ирландия",
     "debt": "45.2",
     "pop2023": 5056935,
-    "growthgdp2023": "2",
     "code": "IRL"
   },
   {
+    "growthgdp2023": "2",
     "gdp2023": "509.478",
     "country": "Israel",
     "phoneCode": "+972",
@@ -1959,10 +1960,10 @@
     "rusName": "Израиль",
     "debt": "60.9",
     "pop2023": 9174520,
-    "growthgdp2023": "3.1",
     "code": "ISR"
   },
   {
+    "growthgdp2023": "0.9",
     "gdp2023": "2255.503",
     "country": "Italy",
     "phoneCode": "+39",
@@ -1979,10 +1980,10 @@
     "rusName": "Италия",
     "debt": "144.7",
     "pop2023": 58870762,
-    "growthgdp2023": "0.7",
     "code": "ITA"
   },
   {
+    "growthgdp2023": "2.2",
     "gdp2023": "18.884",
     "country": "Jamaica",
     "phoneCode": "+1-876",
@@ -1999,10 +2000,10 @@
     "rusName": "Ямайка",
     "debt": "84.1",
     "pop2023": 2825544,
-    "growthgdp2023": "2",
     "code": "JAM"
   },
   {
+    "growthgdp2023": "1.9",
     "gdp2023": "4212.944",
     "country": "Japan",
     "phoneCode": "+81",
@@ -2019,10 +2020,10 @@
     "rusName": "Япония",
     "debt": "261.3",
     "pop2023": 123294513,
-    "growthgdp2023": "2",
     "code": "JPN"
   },
   {
+    "growthgdp2023": "2.6",
     "gdp2023": "50.989",
     "country": "Jordan",
     "phoneCode": "+962",
@@ -2039,10 +2040,10 @@
     "rusName": "Иордания",
     "debt": "89.4",
     "pop2023": 11337052,
-    "growthgdp2023": "2.6",
     "code": "JOR"
   },
   {
+    "growthgdp2023": "5.1",
     "gdp2023": "260.51",
     "country": "Kazakhstan",
     "phoneCode": "+77",
@@ -2059,10 +2060,10 @@
     "rusName": "Казахстан",
     "debt": "23.5",
     "pop2023": 19606633,
-    "growthgdp2023": "4.6",
     "code": "KAZ"
   },
   {
+    "growthgdp2023": "5.5",
     "gdp2023": "108.923",
     "country": "Kenya",
     "phoneCode": "+254",
@@ -2079,10 +2080,10 @@
     "rusName": "Кения",
     "debt": "67.9",
     "pop2023": 55100586,
-    "growthgdp2023": "5",
     "code": "KEN"
   },
   {
+    "growthgdp2023": "4.2",
     "gdp2023": "0.279",
     "country": "Kiribati",
     "phoneCode": "+686",
@@ -2099,10 +2100,10 @@
     "rusName": "Кирибати",
     "debt": "15.2",
     "pop2023": 133515,
-    "growthgdp2023": "2.6",
     "code": "KIR"
   },
   {
+    "growthgdp2023": "4.2",
     "gdp2023": "0.279",
     "country": "Kiribati",
     "phoneCode": "+383",
@@ -2119,10 +2120,10 @@
     "rusName": "Кирибати",
     "debt": "19.3",
     "pop2023": 133515,
-    "growthgdp2023": "2.6",
     "code": "KIR"
   },
   {
+    "growthgdp2023": "-2.2",
     "gdp2023": "161.784",
     "country": "Kuwait",
     "phoneCode": "+965",
@@ -2139,10 +2140,10 @@
     "rusName": "Кувейт",
     "debt": "2.9",
     "pop2023": 4310108,
-    "growthgdp2023": "-0.6",
     "code": "KWT"
   },
   {
+    "growthgdp2023": "4.2",
     "gdp2023": "12.775",
     "country": "Kyrgyzstan",
     "phoneCode": "+996",
@@ -2159,10 +2160,10 @@
     "rusName": "Киргизия",
     "debt": "53.5",
     "pop2023": 6735347,
-    "growthgdp2023": "3.4",
     "code": "KGZ"
   },
   {
+    "growthgdp2023": "3.7",
     "gdp2023": "15.197",
     "country": "Laos",
     "phoneCode": "+856",
@@ -2179,10 +2180,10 @@
     "rusName": "Лаос",
     "debt": "128.5",
     "pop2023": 7633779,
-    "growthgdp2023": "4",
     "code": "LAO"
   },
   {
+    "growthgdp2023": "-0.3",
     "gdp2023": "43.598",
     "country": "Latvia",
     "phoneCode": "+371",
@@ -2199,10 +2200,10 @@
     "rusName": "Латвия",
     "debt": "41.6",
     "pop2023": 1830211,
-    "growthgdp2023": "0.5",
     "code": "LVA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Lebanon",
     "phoneCode": "+961",
@@ -2219,10 +2220,10 @@
     "rusName": "Ливан",
     "debt": "0",
     "pop2023": 5353930,
-    "growthgdp2023": "0",
     "code": "LBN"
   },
   {
+    "growthgdp2023": "1.9",
     "gdp2023": "2.249",
     "country": "Lesotho",
     "phoneCode": "+266",
@@ -2239,10 +2240,10 @@
     "rusName": "Лесото",
     "debt": "57.9",
     "pop2023": 2330318,
-    "growthgdp2023": "2.1",
     "code": "LSO"
   },
   {
+    "growthgdp2023": "4.6",
     "gdp2023": "4.39",
     "country": "Liberia",
     "phoneCode": "+231",
@@ -2259,10 +2260,10 @@
     "rusName": "Либерия",
     "debt": "55.4",
     "pop2023": 5418377,
-    "growthgdp2023": "4.6",
     "code": "LBR"
   },
   {
+    "growthgdp2023": "10.2",
     "gdp2023": "45.011",
     "country": "Libya",
     "phoneCode": "+218",
@@ -2279,10 +2280,10 @@
     "rusName": "Ливия",
     "debt": "0",
     "pop2023": 6888388,
-    "growthgdp2023": "12.5",
     "code": "LBY"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Liechtenstein",
     "phoneCode": "+423",
@@ -2298,10 +2299,10 @@
     "gdpppppc2023": "0",
     "rusName": "Лихтенштейн",
     "debt": "0",
-    "pop2023": 39584,
-    "growthgdp2023": "0"
+    "pop2023": 39584
   },
   {
+    "growthgdp2023": "-0.3",
     "gdp2023": "77.926",
     "country": "Lithuania",
     "phoneCode": "+370",
@@ -2318,10 +2319,10 @@
     "rusName": "Литва",
     "debt": "39.6",
     "pop2023": 2718352,
-    "growthgdp2023": "-0.2",
     "code": "LTU"
   },
   {
+    "growthgdp2023": "-1.1",
     "gdp2023": "85.78",
     "country": "Luxembourg",
     "phoneCode": "+352",
@@ -2338,10 +2339,10 @@
     "rusName": "Люксембург",
     "debt": "24.3",
     "pop2023": 654768,
-    "growthgdp2023": "-0.4",
     "code": "LUX"
   },
   {
+    "growthgdp2023": "80.5",
     "gdp2023": "47.061",
     "country": "Macao",
     "phoneCode": "+853",
@@ -2358,10 +2359,10 @@
     "rusName": "Макао",
     "debt": "0",
     "pop2023": 704149,
-    "growthgdp2023": "74.4",
     "code": "MAC"
   },
   {
+    "growthgdp2023": "1",
     "gdp2023": "14.769",
     "country": "North Macedonia",
     "phoneCode": "+389",
@@ -2378,10 +2379,10 @@
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 2085679,
-    "growthgdp2023": "2.5",
     "code": "MKD"
   },
   {
+    "growthgdp2023": "3.8",
     "gdp2023": "15.753",
     "country": "Madagascar",
     "phoneCode": "+261",
@@ -2398,10 +2399,10 @@
     "rusName": "Мадагаскар",
     "debt": "57",
     "pop2023": 30325732,
-    "growthgdp2023": "4",
     "code": "MDG"
   },
   {
+    "growthgdp2023": "1.6",
     "gdp2023": "13.127",
     "country": "Malawi",
     "phoneCode": "+265",
@@ -2418,10 +2419,10 @@
     "rusName": "Малави",
     "debt": "70.1",
     "pop2023": 20931751,
-    "growthgdp2023": "1.7",
     "code": "MWI"
   },
   {
+    "growthgdp2023": "3.7",
     "gdp2023": "415.569",
     "country": "Malaysia",
     "phoneCode": "+60",
@@ -2438,10 +2439,10 @@
     "rusName": "Малайзия",
     "debt": "66.3",
     "pop2023": 34308525,
-    "growthgdp2023": "4",
     "code": "MYS"
   },
   {
+    "growthgdp2023": "4.4",
     "gdp2023": "6.685",
     "country": "Maldives",
     "phoneCode": "+960",
@@ -2458,10 +2459,10 @@
     "rusName": "Мальдивы",
     "debt": "114.9",
     "pop2023": 521021,
-    "growthgdp2023": "8.1",
     "code": "MDV"
   },
   {
+    "growthgdp2023": "4.5",
     "gdp2023": "20.684",
     "country": "Mali",
     "phoneCode": "+223",
@@ -2478,10 +2479,10 @@
     "rusName": "Мали",
     "debt": "53.2",
     "pop2023": 23293698,
-    "growthgdp2023": "4.5",
     "code": "MLI"
   },
   {
+    "growthgdp2023": "5.6",
     "gdp2023": "20.963",
     "country": "Malta",
     "phoneCode": "+356",
@@ -2498,10 +2499,10 @@
     "rusName": "Мальта",
     "debt": "55.8",
     "pop2023": 535064,
-    "growthgdp2023": "3.8",
     "code": "MLT"
   },
   {
+    "growthgdp2023": "3",
     "gdp2023": "0.284",
     "country": "Marshall Islands",
     "phoneCode": "+692",
@@ -2518,10 +2519,10 @@
     "rusName": "Маршалловы Острова",
     "debt": "21.2",
     "pop2023": 41996,
-    "growthgdp2023": "3",
     "code": "MHL"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Martinique",
     "phoneCode": "+596",
@@ -2537,10 +2538,10 @@
     "gdpppppc2023": "0",
     "rusName": "Мартиника",
     "debt": "0",
-    "pop2023": 366981,
-    "growthgdp2023": "0"
+    "pop2023": 366981
   },
   {
+    "growthgdp2023": "4.8",
     "gdp2023": "10.543",
     "country": "Mauritania",
     "phoneCode": "+222",
@@ -2557,10 +2558,10 @@
     "rusName": "Мавритания",
     "debt": "47.7",
     "pop2023": 4862989,
-    "growthgdp2023": "4.5",
     "code": "MRT"
   },
   {
+    "growthgdp2023": "6.9",
     "gdp2023": "14.371",
     "country": "Mauritius",
     "phoneCode": "+230",
@@ -2577,10 +2578,10 @@
     "rusName": "Маврикий",
     "debt": "80.9",
     "pop2023": 1300557,
-    "growthgdp2023": "5.1",
     "code": "MUS"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Mayotte",
     "phoneCode": "+262",
@@ -2596,10 +2597,10 @@
     "gdpppppc2023": "0",
     "rusName": "Майотта",
     "debt": "0",
-    "pop2023": 335995,
-    "growthgdp2023": "0"
+    "pop2023": 335995
   },
   {
+    "growthgdp2023": "3.2",
     "gdp2023": "1788.897",
     "country": "Mexico",
     "phoneCode": "+52",
@@ -2616,10 +2617,10 @@
     "rusName": "Мексика",
     "debt": "56",
     "pop2023": 128455567,
-    "growthgdp2023": "3.2",
     "code": "MEX"
   },
   {
+    "growthgdp2023": "1",
     "gdp2023": "17.052",
     "country": "Moldova",
     "phoneCode": "+373",
@@ -2636,10 +2637,10 @@
     "rusName": "Молдавия",
     "debt": "33.5",
     "pop2023": 3435931,
-    "growthgdp2023": "2",
     "code": "MDA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Monaco",
     "phoneCode": "+377",
@@ -2655,10 +2656,10 @@
     "gdpppppc2023": "0",
     "rusName": "Монако",
     "debt": "0",
-    "pop2023": 36297,
-    "growthgdp2023": "0"
+    "pop2023": 36297
   },
   {
+    "growthgdp2023": "7",
     "gdp2023": "19.862",
     "country": "Mongolia",
     "phoneCode": "+976",
@@ -2675,10 +2676,10 @@
     "rusName": "Монголия",
     "debt": "82.4",
     "pop2023": 3447157,
-    "growthgdp2023": "5.5",
     "code": "MNG"
   },
   {
+    "growthgdp2023": "6",
     "gdp2023": "7.406",
     "country": "Montenegro",
     "phoneCode": "+382",
@@ -2695,10 +2696,10 @@
     "rusName": "Черногория",
     "debt": "71.2",
     "pop2023": 626485,
-    "growthgdp2023": "4.5",
     "code": "MNE"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Montserrat",
     "phoneCode": "+1-664",
@@ -2714,10 +2715,10 @@
     "gdpppppc2023": "0",
     "rusName": "Монтсеррат",
     "debt": "0",
-    "pop2023": 4386,
-    "growthgdp2023": "0"
+    "pop2023": 4386
   },
   {
+    "growthgdp2023": "3",
     "gdp2023": "143.963",
     "country": "Morocco",
     "phoneCode": "+212",
@@ -2734,10 +2735,10 @@
     "rusName": "Марокко",
     "debt": "68.8",
     "pop2023": 37840044,
-    "growthgdp2023": "2.4",
     "code": "MAR"
   },
   {
+    "growthgdp2023": "6",
     "gdp2023": "21.353",
     "country": "Mozambique",
     "phoneCode": "+258",
@@ -2754,10 +2755,10 @@
     "rusName": "Мозамбик",
     "debt": "104.5",
     "pop2023": 33897354,
-    "growthgdp2023": "7",
     "code": "MOZ"
   },
   {
+    "growthgdp2023": "2.5",
     "gdp2023": "64.496",
     "country": "Myanmar",
     "phoneCode": "+95",
@@ -2774,10 +2775,10 @@
     "rusName": "Мьянма",
     "debt": "63.9",
     "pop2023": 54577997,
-    "growthgdp2023": "2.6",
     "code": "MMR"
   },
   {
+    "growthgdp2023": "3.2",
     "gdp2023": "12.327",
     "country": "Namibia",
     "phoneCode": "+264",
@@ -2794,10 +2795,10 @@
     "rusName": "Намибия",
     "debt": "71.3",
     "pop2023": 2604172,
-    "growthgdp2023": "2.8",
     "code": "NAM"
   },
   {
+    "growthgdp2023": "0.6",
     "gdp2023": "0.154",
     "country": "Nauru",
     "phoneCode": "+674",
@@ -2814,10 +2815,10 @@
     "rusName": "Науру",
     "debt": "24.3",
     "pop2023": 12780,
-    "growthgdp2023": "0.5",
     "code": "NRU"
   },
   {
+    "growthgdp2023": "0.8",
     "gdp2023": "41.015",
     "country": "Nepal",
     "phoneCode": "+977",
@@ -2834,10 +2835,10 @@
     "rusName": "Непал",
     "debt": "43.8",
     "pop2023": 30896590,
-    "growthgdp2023": "0.8",
     "code": "NPL"
   },
   {
+    "growthgdp2023": "0.1",
     "gdp2023": "1117.101",
     "country": "Netherlands",
     "phoneCode": "+31",
@@ -2854,10 +2855,10 @@
     "rusName": "Нидерланды",
     "debt": "48.5",
     "pop2023": 17618299,
-    "growthgdp2023": "0.6",
     "code": "NLD"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Netherlands Antilles",
     "phoneCode": "+599",
@@ -2873,10 +2874,10 @@
     "gdpppppc2023": "0",
     "rusName": "Антильские острова",
     "debt": "0",
-    "pop2023": 0,
-    "growthgdp2023": "0"
+    "pop2023": 0
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "New Caledonia",
     "phoneCode": "+687",
@@ -2892,10 +2893,10 @@
     "gdpppppc2023": "0",
     "rusName": "Новая Каледония",
     "debt": "0",
-    "pop2023": 292991,
-    "growthgdp2023": "0"
+    "pop2023": 292991
   },
   {
+    "growthgdp2023": "0.6",
     "gdp2023": "249.04",
     "country": "New Zealand",
     "phoneCode": "+64",
@@ -2912,10 +2913,10 @@
     "rusName": "Новая Зеландия",
     "debt": "52.8",
     "pop2023": 5228100,
-    "growthgdp2023": "1.1",
     "code": "NZL"
   },
   {
+    "growthgdp2023": "4.7",
     "gdp2023": "17.412",
     "country": "Nicaragua",
     "phoneCode": "+505",
@@ -2932,10 +2933,10 @@
     "rusName": "Никарагуа",
     "debt": "46",
     "pop2023": 7046310,
-    "growthgdp2023": "3",
     "code": "NIC"
   },
   {
+    "growthgdp2023": "1.4",
     "gdp2023": "16.528",
     "country": "Niger",
     "phoneCode": "+227",
@@ -2952,10 +2953,10 @@
     "rusName": "Нигер",
     "debt": "51.1",
     "pop2023": 27202843,
-    "growthgdp2023": "4.1",
     "code": "NER"
   },
   {
+    "growthgdp2023": "2.9",
     "gdp2023": "374.947",
     "country": "Nigeria",
     "phoneCode": "+234",
@@ -2972,10 +2973,10 @@
     "rusName": "Нигерия",
     "debt": "38",
     "pop2023": 223804632,
-    "growthgdp2023": "2.9",
     "code": "NGA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Niue",
     "phoneCode": "+683",
@@ -2991,10 +2992,10 @@
     "gdpppppc2023": "0",
     "rusName": "Ниуэ",
     "debt": "0",
-    "pop2023": 1935,
-    "growthgdp2023": "0"
+    "pop2023": 1935
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Norfolk Island",
     "phoneCode": "+672",
@@ -3010,10 +3011,10 @@
     "gdpppppc2023": "0",
     "rusName": "Остров Норфолк",
     "debt": "0",
-    "pop2023": 0,
-    "growthgdp2023": "0"
+    "pop2023": 0
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "North Korea",
     "phoneCode": "+850",
@@ -3029,10 +3030,10 @@
     "gdpppppc2023": "0",
     "rusName": "Северная Корея",
     "debt": "0",
-    "pop2023": 26160821,
-    "growthgdp2023": "0"
+    "pop2023": 26160821
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Northern Mariana Islands",
     "phoneCode": "+1-670",
@@ -3048,12 +3049,12 @@
     "gdpppppc2023": "0",
     "rusName": "Северные Марианские острова",
     "debt": "0",
-    "pop2023": 49796,
-    "growthgdp2023": "0"
+    "pop2023": 49796
   },
   {
+    "growthgdp2023": "1",
     "gdp2023": "14.769",
-    "country": "Northern Mariana Islands",
+    "country": "North Macedonia",
     "phoneCode": "+389",
     "capital": "Skopje",
     "abbr": "MNP",
@@ -3068,10 +3069,10 @@
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 49796,
-    "growthgdp2023": "0",
     "code": "MKD"
   },
   {
+    "growthgdp2023": "0.5",
     "gdp2023": "485.513",
     "country": "Norway",
     "phoneCode": "+47",
@@ -3088,10 +3089,10 @@
     "rusName": "Норвегия",
     "debt": "39.6",
     "pop2023": 5474360,
-    "growthgdp2023": "2.3",
     "code": "NOR"
   },
   {
+    "growthgdp2023": "1.3",
     "gdp2023": "109.133",
     "country": "Oman",
     "phoneCode": "+968",
@@ -3108,10 +3109,10 @@
     "rusName": "Оман",
     "debt": "40.1",
     "pop2023": 4644384,
-    "growthgdp2023": "1.2",
     "code": "OMN"
   },
   {
+    "growthgdp2023": "-0.2",
     "gdp2023": "338.237",
     "country": "Pakistan",
     "phoneCode": "+92",
@@ -3128,10 +3129,10 @@
     "rusName": "Пакистан",
     "debt": "75.8",
     "pop2023": 240485658,
-    "growthgdp2023": "-0.5",
     "code": "PAK"
   },
   {
+    "growthgdp2023": "0.8",
     "gdp2023": "0.267",
     "country": "Palau",
     "phoneCode": "+680",
@@ -3148,10 +3149,10 @@
     "rusName": "Палау",
     "debt": "0",
     "pop2023": 18058,
-    "growthgdp2023": "0.8",
     "code": "PLW"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Palestine",
     "phoneCode": "+970",
@@ -3167,10 +3168,10 @@
     "gdpppppc2023": "0",
     "rusName": "Палестина",
     "debt": "0",
-    "pop2023": 5371230,
-    "growthgdp2023": "0"
+    "pop2023": 5371230
   },
   {
+    "growthgdp2023": "7.3",
     "gdp2023": "83.382",
     "country": "Panama",
     "phoneCode": "+507",
@@ -3187,10 +3188,10 @@
     "rusName": "Панама",
     "debt": "54.9",
     "pop2023": 4468087,
-    "growthgdp2023": "6",
     "code": "PAN"
   },
   {
+    "growthgdp2023": "2.7",
     "gdp2023": "30.998",
     "country": "Papua New Guinea",
     "phoneCode": "+675",
@@ -3207,10 +3208,10 @@
     "rusName": "Папуа — Новая Гвинея",
     "debt": "49.2",
     "pop2023": 10329931,
-    "growthgdp2023": "3",
     "code": "PNG"
   },
   {
+    "growthgdp2023": "4.5",
     "gdp2023": "43.871",
     "country": "Paraguay",
     "phoneCode": "+595",
@@ -3227,10 +3228,10 @@
     "rusName": "Парагвай",
     "debt": "40.9",
     "pop2023": 6861524,
-    "growthgdp2023": "4.5",
     "code": "PRY"
   },
   {
+    "growthgdp2023": "-0.6",
     "gdp2023": "267.585",
     "country": "Peru",
     "phoneCode": "+51",
@@ -3247,10 +3248,10 @@
     "rusName": "Перу",
     "debt": "33.4",
     "pop2023": 34352719,
-    "growthgdp2023": "1.1",
     "code": "PER"
   },
   {
+    "growthgdp2023": "5.6",
     "gdp2023": "436.622",
     "country": "Philippines",
     "phoneCode": "+63",
@@ -3267,10 +3268,10 @@
     "rusName": "Филиппины",
     "debt": "57.5",
     "pop2023": 117337368,
-    "growthgdp2023": "5.3",
     "code": "PHL"
   },
   {
+    "growthgdp2023": "0.2",
     "gdp2023": "808.435",
     "country": "Poland",
     "phoneCode": "+48",
@@ -3287,10 +3288,10 @@
     "rusName": "Польша",
     "debt": "49.6",
     "pop2023": 41026067,
-    "growthgdp2023": "0.6",
     "code": "POL"
   },
   {
+    "growthgdp2023": "2.3",
     "gdp2023": "287.421",
     "country": "Portugal",
     "phoneCode": "+351",
@@ -3307,10 +3308,10 @@
     "rusName": "Португалия",
     "debt": "116",
     "pop2023": 10247605,
-    "growthgdp2023": "2.3",
     "code": "PRT"
   },
   {
+    "growthgdp2023": "-0.7",
     "gdp2023": "115.799",
     "country": "Puerto Rico",
     "phoneCode": "+1-787",
@@ -3327,10 +3328,10 @@
     "rusName": "Пуэрто-Рико",
     "debt": "16.3",
     "pop2023": 3260314,
-    "growthgdp2023": "-0.7",
     "code": "PRI"
   },
   {
+    "growthgdp2023": "1.6",
     "gdp2023": "234.218",
     "country": "Qatar",
     "phoneCode": "+974",
@@ -3347,10 +3348,10 @@
     "rusName": "Катар",
     "debt": "45.3",
     "pop2023": 2716391,
-    "growthgdp2023": "2.4",
     "code": "QAT"
   },
   {
+    "growthgdp2023": "4",
     "gdp2023": "14.423",
     "country": "Congo",
     "phoneCode": "+242",
@@ -3367,10 +3368,10 @@
     "rusName": "Республика Конго",
     "debt": "99.6",
     "pop2023": 6106869,
-    "growthgdp2023": "4",
     "code": "COG"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Reunion",
     "phoneCode": "+262",
@@ -3386,10 +3387,10 @@
     "gdpppppc2023": "0",
     "rusName": "Рейюньион",
     "debt": "0",
-    "pop2023": 981796,
-    "growthgdp2023": "0"
+    "pop2023": 981796
   },
   {
+    "growthgdp2023": "2.1",
     "gdp2023": "345.894",
     "country": "Romania",
     "phoneCode": "+40",
@@ -3406,10 +3407,10 @@
     "rusName": "Румыния",
     "debt": "48.7",
     "pop2023": 19892812,
-    "growthgdp2023": "2.2",
     "code": "ROU"
   },
   {
+    "growthgdp2023": "3.6",
     "gdp2023": "1997.03",
     "country": "Russian Federation",
     "phoneCode": "+7",
@@ -3426,10 +3427,10 @@
     "rusName": "Россия",
     "debt": "19.6",
     "pop2023": 144444359,
-    "growthgdp2023": "2.2",
     "code": "RUS"
   },
   {
+    "growthgdp2023": "6.9",
     "gdp2023": "14.02",
     "country": "Rwanda",
     "phoneCode": "+250",
@@ -3446,10 +3447,10 @@
     "rusName": "Руанда",
     "debt": "64.4",
     "pop2023": 14094683,
-    "growthgdp2023": "6.2",
     "code": "RWA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Saint Barthelemy",
     "phoneCode": "+590",
@@ -3465,10 +3466,10 @@
     "gdpppppc2023": "0",
     "rusName": "Сен-Бартельми",
     "debt": "0",
-    "pop2023": 10994,
-    "growthgdp2023": "0"
+    "pop2023": 10994
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Saint Helena",
     "phoneCode": "+290",
@@ -3484,10 +3485,10 @@
     "gdpppppc2023": "0",
     "rusName": "о.Святой Елены",
     "debt": "0",
-    "pop2023": 0,
-    "growthgdp2023": "0"
+    "pop2023": 0
   },
   {
+    "growthgdp2023": "3.4",
     "gdp2023": "1.068",
     "country": "Saint Kitts and Nevis",
     "phoneCode": "+1-869",
@@ -3504,10 +3505,10 @@
     "rusName": "Сент-Китс и Невис",
     "debt": "64.8",
     "pop2023": 47755,
-    "growthgdp2023": "4.9",
     "code": "KNA"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Saint Martin",
     "phoneCode": "+590",
@@ -3523,10 +3524,10 @@
     "gdpppppc2023": "0",
     "rusName": "Сен-Мартен (Франция)",
     "debt": "0",
-    "pop2023": 32077,
-    "growthgdp2023": "0"
+    "pop2023": 32077
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Saint Pierre and Miquelon",
     "phoneCode": "+508",
@@ -3542,10 +3543,10 @@
     "gdpppppc2023": "0",
     "rusName": "Сен-Пьер и Микелон",
     "debt": "0",
-    "pop2023": 5840,
-    "growthgdp2023": "0"
+    "pop2023": 5840
   },
   {
+    "growthgdp2023": "6.2",
     "gdp2023": "1.041",
     "country": "Saint Vincent and the Grenadines",
     "phoneCode": "+1-784",
@@ -3562,10 +3563,10 @@
     "rusName": "Сент-Винсент и Гренадины",
     "debt": "86.8",
     "pop2023": 103698,
-    "growthgdp2023": "6.2",
     "code": "VCT"
   },
   {
+    "growthgdp2023": "8",
     "gdp2023": "0.934",
     "country": "Samoa",
     "phoneCode": "+685",
@@ -3582,10 +3583,10 @@
     "rusName": "Самоа",
     "debt": "43.7",
     "pop2023": 225681,
-    "growthgdp2023": "8",
     "code": "WSM"
   },
   {
+    "growthgdp2023": "2.3",
     "gdp2023": "1.954",
     "country": "San Marino",
     "phoneCode": "+378",
@@ -3602,10 +3603,10 @@
     "rusName": "Сан-Марино",
     "debt": "81.2",
     "pop2023": 33642,
-    "growthgdp2023": "2.2",
     "code": "SMR"
   },
   {
+    "growthgdp2023": "-0.3",
     "gdp2023": "0.656",
     "country": "Sao Tome and Principe",
     "phoneCode": "+239",
@@ -3622,10 +3623,10 @@
     "rusName": "Сан-Томе и Принсипи",
     "debt": "58.1",
     "pop2023": 231856,
-    "growthgdp2023": "0.5",
     "code": "STP"
   },
   {
+    "growthgdp2023": "-0.8",
     "gdp2023": "1067.583",
     "country": "Saudi Arabia",
     "phoneCode": "+966",
@@ -3642,10 +3643,10 @@
     "rusName": "Саудовская Аравия",
     "debt": "22.6",
     "pop2023": 36947025,
-    "growthgdp2023": "0.8",
     "code": "SAU"
   },
   {
+    "growthgdp2023": "4.1",
     "gdp2023": "31.407",
     "country": "Senegal",
     "phoneCode": "+221",
@@ -3662,10 +3663,10 @@
     "rusName": "Сенегал",
     "debt": "75",
     "pop2023": 17763163,
-    "growthgdp2023": "4.1",
     "code": "SEN"
   },
   {
+    "growthgdp2023": "2.5",
     "gdp2023": "75.187",
     "country": "Serbia",
     "phoneCode": "+381",
@@ -3682,10 +3683,10 @@
     "rusName": "Сербия",
     "debt": "53.5",
     "pop2023": 7149077,
-    "growthgdp2023": "2",
     "code": "SRB"
   },
   {
+    "growthgdp2023": "3.7",
     "gdp2023": "2.153",
     "country": "Seychelles",
     "phoneCode": "+248",
@@ -3702,10 +3703,10 @@
     "rusName": "Сейшельские Острова",
     "debt": "63.4",
     "pop2023": 107660,
-    "growthgdp2023": "4.2",
     "code": "SYC"
   },
   {
+    "growthgdp2023": "3.4",
     "gdp2023": "3.906",
     "country": "Sierra Leone",
     "phoneCode": "+232",
@@ -3722,10 +3723,10 @@
     "rusName": "Сьерра-Леоне",
     "debt": "98.8",
     "pop2023": 8791092,
-    "growthgdp2023": "2.7",
     "code": "SLE"
   },
   {
+    "growthgdp2023": "1.1",
     "gdp2023": "501.428",
     "country": "Singapore",
     "phoneCode": "+65",
@@ -3742,10 +3743,10 @@
     "rusName": "Сингапур",
     "debt": "134.2",
     "pop2023": 6014723,
-    "growthgdp2023": "1",
     "code": "SGP"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Sint Maarten",
     "phoneCode": "+1-721",
@@ -3761,10 +3762,10 @@
     "gdpppppc2023": "0",
     "rusName": "Синт-Мартен (остров)",
     "debt": "0",
-    "pop2023": 44222,
-    "growthgdp2023": "0"
+    "pop2023": 44222
   },
   {
+    "growthgdp2023": "1.1",
     "gdp2023": "132.122",
     "country": "Slovakia",
     "phoneCode": "+421",
@@ -3781,10 +3782,10 @@
     "rusName": "Словакия",
     "debt": "58.8",
     "pop2023": 5795199,
-    "growthgdp2023": "1.3",
     "code": "SVK"
   },
   {
+    "growthgdp2023": "1.6",
     "gdp2023": "68.236",
     "country": "Slovenia",
     "phoneCode": "+386",
@@ -3801,10 +3802,10 @@
     "rusName": "Словения",
     "debt": "70.2",
     "pop2023": 2119675,
-    "growthgdp2023": "2",
     "code": "SVN"
   },
   {
+    "growthgdp2023": "3",
     "gdp2023": "1.631",
     "country": "Solomon Islands",
     "phoneCode": "+677",
@@ -3821,10 +3822,10 @@
     "rusName": "Соломоновы Острова",
     "debt": "16.9",
     "pop2023": 740424,
-    "growthgdp2023": "2.5",
     "code": "SLB"
   },
   {
+    "growthgdp2023": "2.8",
     "gdp2023": "11.68",
     "country": "Somalia",
     "phoneCode": "+252",
@@ -3841,10 +3842,10 @@
     "rusName": "Сомали",
     "debt": "0",
     "pop2023": 18143378,
-    "growthgdp2023": "2.8",
     "code": "SOM"
   },
   {
+    "growthgdp2023": "0.6",
     "gdp2023": "377.676",
     "country": "South Africa",
     "phoneCode": "+27",
@@ -3861,10 +3862,10 @@
     "rusName": "ЮАР",
     "debt": "71",
     "pop2023": 60414495,
-    "growthgdp2023": "0.9",
     "code": "ZAF"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "South Korea",
     "phoneCode": "+82",
@@ -3880,10 +3881,10 @@
     "gdpppppc2023": "56708.953",
     "rusName": "Республика Корея",
     "debt": "54.3",
-    "pop2023": 51784059,
-    "growthgdp2023": "1.4"
+    "pop2023": 51784059
   },
   {
+    "growthgdp2023": "-0.1",
     "gdp2023": "7.295",
     "country": "South Sudan",
     "phoneCode": "+211",
@@ -3900,10 +3901,10 @@
     "rusName": "Южный Судан",
     "debt": "39.6",
     "pop2023": 11088796,
-    "growthgdp2023": "3.5",
     "code": "SSD"
   },
   {
+    "growthgdp2023": "2.5",
     "gdp2023": "1581.151",
     "country": "Spain",
     "phoneCode": "+34",
@@ -3920,10 +3921,10 @@
     "rusName": "Испания",
     "debt": "112",
     "pop2023": 47519628,
-    "growthgdp2023": "2.5",
     "code": "ESP"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Sri Lanka",
     "phoneCode": "+94",
@@ -3940,10 +3941,10 @@
     "rusName": "Шри-Ланка",
     "debt": "117.7",
     "pop2023": 21893579,
-    "growthgdp2023": "0",
     "code": "LKA"
   },
   {
+    "growthgdp2023": "3",
     "gdp2023": "2.464",
     "country": "Saint Lucia",
     "phoneCode": "+1-758",
@@ -3960,10 +3961,10 @@
     "rusName": "Сент-Люсия",
     "debt": "83.5",
     "pop2023": 180251,
-    "growthgdp2023": "3.2",
     "code": "LCA"
   },
   {
+    "growthgdp2023": "-18.3",
     "gdp2023": "25.716",
     "country": "Sudan",
     "phoneCode": "+249",
@@ -3980,10 +3981,10 @@
     "rusName": "Судан",
     "debt": "127.6",
     "pop2023": 48109006,
-    "growthgdp2023": "-18.3",
     "code": "SDN"
   },
   {
+    "growthgdp2023": "2.1",
     "gdp2023": "3.751",
     "country": "Suriname",
     "phoneCode": "+597",
@@ -4000,10 +4001,10 @@
     "rusName": "Суринам",
     "debt": "123.2",
     "pop2023": 623236,
-    "growthgdp2023": "2.1",
     "code": "SUR"
   },
   {
+    "growthgdp2023": "5.1",
     "gdp2023": "4.868",
     "country": "Eswatini",
     "phoneCode": "+268",
@@ -4020,10 +4021,10 @@
     "rusName": "Эсватини",
     "debt": "45.4",
     "pop2023": 1210822,
-    "growthgdp2023": "3.1",
     "code": "SWZ"
   },
   {
+    "growthgdp2023": "-0.2",
     "gdp2023": "593.268",
     "country": "Sweden",
     "phoneCode": "+46",
@@ -4040,10 +4041,10 @@
     "rusName": "Швеция",
     "debt": "31.7",
     "pop2023": 10612086,
-    "growthgdp2023": "-0.7",
     "code": "SWE"
   },
   {
+    "growthgdp2023": "0.8",
     "gdp2023": "885.141",
     "country": "Switzerland",
     "phoneCode": "+41",
@@ -4060,10 +4061,10 @@
     "rusName": "Швейцария",
     "debt": "39.1",
     "pop2023": 8796669,
-    "growthgdp2023": "0.9",
     "code": "CHE"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Syria",
     "phoneCode": "+963",
@@ -4080,10 +4081,10 @@
     "rusName": "Сирия",
     "debt": "0",
     "pop2023": 23227014,
-    "growthgdp2023": "0",
     "code": "SYR"
   },
   {
+    "growthgdp2023": "1.4",
     "gdp2023": "756.592",
     "country": "Taiwan",
     "phoneCode": "+886",
@@ -4100,10 +4101,10 @@
     "rusName": "Тайвань",
     "debt": "27.5",
     "pop2023": 23923276,
-    "growthgdp2023": "0.8",
     "code": "TWN"
   },
   {
+    "growthgdp2023": "8.3",
     "gdp2023": "11.855",
     "country": "Tajikistan",
     "phoneCode": "+992",
@@ -4120,10 +4121,10 @@
     "rusName": "Таджикистан",
     "debt": "34.6",
     "pop2023": 10143543,
-    "growthgdp2023": "6.5",
     "code": "TJK"
   },
   {
+    "growthgdp2023": "5",
     "gdp2023": "79.447",
     "country": "Tanzania",
     "phoneCode": "+255",
@@ -4140,10 +4141,10 @@
     "rusName": "Танзания",
     "debt": "41.6",
     "pop2023": 67438106,
-    "growthgdp2023": "5.2",
     "code": "TZA"
   },
   {
+    "growthgdp2023": "1.9",
     "gdp2023": "514.945",
     "country": "Thailand",
     "phoneCode": "+66",
@@ -4160,10 +4161,10 @@
     "rusName": "Таиланд",
     "debt": "60.5",
     "pop2023": 71801279,
-    "growthgdp2023": "2.7",
     "code": "THA"
   },
   {
+    "growthgdp2023": "1.5",
     "gdp2023": "2.338",
     "country": "Timor-Leste",
     "phoneCode": "+670",
@@ -4180,10 +4181,10 @@
     "rusName": "Восточный Тимор",
     "debt": "7.5",
     "pop2023": 1360596,
-    "growthgdp2023": "1.5",
     "code": "TLS"
   },
   {
+    "growthgdp2023": "5.4",
     "gdp2023": "9.055",
     "country": "Togo",
     "phoneCode": "+228",
@@ -4200,10 +4201,10 @@
     "rusName": "Того",
     "debt": "68",
     "pop2023": 9053799,
-    "growthgdp2023": "5.4",
     "code": "TGO"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Tokelau",
     "phoneCode": "+690",
@@ -4219,10 +4220,10 @@
     "gdpppppc2023": "0",
     "rusName": "Токелау",
     "debt": "0",
-    "pop2023": 1893,
-    "growthgdp2023": "0"
+    "pop2023": 1893
   },
   {
+    "growthgdp2023": "2.6",
     "gdp2023": "0.547",
     "country": "Tonga",
     "phoneCode": "+676",
@@ -4239,10 +4240,10 @@
     "rusName": "Тонга",
     "debt": "46.6",
     "pop2023": 107773,
-    "growthgdp2023": "2.6",
     "code": "TON"
   },
   {
+    "growthgdp2023": "2.1",
     "gdp2023": "28.142",
     "country": "Trinidad and Tobago",
     "phoneCode": "+1-868",
@@ -4259,10 +4260,10 @@
     "rusName": "Тринидад и Тобаго",
     "debt": "53.8",
     "pop2023": 1534937,
-    "growthgdp2023": "2.5",
     "code": "TTO"
   },
   {
+    "growthgdp2023": "0.4",
     "gdp2023": "51.283",
     "country": "Tunisia",
     "phoneCode": "+216",
@@ -4279,10 +4280,10 @@
     "rusName": "Тунис",
     "debt": "79.4",
     "pop2023": 12458223,
-    "growthgdp2023": "1.3",
     "code": "TUN"
   },
   {
+    "growthgdp2023": "4.5",
     "gdp2023": "1108.453",
     "country": "Turkey",
     "phoneCode": "+90",
@@ -4299,10 +4300,10 @@
     "rusName": "Турция",
     "debt": "31.2",
     "pop2023": 85816199,
-    "growthgdp2023": "4",
     "code": "TUR"
   },
   {
+    "growthgdp2023": "2",
     "gdp2023": "77.106",
     "country": "Turkmenistan",
     "phoneCode": "+993",
@@ -4319,10 +4320,10 @@
     "rusName": "Туркмения",
     "debt": "5.2",
     "pop2023": 6516100,
-    "growthgdp2023": "2.5",
     "code": "TKM"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Turks and Caicos Islands",
     "phoneCode": "+1-649",
@@ -4338,10 +4339,10 @@
     "gdpppppc2023": "0",
     "rusName": "Туркс и Кайкос",
     "debt": "0",
-    "pop2023": 46062,
-    "growthgdp2023": "0"
+    "pop2023": 46062
   },
   {
+    "growthgdp2023": "3.9",
     "gdp2023": "0.062",
     "country": "Tuvalu",
     "phoneCode": "+688",
@@ -4358,10 +4359,10 @@
     "rusName": "Тувалу",
     "debt": "7.6",
     "pop2023": 11396,
-    "growthgdp2023": "3.9",
     "code": "TUV"
   },
   {
+    "growthgdp2023": "4.8",
     "gdp2023": "51.819",
     "country": "Uganda",
     "phoneCode": "+256",
@@ -4378,10 +4379,10 @@
     "rusName": "Уганда",
     "debt": "50.8",
     "pop2023": 48582334,
-    "growthgdp2023": "4.6",
     "code": "UGA"
   },
   {
+    "growthgdp2023": "5",
     "gdp2023": "177.198",
     "country": "Ukraine",
     "phoneCode": "+380",
@@ -4398,10 +4399,10 @@
     "rusName": "Украина",
     "debt": "81.7",
     "pop2023": 36744634,
-    "growthgdp2023": "2",
     "code": "UKR"
   },
   {
+    "growthgdp2023": "3.4",
     "gdp2023": "504.173",
     "country": "United Arab Emirates",
     "phoneCode": "+971",
@@ -4418,10 +4419,10 @@
     "rusName": "ОАЭ",
     "debt": "30",
     "pop2023": 9516871,
-    "growthgdp2023": "3.4",
     "code": "ARE"
   },
   {
+    "growthgdp2023": "0.1",
     "gdp2023": "3344.744",
     "country": "United Kingdom",
     "phoneCode": "+44",
@@ -4438,10 +4439,10 @@
     "rusName": "Великобритания",
     "debt": "102.6",
     "pop2023": 67736802,
-    "growthgdp2023": "0.5",
     "code": "GBR"
   },
   {
+    "growthgdp2023": "2.5",
     "gdp2023": "27357.825",
     "country": "United States",
     "phoneCode": "+1",
@@ -4458,10 +4459,10 @@
     "rusName": "США",
     "debt": "121.7",
     "pop2023": 339996563,
-    "growthgdp2023": "2.1",
     "code": "USA"
   },
   {
+    "growthgdp2023": "0.4",
     "gdp2023": "77.241",
     "country": "Uruguay",
     "phoneCode": "+598",
@@ -4478,10 +4479,10 @@
     "rusName": "Уругвай",
     "debt": "61",
     "pop2023": 3423108,
-    "growthgdp2023": "1",
     "code": "URY"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "United States Virgin Islands",
     "phoneCode": "+1-340",
@@ -4497,10 +4498,10 @@
     "gdpppppc2023": "0",
     "rusName": "Виргинские острова США",
     "debt": "0",
-    "pop2023": 98750,
-    "growthgdp2023": "0"
+    "pop2023": 98750
   },
   {
+    "growthgdp2023": "6",
     "gdp2023": "90.882",
     "country": "Uzbekistan",
     "phoneCode": "+998",
@@ -4517,10 +4518,10 @@
     "rusName": "Узбекистан",
     "debt": "34.3",
     "pop2023": 35163944,
-    "growthgdp2023": "5.5",
     "code": "UZB"
   },
   {
+    "growthgdp2023": "2.2",
     "gdp2023": "1.169",
     "country": "Vanuatu",
     "phoneCode": "+678",
@@ -4537,10 +4538,10 @@
     "rusName": "Вануату",
     "debt": "45.8",
     "pop2023": 334506,
-    "growthgdp2023": "1.5",
     "code": "VUT"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Vatican City",
     "phoneCode": "+39",
@@ -4556,10 +4557,10 @@
     "gdpppppc2023": "0",
     "rusName": "Ватикан",
     "debt": "0",
-    "pop2023": 518,
-    "growthgdp2023": "0"
+    "pop2023": 518
   },
   {
+    "growthgdp2023": "4",
     "gdp2023": "97.116",
     "country": "Venezuela",
     "phoneCode": "+58",
@@ -4576,10 +4577,10 @@
     "rusName": "Венесуэла",
     "debt": "157.8",
     "pop2023": 28838499,
-    "growthgdp2023": "4",
     "code": "VEN"
   },
   {
+    "growthgdp2023": "5",
     "gdp2023": "433.702",
     "country": "Vietnam",
     "phoneCode": "+84",
@@ -4596,10 +4597,10 @@
     "rusName": "Вьетнам",
     "debt": "37.1",
     "pop2023": 98858950,
-    "growthgdp2023": "4.7",
     "code": "VNM"
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Wallis and Futuna",
     "phoneCode": "+681",
@@ -4615,10 +4616,10 @@
     "gdpppppc2023": "0",
     "rusName": "Уоллис и Футуна",
     "debt": "0",
-    "pop2023": 11502,
-    "growthgdp2023": "0"
+    "pop2023": 11502
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Western Sahara",
     "phoneCode": "+212",
@@ -4634,10 +4635,10 @@
     "gdpppppc2023": "0",
     "rusName": "Западная Сахара",
     "debt": "0",
-    "pop2023": 587259,
-    "growthgdp2023": "0"
+    "pop2023": 587259
   },
   {
+    "growthgdp2023": "0",
     "gdp2023": "0",
     "country": "Svalbard",
     "phoneCode": "+47",
@@ -4653,10 +4654,10 @@
     "gdpppppc2023": "0",
     "rusName": "Шпицберген",
     "debt": "0",
-    "pop2023": 0,
-    "growthgdp2023": "0"
+    "pop2023": 0
   },
   {
+    "growthgdp2023": "-2",
     "gdp2023": "18.424",
     "country": "Yemen",
     "phoneCode": "+967",
@@ -4673,10 +4674,10 @@
     "rusName": "Йемен",
     "debt": "73.5",
     "pop2023": 34449825,
-    "growthgdp2023": "-0.5",
     "code": "YEM"
   },
   {
+    "growthgdp2023": "4.3",
     "gdp2023": "28.406",
     "country": "Zambia",
     "phoneCode": "+260",
@@ -4693,10 +4694,10 @@
     "rusName": "Замбия",
     "debt": "0",
     "pop2023": 20569737,
-    "growthgdp2023": "3.6",
     "code": "ZMB"
   },
   {
+    "growthgdp2023": "5.3",
     "gdp2023": "32.216",
     "country": "Zimbabwe",
     "phoneCode": "+263",
@@ -4713,7 +4714,6 @@
     "rusName": "Зимбабве",
     "debt": "92.8",
     "pop2023": 16665409,
-    "growthgdp2023": "4.1",
     "code": "ZWE"
   }
 ]
