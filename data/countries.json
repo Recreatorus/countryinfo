@@ -1,5 +1,6 @@
 [
   {
+    "gdp2023": "0",
     "country": "Afghanistan",
     "phoneCode": "+93",
     "capital": "Kabul",
@@ -10,15 +11,16 @@
     "area": 652230,
     "pop2022": "40754.3880",
     "density": 66.4995,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Афганистан",
     "debt": "0",
     "pop2023": 42239854,
-    "growthgdp2023": "0"
+    "growthgdp2023": "0",
+    "code": "AFG"
   },
   {
+    "gdp2023": "22.743",
     "country": "Albania",
     "phoneCode": "+355",
     "capital": "Tirana",
@@ -29,15 +31,16 @@
     "area": 28748,
     "pop2022": "2866.3740",
     "density": 103.1394,
-    "gdp2023": "23.032",
     "gdppc2023": "8057.49",
     "gdpppppc2023": "19566.008",
     "rusName": "Албания",
     "debt": "67.6",
     "pop2023": 2832439,
-    "growthgdp2023": "3.6"
+    "growthgdp2023": "3.6",
+    "code": "ALB"
   },
   {
+    "gdp2023": "244.746",
     "country": "Algeria",
     "phoneCode": "+213",
     "capital": "Algiers",
@@ -48,15 +51,16 @@
     "area": 2381741,
     "pop2022": "45350.1480",
     "density": 19.4306,
-    "gdp2023": "224.107",
     "gdppc2023": "4874.706",
     "gdpppppc2023": "13681.621",
     "rusName": "Алжир",
     "debt": "52.4",
     "pop2023": 45606480,
-    "growthgdp2023": "3.8"
+    "growthgdp2023": "3.8",
+    "code": "DZA"
   },
   {
+    "gdp2023": "0",
     "country": "American Samoa",
     "phoneCode": "+1-684",
     "capital": "Pago Pago",
@@ -67,7 +71,6 @@
     "area": 199,
     "pop2022": "55.0300",
     "density": 217.72,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Американское Самоа",
@@ -76,6 +79,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "3.726",
     "country": "Andorra",
     "phoneCode": "+376",
     "capital": "Andorra la Vella",
@@ -86,15 +90,16 @@
     "area": 468,
     "pop2022": "77.4630",
     "density": 170.9383,
-    "gdp2023": "3.692",
     "gdppc2023": "44107.317",
     "gdpppppc2023": "68232.145",
     "rusName": "Андорра",
     "debt": "38.8",
     "pop2023": 80088,
-    "growthgdp2023": "2.1"
+    "growthgdp2023": "2.1",
+    "code": "AND"
   },
   {
+    "gdp2023": "94.381",
     "country": "Angola",
     "phoneCode": "+244",
     "capital": "Luanda",
@@ -105,15 +110,16 @@
     "area": 1246700,
     "pop2022": "35027.3430",
     "density": 30.3238,
-    "gdp2023": "93.796",
     "gdppc2023": "2550.001",
     "gdpppppc2023": "7077.302",
     "rusName": "Ангола",
     "debt": "67",
     "pop2023": 36684202,
-    "growthgdp2023": "1.3"
+    "growthgdp2023": "1.3",
+    "code": "AGO"
   },
   {
+    "gdp2023": "0",
     "country": "Anguilla",
     "phoneCode": "+1-264",
     "capital": "The Valley",
@@ -124,7 +130,6 @@
     "area": 91,
     "pop2022": "15.2300",
     "density": 175.1209,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Ангилья",
@@ -133,6 +138,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "1.954",
     "country": "Antigua and Barbuda",
     "phoneCode": "+1-268",
     "capital": "Saint John's",
@@ -143,15 +149,16 @@
     "area": 442,
     "pop2022": "99.5090",
     "density": 215.4909,
-    "gdp2023": "1.949",
     "gdppc2023": "19068.279",
     "gdpppppc2023": "25448.994",
     "rusName": "Антигуа и Барбуда",
     "debt": "90.6",
     "pop2023": 94298,
-    "growthgdp2023": "5.6"
+    "growthgdp2023": "5.6",
+    "code": "ATG"
   },
   {
+    "gdp2023": "654.892",
     "country": "Argentina",
     "phoneCode": "+54",
     "capital": "Buenos Aires",
@@ -162,15 +169,16 @@
     "area": 2780400,
     "pop2022": "45773.884",
     "density": 16.8298,
-    "gdp2023": "621.833",
     "gdppc2023": "13297.425",
     "gdpppppc2023": "26506.087",
     "rusName": "Аргентина",
     "debt": "84.5",
     "pop2023": 45773884,
-    "growthgdp2023": "-2.5"
+    "growthgdp2023": "-2.5",
+    "code": "ARG"
   },
   {
+    "gdp2023": "24.155",
     "country": "Armenia",
     "phoneCode": "+374",
     "capital": "Yerevan",
@@ -181,15 +189,16 @@
     "area": 29743,
     "pop2022": "2971.9660",
     "density": 97.5757,
-    "gdp2023": "24.54",
     "gdppc2023": "8283.119",
     "gdpppppc2023": "19744.708",
     "rusName": "Армения",
     "debt": "49.3",
     "pop2023": 2777970,
-    "growthgdp2023": "7"
+    "growthgdp2023": "7",
+    "code": "ARM"
   },
   {
+    "gdp2023": "3.937",
     "country": "Aruba",
     "phoneCode": "+297",
     "capital": "Oranjestad",
@@ -200,15 +209,16 @@
     "area": 180,
     "pop2022": "107.6090",
     "density": 589.8722,
-    "gdp2023": "3.827",
     "gdppc2023": "35717.948",
     "gdpppppc2023": "51352.313",
     "rusName": "Аруба",
     "debt": "92",
     "pop2023": 106277,
-    "growthgdp2023": "2.3"
+    "growthgdp2023": "2.3",
+    "code": "ABW"
   },
   {
+    "gdp2023": "1741.882",
     "country": "Australia",
     "phoneCode": "+61",
     "capital": "Canberra",
@@ -219,15 +229,16 @@
     "area": 7692024,
     "pop2022": "26439.111",
     "density": 3.4711,
-    "gdp2023": "1687.713",
     "gdppc2023": "63487.049",
     "gdpppppc2023": "64673.825",
     "rusName": "Австралия",
     "debt": "55.7",
     "pop2023": 26439111,
-    "growthgdp2023": "1.8"
+    "growthgdp2023": "1.8",
+    "code": "AUS"
   },
   {
+    "gdp2023": "519.71",
     "country": "Austria",
     "phoneCode": "+43",
     "capital": "Vienna",
@@ -238,15 +249,16 @@
     "area": 83871,
     "pop2022": "9066.7100",
     "density": 108.7874,
-    "gdp2023": "526.182",
     "gdppc2023": "58013.273",
     "gdpppppc2023": "69069.001",
     "rusName": "Австрия",
     "debt": "77.8",
     "pop2023": 8958960,
-    "growthgdp2023": "0.1"
+    "growthgdp2023": "0.1",
+    "code": "AUT"
   },
   {
+    "gdp2023": "76.639",
     "country": "Azerbaijan",
     "phoneCode": "+994",
     "capital": "Baku",
@@ -257,15 +269,16 @@
     "area": 86600,
     "pop2022": "10300.2050",
     "density": 126.599,
-    "gdp2023": "77.392",
     "gdppc2023": "7529.695",
     "gdpppppc2023": "18694.357",
     "rusName": "Азербайджан",
     "debt": "20.7",
     "pop2023": 10412651,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "AZE"
   },
   {
+    "gdp2023": "13.816",
     "country": "Bahamas",
     "phoneCode": "+1-242",
     "capital": "Nassau",
@@ -276,15 +289,16 @@
     "area": 13943,
     "pop2022": "400.5160",
     "density": 41.4808,
-    "gdp2023": "13.876",
     "gdppc2023": "34370.86",
     "gdpppppc2023": "44949.516",
     "rusName": "Багамские Острова",
     "debt": "89.4",
     "pop2023": 412623,
-    "growthgdp2023": "4.3"
+    "growthgdp2023": "4.3",
+    "code": "BHS"
   },
   {
+    "gdp2023": "44.674",
     "country": "Bahrain",
     "phoneCode": "+973",
     "capital": "Manama",
@@ -295,15 +309,16 @@
     "area": 765,
     "pop2022": "1783.9830",
     "density": 1909.1873,
-    "gdp2023": "44.994",
     "gdppc2023": "28464.173",
     "gdpppppc2023": "60715.023",
     "rusName": "Бахрейн",
     "debt": "117.6",
     "pop2023": 1485509,
-    "growthgdp2023": "2.7"
+    "growthgdp2023": "2.7",
+    "code": "BHR"
   },
   {
+    "gdp2023": "446.349",
     "country": "Bangladesh",
     "phoneCode": "+880",
     "capital": "Dhaka",
@@ -314,15 +329,16 @@
     "area": 147570,
     "pop2022": "171186.372",
     "density": 1342.1004,
-    "gdp2023": "446.349",
     "gdppc2023": "2621.288",
     "gdpppppc2023": "8673.259",
     "rusName": "Бангладеш",
     "debt": "39.1",
     "pop2023": 172954319,
-    "growthgdp2023": "6"
+    "growthgdp2023": "6",
+    "code": "BGD"
   },
   {
+    "gdp2023": "6.388",
     "country": "Barbados",
     "phoneCode": "+1-246",
     "capital": "Bridgetown",
@@ -333,15 +349,16 @@
     "area": 430,
     "pop2022": "288.0230",
     "density": 656.5326,
-    "gdp2023": "6.22",
     "gdppc2023": "21442.447",
     "gdpppppc2023": "18738.267",
     "rusName": "Барбадос",
     "debt": "120.8",
     "pop2023": 281995,
-    "growthgdp2023": "4.5"
+    "growthgdp2023": "4.5",
+    "code": "BRB"
   },
   {
+    "gdp2023": "71.805",
     "country": "Belarus",
     "phoneCode": "+375",
     "capital": "Minsk",
@@ -352,15 +369,16 @@
     "area": 207600,
     "pop2022": "9432.8000",
     "density": 46.5811,
-    "gdp2023": "68.864",
     "gdppc2023": "7477.293",
     "gdpppppc2023": "24016.597",
     "rusName": "Белоруссия",
     "debt": "39.8",
     "pop2023": 9498238,
-    "growthgdp2023": "1.6"
+    "growthgdp2023": "1.6",
+    "code": "BLR"
   },
   {
+    "gdp2023": "630.11",
     "country": "Belgium",
     "phoneCode": "+32",
     "capital": "Brussels",
@@ -371,15 +389,16 @@
     "area": 30528,
     "pop2022": "11668.2780",
     "density": 386.9146,
-    "gdp2023": "627.511",
     "gdppc2023": "53656.833",
     "gdpppppc2023": "65813.45",
     "rusName": "Бельгия",
     "debt": "105.3",
     "pop2023": 11686140,
-    "growthgdp2023": "1"
+    "growthgdp2023": "1",
+    "code": "BEL"
   },
   {
+    "gdp2023": "3.094",
     "country": "Belize",
     "phoneCode": "+501",
     "capital": "Belmopan",
@@ -390,15 +409,16 @@
     "area": 22966,
     "pop2022": "412.1900",
     "density": 18.2664,
-    "gdp2023": "3.218",
     "gdppc2023": "7141.538",
     "gdpppppc2023": "11166.103",
     "rusName": "Белиз",
     "debt": "64.1",
     "pop2023": 410825,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "BLZ"
   },
   {
+    "gdp2023": "19.398",
     "country": "Benin",
     "phoneCode": "+229",
     "capital": "Porto-Novo",
@@ -409,15 +429,16 @@
     "area": 112622,
     "pop2022": "12784.7260",
     "density": 124.8676,
-    "gdp2023": "19.94",
     "gdppc2023": "1449.112",
     "gdpppppc2023": "4305.305",
     "rusName": "Бенин",
     "debt": "52.4",
     "pop2023": 13712828,
-    "growthgdp2023": "5.5"
+    "growthgdp2023": "5.5",
+    "code": "BEN"
   },
   {
+    "gdp2023": "0",
     "country": "Bermuda",
     "phoneCode": "+1-441",
     "capital": "Hamilton",
@@ -428,7 +449,6 @@
     "area": 54,
     "pop2022": "61.9390",
     "density": 1183.9815,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Бермудские Острова",
@@ -437,6 +457,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "2.897",
     "country": "Bhutan",
     "phoneCode": "+975",
     "capital": "Thimphu",
@@ -447,15 +468,16 @@
     "area": 38394,
     "pop2022": "787.9410",
     "density": 20.7756,
-    "gdp2023": "2.686",
     "gdppc2023": "3500.486",
     "gdpppppc2023": "14296.921",
     "rusName": "Бутан",
     "debt": "124.8",
     "pop2023": 787424,
-    "growthgdp2023": "5.3"
+    "growthgdp2023": "5.3",
+    "code": "BTN"
   },
   {
+    "gdp2023": "46.473",
     "country": "Bolivia",
     "phoneCode": "+591",
     "capital": "La Paz",
@@ -466,15 +488,16 @@
     "area": 1098581,
     "pop2022": "11992.6560",
     "density": 11.601,
-    "gdp2023": "46.796",
     "gdppc2023": "3857.843",
     "gdpppppc2023": "10340.343",
     "rusName": "Боливия",
     "debt": "82.6",
     "pop2023": 12388571,
-    "growthgdp2023": "1.8"
+    "growthgdp2023": "1.8",
+    "code": "BOL"
   },
   {
+    "gdp2023": "27.216",
     "country": "Bosnia and Herzegovina",
     "phoneCode": "+387",
     "capital": "Sarajevo",
@@ -485,15 +508,16 @@
     "area": 51209,
     "pop2022": "3249.3170",
     "density": 62.3902,
-    "gdp2023": "26.945",
     "gdppc2023": "7778.298",
     "gdpppppc2023": "19633.561",
     "rusName": "Босния и Герцеговина",
     "debt": "29.6",
     "pop2023": 3210847,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "BIH"
   },
   {
+    "gdp2023": "20.445",
     "country": "Botswana",
     "phoneCode": "+267",
     "capital": "Gaborone",
@@ -504,15 +528,16 @@
     "area": 582000,
     "pop2022": "2441.1620",
     "density": 4.7989,
-    "gdp2023": "20.756",
     "gdppc2023": "7758.371",
     "gdpppppc2023": "19394.054",
     "rusName": "Ботсвана",
     "debt": "19.9",
     "pop2023": 2675352,
-    "growthgdp2023": "3.8"
+    "growthgdp2023": "3.8",
+    "code": "BWA"
   },
   {
+    "gdp2023": "2173.671",
     "country": "Brazil",
     "phoneCode": "+55",
     "capital": "Brasília",
@@ -523,15 +548,16 @@
     "area": 8515767,
     "pop2022": "215313.498",
     "density": 26.039,
-    "gdp2023": "2126.809",
     "gdppc2023": "10412.997",
     "gdpppppc2023": "20078.869",
     "rusName": "Бразилия",
     "debt": "85.9",
     "pop2023": 216422446,
-    "growthgdp2023": "3.1"
+    "growthgdp2023": "3.1",
+    "code": "BRA"
   },
   {
+    "gdp2023": "0",
     "country": "British Indian Ocean Territory",
     "phoneCode": "+246",
     "capital": "Diego Garcia",
@@ -542,7 +568,6 @@
     "area": "78",
     "pop2022": "0",
     "density": "0",
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Британская территория в Индийском океане",
@@ -551,6 +576,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "British Virgin Islands",
     "phoneCode": "+1-284",
     "capital": "RoadTown",
@@ -561,7 +587,6 @@
     "area": 151,
     "pop2022": "30.5960",
     "density": 211.7533,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Британские Виргинские острова",
@@ -570,6 +595,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "15.128",
     "country": "Brunei",
     "phoneCode": "+673",
     "capital": "Bandar Seri Begawan",
@@ -580,15 +606,16 @@
     "area": 5765,
     "pop2022": "445.4310",
     "density": 86.5006,
-    "gdp2023": "15.153",
     "gdppc2023": "34383.527",
     "gdpppppc2023": "72609.57",
     "rusName": "Бруней",
     "debt": "2.1",
     "pop2023": 452524,
-    "growthgdp2023": "-0.8"
+    "growthgdp2023": "-0.8",
+    "code": "BRN"
   },
   {
+    "gdp2023": "101.611",
     "country": "Bulgaria",
     "phoneCode": "+359",
     "capital": "Sofia",
@@ -599,15 +626,16 @@
     "area": 110879,
     "pop2022": "6844.5970",
     "density": 60.9673,
-    "gdp2023": "103.099",
     "gdppc2023": "16086.569",
     "gdpppppc2023": "33780.382",
     "rusName": "Болгария",
     "debt": "21.8",
     "pop2023": 6687717,
-    "growthgdp2023": "1.7"
+    "growthgdp2023": "1.7",
+    "code": "BGR"
   },
   {
+    "gdp2023": "20.382",
     "country": "Burkina Faso",
     "phoneCode": "+226",
     "capital": "Ouagadougou",
@@ -618,15 +646,16 @@
     "area": 272967,
     "pop2022": "22102.8380",
     "density": 87.1354,
-    "gdp2023": "20.785",
     "gdppc2023": "888.029",
     "gdpppppc2023": "2682.633",
     "rusName": "Буркина-Фасо",
     "debt": "54.3",
     "pop2023": 23251485,
-    "growthgdp2023": "4.4"
+    "growthgdp2023": "4.4",
+    "code": "BFA"
   },
   {
+    "gdp2023": "4.216",
     "country": "Burundi",
     "phoneCode": "+257",
     "capital": "Bujumbura",
@@ -637,15 +666,16 @@
     "area": 27834,
     "pop2022": "12624.8400",
     "density": 529.2701,
-    "gdp2023": "3.19",
     "gdppc2023": "245.811",
     "gdpppppc2023": "890.181",
     "rusName": "Бурунди",
     "debt": "68.3",
     "pop2023": 13238559,
-    "growthgdp2023": "3.3"
+    "growthgdp2023": "3.3",
+    "code": "BDI"
   },
   {
+    "gdp2023": "2.52",
     "country": "Cabo Verde",
     "phoneCode": "+238",
     "capital": "Praia",
@@ -656,15 +686,16 @@
     "area": 4033,
     "pop2022": "567.6780",
     "density": 149.8788,
-    "gdp2023": "2.598",
     "gdppc2023": "4502.784",
     "gdpppppc2023": "9909.372",
     "rusName": "Кабо-Верде",
     "debt": "127.4",
     "pop2023": 598682,
-    "growthgdp2023": "4.4"
+    "growthgdp2023": "4.4",
+    "code": "CPV"
   },
   {
+    "gdp2023": "41.855",
     "country": "Cambodia",
     "phoneCode": "+855",
     "capital": "Phnom Penh",
@@ -675,15 +706,16 @@
     "area": 181035,
     "pop2022": "16944.826",
     "density": 96.9966,
-    "gdp2023": "30.943",
     "gdppc2023": "1915.628",
     "gdpppppc2023": "6086.738",
     "rusName": "Камбоджа",
     "debt": "36.5",
     "pop2023": 16944826,
-    "growthgdp2023": "5.6"
+    "growthgdp2023": "5.6",
+    "code": "KHM"
   },
   {
+    "gdp2023": "48.958",
     "country": "Cameroon",
     "phoneCode": "+237",
     "capital": "Yaoundé",
@@ -694,15 +726,16 @@
     "area": 475442,
     "pop2022": "27911.5480",
     "density": 62.1828,
-    "gdp2023": "49.262",
     "gdppc2023": "1721.954",
     "gdpppppc2023": "4660.749",
     "rusName": "Камерун",
     "debt": "46.4",
     "pop2023": 28647293,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "CMR"
   },
   {
+    "gdp2023": "2140.086",
     "country": "Canada",
     "phoneCode": "+1",
     "capital": "Ottawa",
@@ -713,15 +746,16 @@
     "area": 9984670,
     "pop2022": "38781.291",
     "density": 4.3619,
-    "gdp2023": "2117.805",
     "gdppc2023": "53246.981",
     "gdpppppc2023": "59813.405",
     "rusName": "Канада",
     "debt": "106.6",
     "pop2023": 38781291,
-    "growthgdp2023": "1.3"
+    "growthgdp2023": "1.3",
+    "code": "CAN"
   },
   {
+    "gdp2023": "0",
     "country": "Cayman Islands",
     "phoneCode": "+1-345",
     "capital": "George Town",
@@ -732,7 +766,6 @@
     "area": 264,
     "pop2022": "67.2770",
     "density": 291.1875,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Каймановы о-ва",
@@ -741,6 +774,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "2.632",
     "country": "Central African Republic",
     "phoneCode": "+236",
     "capital": "Bangui",
@@ -751,15 +785,16 @@
     "area": 622984,
     "pop2022": "5016.6780",
     "density": 9.4957,
-    "gdp2023": "2.76",
     "gdppc2023": "539.24",
     "gdpppppc2023": "1109.166",
     "rusName": "ЦАР",
     "debt": "50.7",
     "pop2023": 5742315,
-    "growthgdp2023": "1"
+    "growthgdp2023": "1",
+    "code": "CAF"
   },
   {
+    "gdp2023": "17.493",
     "country": "Chad",
     "phoneCode": "+235",
     "capital": "N'Djamena",
@@ -770,15 +805,16 @@
     "area": 1284000,
     "pop2022": "17413.5800",
     "density": 14.9676,
-    "gdp2023": "12.596",
     "gdppc2023": "702.845",
     "gdpppppc2023": "1806.554",
     "rusName": "Чад",
     "debt": "50.4",
     "pop2023": 18278568,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "TCD"
   },
   {
+    "gdp2023": "335.658",
     "country": "Chile",
     "phoneCode": "+56",
     "capital": "Santiago",
@@ -789,15 +825,16 @@
     "area": 756102,
     "pop2022": "19250.1950",
     "density": 26.4398,
-    "gdp2023": "344.4",
     "gdppc2023": "17253.752",
     "gdpppppc2023": "29934.527",
     "rusName": "Чили",
     "debt": "38",
     "pop2023": 19629590,
-    "growthgdp2023": "-0.5"
+    "growthgdp2023": "-0.5",
+    "code": "CHL"
   },
   {
+    "gdp2023": "17662.041",
     "country": "China",
     "phoneCode": "+86",
     "capital": "Beijing",
@@ -808,15 +845,16 @@
     "area": 9706961,
     "pop2022": "1425887.337",
     "density": 151.2174,
-    "gdp2023": "17700.899",
     "gdppc2023": "12541.403",
     "gdpppppc2023": "23308.77",
     "rusName": "Китай (Китайская Народная Республика)",
     "debt": "77.1",
     "pop2023": 1425671352,
-    "growthgdp2023": "5"
+    "growthgdp2023": "5",
+    "code": "CHN"
   },
   {
+    "gdp2023": "363.616",
     "country": "Colombia",
     "phoneCode": "+57",
     "capital": "Bogotá",
@@ -827,15 +865,16 @@
     "area": 1141748,
     "pop2022": "52085.168",
     "density": 47.1751,
-    "gdp2023": "363.835",
     "gdppc2023": "6975.868",
     "gdpppppc2023": "19482.312",
     "rusName": "Колумбия",
     "debt": "63.6",
     "pop2023": 52085168,
-    "growthgdp2023": "1.4"
+    "growthgdp2023": "1.4",
+    "code": "COL"
   },
   {
+    "gdp2023": "1.34",
     "country": "Comoros",
     "phoneCode": "+269",
     "capital": "Moroni",
@@ -846,15 +885,16 @@
     "area": 1862,
     "pop2022": "907.4190",
     "density": 466.2037,
-    "gdp2023": "1.364",
     "gdppc2023": "1377.022",
     "gdpppppc2023": "3463.629",
     "rusName": "Коморы",
     "debt": "29.1",
     "pop2023": 852075,
-    "growthgdp2023": "3"
+    "growthgdp2023": "3",
+    "code": "COM"
   },
   {
+    "gdp2023": "0",
     "country": "Cook Islands",
     "phoneCode": "+682",
     "capital": "Avarua",
@@ -865,7 +905,6 @@
     "area": 236,
     "pop2022": "17.5710",
     "density": 71.1333,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Острова Кука",
@@ -874,6 +913,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "86.509",
     "country": "Costa Rica",
     "phoneCode": "+506",
     "capital": "San José",
@@ -884,15 +924,16 @@
     "area": 51100,
     "pop2022": "5182.3540",
     "density": 102.7559,
-    "gdp2023": "85.59",
     "gdppc2023": "16213.262",
     "gdpppppc2023": "26809.246",
     "rusName": "Коста-Рика",
     "debt": "63.8",
     "pop2023": 5212173,
-    "growthgdp2023": "4.4"
+    "growthgdp2023": "4.4",
+    "code": "CRI"
   },
   {
+    "gdp2023": "79.978",
     "country": "Côte d'Ivoire",
     "phoneCode": "+225",
     "capital": "Yamoussoukro",
@@ -903,15 +944,16 @@
     "area": 322463,
     "pop2022": "27742.2980",
     "density": 93.0921,
-    "gdp2023": "79.43",
     "gdppc2023": "2728.079",
     "gdpppppc2023": "6960.091",
     "rusName": "Кот-д'Ивуар",
     "debt": "56.8",
     "pop2023": 28873034,
-    "growthgdp2023": "6.2"
+    "growthgdp2023": "6.2",
+    "code": "CIV"
   },
   {
+    "gdp2023": "82.044",
     "country": "Croatia",
     "phoneCode": "+385",
     "capital": "Zagreb",
@@ -922,15 +964,16 @@
     "area": 56594,
     "pop2022": "4059.2860",
     "density": 71.2407,
-    "gdp2023": "80.185",
     "gdppc2023": "20876.461",
     "gdpppppc2023": "42873.038",
     "rusName": "Хорватия",
     "debt": "67.5",
     "pop2023": 4008617,
-    "growthgdp2023": "2.7"
+    "growthgdp2023": "2.7",
+    "code": "HRV"
   },
   {
+    "gdp2023": "0",
     "country": "Cuba",
     "phoneCode": "+53",
     "capital": "Havana",
@@ -941,7 +984,6 @@
     "area": 109884,
     "pop2022": "11305.6520",
     "density": 107.655,
-    "gdp2023": "107.35180",
     "gdppc2023": "9499.6",
     "gdpppppc2023": "0",
     "rusName": "Куба",
@@ -950,6 +992,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Curacao",
     "phoneCode": "+599",
     "capital": "Willemstad",
@@ -960,7 +1003,6 @@
     "area": 444,
     "pop2022": "165.5290",
     "density": 434.6059,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Кюрасао",
@@ -969,6 +1011,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "32.185",
     "country": "Cyprus",
     "phoneCode": "+357",
     "capital": "Nicosia",
@@ -979,15 +1022,16 @@
     "area": 9251,
     "pop2022": "1223.3870",
     "density": 137.28,
-    "gdp2023": "32.032",
     "gdppc2023": "34790.581",
     "gdpppppc2023": "53931.286",
     "rusName": "Кипр",
     "debt": "86.5",
     "pop2023": 1260138,
-    "growthgdp2023": "2.2"
+    "growthgdp2023": "2.2",
+    "code": "CYP"
   },
   {
+    "gdp2023": "332.025",
     "country": "Czech Republic",
     "phoneCode": "+420",
     "capital": "Prague",
@@ -998,15 +1042,16 @@
     "area": 78865,
     "pop2022": "10736.7840",
     "density": 136.0614,
-    "gdp2023": "335.243",
     "gdppc2023": "30474.529",
     "gdpppppc2023": "49025.44",
     "rusName": "Чехия",
     "debt": "42.3",
     "pop2023": 10495295,
-    "growthgdp2023": "0.2"
+    "growthgdp2023": "0.2",
+    "code": "CZE"
   },
   {
+    "gdp2023": "67.268",
     "country": "Congo DR (The Democratic Republic of Congo)",
     "phoneCode": "+243",
     "capital": "Kinshasa",
@@ -1017,15 +1062,16 @@
     "area": 2344858,
     "pop2022": "102262.808",
     "density": 46.5914,
-    "gdp2023": "67.512",
     "gdppc2023": "675.477",
     "gdpppppc2023": "1509.618",
     "rusName": "ДР Конго",
     "debt": "14.6",
     "pop2023": 102262808,
-    "growthgdp2023": "6.7"
+    "growthgdp2023": "6.7",
+    "code": "COD"
   },
   {
+    "gdp2023": "405.199",
     "country": "Denmark",
     "phoneCode": "+45",
     "capital": "Copenhagen",
@@ -1036,15 +1082,16 @@
     "area": 43094,
     "pop2022": "5834.9500",
     "density": 148.4924,
-    "gdp2023": "420.8",
     "gdppc2023": "71402.141",
     "gdpppppc2023": "74957.663",
     "rusName": "Дания",
     "debt": "29.7",
     "pop2023": 5910913,
-    "growthgdp2023": "1.7"
+    "growthgdp2023": "1.7",
+    "code": "DNK"
   },
   {
+    "gdp2023": "4.023",
     "country": "Djibouti",
     "phoneCode": "+253",
     "capital": "Djibouti",
@@ -1055,15 +1102,16 @@
     "area": 23200,
     "pop2022": "1016.0970",
     "density": 49.7122,
-    "gdp2023": "3.873",
     "gdppc2023": "3761.241",
     "gdpppppc2023": "6985.11",
     "rusName": "Джибути",
     "debt": "40.6",
     "pop2023": 1136455,
-    "growthgdp2023": "5"
+    "growthgdp2023": "5",
+    "code": "DJI"
   },
   {
+    "gdp2023": "0.658",
     "country": "Dominica",
     "phoneCode": "+1-767",
     "capital": "Roseau",
@@ -1074,15 +1122,16 @@
     "area": 751,
     "pop2022": "72.3440",
     "density": 97.824,
-    "gdp2023": "0.697",
     "gdppc2023": "9356.049",
     "gdpppppc2023": "14347.83",
     "rusName": "Доминика",
     "debt": "104.8",
     "pop2023": 73040,
-    "growthgdp2023": "4.6"
+    "growthgdp2023": "4.6",
+    "code": "DMA"
   },
   {
+    "gdp2023": "119.966",
     "country": "Dominican Republic",
     "phoneCode": "+1-809",
     "capital": "Santo Domingo",
@@ -1093,15 +1142,16 @@
     "area": 48671,
     "pop2022": "11056.3700",
     "density": 236.6799,
-    "gdp2023": "120.629",
     "gdppc2023": "11248.789",
     "gdpppppc2023": "25523.019",
     "rusName": "Доминиканская Республика",
     "debt": "58.9",
     "pop2023": 11332972,
-    "growthgdp2023": "3"
+    "growthgdp2023": "3",
+    "code": "DOM"
   },
   {
+    "gdp2023": "120.175",
     "country": "Ecuador",
     "phoneCode": "+593",
     "capital": "Quito",
@@ -1112,15 +1162,16 @@
     "area": 276841,
     "pop2022": "18113.3610",
     "density": 73.9949,
-    "gdp2023": "118.686",
     "gdppc2023": "6500.047",
     "gdpppppc2023": "13285.241",
     "rusName": "Эквадор",
     "debt": "57.3",
     "pop2023": 18190484,
-    "growthgdp2023": "1.4"
+    "growthgdp2023": "1.4",
+    "code": "ECU"
   },
   {
+    "gdp2023": "393.909",
     "country": "Egypt",
     "phoneCode": "+20",
     "capital": "Cairo",
@@ -1131,15 +1182,16 @@
     "area": 1002450,
     "pop2022": "112716.598",
     "density": 115.0075,
-    "gdp2023": "398.397",
     "gdppc2023": "3770.133",
     "gdpppppc2023": "17123.033",
     "rusName": "Египет",
     "debt": "88.5",
     "pop2023": 112716598,
-    "growthgdp2023": "4.2"
+    "growthgdp2023": "4.2",
+    "code": "EGY"
   },
   {
+    "gdp2023": "34.016",
     "country": "El Salvador",
     "phoneCode": "+503",
     "capital": "San Salvador",
@@ -1150,15 +1202,16 @@
     "area": 21041,
     "pop2022": "6550.3890",
     "density": 308.7012,
-    "gdp2023": "35.339",
     "gdppc2023": "5557.577",
     "gdpppppc2023": "11717.11",
     "rusName": "Сальвадор",
     "debt": "77.2",
     "pop2023": 6364943,
-    "growthgdp2023": "2.2"
+    "growthgdp2023": "2.2",
+    "code": "SLV"
   },
   {
+    "gdp2023": "10.284",
     "country": "Equatorial Guinea",
     "phoneCode": "+240",
     "capital": "Malabo",
@@ -1169,15 +1222,16 @@
     "area": 28051,
     "pop2022": "1496.6620",
     "density": 62.5666,
-    "gdp2023": "10.041",
     "gdppc2023": "6502.187",
     "gdpppppc2023": "18362.862",
     "rusName": "Экваториальная Гвинея",
     "debt": "27.1",
     "pop2023": 1714671,
-    "growthgdp2023": "-6.2"
+    "growthgdp2023": "-6.2",
+    "code": "GNQ"
   },
   {
+    "gdp2023": "0",
     "country": "Eritrea",
     "phoneCode": "+291",
     "capital": "Asmara",
@@ -1188,15 +1242,16 @@
     "area": 117600,
     "pop2022": "3662.2440",
     "density": 31.5402,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Эритрея",
     "debt": "163.8",
     "pop2023": 3748901,
-    "growthgdp2023": "0"
+    "growthgdp2023": "0",
+    "code": "ERI"
   },
   {
+    "gdp2023": "40.757",
     "country": "Estonia",
     "phoneCode": "+372",
     "capital": "Tallinn",
@@ -1207,15 +1262,16 @@
     "area": 45227,
     "pop2022": "1321.9100",
     "density": 30.8548,
-    "gdp2023": "41.799",
     "gdppc2023": "30998.324",
     "gdpppppc2023": "45235.528",
     "rusName": "Эстония",
     "debt": "17.2",
     "pop2023": 1322765,
-    "growthgdp2023": "-2.3"
+    "growthgdp2023": "-2.3",
+    "code": "EST"
   },
   {
+    "gdp2023": "159.747",
     "country": "Ethiopia",
     "phoneCode": "+251",
     "capital": "Addis Ababa",
@@ -1226,15 +1282,16 @@
     "area": 1104300,
     "pop2022": "123379.924",
     "density": 114.9415,
-    "gdp2023": "155.804",
     "gdppc2023": "1473.36",
     "gdpppppc2023": "3719.216",
     "rusName": "Эфиопия",
     "debt": "46.4",
     "pop2023": 126527060,
-    "growthgdp2023": "6.1"
+    "growthgdp2023": "6.1",
+    "code": "ETH"
   },
   {
+    "gdp2023": "0",
     "country": "Falkland Islands",
     "phoneCode": "+500",
     "capital": "FK",
@@ -1245,7 +1302,6 @@
     "area": 12173,
     "pop2022": "3.5390",
     "density": 0.3124,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Фолклендские острова (Мальвинские)",
@@ -1254,6 +1310,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Faroe Islands",
     "phoneCode": "+298",
     "capital": "Tórshavn",
@@ -1264,7 +1321,6 @@
     "area": 1393,
     "pop2022": "49.2330",
     "density": 39.1245,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Фарерские острова",
@@ -1273,6 +1329,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0.46",
     "country": "Micronesia",
     "phoneCode": "+691",
     "capital": "Palikir",
@@ -1283,15 +1340,16 @@
     "area": 702,
     "pop2022": "117.4890",
     "density": 166.1429,
-    "gdp2023": "0.458",
     "gdppc2023": "4357.639",
     "gdpppppc2023": "3922.057",
     "rusName": "Микронезия",
     "debt": "14",
     "pop2023": 115224,
-    "growthgdp2023": "2.6"
+    "growthgdp2023": "2.6",
+    "code": "FSM"
   },
   {
+    "gdp2023": "5.497",
     "country": "Fiji",
     "phoneCode": "+679",
     "capital": "Suva",
@@ -1302,15 +1360,16 @@
     "area": 18272,
     "pop2022": "909.4660",
     "density": 51.6186,
-    "gdp2023": "5.511",
     "gdppc2023": "6024.783",
     "gdpppppc2023": "16563.813",
     "rusName": "Фиджи",
     "debt": "92.8",
     "pop2023": 936375,
-    "growthgdp2023": "7.5"
+    "growthgdp2023": "7.5",
+    "code": "FJI"
   },
   {
+    "gdp2023": "300.499",
     "country": "Finland",
     "phoneCode": "+358",
     "capital": "Helsinki",
@@ -1321,15 +1380,16 @@
     "area": 338424,
     "pop2022": "5554.9600",
     "density": 18.2598,
-    "gdp2023": "305.689",
     "gdppc2023": "54507.139",
     "gdpppppc2023": "59869.124",
     "rusName": "Финляндия",
     "debt": "74.8",
     "pop2023": 5545475,
-    "growthgdp2023": "-0.1"
+    "growthgdp2023": "-0.1",
+    "code": "FIN"
   },
   {
+    "gdp2023": "3031.778",
     "country": "France",
     "phoneCode": "+33",
     "capital": "Paris",
@@ -1340,15 +1400,16 @@
     "area": 551695,
     "pop2022": "64756.584",
     "density": 118.4933,
-    "gdp2023": "3049.016",
     "gdppc2023": "46315.204",
     "gdpppppc2023": "58765.134",
     "rusName": "Франция",
     "debt": "111.1",
     "pop2023": 64756584,
-    "growthgdp2023": "1"
+    "growthgdp2023": "1",
+    "code": "FRA"
   },
   {
+    "gdp2023": "0",
     "country": "French Guiana",
     "phoneCode": "+594",
     "capital": "Cayenne",
@@ -1359,7 +1420,6 @@
     "area": 83534,
     "pop2022": "314.1690",
     "density": 3.8283,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Французская Гвиана",
@@ -1368,6 +1428,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "French Polynesia",
     "phoneCode": "+689",
     "capital": "Papeete",
@@ -1378,7 +1439,6 @@
     "area": 4167,
     "pop2022": "284.1640",
     "density": 89.7099,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Французская Полинезия",
@@ -1387,6 +1447,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "20.524",
     "country": "Gabon",
     "phoneCode": "+241",
     "capital": "Libreville",
@@ -1397,15 +1458,16 @@
     "area": 267668,
     "pop2022": "2331.5330",
     "density": 9.6424,
-    "gdp2023": "19.319",
     "gdppc2023": "8831.823",
     "gdpppppc2023": "19165.299",
     "rusName": "Габон",
     "debt": "55.1",
     "pop2023": 2436566,
-    "growthgdp2023": "2.8"
+    "growthgdp2023": "2.8",
+    "code": "GAB"
   },
   {
+    "gdp2023": "2.362",
     "country": "Gambia",
     "phoneCode": "+220",
     "capital": "Banjul",
@@ -1416,15 +1478,16 @@
     "area": 10689,
     "pop2022": "2558.4820",
     "density": 280.8106,
-    "gdp2023": "2.388",
     "gdppc2023": "903.293",
     "gdpppppc2023": "2837.139",
     "rusName": "Гамбия",
     "debt": "84",
     "pop2023": 2773168,
-    "growthgdp2023": "5.6"
+    "growthgdp2023": "5.6",
+    "code": "GMB"
   },
   {
+    "gdp2023": "30.536",
     "country": "Georgia",
     "phoneCode": "+995",
     "capital": "Tbilisi",
@@ -1435,15 +1498,16 @@
     "area": 69700,
     "pop2022": "3968.7380",
     "density": 53.4958,
-    "gdp2023": "30.023",
     "gdppc2023": "8164.861",
     "gdpppppc2023": "22357.411",
     "rusName": "Грузия",
     "debt": "39.8",
     "pop2023": 3728282,
-    "growthgdp2023": "6.2"
+    "growthgdp2023": "6.2",
+    "code": "GEO"
   },
   {
+    "gdp2023": "4457.366",
     "country": "Germany",
     "phoneCode": "+49",
     "capital": "Berlin",
@@ -1454,15 +1518,16 @@
     "area": 357114,
     "pop2022": "83294.633",
     "density": 238.2795,
-    "gdp2023": "4429.838",
     "gdppc2023": "52823.575",
     "gdpppppc2023": "66037.756",
     "rusName": "Германия",
     "debt": "66.5",
     "pop2023": 83294633,
-    "growthgdp2023": "-0.5"
+    "growthgdp2023": "-0.5",
+    "code": "DEU"
   },
   {
+    "gdp2023": "76.277",
     "country": "Ghana",
     "phoneCode": "+233",
     "capital": "Accra",
@@ -1473,15 +1538,16 @@
     "area": 238533,
     "pop2022": "32395.4500",
     "density": 152.8461,
-    "gdp2023": "76.628",
     "gdppc2023": "2328.97",
     "gdpppppc2023": "6905.036",
     "rusName": "Гана",
     "debt": "88.8",
     "pop2023": 34121985,
-    "growthgdp2023": "1.2"
+    "growthgdp2023": "1.2",
+    "code": "GHA"
   },
   {
+    "gdp2023": "0",
     "country": "Gibraltar",
     "phoneCode": "+350",
     "capital": "Gibraltar",
@@ -1492,7 +1558,6 @@
     "area": 6,
     "pop2022": "33.7040",
     "density": 4811.4706,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Гибралтар",
@@ -1501,6 +1566,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "238.275",
     "country": "Greece",
     "phoneCode": "+30",
     "capital": "Athens",
@@ -1511,15 +1577,16 @@
     "area": 131990,
     "pop2022": "10316.6370",
     "density": 79.928,
-    "gdp2023": "242.385",
     "gdppc2023": "23173.056",
     "gdpppppc2023": "39864.061",
     "rusName": "Греция",
     "debt": "177.4",
     "pop2023": 10341277,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "GRC"
   },
   {
+    "gdp2023": "0",
     "country": "Greenland",
     "phoneCode": "+299",
     "capital": "Nuuk",
@@ -1530,7 +1597,6 @@
     "area": 2166086,
     "pop2022": "56.9730",
     "density": 0.1384,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Гренландия",
@@ -1539,6 +1605,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "1.328",
     "country": "Grenada",
     "phoneCode": " +1-473",
     "capital": "St. George's",
@@ -1549,15 +1616,16 @@
     "area": 344,
     "pop2022": "113.4750",
     "density": 373.1971,
-    "gdp2023": "1.306",
     "gdppc2023": "11436.942",
     "gdpppppc2023": "20195.315",
     "rusName": "Гренада",
     "debt": "64.5",
     "pop2023": 126183,
-    "growthgdp2023": "3.9"
+    "growthgdp2023": "3.9",
+    "code": "GRD"
   },
   {
+    "gdp2023": "0",
     "country": "Guadeloupe",
     "phoneCode": "+590",
     "capital": "Basse-Terre",
@@ -1568,7 +1636,6 @@
     "area": 1628,
     "pop2022": "399.7940",
     "density": 243.4558,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Гваделупа",
@@ -1577,6 +1644,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Guam",
     "phoneCode": "+1-671",
     "capital": "Hagåtña",
@@ -1587,7 +1655,6 @@
     "area": 549,
     "pop2022": "171.5190",
     "density": 322.4333,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Гуам",
@@ -1596,6 +1663,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "102.036",
     "country": "Guatemala",
     "phoneCode": "+502",
     "capital": "Guatemala City",
@@ -1606,15 +1674,16 @@
     "area": 108889,
     "pop2022": "18584.0390",
     "density": 171.3179,
-    "gdp2023": "102.765",
     "gdppc2023": "5407.238",
     "gdpppppc2023": "10595.281",
     "rusName": "Гватемала",
     "debt": "30.1",
     "pop2023": 18092026,
-    "growthgdp2023": "3.4"
+    "growthgdp2023": "3.4",
+    "code": "GTM"
   },
   {
+    "gdp2023": "23.005",
     "country": "Guinea",
     "phoneCode": "+224",
     "capital": "Conakry",
@@ -1625,15 +1694,16 @@
     "area": 245857,
     "pop2022": "13865.6910",
     "density": 59.1273,
-    "gdp2023": "23.205",
     "gdppc2023": "1542.757",
     "gdpppppc2023": "3241.098",
     "rusName": "Гвинея",
     "debt": "33.4",
     "pop2023": 14190612,
-    "growthgdp2023": "5.9"
+    "growthgdp2023": "5.9",
+    "code": "GIN"
   },
   {
+    "gdp2023": "1.969",
     "country": "Guinea-Bissau",
     "phoneCode": "+245",
     "capital": "Bissau",
@@ -1644,15 +1714,16 @@
     "area": 36125,
     "pop2022": "2063.3670",
     "density": 78.1347,
-    "gdp2023": "1.991",
     "gdppc2023": "1028.223",
     "gdpppppc2023": "3088.346",
     "rusName": "Гвинея-Бисау",
     "debt": "79.5",
     "pop2023": 2150842,
-    "growthgdp2023": "4.5"
+    "growthgdp2023": "4.5",
+    "code": "GNB"
   },
   {
+    "gdp2023": "17.05",
     "country": "Guyana",
     "phoneCode": "+592",
     "capital": "Georgetown",
@@ -1663,15 +1734,16 @@
     "area": 214969,
     "pop2022": "794.0450",
     "density": 4.1635,
-    "gdp2023": "16.329",
     "gdppc2023": "20564.643",
     "gdpppppc2023": "61098.781",
     "rusName": "Гайана",
     "debt": "27.8",
     "pop2023": 813834,
-    "growthgdp2023": "38.4"
+    "growthgdp2023": "38.4",
+    "code": "GUY"
   },
   {
+    "gdp2023": "21.533",
     "country": "Haiti",
     "phoneCode": "+509",
     "capital": "Port-au-Prince",
@@ -1682,15 +1754,16 @@
     "area": 27750,
     "pop2022": "11680.2830",
     "density": 430.5889,
-    "gdp2023": "25.986",
     "gdppc2023": "2125.315",
     "gdpppppc2023": "3185.684",
     "rusName": "Гаити",
     "debt": "25",
     "pop2023": 11724763,
-    "growthgdp2023": "-1.5"
+    "growthgdp2023": "-1.5",
+    "code": "HTI"
   },
   {
+    "gdp2023": "34.886",
     "country": "Honduras",
     "phoneCode": "+504",
     "capital": "Tegucigalpa",
@@ -1701,15 +1774,16 @@
     "area": 112492,
     "pop2022": "10221.2470",
     "density": 96.1606,
-    "gdp2023": "33.992",
     "gdppc2023": "3245.018",
     "gdpppppc2023": "7162.661",
     "rusName": "Гондурас",
     "debt": "50",
     "pop2023": 10593798,
-    "growthgdp2023": "2.9"
+    "growthgdp2023": "2.9",
+    "code": "HND"
   },
   {
+    "gdp2023": "376.969",
     "country": "Hong Kong",
     "phoneCode": "+852",
     "capital": "Hong Kong",
@@ -1720,15 +1794,16 @@
     "area": 1104,
     "pop2022": "7604.2990",
     "density": 7139.6962,
-    "gdp2023": "385.546",
     "gdppc2023": "51168.046",
     "gdpppppc2023": "72860.759",
     "rusName": "Гонконг",
     "debt": "4.3",
     "pop2023": 7491609,
-    "growthgdp2023": "4.4"
+    "growthgdp2023": "4.4",
+    "code": "HKG"
   },
   {
+    "gdp2023": "212.61",
     "country": "Hungary",
     "phoneCode": "+36",
     "capital": "Budapest",
@@ -1739,15 +1814,16 @@
     "area": 93028,
     "pop2022": "9606.2590",
     "density": 109.5222,
-    "gdp2023": "203.829",
     "gdppc2023": "21075.621",
     "gdpppppc2023": "43601.432",
     "rusName": "Венгрия",
     "debt": "76.4",
     "pop2023": 10156239,
-    "growthgdp2023": "-0.3"
+    "growthgdp2023": "-0.3",
+    "code": "HUN"
   },
   {
+    "gdp2023": "31.02",
     "country": "Iceland",
     "phoneCode": "+354",
     "capital": "Reykjavík",
@@ -1758,15 +1834,16 @@
     "area": 103000,
     "pop2022": "345.3930",
     "density": 3.7458,
-    "gdp2023": "30.57",
     "gdppc2023": "78836.851",
     "gdpppppc2023": "69833.112",
     "rusName": "Исландия",
     "debt": "68.7",
     "pop2023": 375318,
-    "growthgdp2023": "3.3"
+    "growthgdp2023": "3.3",
+    "code": "ISL"
   },
   {
+    "gdp2023": "3572.078",
     "country": "India",
     "phoneCode": "+91",
     "capital": "New Delhi",
@@ -1777,15 +1854,16 @@
     "area": 3287590,
     "pop2022": "1417173.173",
     "density": 484.9067,
-    "gdp2023": "3732.224",
     "gdppc2023": "2612.454",
     "gdpppppc2023": "9183.374",
     "rusName": "Индия",
     "debt": "83.1",
     "pop2023": 1428627663,
-    "growthgdp2023": "6.3"
+    "growthgdp2023": "6.3",
+    "code": "IND"
   },
   {
+    "gdp2023": "1371.171",
     "country": "Indonesia",
     "phoneCode": "+62",
     "capital": "Jakarta",
@@ -1796,15 +1874,16 @@
     "area": 1904569,
     "pop2022": "275501.339",
     "density": 149.0254,
-    "gdp2023": "1417.387",
     "gdppc2023": "5108.944",
     "gdpppppc2023": "15835.822",
     "rusName": "Индонезия",
     "debt": "39.9",
     "pop2023": 277534122,
-    "growthgdp2023": "5"
+    "growthgdp2023": "5",
+    "code": "IDN"
   },
   {
+    "gdp2023": "403.526",
     "country": "Iran",
     "phoneCode": "+98",
     "capital": "Tehran",
@@ -1815,15 +1894,16 @@
     "area": 1648195,
     "pop2022": "89172.767",
     "density": 55.3527,
-    "gdp2023": "366.438",
     "gdppc2023": "4233.986",
     "gdpppppc2023": "19941.534",
     "rusName": "Иран",
     "debt": "34",
     "pop2023": 89172767,
-    "growthgdp2023": "3"
+    "growthgdp2023": "3",
+    "code": "IRN"
   },
   {
+    "gdp2023": "254.416",
     "country": "Iraq",
     "phoneCode": "+964",
     "capital": "Baghdad",
@@ -1834,15 +1914,16 @@
     "area": 438317,
     "pop2022": "42164.9650",
     "density": 107.1658,
-    "gdp2023": "254.993",
     "gdppc2023": "5882.894",
     "gdpppppc2023": "11742.403",
     "rusName": "Ирак",
     "debt": "43.3",
     "pop2023": 45504560,
-    "growthgdp2023": "-2.7"
+    "growthgdp2023": "-2.7",
+    "code": "IRQ"
   },
   {
+    "gdp2023": "545.787",
     "country": "Ireland",
     "phoneCode": "+353",
     "capital": "Dublin",
@@ -1853,15 +1934,16 @@
     "area": 70273,
     "pop2022": "5020.1990",
     "density": 73.8783,
-    "gdp2023": "589.569",
     "gdppc2023": "112247.706",
     "gdpppppc2023": "137638.163",
     "rusName": "Ирландия",
     "debt": "45.2",
     "pop2023": 5056935,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "IRL"
   },
   {
+    "gdp2023": "509.478",
     "country": "Israel",
     "phoneCode": "+972",
     "capital": "Jerusalem",
@@ -1872,15 +1954,16 @@
     "area": 20770,
     "pop2022": "8922.8920",
     "density": 430.2982,
-    "gdp2023": "521.688",
     "gdppc2023": "53195.879",
     "gdpppppc2023": "54771.428",
     "rusName": "Израиль",
     "debt": "60.9",
     "pop2023": 9174520,
-    "growthgdp2023": "3.1"
+    "growthgdp2023": "3.1",
+    "code": "ISR"
   },
   {
+    "gdp2023": "2255.503",
     "country": "Italy",
     "phoneCode": "+39",
     "capital": "Rome",
@@ -1891,15 +1974,16 @@
     "area": 301336,
     "pop2022": "60262.7700",
     "density": 198.493,
-    "gdp2023": "2186.082",
     "gdppc2023": "37146.233",
     "gdpppppc2023": "54258.988",
     "rusName": "Италия",
     "debt": "144.7",
     "pop2023": 58870762,
-    "growthgdp2023": "0.7"
+    "growthgdp2023": "0.7",
+    "code": "ITA"
   },
   {
+    "gdp2023": "18.884",
     "country": "Jamaica",
     "phoneCode": "+1-876",
     "capital": "Kingston",
@@ -1910,15 +1994,16 @@
     "area": 10991,
     "pop2022": "2985.0940",
     "density": 260.8253,
-    "gdp2023": "18.761",
     "gdppc2023": "6830.87",
     "gdpppppc2023": "12994.583",
     "rusName": "Ямайка",
     "debt": "84.1",
     "pop2023": 2825544,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "JAM"
   },
   {
+    "gdp2023": "4212.944",
     "country": "Japan",
     "phoneCode": "+81",
     "capital": "Tokyo",
@@ -1929,15 +2014,16 @@
     "area": 377930,
     "pop2022": "123951.692",
     "density": 336.4374,
-    "gdp2023": "4230.862",
     "gdppc2023": "33949.714",
     "gdpppppc2023": "52119.561",
     "rusName": "Япония",
     "debt": "261.3",
     "pop2023": 123294513,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "JPN"
   },
   {
+    "gdp2023": "50.989",
     "country": "Jordan",
     "phoneCode": "+962",
     "capital": "Amman",
@@ -1948,15 +2034,16 @@
     "area": 89342,
     "pop2022": "10300.8690",
     "density": 128.2172,
-    "gdp2023": "50.022",
     "gdppc2023": "4850.663",
     "gdpppppc2023": "12809.173",
     "rusName": "Иордания",
     "debt": "89.4",
     "pop2023": 11337052,
-    "growthgdp2023": "2.6"
+    "growthgdp2023": "2.6",
+    "code": "JOR"
   },
   {
+    "gdp2023": "260.51",
     "country": "Kazakhstan",
     "phoneCode": "+77",
     "capital": "Astana (Nur-Sultan)",
@@ -1967,15 +2054,16 @@
     "area": 2724900,
     "pop2022": "19205.0430",
     "density": 7.3446,
-    "gdp2023": "259.292",
     "gdppc2023": "12968.427",
     "gdpppppc2023": "32712.116",
     "rusName": "Казахстан",
     "debt": "23.5",
     "pop2023": 19606633,
-    "growthgdp2023": "4.6"
+    "growthgdp2023": "4.6",
+    "code": "KAZ"
   },
   {
+    "gdp2023": "108.923",
     "country": "Kenya",
     "phoneCode": "+254",
     "capital": "Nairobi",
@@ -1986,15 +2074,16 @@
     "area": 580367,
     "pop2022": "56215.2210",
     "density": 98.7508,
-    "gdp2023": "112.749",
     "gdppc2023": "2187.648",
     "gdpppppc2023": "6576.846",
     "rusName": "Кения",
     "debt": "67.9",
     "pop2023": 55100586,
-    "growthgdp2023": "5"
+    "growthgdp2023": "5",
+    "code": "KEN"
   },
   {
+    "gdp2023": "0.279",
     "country": "Kiribati",
     "phoneCode": "+686",
     "capital": "South Tarawa",
@@ -2005,15 +2094,16 @@
     "area": 811,
     "pop2022": "123.4190",
     "density": 167.6086,
-    "gdp2023": "0.246",
     "gdppc2023": "1968.028",
     "gdpppppc2023": "2380.609",
     "rusName": "Кирибати",
     "debt": "15.2",
     "pop2023": 133515,
-    "growthgdp2023": "2.6"
+    "growthgdp2023": "2.6",
+    "code": "KIR"
   },
   {
+    "gdp2023": "0.279",
     "country": "Kiribati",
     "phoneCode": "+383",
     "capital": "Pristina",
@@ -2024,15 +2114,16 @@
     "area": 10887,
     "pop2022": "1873",
     "density": 167.6086,
-    "gdp2023": "10.469",
     "gdppc2023": "5912.079",
     "gdpppppc2023": "15766.509",
     "rusName": "Кирибати",
     "debt": "19.3",
     "pop2023": 133515,
-    "growthgdp2023": "2.6"
+    "growthgdp2023": "2.6",
+    "code": "KIR"
   },
   {
+    "gdp2023": "161.784",
     "country": "Kuwait",
     "phoneCode": "+965",
     "capital": "Kuwait City",
@@ -2043,15 +2134,16 @@
     "area": 17818,
     "pop2022": "4380.3260",
     "density": 244.073,
-    "gdp2023": "159.687",
     "gdppc2023": "32215.034",
     "gdpppppc2023": "51764.825",
     "rusName": "Кувейт",
     "debt": "2.9",
     "pop2023": 4310108,
-    "growthgdp2023": "-0.6"
+    "growthgdp2023": "-0.6",
+    "code": "KWT"
   },
   {
+    "gdp2023": "12.775",
     "country": "Kyrgyzstan",
     "phoneCode": "+996",
     "capital": "Bishkek",
@@ -2062,15 +2154,16 @@
     "area": 199951,
     "pop2022": "6728.2710",
     "density": 35.6601,
-    "gdp2023": "12.681",
     "gdppc2023": "1829.586",
     "gdpppppc2023": "6438.072",
     "rusName": "Киргизия",
     "debt": "53.5",
     "pop2023": 6735347,
-    "growthgdp2023": "3.4"
+    "growthgdp2023": "3.4",
+    "code": "KGZ"
   },
   {
+    "gdp2023": "15.197",
     "country": "Laos",
     "phoneCode": "+856",
     "capital": "Vientiane",
@@ -2081,15 +2174,16 @@
     "area": 236800,
     "pop2022": "7481.0230",
     "density": 33.5211,
-    "gdp2023": "14.244",
     "gdppc2023": "1878.708",
     "gdpppppc2023": "9787.046",
     "rusName": "Лаос",
     "debt": "128.5",
     "pop2023": 7633779,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "LAO"
   },
   {
+    "gdp2023": "43.598",
     "country": "Latvia",
     "phoneCode": "+371",
     "capital": "Riga",
@@ -2100,15 +2194,16 @@
     "area": 64559,
     "pop2022": "1848.8370",
     "density": 29.0895,
-    "gdp2023": "46.668",
     "gdppc2023": "24929.18",
     "gdpppppc2023": "40891.797",
     "rusName": "Латвия",
     "debt": "41.6",
     "pop2023": 1830211,
-    "growthgdp2023": "0.5"
+    "growthgdp2023": "0.5",
+    "code": "LVA"
   },
   {
+    "gdp2023": "0",
     "country": "Lebanon",
     "phoneCode": "+961",
     "capital": "Beirut",
@@ -2119,15 +2214,16 @@
     "area": 10452,
     "pop2022": "6684.8490",
     "density": 510.1705,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Ливан",
     "debt": "0",
     "pop2023": 5353930,
-    "growthgdp2023": "0"
+    "growthgdp2023": "0",
+    "code": "LBN"
   },
   {
+    "gdp2023": "2.249",
     "country": "Lesotho",
     "phoneCode": "+266",
     "capital": "Maseru",
@@ -2138,15 +2234,16 @@
     "area": 30355,
     "pop2022": "2175.6990",
     "density": 77.6048,
-    "gdp2023": "2.373",
     "gdppc2023": "1110.179",
     "gdpppppc2023": "3234.577",
     "rusName": "Лесото",
     "debt": "57.9",
     "pop2023": 2330318,
-    "growthgdp2023": "2.1"
+    "growthgdp2023": "2.1",
+    "code": "LSO"
   },
   {
+    "gdp2023": "4.39",
     "country": "Liberia",
     "phoneCode": "+231",
     "capital": "Monrovia",
@@ -2157,15 +2254,16 @@
     "area": 111369,
     "pop2022": "5305.1170",
     "density": 57.4849,
-    "gdp2023": "4.347",
     "gdppc2023": "800.213",
     "gdpppppc2023": "1789.067",
     "rusName": "Либерия",
     "debt": "55.4",
     "pop2023": 5418377,
-    "growthgdp2023": "4.6"
+    "growthgdp2023": "4.6",
+    "code": "LBR"
   },
   {
+    "gdp2023": "45.011",
     "country": "Libya",
     "phoneCode": "+218",
     "capital": "Tripoli",
@@ -2176,15 +2274,16 @@
     "area": 1759540,
     "pop2022": "7040.7450",
     "density": 3.958,
-    "gdp2023": "40.194",
     "gdppc2023": "5872.222",
     "gdpppppc2023": "24381.729",
     "rusName": "Ливия",
     "debt": "0",
     "pop2023": 6888388,
-    "growthgdp2023": "12.5"
+    "growthgdp2023": "12.5",
+    "code": "LBY"
   },
   {
+    "gdp2023": "0",
     "country": "Liechtenstein",
     "phoneCode": "+423",
     "capital": "Vaduz",
@@ -2195,7 +2294,6 @@
     "area": 160,
     "pop2022": "38.3870",
     "density": 248.8875,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Лихтенштейн",
@@ -2204,6 +2302,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "77.926",
     "country": "Lithuania",
     "phoneCode": "+370",
     "capital": "Vilnius",
@@ -2214,15 +2313,16 @@
     "area": 65300,
     "pop2022": "2661.7080",
     "density": 43.0022,
-    "gdp2023": "79.427",
     "gdppc2023": "28481.993",
     "gdpppppc2023": "49244.687",
     "rusName": "Литва",
     "debt": "39.6",
     "pop2023": 2718352,
-    "growthgdp2023": "-0.2"
+    "growthgdp2023": "-0.2",
+    "code": "LTU"
   },
   {
+    "gdp2023": "85.78",
     "country": "Luxembourg",
     "phoneCode": "+352",
     "capital": "Luxembourg",
@@ -2233,15 +2333,16 @@
     "area": 2586,
     "pop2022": "647.599",
     "density": 256.9796,
-    "gdp2023": "89.095",
     "gdppc2023": "135605.438",
     "gdpppppc2023": "143303.598",
     "rusName": "Люксембург",
     "debt": "24.3",
     "pop2023": 654768,
-    "growthgdp2023": "-0.4"
+    "growthgdp2023": "-0.4",
+    "code": "LUX"
   },
   {
+    "gdp2023": "47.061",
     "country": "Macao",
     "phoneCode": "+853",
     "capital": "",
@@ -2252,15 +2353,16 @@
     "area": 30,
     "pop2022": "667.4900",
     "density": 21674.2249,
-    "gdp2023": "38.48",
     "gdppc2023": "54295.661",
     "gdpppppc2023": "98157.449",
     "rusName": "Макао",
     "debt": "0",
     "pop2023": 704149,
-    "growthgdp2023": "74.4"
+    "growthgdp2023": "74.4",
+    "code": "MAC"
   },
   {
+    "gdp2023": "14.769",
     "country": "North Macedonia",
     "phoneCode": "+389",
     "capital": "Skopje",
@@ -2271,15 +2373,16 @@
     "area": 25713,
     "pop2022": "2081.3040",
     "density": 82.5815,
-    "gdp2023": "15.801",
     "gdppc2023": "7672.009",
     "gdpppppc2023": "21391.25",
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 2085679,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "MKD"
   },
   {
+    "gdp2023": "15.753",
     "country": "Madagascar",
     "phoneCode": "+261",
     "capital": "Antananarivo",
@@ -2290,15 +2393,16 @@
     "area": 587041,
     "pop2022": "30325.732",
     "density": 53.3802,
-    "gdp2023": "15.763",
     "gdppc2023": "529.56",
     "gdpppppc2023": "1906.648",
     "rusName": "Мадагаскар",
     "debt": "57",
     "pop2023": 30325732,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "MDG"
   },
   {
+    "gdp2023": "13.127",
     "country": "Malawi",
     "phoneCode": "+265",
     "capital": "Lilongwe",
@@ -2309,15 +2413,16 @@
     "area": 118484,
     "pop2022": "20180.8390",
     "density": 227.7892,
-    "gdp2023": "13.176",
     "gdppc2023": "579.701",
     "gdpppppc2023": "1668.319",
     "rusName": "Малави",
     "debt": "70.1",
     "pop2023": 20931751,
-    "growthgdp2023": "1.7"
+    "growthgdp2023": "1.7",
+    "code": "MWI"
   },
   {
+    "gdp2023": "415.569",
     "country": "Malaysia",
     "phoneCode": "+60",
     "capital": "Kuala Lumpur",
@@ -2328,15 +2433,16 @@
     "area": 330803,
     "pop2022": "34308.525",
     "density": 105.53,
-    "gdp2023": "430.895",
     "gdppc2023": "13034.067",
     "gdpppppc2023": "37082.838",
     "rusName": "Малайзия",
     "debt": "66.3",
     "pop2023": 34308525,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "MYS"
   },
   {
+    "gdp2023": "6.685",
     "country": "Maldives",
     "phoneCode": "+960",
     "capital": "Malé",
@@ -2347,15 +2453,16 @@
     "area": 300,
     "pop2022": "540.9850",
     "density": 1726.29,
-    "gdp2023": "6.977",
     "gdppc2023": "17558.747",
     "gdpppppc2023": "37093.89",
     "rusName": "Мальдивы",
     "debt": "114.9",
     "pop2023": 521021,
-    "growthgdp2023": "8.1"
+    "growthgdp2023": "8.1",
+    "code": "MDV"
   },
   {
+    "gdp2023": "20.684",
     "country": "Mali",
     "phoneCode": "+223",
     "capital": "Bamako",
@@ -2366,15 +2473,16 @@
     "area": 1240192,
     "pop2022": "21473.7640",
     "density": 19.682,
-    "gdp2023": "21.309",
     "gdppc2023": "912.643",
     "gdpppppc2023": "2639.381",
     "rusName": "Мали",
     "debt": "53.2",
     "pop2023": 23293698,
-    "growthgdp2023": "4.5"
+    "growthgdp2023": "4.5",
+    "code": "MLI"
   },
   {
+    "gdp2023": "20.963",
     "country": "Malta",
     "phoneCode": "+356",
     "capital": "Valletta",
@@ -2385,15 +2493,16 @@
     "area": 316,
     "pop2022": "444.0330",
     "density": 1677.3125,
-    "gdp2023": "20.311",
     "gdppc2023": "38715.185",
     "gdpppppc2023": "63481.05",
     "rusName": "Мальта",
     "debt": "55.8",
     "pop2023": 535064,
-    "growthgdp2023": "3.8"
+    "growthgdp2023": "3.8",
+    "code": "MLT"
   },
   {
+    "gdp2023": "0.284",
     "country": "Marshall Islands",
     "phoneCode": "+692",
     "capital": "Majuro",
@@ -2404,15 +2513,16 @@
     "area": 181,
     "pop2022": "60.0570",
     "density": 235.6389,
-    "gdp2023": "0.277",
     "gdppc2023": "6141.234",
     "gdpppppc2023": "5823.434",
     "rusName": "Маршалловы Острова",
     "debt": "21.2",
     "pop2023": 41996,
-    "growthgdp2023": "3"
+    "growthgdp2023": "3",
+    "code": "MHL"
   },
   {
+    "gdp2023": "0",
     "country": "Martinique",
     "phoneCode": "+596",
     "capital": "Fort-de-France",
@@ -2423,7 +2533,6 @@
     "area": 1128,
     "pop2022": "374.0870",
     "density": 324.8369,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Мартиника",
@@ -2432,6 +2541,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "10.543",
     "country": "Mauritania",
     "phoneCode": "+222",
     "capital": "Nouakchott",
@@ -2442,15 +2552,16 @@
     "area": 1030700,
     "pop2022": "4901.9810",
     "density": 4.8452,
-    "gdp2023": "10.357",
     "gdppc2023": "2337.914",
     "gdpppppc2023": "7542.405",
     "rusName": "Мавритания",
     "debt": "47.7",
     "pop2023": 4862989,
-    "growthgdp2023": "4.5"
+    "growthgdp2023": "4.5",
+    "code": "MRT"
   },
   {
+    "gdp2023": "14.371",
     "country": "Mauritius",
     "phoneCode": "+230",
     "capital": "Port Louis",
@@ -2461,15 +2572,16 @@
     "area": 2040,
     "pop2022": "1274.7270",
     "density": 641.3685,
-    "gdp2023": "14.819",
     "gdppc2023": "11751.506",
     "gdpppppc2023": "29349.345",
     "rusName": "Маврикий",
     "debt": "80.9",
     "pop2023": 1300557,
-    "growthgdp2023": "5.1"
+    "growthgdp2023": "5.1",
+    "code": "MUS"
   },
   {
+    "gdp2023": "0",
     "country": "Mayotte",
     "phoneCode": "+262",
     "capital": "Mamoudzou",
@@ -2480,7 +2592,6 @@
     "area": 374,
     "pop2022": "286.2590",
     "density": 925.123,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Майотта",
@@ -2489,6 +2600,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "1788.897",
     "country": "Mexico",
     "phoneCode": "+52",
     "capital": "Mexico City",
@@ -2499,15 +2611,16 @@
     "area": 1964375,
     "pop2022": "127504.125",
     "density": 66.5596,
-    "gdp2023": "1811.468",
     "gdppc2023": "13803.741",
     "gdpppppc2023": "24975.953",
     "rusName": "Мексика",
     "debt": "56",
     "pop2023": 128455567,
-    "growthgdp2023": "3.2"
+    "growthgdp2023": "3.2",
+    "code": "MEX"
   },
   {
+    "gdp2023": "17.052",
     "country": "Moldova",
     "phoneCode": "+373",
     "capital": "Chisinau",
@@ -2518,15 +2631,16 @@
     "area": 33846,
     "pop2022": "4013.1710",
     "density": 101.2591,
-    "gdp2023": "16",
     "gdppc2023": "6410.925",
     "gdpppppc2023": "16915.706",
     "rusName": "Молдавия",
     "debt": "33.5",
     "pop2023": 3435931,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "MDA"
   },
   {
+    "gdp2023": "0",
     "country": "Monaco",
     "phoneCode": "+377",
     "capital": "Monaco",
@@ -2537,7 +2651,6 @@
     "area": 2.02,
     "pop2022": "39.7830",
     "density": 18078.5,
-    "gdp2023": "8.784",
     "gdppc2023": "240862.2",
     "gdpppppc2023": "0",
     "rusName": "Монако",
@@ -2546,6 +2659,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "19.862",
     "country": "Mongolia",
     "phoneCode": "+976",
     "capital": "Ulan Bator",
@@ -2556,15 +2670,16 @@
     "area": 1564110,
     "pop2022": "3447.157",
     "density": 2.2431,
-    "gdp2023": "18.782",
     "gdppc2023": "5348.072",
     "gdpppppc2023": "15087.999",
     "rusName": "Монголия",
     "debt": "82.4",
     "pop2023": 3447157,
-    "growthgdp2023": "5.5"
+    "growthgdp2023": "5.5",
+    "code": "MNG"
   },
   {
+    "gdp2023": "7.406",
     "country": "Montenegro",
     "phoneCode": "+382",
     "capital": "Podgorica",
@@ -2575,15 +2690,16 @@
     "area": 13812,
     "pop2022": "627.9500",
     "density": 46.5503,
-    "gdp2023": "7.058",
     "gdppc2023": "11338.801",
     "gdpppppc2023": "28002.045",
     "rusName": "Черногория",
     "debt": "71.2",
     "pop2023": 626485,
-    "growthgdp2023": "4.5"
+    "growthgdp2023": "4.5",
+    "code": "MNE"
   },
   {
+    "gdp2023": "0",
     "country": "Montserrat",
     "phoneCode": "+1-664",
     "capital": "Plymouth",
@@ -2594,7 +2710,6 @@
     "area": 102,
     "pop2022": "4.9650",
     "density": 42.8627,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Монтсеррат",
@@ -2603,6 +2718,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "143.963",
     "country": "Morocco",
     "phoneCode": "+212",
     "capital": "Rabat",
@@ -2613,15 +2729,16 @@
     "area": 446550,
     "pop2022": "37772.7560",
     "density": 85.6183,
-    "gdp2023": "147.343",
     "gdppc2023": "3979.871",
     "gdpppppc2023": "10408.314",
     "rusName": "Марокко",
     "debt": "68.8",
     "pop2023": 37840044,
-    "growthgdp2023": "2.4"
+    "growthgdp2023": "2.4",
+    "code": "MAR"
   },
   {
+    "gdp2023": "21.353",
     "country": "Mozambique",
     "phoneCode": "+258",
     "capital": "Maputo",
@@ -2632,15 +2749,16 @@
     "area": 801590,
     "pop2022": "33089.4610",
     "density": 44.3277,
-    "gdp2023": "21.936",
     "gdppc2023": "647.135",
     "gdpppppc2023": "1584.487",
     "rusName": "Мозамбик",
     "debt": "104.5",
     "pop2023": 33897354,
-    "growthgdp2023": "7"
+    "growthgdp2023": "7",
+    "code": "MOZ"
   },
   {
+    "gdp2023": "64.496",
     "country": "Myanmar",
     "phoneCode": "+95",
     "capital": "Naypyidaw",
@@ -2651,15 +2769,16 @@
     "area": 676578,
     "pop2022": "55227.1430",
     "density": 84.2151,
-    "gdp2023": "74.861",
     "gdppc2023": "1381.059",
     "gdpppppc2023": "5124.365",
     "rusName": "Мьянма",
     "debt": "63.9",
     "pop2023": 54577997,
-    "growthgdp2023": "2.6"
+    "growthgdp2023": "2.6",
+    "code": "MMR"
   },
   {
+    "gdp2023": "12.327",
     "country": "Namibia",
     "phoneCode": "+264",
     "capital": "Windhoek",
@@ -2670,15 +2789,16 @@
     "area": 825615,
     "pop2022": "2633.8740",
     "density": 3.2137,
-    "gdp2023": "12.647",
     "gdppc2023": "4785.679",
     "gdpppppc2023": "11603.027",
     "rusName": "Намибия",
     "debt": "71.3",
     "pop2023": 2604172,
-    "growthgdp2023": "2.8"
+    "growthgdp2023": "2.8",
+    "code": "NAM"
   },
   {
+    "gdp2023": "0.154",
     "country": "Nauru",
     "phoneCode": "+674",
     "capital": "Yaren",
@@ -2689,15 +2809,16 @@
     "area": 21,
     "pop2022": "10.9030",
     "density": 644.2,
-    "gdp2023": "0.15",
     "gdppc2023": "11756.986",
     "gdpppppc2023": "11169.063",
     "rusName": "Науру",
     "debt": "24.3",
     "pop2023": 12780,
-    "growthgdp2023": "0.5"
+    "growthgdp2023": "0.5",
+    "code": "NRU"
   },
   {
+    "gdp2023": "41.015",
     "country": "Nepal",
     "phoneCode": "+977",
     "capital": "Kathmandu",
@@ -2708,15 +2829,16 @@
     "area": 147181,
     "pop2022": "30225.5820",
     "density": 217.9303,
-    "gdp2023": "41.339",
     "gdppc2023": "1352.605",
     "gdpppppc2023": "4934.162",
     "rusName": "Непал",
     "debt": "43.8",
     "pop2023": 30896590,
-    "growthgdp2023": "0.8"
+    "growthgdp2023": "0.8",
+    "code": "NPL"
   },
   {
+    "gdp2023": "1117.101",
     "country": "Netherlands",
     "phoneCode": "+31",
     "capital": "Amsterdam",
@@ -2727,15 +2849,16 @@
     "area": 41850,
     "pop2022": "17211.4470",
     "density": 524.8329,
-    "gdp2023": "1092.748",
     "gdppc2023": "61769.702",
     "gdpppppc2023": "73316.845",
     "rusName": "Нидерланды",
     "debt": "48.5",
     "pop2023": 17618299,
-    "growthgdp2023": "0.6"
+    "growthgdp2023": "0.6",
+    "code": "NLD"
   },
   {
+    "gdp2023": "0",
     "country": "Netherlands Antilles",
     "phoneCode": "+599",
     "capital": "willemstad",
@@ -2746,7 +2869,6 @@
     "area": "800",
     "pop2022": "0",
     "density": "0",
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Антильские острова",
@@ -2755,6 +2877,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "New Caledonia",
     "phoneCode": "+687",
     "capital": "Nouméa",
@@ -2765,7 +2888,6 @@
     "area": 18575,
     "pop2022": "290.9150",
     "density": 16.1907,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Новая Каледония",
@@ -2774,6 +2896,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "249.04",
     "country": "New Zealand",
     "phoneCode": "+64",
     "capital": "Wellington",
@@ -2784,15 +2907,16 @@
     "area": 270467,
     "pop2022": "4898.2030",
     "density": 20.0142,
-    "gdp2023": "249.415",
     "gdppc2023": "48071.747",
     "gdpppppc2023": "53809.189",
     "rusName": "Новая Зеландия",
     "debt": "52.8",
     "pop2023": 5228100,
-    "growthgdp2023": "1.1"
+    "growthgdp2023": "1.1",
+    "code": "NZL"
   },
   {
+    "gdp2023": "17.412",
     "country": "Nicaragua",
     "phoneCode": "+505",
     "capital": "Managua",
@@ -2803,15 +2927,16 @@
     "area": 130373,
     "pop2022": "6779.1000",
     "density": 59.3529,
-    "gdp2023": "17.353",
     "gdppc2023": "2599.258",
     "gdpppppc2023": "7642.307",
     "rusName": "Никарагуа",
     "debt": "46",
     "pop2023": 7046310,
-    "growthgdp2023": "3"
+    "growthgdp2023": "3",
+    "code": "NIC"
   },
   {
+    "gdp2023": "16.528",
     "country": "Niger",
     "phoneCode": "+227",
     "capital": "Niamey",
@@ -2822,15 +2947,16 @@
     "area": 1267000,
     "pop2022": "26083.6600",
     "density": 22.2933,
-    "gdp2023": "17.073",
     "gdppc2023": "630.8",
     "gdpppppc2023": "1579.054",
     "rusName": "Нигер",
     "debt": "51.1",
     "pop2023": 27202843,
-    "growthgdp2023": "4.1"
+    "growthgdp2023": "4.1",
+    "code": "NER"
   },
   {
+    "gdp2023": "374.947",
     "country": "Nigeria",
     "phoneCode": "+234",
     "capital": "Abuja",
@@ -2841,15 +2967,16 @@
     "area": 923768,
     "pop2022": "218541.212",
     "density": 251.6027,
-    "gdp2023": "390.002",
     "gdppc2023": "1755.326",
     "gdpppppc2023": "6147.678",
     "rusName": "Нигерия",
     "debt": "38",
     "pop2023": 223804632,
-    "growthgdp2023": "2.9"
+    "growthgdp2023": "2.9",
+    "code": "NGA"
   },
   {
+    "gdp2023": "0",
     "country": "Niue",
     "phoneCode": "+683",
     "capital": "Alofi",
@@ -2860,7 +2987,6 @@
     "area": 260,
     "pop2022": "1.6220",
     "density": 7.4138,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Ниуэ",
@@ -2869,6 +2995,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Norfolk Island",
     "phoneCode": "+672",
     "capital": "Kingston",
@@ -2879,7 +3006,6 @@
     "area": "36",
     "pop2022": "0",
     "density": "0",
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Остров Норфолк",
@@ -2888,6 +3014,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "North Korea",
     "phoneCode": "+850",
     "capital": "Pyongyang",
@@ -2898,7 +3025,6 @@
     "area": 120538,
     "pop2022": "25990.6790",
     "density": 217.9602,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Северная Корея",
@@ -2907,6 +3033,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Northern Mariana Islands",
     "phoneCode": "+1-670",
     "capital": "Saipan",
@@ -2917,7 +3044,6 @@
     "area": 464,
     "pop2022": "58.2690",
     "density": 108.75,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Северные Марианские острова",
@@ -2926,6 +3052,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "14.769",
     "country": "Northern Mariana Islands",
     "phoneCode": "+389",
     "capital": "Skopje",
@@ -2936,15 +3063,16 @@
     "area": 25713,
     "pop2022": "2081.3040",
     "density": 108.75,
-    "gdp2023": "15.801",
     "gdppc2023": "7672.009",
     "gdpppppc2023": "21391.25",
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 49796,
-    "growthgdp2023": "0"
+    "growthgdp2023": "0",
+    "code": "MKD"
   },
   {
+    "gdp2023": "485.513",
     "country": "Norway",
     "phoneCode": "+47",
     "capital": "Oslo",
@@ -2955,15 +3083,16 @@
     "area": 323802,
     "pop2022": "5511.3700",
     "density": 15.1378,
-    "gdp2023": "546.768",
     "gdppc2023": "99266.299",
     "gdpppppc2023": "82236.121",
     "rusName": "Норвегия",
     "debt": "39.6",
     "pop2023": 5474360,
-    "growthgdp2023": "2.3"
+    "growthgdp2023": "2.3",
+    "code": "NOR"
   },
   {
+    "gdp2023": "109.133",
     "country": "Oman",
     "phoneCode": "+968",
     "capital": "Muscat",
@@ -2974,15 +3103,16 @@
     "area": 309500,
     "pop2022": "5323.9930",
     "density": 15.2296,
-    "gdp2023": "108.282",
     "gdppc2023": "21265.625",
     "gdpppppc2023": "39336.136",
     "rusName": "Оман",
     "debt": "40.1",
     "pop2023": 4644384,
-    "growthgdp2023": "1.2"
+    "growthgdp2023": "1.2",
+    "code": "OMN"
   },
   {
+    "gdp2023": "338.237",
     "country": "Pakistan",
     "phoneCode": "+92",
     "capital": "Islamabad",
@@ -2993,15 +3123,16 @@
     "area": 881912,
     "pop2022": "235824.862",
     "density": 318.0908,
-    "gdp2023": "340.636",
     "gdppc2023": "1471.098",
     "gdpppppc2023": "6773.546",
     "rusName": "Пакистан",
     "debt": "75.8",
     "pop2023": 240485658,
-    "growthgdp2023": "-0.5"
+    "growthgdp2023": "-0.5",
+    "code": "PAK"
   },
   {
+    "gdp2023": "0.267",
     "country": "Palau",
     "phoneCode": "+680",
     "capital": "Ngerulmud",
@@ -3012,15 +3143,16 @@
     "area": 459,
     "pop2022": "18.2330",
     "density": 39.2413,
-    "gdp2023": "0.267",
     "gdppc2023": "15113.302",
     "gdpppppc2023": "15169.597",
     "rusName": "Палау",
     "debt": "0",
     "pop2023": 18058,
-    "growthgdp2023": "0.8"
+    "growthgdp2023": "0.8",
+    "code": "PLW"
   },
   {
+    "gdp2023": "0",
     "country": "Palestine",
     "phoneCode": "+970",
     "capital": "Jerusalem(East)",
@@ -3031,7 +3163,6 @@
     "area": 6220,
     "pop2022": "5345.5410",
     "density": 912.7846,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Палестина",
@@ -3040,6 +3171,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "83.382",
     "country": "Panama",
     "phoneCode": "+507",
     "capital": "Panama City",
@@ -3050,15 +3182,16 @@
     "area": 75417,
     "pop2022": "4446.9640",
     "density": 61.0402,
-    "gdp2023": "82.348",
     "gdppc2023": "18493.465",
     "gdpppppc2023": "42738.204",
     "rusName": "Панама",
     "debt": "54.9",
     "pop2023": 4468087,
-    "growthgdp2023": "6"
+    "growthgdp2023": "6",
+    "code": "PAN"
   },
   {
+    "gdp2023": "30.998",
     "country": "Papua New Guinea",
     "phoneCode": "+675",
     "capital": "Port Moresby",
@@ -3069,15 +3202,16 @@
     "area": 462840,
     "pop2022": "9292.1690",
     "density": 23.2208,
-    "gdp2023": "31.692",
     "gdppc2023": "2581.179",
     "gdpppppc2023": "3403.237",
     "rusName": "Папуа — Новая Гвинея",
     "debt": "49.2",
     "pop2023": 10329931,
-    "growthgdp2023": "3"
+    "growthgdp2023": "3",
+    "code": "PNG"
   },
   {
+    "gdp2023": "43.871",
     "country": "Paraguay",
     "phoneCode": "+595",
     "capital": "Asunción",
@@ -3088,15 +3222,16 @@
     "area": 406752,
     "pop2022": "7305.8430",
     "density": 17.4862,
-    "gdp2023": "44.142",
     "gdppc2023": "5842.959",
     "gdpppppc2023": "15533.102",
     "rusName": "Парагвай",
     "debt": "40.9",
     "pop2023": 6861524,
-    "growthgdp2023": "4.5"
+    "growthgdp2023": "4.5",
+    "code": "PRY"
   },
   {
+    "gdp2023": "267.585",
     "country": "Peru",
     "phoneCode": "+51",
     "capital": "Lima",
@@ -3107,15 +3242,16 @@
     "area": 1285216,
     "pop2022": "33684.2080",
     "density": 27.0964,
-    "gdp2023": "264.636",
     "gdppc2023": "7668.665",
     "gdpppppc2023": "15893.525",
     "rusName": "Перу",
     "debt": "33.4",
     "pop2023": 34352719,
-    "growthgdp2023": "1.1"
+    "growthgdp2023": "1.1",
+    "code": "PER"
   },
   {
+    "gdp2023": "436.622",
     "country": "Philippines",
     "phoneCode": "+63",
     "capital": "Manila",
@@ -3126,15 +3262,16 @@
     "area": 342353,
     "pop2022": "115559.009",
     "density": 399.4574,
-    "gdp2023": "435.675",
     "gdppc2023": "3859.194",
     "gdpppppc2023": "11326.006",
     "rusName": "Филиппины",
     "debt": "57.5",
     "pop2023": 117337368,
-    "growthgdp2023": "5.3"
+    "growthgdp2023": "5.3",
+    "code": "PHL"
   },
   {
+    "gdp2023": "808.435",
     "country": "Poland",
     "phoneCode": "+48",
     "capital": "Warsaw",
@@ -3145,15 +3282,16 @@
     "area": 312679,
     "pop2022": "37739.7850",
     "density": 131.3877,
-    "gdp2023": "842.172",
     "gdppc2023": "22393.03",
     "gdpppppc2023": "45538.129",
     "rusName": "Польша",
     "debt": "49.6",
     "pop2023": 41026067,
-    "growthgdp2023": "0.6"
+    "growthgdp2023": "0.6",
+    "code": "POL"
   },
   {
+    "gdp2023": "287.421",
     "country": "Portugal",
     "phoneCode": "+351",
     "capital": "Lisbon",
@@ -3164,15 +3302,16 @@
     "area": 92090,
     "pop2022": "10140.5700",
     "density": 111.6018,
-    "gdp2023": "276.432",
     "gdppc2023": "26878.872",
     "gdpppppc2023": "45226.978",
     "rusName": "Португалия",
     "debt": "116",
     "pop2023": 10247605,
-    "growthgdp2023": "2.3"
+    "growthgdp2023": "2.3",
+    "code": "PRT"
   },
   {
+    "gdp2023": "115.799",
     "country": "Puerto Rico",
     "phoneCode": "+1-787",
     "capital": "San Juan",
@@ -3183,15 +3322,16 @@
     "area": 8870,
     "pop2022": "2829.8120",
     "density": 368.5233,
-    "gdp2023": "117.515",
     "gdppc2023": "37093.332",
     "gdpppppc2023": "41682.181",
     "rusName": "Пуэрто-Рико",
     "debt": "16.3",
     "pop2023": 3260314,
-    "growthgdp2023": "-0.7"
+    "growthgdp2023": "-0.7",
+    "code": "PRI"
   },
   {
+    "gdp2023": "234.218",
     "country": "Qatar",
     "phoneCode": "+974",
     "capital": "Doha",
@@ -3202,15 +3342,16 @@
     "area": 11586,
     "pop2022": "2979.9150",
     "density": 238.2124,
-    "gdp2023": "235.5",
     "gdppc2023": "81968.336",
     "gdpppppc2023": "114210.448",
     "rusName": "Катар",
     "debt": "45.3",
     "pop2023": 2716391,
-    "growthgdp2023": "2.4"
+    "growthgdp2023": "2.4",
+    "code": "QAT"
   },
   {
+    "gdp2023": "14.423",
     "country": "Congo",
     "phoneCode": "+242",
     "capital": "Brazzaville",
@@ -3221,15 +3362,16 @@
     "area": 342000,
     "pop2022": "5797.8050",
     "density": 18.2856,
-    "gdp2023": "14.407",
     "gdppc2023": "2857.614",
     "gdpppppc2023": "5552.345",
     "rusName": "Республика Конго",
     "debt": "99.6",
     "pop2023": 6106869,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "COG"
   },
   {
+    "gdp2023": "0",
     "country": "Reunion",
     "phoneCode": "+262",
     "capital": "Saint-Denis",
@@ -3240,7 +3382,6 @@
     "area": 2511,
     "pop2022": "974.052",
     "density": 393.8495,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Рейюньион",
@@ -3249,6 +3390,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "345.894",
     "country": "Romania",
     "phoneCode": "+40",
     "capital": "Bucharest",
@@ -3259,15 +3401,16 @@
     "area": 238391,
     "pop2022": "19031.3350",
     "density": 85.2703,
-    "gdp2023": "350.414",
     "gdppc2023": "18413.471",
     "gdpppppc2023": "41029.176",
     "rusName": "Румыния",
     "debt": "48.7",
     "pop2023": 19892812,
-    "growthgdp2023": "2.2"
+    "growthgdp2023": "2.2",
+    "code": "ROU"
   },
   {
+    "gdp2023": "1997.03",
     "country": "Russian Federation",
     "phoneCode": "+7",
     "capital": "Moscow",
@@ -3278,15 +3421,16 @@
     "area": 17098242,
     "pop2022": "144713.314",
     "density": 8.7903,
-    "gdp2023": "1862.47",
     "gdppc2023": "13005.71",
     "gdpppppc2023": "35309.622",
     "rusName": "Россия",
     "debt": "19.6",
     "pop2023": 144444359,
-    "growthgdp2023": "2.2"
+    "growthgdp2023": "2.2",
+    "code": "RUS"
   },
   {
+    "gdp2023": "14.02",
     "country": "Rwanda",
     "phoneCode": "+250",
     "capital": "Kigali",
@@ -3297,15 +3441,16 @@
     "area": 26338,
     "pop2022": "13600.4640",
     "density": 584.3093,
-    "gdp2023": "13.927",
     "gdppc2023": "1031.692",
     "gdpppppc2023": "3136.995",
     "rusName": "Руанда",
     "debt": "64.4",
     "pop2023": 14094683,
-    "growthgdp2023": "6.2"
+    "growthgdp2023": "6.2",
+    "code": "RWA"
   },
   {
+    "gdp2023": "0",
     "country": "Saint Barthelemy",
     "phoneCode": "+590",
     "capital": "Gustavia",
@@ -3316,7 +3461,6 @@
     "area": 21,
     "pop2022": "9.9450",
     "density": 440.76,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Сен-Бартельми",
@@ -3325,6 +3469,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Saint Helena",
     "phoneCode": "+290",
     "capital": "Jamestown",
@@ -3335,7 +3480,6 @@
     "area": "314",
     "pop2022": "0",
     "density": "0",
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "о.Святой Елены",
@@ -3344,6 +3488,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "1.068",
     "country": "Saint Kitts and Nevis",
     "phoneCode": "+1-869",
     "capital": "Basseterre",
@@ -3354,15 +3499,16 @@
     "area": 261,
     "pop2022": "53.8710",
     "density": 184.0269,
-    "gdp2023": "1.069",
     "gdppc2023": "18158.491",
     "gdpppppc2023": "29893.173",
     "rusName": "Сент-Китс и Невис",
     "debt": "64.8",
     "pop2023": 47755,
-    "growthgdp2023": "4.9"
+    "growthgdp2023": "4.9",
+    "code": "KNA"
   },
   {
+    "gdp2023": "0",
     "country": "Saint Martin",
     "phoneCode": "+590",
     "capital": "Marigot",
@@ -3373,7 +3519,6 @@
     "area": 53,
     "pop2022": "39.7300",
     "density": 646.74,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Сен-Мартен (Франция)",
@@ -3382,6 +3527,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Saint Pierre and Miquelon",
     "phoneCode": "+508",
     "capital": "Saint-Pierre",
@@ -3392,7 +3538,6 @@
     "area": 242,
     "pop2022": "5.7590",
     "density": 24.0289,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Сен-Пьер и Микелон",
@@ -3401,6 +3546,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "1.041",
     "country": "Saint Vincent and the Grenadines",
     "phoneCode": "+1-784",
     "capital": "Kingstown",
@@ -3411,15 +3557,16 @@
     "area": 389,
     "pop2022": "111.5510",
     "density": 265.8538,
-    "gdp2023": "1.039",
     "gdppc2023": "9359.9",
     "gdpppppc2023": "17840.433",
     "rusName": "Сент-Винсент и Гренадины",
     "debt": "86.8",
     "pop2023": 103698,
-    "growthgdp2023": "6.2"
+    "growthgdp2023": "6.2",
+    "code": "VCT"
   },
   {
+    "gdp2023": "0.934",
     "country": "Samoa",
     "phoneCode": "+685",
     "capital": "Apia",
@@ -3430,15 +3577,16 @@
     "area": 2842,
     "pop2022": "202.2390",
     "density": 82.3619,
-    "gdp2023": "0.939",
     "gdppc2023": "4638.145",
     "gdpppppc2023": "6544.417",
     "rusName": "Самоа",
     "debt": "43.7",
     "pop2023": 225681,
-    "growthgdp2023": "8"
+    "growthgdp2023": "8",
+    "code": "WSM"
   },
   {
+    "gdp2023": "1.954",
     "country": "San Marino",
     "phoneCode": "+378",
     "capital": "City of San Marino",
@@ -3449,15 +3597,16 @@
     "area": 61,
     "pop2022": "34.0850",
     "density": 560.2333,
-    "gdp2023": "1.998",
     "gdppc2023": "58540.803",
     "gdpppppc2023": "84135.423",
     "rusName": "Сан-Марино",
     "debt": "81.2",
     "pop2023": 33642,
-    "growthgdp2023": "2.2"
+    "growthgdp2023": "2.2",
+    "code": "SMR"
   },
   {
+    "gdp2023": "0.656",
     "country": "Sao Tome and Principe",
     "phoneCode": "+239",
     "capital": "São Tomé",
@@ -3468,15 +3617,16 @@
     "area": 964,
     "pop2022": "227.6790",
     "density": 246.2302,
-    "gdp2023": "0.674",
     "gdppc2023": "2904.715",
     "gdpppppc2023": "4146.532",
     "rusName": "Сан-Томе и Принсипи",
     "debt": "58.1",
     "pop2023": 231856,
-    "growthgdp2023": "0.5"
+    "growthgdp2023": "0.5",
+    "code": "STP"
   },
   {
+    "gdp2023": "1067.583",
     "country": "Saudi Arabia",
     "phoneCode": "+966",
     "capital": "Riyadh",
@@ -3487,15 +3637,16 @@
     "area": 2149690,
     "pop2022": "35844.9090",
     "density": 17.4322,
-    "gdp2023": "1069.437",
     "gdppc2023": "32586.172",
     "gdpppppc2023": "68452.845",
     "rusName": "Саудовская Аравия",
     "debt": "22.6",
     "pop2023": 36947025,
-    "growthgdp2023": "0.8"
+    "growthgdp2023": "0.8",
+    "code": "SAU"
   },
   {
+    "gdp2023": "31.407",
     "country": "Senegal",
     "phoneCode": "+221",
     "capital": "Dakar",
@@ -3506,15 +3657,16 @@
     "area": 196722,
     "pop2022": "17653.6710",
     "density": 94.6427,
-    "gdp2023": "31.141",
     "gdppc2023": "1714.653",
     "gdpppppc2023": "4324.881",
     "rusName": "Сенегал",
     "debt": "75",
     "pop2023": 17763163,
-    "growthgdp2023": "4.1"
+    "growthgdp2023": "4.1",
+    "code": "SEN"
   },
   {
+    "gdp2023": "75.187",
     "country": "Serbia",
     "phoneCode": "+381",
     "capital": "Belgrade",
@@ -3525,15 +3677,16 @@
     "area": 88361,
     "pop2022": "8653.0160",
     "density": 81.146,
-    "gdp2023": "75.015",
     "gdppc2023": "11301.218",
     "gdpppppc2023": "26074.158",
     "rusName": "Сербия",
     "debt": "53.5",
     "pop2023": 7149077,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "SRB"
   },
   {
+    "gdp2023": "2.153",
     "country": "Seychelles",
     "phoneCode": "+248",
     "capital": "Victoria",
@@ -3544,15 +3697,16 @@
     "area": 452,
     "pop2022": "99.4260",
     "density": 235.3543,
-    "gdp2023": "2.085",
     "gdppc2023": "20889.545",
     "gdpppppc2023": "41828.746",
     "rusName": "Сейшельские Острова",
     "debt": "63.4",
     "pop2023": 107660,
-    "growthgdp2023": "4.2"
+    "growthgdp2023": "4.2",
+    "code": "SYC"
   },
   {
+    "gdp2023": "3.906",
     "country": "Sierra Leone",
     "phoneCode": "+232",
     "capital": "Freetown",
@@ -3563,15 +3717,16 @@
     "area": 71740,
     "pop2022": "8306.4360",
     "density": 124.3831,
-    "gdp2023": "3.519",
     "gdppc2023": "414.962",
     "gdpppppc2023": "2097.104",
     "rusName": "Сьерра-Леоне",
     "debt": "98.8",
     "pop2023": 8791092,
-    "growthgdp2023": "2.7"
+    "growthgdp2023": "2.7",
+    "code": "SLE"
   },
   {
+    "gdp2023": "501.428",
     "country": "Singapore",
     "phoneCode": "+65",
     "capital": "Singapore",
@@ -3582,15 +3737,16 @@
     "area": 710,
     "pop2022": "5943.5460",
     "density": 8429.9568,
-    "gdp2023": "497.347",
     "gdppc2023": "87884.162",
     "gdpppppc2023": "133107.623",
     "rusName": "Сингапур",
     "debt": "134.2",
     "pop2023": 6014723,
-    "growthgdp2023": "1"
+    "growthgdp2023": "1",
+    "code": "SGP"
   },
   {
+    "gdp2023": "0",
     "country": "Sint Maarten",
     "phoneCode": "+1-721",
     "capital": "Philipsburg",
@@ -3601,7 +3757,6 @@
     "area": 34,
     "pop2022": "43.9660",
     "density": 1303.2059,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Синт-Мартен (остров)",
@@ -3610,6 +3765,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "132.122",
     "country": "Slovakia",
     "phoneCode": "+421",
     "capital": "Bratislava",
@@ -3620,15 +3776,16 @@
     "area": 49037,
     "pop2022": "5460.1930",
     "density": 116.3013,
-    "gdp2023": "133.044",
     "gdppc2023": "24471.091",
     "gdpppppc2023": "42228.008",
     "rusName": "Словакия",
     "debt": "58.8",
     "pop2023": 5795199,
-    "growthgdp2023": "1.3"
+    "growthgdp2023": "1.3",
+    "code": "SVK"
   },
   {
+    "gdp2023": "68.236",
     "country": "Slovenia",
     "phoneCode": "+386",
     "capital": "Ljubljana",
@@ -3639,15 +3796,16 @@
     "area": 20273,
     "pop2022": "2078.0340",
     "density": 105.2306,
-    "gdp2023": "68.394",
     "gdppc2023": "32350.022",
     "gdpppppc2023": "51406.557",
     "rusName": "Словения",
     "debt": "70.2",
     "pop2023": 2119675,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "SVN"
   },
   {
+    "gdp2023": "1.631",
     "country": "Solomon Islands",
     "phoneCode": "+677",
     "capital": "Honiara",
@@ -3658,15 +3816,16 @@
     "area": 28896,
     "pop2022": "721.1590",
     "density": 27.0337,
-    "gdp2023": "1.69",
     "gdppc2023": "2285.399",
     "gdpppppc2023": "2410.755",
     "rusName": "Соломоновы Острова",
     "debt": "16.9",
     "pop2023": 740424,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "SLB"
   },
   {
+    "gdp2023": "11.68",
     "country": "Somalia",
     "phoneCode": "+252",
     "capital": "Mogadishu",
@@ -3677,15 +3836,16 @@
     "area": 637657,
     "pop2022": "16841.7950",
     "density": 29.8194,
-    "gdp2023": "11.515",
     "gdppc2023": "717.406",
     "gdpppppc2023": "1998.474",
     "rusName": "Сомали",
     "debt": "0",
     "pop2023": 18143378,
-    "growthgdp2023": "2.8"
+    "growthgdp2023": "2.8",
+    "code": "SOM"
   },
   {
+    "gdp2023": "377.676",
     "country": "South Africa",
     "phoneCode": "+27",
     "capital": "Pretoria",
@@ -3696,15 +3856,16 @@
     "area": 1221037,
     "pop2022": "60756.1350",
     "density": 50.3015,
-    "gdp2023": "380.906",
     "gdppc2023": "6190.742",
     "gdpppppc2023": "16211.158",
     "rusName": "ЮАР",
     "debt": "71",
     "pop2023": 60414495,
-    "growthgdp2023": "0.9"
+    "growthgdp2023": "0.9",
+    "code": "ZAF"
   },
   {
+    "gdp2023": "0",
     "country": "South Korea",
     "phoneCode": "+82",
     "capital": "Seoul",
@@ -3715,7 +3876,6 @@
     "area": 100210,
     "pop2022": "51329.8990",
     "density": 530.1431,
-    "gdp2023": "1709.232",
     "gdppc2023": "33147.226",
     "gdpppppc2023": "56708.953",
     "rusName": "Республика Корея",
@@ -3724,6 +3884,7 @@
     "growthgdp2023": "1.4"
   },
   {
+    "gdp2023": "7.295",
     "country": "South Sudan",
     "phoneCode": "+211",
     "capital": "Juba",
@@ -3734,15 +3895,16 @@
     "area": 619745,
     "pop2022": "11618.5110",
     "density": 17.8455,
-    "gdp2023": "6.267",
     "gdppc2023": "417.438",
     "gdpppppc2023": "475.805",
     "rusName": "Южный Судан",
     "debt": "39.6",
     "pop2023": 11088796,
-    "growthgdp2023": "3.5"
+    "growthgdp2023": "3.5",
+    "code": "SSD"
   },
   {
+    "gdp2023": "1581.151",
     "country": "Spain",
     "phoneCode": "+34",
     "capital": "Madrid",
@@ -3753,15 +3915,16 @@
     "area": 505992,
     "pop2022": "45519.628",
     "density": 95.031,
-    "gdp2023": "1582.054",
     "gdppc2023": "33090.238",
     "gdpppppc2023": "50471.689",
     "rusName": "Испания",
     "debt": "112",
     "pop2023": 47519628,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "ESP"
   },
   {
+    "gdp2023": "0",
     "country": "Sri Lanka",
     "phoneCode": "+94",
     "capital": "Colombo",
@@ -3772,15 +3935,16 @@
     "area": 65610,
     "pop2022": "21575.8420",
     "density": 354.8217,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Шри-Ланка",
     "debt": "117.7",
     "pop2023": 21893579,
-    "growthgdp2023": "0"
+    "growthgdp2023": "0",
+    "code": "LKA"
   },
   {
+    "gdp2023": "2.464",
     "country": "Saint Lucia",
     "phoneCode": "+1-758",
     "capital": "Castries",
@@ -3791,15 +3955,16 @@
     "area": 616,
     "pop2022": "185.1130",
     "density": 296.4016,
-    "gdp2023": "2.469",
     "gdppc2023": "13572.256",
     "gdpppppc2023": "18972.853",
     "rusName": "Сент-Люсия",
     "debt": "83.5",
     "pop2023": 180251,
-    "growthgdp2023": "3.2"
+    "growthgdp2023": "3.2",
+    "code": "LCA"
   },
   {
+    "gdp2023": "25.716",
     "country": "Sudan",
     "phoneCode": "+249",
     "capital": "Khartoum",
@@ -3810,15 +3975,16 @@
     "area": 1886068,
     "pop2022": "45992.0200",
     "density": 26.423,
-    "gdp2023": "25.569",
     "gdppc2023": "533.845",
     "gdpppppc2023": "3604.78",
     "rusName": "Судан",
     "debt": "127.6",
     "pop2023": 48109006,
-    "growthgdp2023": "-18.3"
+    "growthgdp2023": "-18.3",
+    "code": "SDN"
   },
   {
+    "gdp2023": "3.751",
     "country": "Suriname",
     "phoneCode": "+597",
     "capital": "Paramaribo",
@@ -3829,15 +3995,16 @@
     "area": 163820,
     "pop2022": "596.8310",
     "density": 4.0307,
-    "gdp2023": "3.539",
     "gdppc2023": "5667.105",
     "gdpppppc2023": "18311",
     "rusName": "Суринам",
     "debt": "123.2",
     "pop2023": 623236,
-    "growthgdp2023": "2.1"
+    "growthgdp2023": "2.1",
+    "code": "SUR"
   },
   {
+    "gdp2023": "4.868",
     "country": "Eswatini",
     "phoneCode": "+268",
     "capital": "Lobamba",
@@ -3848,15 +4015,16 @@
     "area": 17364,
     "pop2022": "1184.8170",
     "density": 71.0509,
-    "gdp2023": "4.648",
     "gdppc2023": "3995.029",
     "gdpppppc2023": "11858.754",
     "rusName": "Эсватини",
     "debt": "45.4",
     "pop2023": 1210822,
-    "growthgdp2023": "3.1"
+    "growthgdp2023": "3.1",
+    "code": "SWZ"
   },
   {
+    "gdp2023": "593.268",
     "country": "Sweden",
     "phoneCode": "+46",
     "capital": "Stockholm",
@@ -3867,15 +4035,16 @@
     "area": 450295,
     "pop2022": "10218.9710",
     "density": 26.207,
-    "gdp2023": "597.11",
     "gdppc2023": "55215.847",
     "gdpppppc2023": "66209.341",
     "rusName": "Швеция",
     "debt": "31.7",
     "pop2023": 10612086,
-    "growthgdp2023": "-0.7"
+    "growthgdp2023": "-0.7",
+    "code": "SWE"
   },
   {
+    "gdp2023": "885.141",
     "country": "Switzerland",
     "phoneCode": "+41",
     "capital": "Bern",
@@ -3886,15 +4055,16 @@
     "area": 41284,
     "pop2022": "8773.6370",
     "density": 223.9961,
-    "gdp2023": "905.684",
     "gdppc2023": "102865.569",
     "gdpppppc2023": "89537.321",
     "rusName": "Швейцария",
     "debt": "39.1",
     "pop2023": 8796669,
-    "growthgdp2023": "0.9"
+    "growthgdp2023": "0.9",
+    "code": "CHE"
   },
   {
+    "gdp2023": "0",
     "country": "Syria",
     "phoneCode": "+963",
     "capital": "Damascus",
@@ -3905,15 +4075,16 @@
     "area": 185180,
     "pop2022": "19364.8090",
     "density": 132.593,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Сирия",
     "debt": "0",
     "pop2023": 23227014,
-    "growthgdp2023": "0"
+    "growthgdp2023": "0",
+    "code": "SYR"
   },
   {
+    "gdp2023": "756.592",
     "country": "Taiwan",
     "phoneCode": "+886",
     "capital": "Taipei",
@@ -3924,15 +4095,16 @@
     "area": 36193,
     "pop2022": "23888.5950",
     "density": 661.663,
-    "gdp2023": "751.93",
     "gdppc2023": "32339.701",
     "gdpppppc2023": "72485.43",
     "rusName": "Тайвань",
     "debt": "27.5",
     "pop2023": 23923276,
-    "growthgdp2023": "0.8"
+    "growthgdp2023": "0.8",
+    "code": "TWN"
   },
   {
+    "gdp2023": "11.855",
     "country": "Tajikistan",
     "phoneCode": "+992",
     "capital": "Dushanbe",
@@ -3943,15 +4115,16 @@
     "area": 143100,
     "pop2022": "9957.4640",
     "density": 74.4399,
-    "gdp2023": "11.816",
     "gdppc2023": "1180.058",
     "gdpppppc2023": "5360.891",
     "rusName": "Таджикистан",
     "debt": "34.6",
     "pop2023": 10143543,
-    "growthgdp2023": "6.5"
+    "growthgdp2023": "6.5",
+    "code": "TJK"
   },
   {
+    "gdp2023": "79.447",
     "country": "Tanzania",
     "phoneCode": "+255",
     "capital": "Dodoma",
@@ -3962,15 +4135,16 @@
     "area": 945087,
     "pop2022": "63298.5500",
     "density": 78.3688,
-    "gdp2023": "84.033",
     "gdppc2023": "1326.634",
     "gdpppppc2023": "3595.103",
     "rusName": "Танзания",
     "debt": "41.6",
     "pop2023": 67438106,
-    "growthgdp2023": "5.2"
+    "growthgdp2023": "5.2",
+    "code": "TZA"
   },
   {
+    "gdp2023": "514.945",
     "country": "Thailand",
     "phoneCode": "+66",
     "capital": "Bangkok",
@@ -3981,15 +4155,16 @@
     "area": 513120,
     "pop2022": "71801.279",
     "density": 140.707,
-    "gdp2023": "512.193",
     "gdppc2023": "7297.985",
     "gdpppppc2023": "22490.567",
     "rusName": "Таиланд",
     "debt": "60.5",
     "pop2023": 71801279,
-    "growthgdp2023": "2.7"
+    "growthgdp2023": "2.7",
+    "code": "THA"
   },
   {
+    "gdp2023": "2.338",
     "country": "Timor-Leste",
     "phoneCode": "+670",
     "capital": "Dili",
@@ -4000,15 +4175,16 @@
     "area": 14874,
     "pop2022": "1369.4290",
     "density": 92.7964,
-    "gdp2023": "2.023",
     "gdppc2023": "1497.408",
     "gdpppppc2023": "3746.94",
     "rusName": "Восточный Тимор",
     "debt": "7.5",
     "pop2023": 1360596,
-    "growthgdp2023": "1.5"
+    "growthgdp2023": "1.5",
+    "code": "TLS"
   },
   {
+    "gdp2023": "9.055",
     "country": "Togo",
     "phoneCode": "+228",
     "capital": "Lomé",
@@ -4019,15 +4195,16 @@
     "area": 56785,
     "pop2022": "8680.8370",
     "density": 170.2678,
-    "gdp2023": "9.111",
     "gdppc2023": "1004.466",
     "gdpppppc2023": "2767.562",
     "rusName": "Того",
     "debt": "68",
     "pop2023": 9053799,
-    "growthgdp2023": "5.4"
+    "growthgdp2023": "5.4",
+    "code": "TGO"
   },
   {
+    "gdp2023": "0",
     "country": "Tokelau",
     "phoneCode": "+690",
     "capital": "Fakaofo",
@@ -4038,7 +4215,6 @@
     "area": 12,
     "pop2022": "1.3780",
     "density": 191.5,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Токелау",
@@ -4047,6 +4223,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0.547",
     "country": "Tonga",
     "phoneCode": "+676",
     "capital": "Nuku'alofa",
@@ -4057,15 +4234,16 @@
     "area": 747,
     "pop2022": "107.7490",
     "density": 150.9486,
-    "gdp2023": "0.547",
     "gdppc2023": "5487.667",
     "gdpppppc2023": "7126.662",
     "rusName": "Тонга",
     "debt": "46.6",
     "pop2023": 107773,
-    "growthgdp2023": "2.6"
+    "growthgdp2023": "2.6",
+    "code": "TON"
   },
   {
+    "gdp2023": "28.142",
     "country": "Trinidad and Tobago",
     "phoneCode": "+1-868",
     "capital": "Port of Spain",
@@ -4076,15 +4254,16 @@
     "area": 5130,
     "pop2022": "1406.5850",
     "density": 299.8441,
-    "gdp2023": "27.887",
     "gdppc2023": "19621.786",
     "gdpppppc2023": "30718.751",
     "rusName": "Тринидад и Тобаго",
     "debt": "53.8",
     "pop2023": 1534937,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "TTO"
   },
   {
+    "gdp2023": "51.283",
     "country": "Tunisia",
     "phoneCode": "+216",
     "capital": "Tunis",
@@ -4095,15 +4274,16 @@
     "area": 163610,
     "pop2022": "12046.6560",
     "density": 80.8747,
-    "gdp2023": "51.271",
     "gdppc2023": "4190.603",
     "gdpppppc2023": "13248.945",
     "rusName": "Тунис",
     "debt": "79.4",
     "pop2023": 12458223,
-    "growthgdp2023": "1.3"
+    "growthgdp2023": "1.3",
+    "code": "TUN"
   },
   {
+    "gdp2023": "1108.453",
     "country": "Turkey",
     "phoneCode": "+90",
     "capital": "Ankara",
@@ -4114,15 +4294,16 @@
     "area": 783562,
     "pop2022": "85816.199",
     "density": 110.0875,
-    "gdp2023": "1154.6",
     "gdppc2023": "13383.924",
     "gdpppppc2023": "41887.53",
     "rusName": "Турция",
     "debt": "31.2",
     "pop2023": 85816199,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "TUR"
   },
   {
+    "gdp2023": "77.106",
     "country": "Turkmenistan",
     "phoneCode": "+993",
     "capital": "Ashgabat",
@@ -4133,15 +4314,16 @@
     "area": 488100,
     "pop2022": "6201.9430",
     "density": 14.0405,
-    "gdp2023": "81.822",
     "gdppc2023": "12934.243",
     "gdpppppc2023": "19938.639",
     "rusName": "Туркмения",
     "debt": "5.2",
     "pop2023": 6516100,
-    "growthgdp2023": "2.5"
+    "growthgdp2023": "2.5",
+    "code": "TKM"
   },
   {
+    "gdp2023": "0",
     "country": "Turks and Caicos Islands",
     "phoneCode": "+1-649",
     "capital": "Cockburn Town",
@@ -4152,7 +4334,6 @@
     "area": 948,
     "pop2022": "39.7410",
     "density": 48.9778,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Туркс и Кайкос",
@@ -4161,6 +4342,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0.062",
     "country": "Tuvalu",
     "phoneCode": "+688",
     "capital": "Funafuti",
@@ -4171,15 +4353,16 @@
     "area": 26,
     "pop2022": "12.0660",
     "density": 382.6,
-    "gdp2023": "0.063",
     "gdppc2023": "5772.918",
     "gdpppppc2023": "5765.703",
     "rusName": "Тувалу",
     "debt": "7.6",
     "pop2023": 11396,
-    "growthgdp2023": "3.9"
+    "growthgdp2023": "3.9",
+    "code": "TUV"
   },
   {
+    "gdp2023": "51.819",
     "country": "Uganda",
     "phoneCode": "+256",
     "capital": "Kampala",
@@ -4190,15 +4373,16 @@
     "area": 241550,
     "pop2022": "48432.8630",
     "density": 248.9739,
-    "gdp2023": "52.39",
     "gdppc2023": "1163.034",
     "gdpppppc2023": "3222.403",
     "rusName": "Уганда",
     "debt": "50.8",
     "pop2023": 48582334,
-    "growthgdp2023": "4.6"
+    "growthgdp2023": "4.6",
+    "code": "UGA"
   },
   {
+    "gdp2023": "177.198",
     "country": "Ukraine",
     "phoneCode": "+380",
     "capital": "Kiev",
@@ -4209,15 +4393,16 @@
     "area": 603500,
     "pop2022": "36744.634",
     "density": 65.4778,
-    "gdp2023": "173.413",
     "gdppc2023": "5224.586",
     "gdpppppc2023": "14303.981",
     "rusName": "Украина",
     "debt": "81.7",
     "pop2023": 36744634,
-    "growthgdp2023": "2"
+    "growthgdp2023": "2",
+    "code": "UKR"
   },
   {
+    "gdp2023": "504.173",
     "country": "United Arab Emirates",
     "phoneCode": "+971",
     "capital": "Abu Dhabi",
@@ -4228,15 +4413,16 @@
     "area": 83600,
     "pop2022": "10081.7850",
     "density": 135.0585,
-    "gdp2023": "509.179",
     "gdppc2023": "50602.325",
     "gdpppppc2023": "88961.771",
     "rusName": "ОАЭ",
     "debt": "30",
     "pop2023": 9516871,
-    "growthgdp2023": "3.4"
+    "growthgdp2023": "3.4",
+    "code": "ARE"
   },
   {
+    "gdp2023": "3344.744",
     "country": "United Kingdom",
     "phoneCode": "+44",
     "capital": "London",
@@ -4247,15 +4433,16 @@
     "area": 242900,
     "pop2022": "68497.9070",
     "density": 280.9136,
-    "gdp2023": "3332.059",
     "gdppc2023": "48912.776",
     "gdpppppc2023": "56835.721",
     "rusName": "Великобритания",
     "debt": "102.6",
     "pop2023": 67736802,
-    "growthgdp2023": "0.5"
+    "growthgdp2023": "0.5",
+    "code": "GBR"
   },
   {
+    "gdp2023": "27357.825",
     "country": "United States",
     "phoneCode": "+1",
     "capital": "Washington. D.C.",
@@ -4266,15 +4453,16 @@
     "area": 9372610,
     "pop2022": "338289.857",
     "density": 37.3673,
-    "gdp2023": "26949.643",
     "gdppc2023": "80412.41",
     "gdpppppc2023": "80412.41",
     "rusName": "США",
     "debt": "121.7",
     "pop2023": 339996563,
-    "growthgdp2023": "2.1"
+    "growthgdp2023": "2.1",
+    "code": "USA"
   },
   {
+    "gdp2023": "77.241",
     "country": "Uruguay",
     "phoneCode": "+598",
     "capital": "Montevideo",
@@ -4285,15 +4473,16 @@
     "area": 181034,
     "pop2022": "3496.0160",
     "density": 19.5596,
-    "gdp2023": "76.244",
     "gdppc2023": "21377.631",
     "gdpppppc2023": "28983.788",
     "rusName": "Уругвай",
     "debt": "61",
     "pop2023": 3423108,
-    "growthgdp2023": "1"
+    "growthgdp2023": "1",
+    "code": "URY"
   },
   {
+    "gdp2023": "0",
     "country": "United States Virgin Islands",
     "phoneCode": "+1-340",
     "capital": "Charlotte Amalie",
@@ -4304,7 +4493,6 @@
     "area": 347,
     "pop2022": "103.9710",
     "density": 282.5793,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Виргинские острова США",
@@ -4313,6 +4501,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "90.882",
     "country": "Uzbekistan",
     "phoneCode": "+998",
     "capital": "Tashkent",
@@ -4323,15 +4512,16 @@
     "area": 447400,
     "pop2022": "34382.0840",
     "density": 80.9572,
-    "gdp2023": "90.392",
     "gdppc2023": "2509.156",
     "gdpppppc2023": "10316.372",
     "rusName": "Узбекистан",
     "debt": "34.3",
     "pop2023": 35163944,
-    "growthgdp2023": "5.5"
+    "growthgdp2023": "5.5",
+    "code": "UZB"
   },
   {
+    "gdp2023": "1.169",
     "country": "Vanuatu",
     "phoneCode": "+678",
     "capital": "Port Vila",
@@ -4342,15 +4532,16 @@
     "area": 12189,
     "pop2022": "321.8320",
     "density": 28.0824,
-    "gdp2023": "1.166",
     "gdppc2023": "3491.863",
     "gdpppppc2023": "2939.818",
     "rusName": "Вануату",
     "debt": "45.8",
     "pop2023": 334506,
-    "growthgdp2023": "1.5"
+    "growthgdp2023": "1.5",
+    "code": "VUT"
   },
   {
+    "gdp2023": "0",
     "country": "Vatican City",
     "phoneCode": "+39",
     "capital": "Vatican City",
@@ -4361,7 +4552,6 @@
     "area": 1,
     "pop2022": "0.7990",
     "density": 1195.4545,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Ватикан",
@@ -4370,6 +4560,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "97.116",
     "country": "Venezuela",
     "phoneCode": "+58",
     "capital": "Caracas",
@@ -4380,15 +4571,16 @@
     "area": 916445,
     "pop2022": "29266.9910",
     "density": 33.3262,
-    "gdp2023": "92.21",
     "gdppc2023": "3474.332",
     "gdpppppc2023": "7985.061",
     "rusName": "Венесуэла",
     "debt": "157.8",
     "pop2023": 28838499,
-    "growthgdp2023": "4"
+    "growthgdp2023": "4",
+    "code": "VEN"
   },
   {
+    "gdp2023": "433.702",
     "country": "Vietnam",
     "phoneCode": "+84",
     "capital": "Hanoi",
@@ -4399,15 +4591,16 @@
     "area": 331212,
     "pop2022": "98858.950",
     "density": 317.4489,
-    "gdp2023": "433.356",
     "gdppc2023": "4316.336",
     "gdpppppc2023": "14285.088",
     "rusName": "Вьетнам",
     "debt": "37.1",
     "pop2023": 98858950,
-    "growthgdp2023": "4.7"
+    "growthgdp2023": "4.7",
+    "code": "VNM"
   },
   {
+    "gdp2023": "0",
     "country": "Wallis and Futuna",
     "phoneCode": "+681",
     "capital": "Mata-Utu",
@@ -4418,7 +4611,6 @@
     "area": 142,
     "pop2022": "10.9820",
     "density": 41.7482,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Уоллис и Футуна",
@@ -4427,6 +4619,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Western Sahara",
     "phoneCode": "+212",
     "capital": "El-Aaiun",
@@ -4437,7 +4630,6 @@
     "area": 266800,
     "pop2022": "586",
     "density": 2.2496,
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Западная Сахара",
@@ -4446,6 +4638,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "0",
     "country": "Svalbard",
     "phoneCode": "+47",
     "capital": "Longyearbyen",
@@ -4456,7 +4649,6 @@
     "area": 62.045,
     "pop2022": "2.530",
     "density": "0.044",
-    "gdp2023": "0",
     "gdppc2023": "0",
     "gdpppppc2023": "0",
     "rusName": "Шпицберген",
@@ -4465,6 +4657,7 @@
     "growthgdp2023": "0"
   },
   {
+    "gdp2023": "18.424",
     "country": "Yemen",
     "phoneCode": "+967",
     "capital": "Sana'a",
@@ -4475,15 +4668,16 @@
     "area": 527968,
     "pop2022": "31154.8670",
     "density": 66.7081,
-    "gdp2023": "21.045",
     "gdppc2023": "617.67",
     "gdpppppc2023": "2053.449",
     "rusName": "Йемен",
     "debt": "73.5",
     "pop2023": 34449825,
-    "growthgdp2023": "-0.5"
+    "growthgdp2023": "-0.5",
+    "code": "YEM"
   },
   {
+    "gdp2023": "28.406",
     "country": "Zambia",
     "phoneCode": "+260",
     "capital": "Lusaka",
@@ -4494,15 +4688,16 @@
     "area": 752612,
     "pop2022": "19470.2340",
     "density": 28.4302,
-    "gdp2023": "29.536",
     "gdppc2023": "1435.89",
     "gdpppppc2023": "4068.44",
     "rusName": "Замбия",
     "debt": "0",
     "pop2023": 20569737,
-    "growthgdp2023": "3.6"
+    "growthgdp2023": "3.6",
+    "code": "ZMB"
   },
   {
+    "gdp2023": "32.216",
     "country": "Zimbabwe",
     "phoneCode": "+263",
     "capital": "Harare",
@@ -4513,12 +4708,12 @@
     "area": 390757,
     "pop2022": "15331.4280",
     "density": 43.9972,
-    "gdp2023": "32.424",
     "gdppc2023": "2005.875",
     "gdpppppc2023": "2749.777",
     "rusName": "Зимбабве",
     "debt": "92.8",
     "pop2023": 16665409,
-    "growthgdp2023": "4.1"
+    "growthgdp2023": "4.1",
+    "code": "ZWE"
   }
 ]
