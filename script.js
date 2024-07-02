@@ -5,8 +5,8 @@ function offsetToMs(e) {
       .replace(/utc/i, '')
       .split(':')
       .map((e) => Number(e.replace(/\D/, ''))),
-    n = 36e5 * t + 6e4 * a;
-  return e.includes('-') ? -n : n;
+    r = 36e5 * t + 6e4 * a;
+  return e.includes('-') ? -r : r;
 }
 function numberFormatter(e) {
   return Number.isInteger(e)
@@ -19,37 +19,37 @@ function dollarFormatter(e) {
 const searchcountry = async (e) => {
     let t = await fetch('./data/countries.json'),
       a = await t.json(),
-      n = a.filter((t) => {
+      r = a.filter((t) => {
         let a = RegExp(`^${e}`, 'gi');
         return t.country.match(a) || t.abbr.match(a);
       });
-    0 === e.length && ((n = []), (countryList.innerHTML = '')), outputHtml(n);
-    let r = document.querySelectorAll('.capitalCity');
-    r.forEach((e) => {
+    0 === e.length && ((r = []), (countryList.innerHTML = '')), outputHtml(r);
+    let n = document.querySelectorAll('.capitalCity');
+    n.forEach((e) => {
       e.addEventListener('click', function () {
-        r.forEach((e) => e.classList.remove('active')), this.classList.add('active');
+        n.forEach((e) => e.classList.remove('active')), this.classList.add('active');
         var e = this.querySelector('span').textContent || this.querySelector('span').innerText;
         let t = `https://api.openweathermap.org/data/2.5/weather?q=${e}&appid=4d8fb5b93d4af21d66a2948710284366&units=metric`;
         fetch(t)
           .then((e) => e.json())
           .then((e) => {
-            let { main: t, name: a, sys: n, weather: r } = e,
-              i = `./img/weather/${r[0].icon}.svg`,
+            let { main: t, name: a, sys: r, weather: n } = e,
+              i = `./img/weather/${n[0].icon}.svg`,
               s = document.querySelector('.capitalCity.active #capitalWeather'),
               c = `
-            <div class="city-name" data-name="${a},${n.country}">
+            <div class="city-name" data-name="${a},${r.country}">
               <span>${a}</span>
             </div>
             <div class="city-temp">${Math.round(t.temp)}<sup>\xb0C</sup></div>
             <figure>
-              <img class="city-icon" src="${i}" alt="${r[0].description}">
-              <figcaption>${r[0].description}</figcaption>
+              <img class="city-icon" src="${i}" alt="${n[0].description}">
+              <figcaption>${n[0].description}</figcaption>
             </figure>
           `;
             s.innerHTML = c;
           })
           .catch(() => {
-            r.textContent = 'Please search for a valid city';
+            n.textContent = 'Please search for a valid city';
           });
       });
     });
@@ -62,15 +62,15 @@ const searchcountry = async (e) => {
           .then((e) => e.json())
           .then((t) => {
             let a = document.querySelector('.currency-open #currencyData'),
-              n = new Intl.NumberFormat('en-EN', {
+              r = new Intl.NumberFormat('en-EN', {
                 style: 'currency',
                 currency: `${e}`,
                 currencyDisplay: 'name',
               }).format(`${t.rates[e]}`),
-              r = `
-            <span>1 US$ = ${n}</span>
+              n = `
+            <span>1 US$ = ${r}</span>
           `;
-            a.innerHTML = r;
+            a.innerHTML = n;
           })
           .catch(() => {
             (i.textContent = 'There is no data'), console.log('There is no data');
@@ -94,10 +94,8 @@ const searchcountry = async (e) => {
               <div class="density">Density: <span>${numberFormatter(e.density)} /km<sup>2</sup></span></div>
               <div class="area">Area: <span>${numberFormatter(e.area, 0)} km<sup>2</sup></span></div>
               <div class="area">GDP (2023), bln.: <span>${dollarFormatter(e.gdp2023)} </span></div>
-              <div class="area">GDP PC (2023): <span>${dollarFormatter(e.gdppc2023)}</span></div>
-              <div class="area">GDP PPP (2023), international dollars: <span>${dollarFormatter(
-                e.gdpppppc2023
-              )}</span></div>
+              <div class="area">GDP per capita (2023): <span>${dollarFormatter(e.gdppc2023)}</span></div>
+              <div class="area">GDP PPP (2023), int.dollars: <span>${dollarFormatter(e.gdpppppc2023)}</span></div>
               <div class="capitalCity">Capital: <span class="capitalName">${e.capital}</span>
                 <div id="capitalWeather"></div>
               </div>
