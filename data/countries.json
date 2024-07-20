@@ -17,8 +17,7 @@
     "rusName": "Афганистан",
     "debt": "0",
     "pop2023": 42239854,
-    "code": "AFG",
-    "imfCountry": "Afghanistan"
+    "code": "AFG"
   },
   {
     "gdppc2023": "7956.559",
@@ -38,8 +37,7 @@
     "rusName": "Албания",
     "debt": "67.6",
     "pop2023": 2832439,
-    "code": "ALB",
-    "imfCountry": "Albania"
+    "code": "ALB"
   },
   {
     "gdppc2023": "5323.635",
@@ -59,8 +57,7 @@
     "rusName": "Алжир",
     "debt": "52.4",
     "pop2023": 45606480,
-    "code": "DZA",
-    "imfCountry": "Algeria"
+    "code": "DZA"
   },
   {
     "gdppc2023": "0",
@@ -99,8 +96,7 @@
     "rusName": "Андорра",
     "debt": "38.8",
     "pop2023": 80088,
-    "code": "AND",
-    "imfCountry": "Andorra"
+    "code": "AND"
   },
   {
     "gdppc2023": "2565.912",
@@ -120,8 +116,7 @@
     "rusName": "Ангола",
     "debt": "67",
     "pop2023": 36684202,
-    "code": "AGO",
-    "imfCountry": "Angola"
+    "code": "AGO"
   },
   {
     "gdppc2023": "0",
@@ -160,8 +155,7 @@
     "rusName": "Антигуа и Барбуда",
     "debt": "90.6",
     "pop2023": 94298,
-    "code": "ATG",
-    "imfCountry": "Antigua and Barbuda"
+    "code": "ATG"
   },
   {
     "gdppc2023": "14024.239",
@@ -181,8 +175,7 @@
     "rusName": "Аргентина",
     "debt": "84.5",
     "pop2023": 45773884,
-    "code": "ARG",
-    "imfCountry": "Argentina"
+    "code": "ARG"
   },
   {
     "gdppc2023": "8153.076",
@@ -202,8 +195,7 @@
     "rusName": "Армения",
     "debt": "49.3",
     "pop2023": 2777970,
-    "code": "ARM",
-    "imfCountry": "Armenia"
+    "code": "ARM"
   },
   {
     "gdppc2023": "36745.657",
@@ -223,8 +215,7 @@
     "rusName": "Аруба",
     "debt": "92",
     "pop2023": 106277,
-    "code": "ABW",
-    "imfCountry": "Aruba"
+    "code": "ABW"
   },
   {
     "gdppc2023": "65434.328",
@@ -244,8 +235,7 @@
     "rusName": "Австралия",
     "debt": "55.7",
     "pop2023": 26439111,
-    "code": "AUS",
-    "imfCountry": "Australia"
+    "code": "AUS"
   },
   {
     "gdppc2023": "57081.047",
@@ -265,8 +255,7 @@
     "rusName": "Австрия",
     "debt": "77.8",
     "pop2023": 8958960,
-    "code": "AUT",
-    "imfCountry": "Austria"
+    "code": "AUT"
   },
   {
     "gdppc2023": "7525.428",
@@ -286,8 +275,7 @@
     "rusName": "Азербайджан",
     "debt": "20.7",
     "pop2023": 10412651,
-    "code": "AZE",
-    "imfCountry": "Azerbaijan"
+    "code": "AZE"
   },
   {
     "gdppc2023": "34224.065",
@@ -307,8 +295,7 @@
     "rusName": "Багамские Острова",
     "debt": "89.4",
     "pop2023": 412623,
-    "code": "BHS",
-    "imfCountry": "Bahamas. The"
+    "code": "BHS"
   },
   {
     "gdppc2023": "28262.187",
@@ -328,8 +315,7 @@
     "rusName": "Бахрейн",
     "debt": "117.6",
     "pop2023": 1485509,
-    "code": "BHR",
-    "imfCountry": "Bahrain"
+    "code": "BHR"
   },
   {
     "gdppc2023": "2621.288",
@@ -349,8 +335,7 @@
     "rusName": "Бангладеш",
     "debt": "39.1",
     "pop2023": 172954319,
-    "code": "BGD",
-    "imfCountry": "Bangladesh"
+    "code": "BGD"
   },
   {
     "gdppc2023": "22020.335",
@@ -370,8 +355,7 @@
     "rusName": "Барбадос",
     "debt": "120.8",
     "pop2023": 281995,
-    "code": "BRB",
-    "imfCountry": "Barbados"
+    "code": "BRB"
   },
   {
     "gdppc2023": "7820.257",
@@ -391,8 +375,7 @@
     "rusName": "Белоруссия",
     "debt": "39.8",
     "pop2023": 9498238,
-    "code": "BLR",
-    "imfCountry": "Belarus"
+    "code": "BLR"
   },
   {
     "gdppc2023": "53659.317",
@@ -412,8 +395,7 @@
     "rusName": "Бельгия",
     "debt": "105.3",
     "pop2023": 11686140,
-    "code": "BEL",
-    "imfCountry": "Belgium"
+    "code": "BEL"
   },
   {
     "gdppc2023": "6865.047",
@@ -433,8 +415,7 @@
     "rusName": "Белиз",
     "debt": "64.1",
     "pop2023": 410825,
-    "code": "BLZ",
-    "imfCountry": "Belize"
+    "code": "BLZ"
   },
   {
     "gdppc2023": "1411.222",
@@ -454,8 +435,7 @@
     "rusName": "Бенин",
     "debt": "52.4",
     "pop2023": 13712828,
-    "code": "BEN",
-    "imfCountry": "Benin"
+    "code": "BEN"
   },
   {
     "gdppc2023": "0",
@@ -494,8 +474,7 @@
     "rusName": "Бутан",
     "debt": "124.8",
     "pop2023": 787424,
-    "code": "BTN",
-    "imfCountry": "Bhutan"
+    "code": "BTN"
   },
   {
     "gdppc2023": "3831.281",
@@ -515,8 +494,7 @@
     "rusName": "Боливия",
     "debt": "82.6",
     "pop2023": 12388571,
-    "code": "BOL",
-    "imfCountry": "Bolivia"
+    "code": "BOL"
   },
   {
     "gdppc2023": "7856.628",
@@ -536,8 +514,7 @@
     "rusName": "Босния и Герцеговина",
     "debt": "29.6",
     "pop2023": 3210847,
-    "code": "BIH",
-    "imfCountry": "Bosnia and Herzegovina"
+    "code": "BIH"
   },
   {
     "gdppc2023": "7642.011",
@@ -557,8 +534,7 @@
     "rusName": "Ботсвана",
     "debt": "19.9",
     "pop2023": 2675352,
-    "code": "BWA",
-    "imfCountry": "Botswana"
+    "code": "BWA"
   },
   {
     "gdppc2023": "10642.437",
@@ -578,8 +554,7 @@
     "rusName": "Бразилия",
     "debt": "85.9",
     "pop2023": 216422446,
-    "code": "BRA",
-    "imfCountry": "Brazil"
+    "code": "BRA"
   },
   {
     "gdppc2023": "0",
@@ -637,8 +612,7 @@
     "rusName": "Бруней",
     "debt": "2.1",
     "pop2023": 452524,
-    "code": "BRN",
-    "imfCountry": "Brunei Darussalam"
+    "code": "BRN"
   },
   {
     "gdppc2023": "15854.324",
@@ -658,8 +632,7 @@
     "rusName": "Болгария",
     "debt": "21.8",
     "pop2023": 6687717,
-    "code": "BGR",
-    "imfCountry": "Bulgaria"
+    "code": "BGR"
   },
   {
     "gdppc2023": "870.833",
@@ -679,8 +652,7 @@
     "rusName": "Буркина-Фасо",
     "debt": "54.3",
     "pop2023": 23251485,
-    "code": "BFA",
-    "imfCountry": "Burkina Faso"
+    "code": "BFA"
   },
   {
     "gdppc2023": "324.904",
@@ -700,8 +672,7 @@
     "rusName": "Бурунди",
     "debt": "68.3",
     "pop2023": 13238559,
-    "code": "BDI",
-    "imfCountry": "Burundi"
+    "code": "BDI"
   },
   {
     "gdppc2023": "4368.07",
@@ -721,8 +692,7 @@
     "rusName": "Кабо-Верде",
     "debt": "127.4",
     "pop2023": 598682,
-    "code": "CPV",
-    "imfCountry": "Cabo Verde"
+    "code": "CPV"
   },
   {
     "gdppc2023": "2460.351",
@@ -742,8 +712,7 @@
     "rusName": "Камбоджа",
     "debt": "36.5",
     "pop2023": 16944826,
-    "code": "KHM",
-    "imfCountry": "Cambodia"
+    "code": "KHM"
   },
   {
     "gdppc2023": "1711.341",
@@ -763,8 +732,7 @@
     "rusName": "Камерун",
     "debt": "46.4",
     "pop2023": 28647293,
-    "code": "CMR",
-    "imfCountry": "Cameroon"
+    "code": "CMR"
   },
   {
     "gdppc2023": "53547.719",
@@ -784,8 +752,7 @@
     "rusName": "Канада",
     "debt": "106.6",
     "pop2023": 38781291,
-    "code": "CAN",
-    "imfCountry": "Canada"
+    "code": "CAN"
   },
   {
     "gdppc2023": "0",
@@ -824,8 +791,7 @@
     "rusName": "ЦАР",
     "debt": "50.7",
     "pop2023": 5742315,
-    "code": "CAF",
-    "imfCountry": "Central African Republic"
+    "code": "CAF"
   },
   {
     "gdppc2023": "976.128",
@@ -845,8 +811,7 @@
     "rusName": "Чад",
     "debt": "50.4",
     "pop2023": 18278568,
-    "code": "TCD",
-    "imfCountry": "Chad"
+    "code": "TCD"
   },
   {
     "gdppc2023": "16815.783",
@@ -866,8 +831,7 @@
     "rusName": "Чили",
     "debt": "38",
     "pop2023": 19629590,
-    "code": "CHL",
-    "imfCountry": "Chile"
+    "code": "CHL"
   },
   {
     "gdppc2023": "12513.871",
@@ -887,8 +851,7 @@
     "rusName": "Китай (Китайская Народная Республика)",
     "debt": "77.1",
     "pop2023": 1425671352,
-    "code": "CHN",
-    "imfCountry": "China. People's Republic of"
+    "code": "CHN"
   },
   {
     "gdppc2023": "6971.669",
@@ -908,8 +871,7 @@
     "rusName": "Колумбия",
     "debt": "63.6",
     "pop2023": 52085168,
-    "code": "COL",
-    "imfCountry": "Colombia"
+    "code": "COL"
   },
   {
     "gdppc2023": "1352.918",
@@ -929,8 +891,7 @@
     "rusName": "Коморы",
     "debt": "29.1",
     "pop2023": 852075,
-    "code": "COM",
-    "imfCountry": "Comoros"
+    "code": "COM"
   },
   {
     "gdppc2023": "0",
@@ -969,8 +930,7 @@
     "rusName": "Коста-Рика",
     "debt": "63.8",
     "pop2023": 5212173,
-    "code": "CRI",
-    "imfCountry": "Costa Rica"
+    "code": "CRI"
   },
   {
     "gdppc2023": "2572.145",
@@ -990,8 +950,7 @@
     "rusName": "Кот-д'Ивуар",
     "debt": "56.8",
     "pop2023": 28873034,
-    "code": "CIV",
-    "imfCountry": "Côte d'Ivoire"
+    "code": "CIV"
   },
   {
     "gdppc2023": "21347.327",
@@ -1011,8 +970,7 @@
     "rusName": "Хорватия",
     "debt": "67.5",
     "pop2023": 4008617,
-    "code": "HRV",
-    "imfCountry": "Croatia"
+    "code": "HRV"
   },
   {
     "gdppc2023": "0",
@@ -1070,8 +1028,7 @@
     "rusName": "Кипр",
     "debt": "86.5",
     "pop2023": 1260138,
-    "code": "CYP",
-    "imfCountry": "Cyprus"
+    "code": "CYP"
   },
   {
     "gdppc2023": "30599.595",
@@ -1091,8 +1048,7 @@
     "rusName": "Чехия",
     "debt": "42.3",
     "pop2023": 10495295,
-    "code": "CZE",
-    "imfCountry": "Czech Republic"
+    "code": "CZE"
   },
   {
     "gdppc2023": "673.033",
@@ -1112,8 +1068,7 @@
     "rusName": "ДР Конго",
     "debt": "14.6",
     "pop2023": 102262808,
-    "code": "COD",
-    "imfCountry": "Congo. Dem. Rep. of the"
+    "code": "COD"
   },
   {
     "gdppc2023": "68299.821",
@@ -1133,8 +1088,7 @@
     "rusName": "Дания",
     "debt": "29.7",
     "pop2023": 5910913,
-    "code": "DNK",
-    "imfCountry": "Denmark"
+    "code": "DNK"
   },
   {
     "gdppc2023": "3906.67",
@@ -1154,8 +1108,7 @@
     "rusName": "Джибути",
     "debt": "40.6",
     "pop2023": 1136455,
-    "code": "DJI",
-    "imfCountry": "Djibouti"
+    "code": "DJI"
   },
   {
     "gdppc2023": "8837.332",
@@ -1175,8 +1128,7 @@
     "rusName": "Доминика",
     "debt": "104.8",
     "pop2023": 73040,
-    "code": "DMA",
-    "imfCountry": "Dominica"
+    "code": "DMA"
   },
   {
     "gdppc2023": "11186.956",
@@ -1196,8 +1148,7 @@
     "rusName": "Доминиканская Республика",
     "debt": "58.9",
     "pop2023": 11332972,
-    "code": "DOM",
-    "imfCountry": "Dominican Republic"
+    "code": "DOM"
   },
   {
     "gdppc2023": "6581.574",
@@ -1217,8 +1168,7 @@
     "rusName": "Эквадор",
     "debt": "57.3",
     "pop2023": 18190484,
-    "code": "ECU",
-    "imfCountry": "Ecuador"
+    "code": "ECU"
   },
   {
     "gdppc2023": "3727.657",
@@ -1238,8 +1188,7 @@
     "rusName": "Египет",
     "debt": "88.5",
     "pop2023": 112716598,
-    "code": "EGY",
-    "imfCountry": "Egypt"
+    "code": "EGY"
   },
   {
     "gdppc2023": "5349.48",
@@ -1259,8 +1208,7 @@
     "rusName": "Сальвадор",
     "debt": "77.2",
     "pop2023": 6364943,
-    "code": "SLV",
-    "imfCountry": "El Salvador"
+    "code": "SLV"
   },
   {
     "gdppc2023": "6659.505",
@@ -1280,8 +1228,7 @@
     "rusName": "Экваториальная Гвинея",
     "debt": "27.1",
     "pop2023": 1714671,
-    "code": "GNQ",
-    "imfCountry": "Equatorial Guinea"
+    "code": "GNQ"
   },
   {
     "gdppc2023": "0",
@@ -1301,8 +1248,7 @@
     "rusName": "Эритрея",
     "debt": "163.8",
     "pop2023": 3748901,
-    "code": "ERI",
-    "imfCountry": "Eritrea"
+    "code": "ERI"
   },
   {
     "gdppc2023": "29838.985",
@@ -1322,8 +1268,7 @@
     "rusName": "Эстония",
     "debt": "17.2",
     "pop2023": 1322765,
-    "code": "EST",
-    "imfCountry": "Estonia"
+    "code": "EST"
   },
   {
     "gdppc2023": "1511.217",
@@ -1343,8 +1288,7 @@
     "rusName": "Эфиопия",
     "debt": "46.4",
     "pop2023": 126527060,
-    "code": "ETH",
-    "imfCountry": "Ethiopia"
+    "code": "ETH"
   },
   {
     "gdppc2023": "0",
@@ -1402,8 +1346,7 @@
     "rusName": "Микронезия",
     "debt": "14",
     "pop2023": 115224,
-    "code": "FSM",
-    "imfCountry": "Micronesia. Fed. States of"
+    "code": "FSM"
   },
   {
     "gdppc2023": "5992.792",
@@ -1423,8 +1366,7 @@
     "rusName": "Фиджи",
     "debt": "92.8",
     "pop2023": 936375,
-    "code": "FJI",
-    "imfCountry": "Fiji"
+    "code": "FJI"
   },
   {
     "gdppc2023": "54007.975",
@@ -1444,8 +1386,7 @@
     "rusName": "Финляндия",
     "debt": "74.8",
     "pop2023": 5545475,
-    "code": "FIN",
-    "imfCountry": "Finland"
+    "code": "FIN"
   },
   {
     "gdppc2023": "46000.803",
@@ -1465,8 +1406,7 @@
     "rusName": "Франция",
     "debt": "111.1",
     "pop2023": 64756584,
-    "code": "FRA",
-    "imfCountry": "France"
+    "code": "FRA"
   },
   {
     "gdppc2023": "0",
@@ -1524,8 +1464,7 @@
     "rusName": "Габон",
     "debt": "55.1",
     "pop2023": 2436566,
-    "code": "GAB",
-    "imfCountry": "Gabon"
+    "code": "GAB"
   },
   {
     "gdppc2023": "893.223",
@@ -1545,8 +1484,7 @@
     "rusName": "Гамбия",
     "debt": "84",
     "pop2023": 2773168,
-    "code": "GMB",
-    "imfCountry": "Gambia. The"
+    "code": "GMB"
   },
   {
     "gdppc2023": "8172.574",
@@ -1566,8 +1504,7 @@
     "rusName": "Грузия",
     "debt": "39.8",
     "pop2023": 3728282,
-    "code": "GEO",
-    "imfCountry": "Georgia"
+    "code": "GEO"
   },
   {
     "gdppc2023": "52726.965",
@@ -1587,8 +1524,7 @@
     "rusName": "Германия",
     "debt": "66.5",
     "pop2023": 83294633,
-    "code": "DEU",
-    "imfCountry": "Germany"
+    "code": "DEU"
   },
   {
     "gdppc2023": "2318.309",
@@ -1608,8 +1544,7 @@
     "rusName": "Гана",
     "debt": "88.8",
     "pop2023": 34121985,
-    "code": "GHA",
-    "imfCountry": "Ghana"
+    "code": "GHA"
   },
   {
     "gdppc2023": "0",
@@ -1648,8 +1583,7 @@
     "rusName": "Греция",
     "debt": "177.4",
     "pop2023": 10341277,
-    "code": "GRC",
-    "imfCountry": "Greece"
+    "code": "GRC"
   },
   {
     "gdppc2023": "0",
@@ -1688,8 +1622,7 @@
     "rusName": "Гренада",
     "debt": "64.5",
     "pop2023": 126183,
-    "code": "GRD",
-    "imfCountry": "Grenada"
+    "code": "GRD"
   },
   {
     "gdppc2023": "0",
@@ -1747,8 +1680,7 @@
     "rusName": "Гватемала",
     "debt": "30.1",
     "pop2023": 18092026,
-    "code": "GTM",
-    "imfCountry": "Guatemala"
+    "code": "GTM"
   },
   {
     "gdppc2023": "1529.46",
@@ -1768,8 +1700,7 @@
     "rusName": "Гвинея",
     "debt": "33.4",
     "pop2023": 14190612,
-    "code": "GIN",
-    "imfCountry": "Guinea"
+    "code": "GIN"
   },
   {
     "gdppc2023": "1016.816",
@@ -1789,8 +1720,7 @@
     "rusName": "Гвинея-Бисау",
     "debt": "79.5",
     "pop2023": 2150842,
-    "code": "GNB",
-    "imfCountry": "Guinea-Bissau"
+    "code": "GNB"
   },
   {
     "gdppc2023": "21472.271",
@@ -1810,8 +1740,7 @@
     "rusName": "Гайана",
     "debt": "27.8",
     "pop2023": 813834,
-    "code": "GUY",
-    "imfCountry": "Guyana"
+    "code": "GUY"
   },
   {
     "gdppc2023": "1761.086",
@@ -1831,8 +1760,7 @@
     "rusName": "Гаити",
     "debt": "25",
     "pop2023": 11724763,
-    "code": "HTI",
-    "imfCountry": "Haiti"
+    "code": "HTI"
   },
   {
     "gdppc2023": "3330.339",
@@ -1852,8 +1780,7 @@
     "rusName": "Гондурас",
     "debt": "50",
     "pop2023": 10593798,
-    "code": "HND",
-    "imfCountry": "Honduras"
+    "code": "HND"
   },
   {
     "gdppc2023": "50029.777",
@@ -1873,8 +1800,7 @@
     "rusName": "Гонконг",
     "debt": "4.3",
     "pop2023": 7491609,
-    "code": "HKG",
-    "imfCountry": "Hong Kong SAR"
+    "code": "HKG"
   },
   {
     "gdppc2023": "22146.885",
@@ -1894,8 +1820,7 @@
     "rusName": "Венгрия",
     "debt": "76.4",
     "pop2023": 10156239,
-    "code": "HUN",
-    "imfCountry": "Hungary"
+    "code": "HUN"
   },
   {
     "gdppc2023": "79998.436",
@@ -1915,8 +1840,7 @@
     "rusName": "Исландия",
     "debt": "68.7",
     "pop2023": 375318,
-    "code": "ISL",
-    "imfCountry": "Iceland"
+    "code": "ISL"
   },
   {
     "gdppc2023": "2500.356",
@@ -1936,8 +1860,7 @@
     "rusName": "Индия",
     "debt": "83.1",
     "pop2023": 1428627663,
-    "code": "IND",
-    "imfCountry": "India"
+    "code": "IND"
   },
   {
     "gdppc2023": "4942.361",
@@ -1957,8 +1880,7 @@
     "rusName": "Индонезия",
     "debt": "39.9",
     "pop2023": 277534122,
-    "code": "IDN",
-    "imfCountry": "Indonesia"
+    "code": "IDN"
   },
   {
     "gdppc2023": "4662.52",
@@ -1978,8 +1900,7 @@
     "rusName": "Иран",
     "debt": "34",
     "pop2023": 89172767,
-    "code": "IRN",
-    "imfCountry": "Iran"
+    "code": "IRN"
   },
   {
     "gdppc2023": "5869.58",
@@ -1999,8 +1920,7 @@
     "rusName": "Ирак",
     "debt": "43.3",
     "pop2023": 45504560,
-    "code": "IRQ",
-    "imfCountry": "Iraq"
+    "code": "IRQ"
   },
   {
     "gdppc2023": "104272.075",
@@ -2020,8 +1940,7 @@
     "rusName": "Ирландия",
     "debt": "45.2",
     "pop2023": 5056935,
-    "code": "IRL",
-    "imfCountry": "Ireland"
+    "code": "IRL"
   },
   {
     "gdppc2023": "52219.276",
@@ -2041,8 +1960,7 @@
     "rusName": "Израиль",
     "debt": "60.9",
     "pop2023": 9174520,
-    "code": "ISR",
-    "imfCountry": "Israel"
+    "code": "ISR"
   },
   {
     "gdppc2023": "38325.839",
@@ -2062,8 +1980,7 @@
     "rusName": "Италия",
     "debt": "144.7",
     "pop2023": 58870762,
-    "code": "ITA",
-    "imfCountry": "Italy"
+    "code": "ITA"
   },
   {
     "gdppc2023": "6875.672",
@@ -2083,8 +2000,7 @@
     "rusName": "Ямайка",
     "debt": "84.1",
     "pop2023": 2825544,
-    "code": "JAM",
-    "imfCountry": "Jamaica"
+    "code": "JAM"
   },
   {
     "gdppc2023": "33805.939",
@@ -2104,8 +2020,7 @@
     "rusName": "Япония",
     "debt": "261.3",
     "pop2023": 123294513,
-    "code": "JPN",
-    "imfCountry": "Japan"
+    "code": "JPN"
   },
   {
     "gdppc2023": "4497.524",
@@ -2125,8 +2040,7 @@
     "rusName": "Иордания",
     "debt": "89.4",
     "pop2023": 11337052,
-    "code": "JOR",
-    "imfCountry": "Jordan"
+    "code": "JOR"
   },
   {
     "gdppc2023": "13116.815",
@@ -2146,8 +2060,7 @@
     "rusName": "Казахстан",
     "debt": "23.5",
     "pop2023": 19606633,
-    "code": "KAZ",
-    "imfCountry": "Kazakhstan"
+    "code": "KAZ"
   },
   {
     "gdppc2023": "2113.407",
@@ -2167,8 +2080,7 @@
     "rusName": "Кения",
     "debt": "67.9",
     "pop2023": 55100586,
-    "code": "KEN",
-    "imfCountry": "Kenya"
+    "code": "KEN"
   },
   {
     "gdppc2023": "2231.448",
@@ -2188,8 +2100,7 @@
     "rusName": "Кирибати",
     "debt": "15.2",
     "pop2023": 133515,
-    "code": "KIR",
-    "imfCountry": "Kiribati"
+    "code": "KIR"
   },
   {
     "gdppc2023": "2231.448",
@@ -2209,8 +2120,7 @@
     "rusName": "Кирибати",
     "debt": "19.3",
     "pop2023": 133515,
-    "code": "KIR",
-    "imfCountry": "Kiribati"
+    "code": "KIR"
   },
   {
     "gdppc2023": "32638.041",
@@ -2230,8 +2140,7 @@
     "rusName": "Кувейт",
     "debt": "2.9",
     "pop2023": 4310108,
-    "code": "KWT",
-    "imfCountry": "Kuwait"
+    "code": "KWT"
   },
   {
     "gdppc2023": "1843.19",
@@ -2251,8 +2160,7 @@
     "rusName": "Киргизия",
     "debt": "53.5",
     "pop2023": 6735347,
-    "code": "KGZ",
-    "imfCountry": "Kyrgyz Republic"
+    "code": "KGZ"
   },
   {
     "gdppc2023": "2004.349",
@@ -2272,8 +2180,7 @@
     "rusName": "Лаос",
     "debt": "128.5",
     "pop2023": 7633779,
-    "code": "LAO",
-    "imfCountry": "Lao P.D.R."
+    "code": "LAO"
   },
   {
     "gdppc2023": "23153.479",
@@ -2293,8 +2200,7 @@
     "rusName": "Латвия",
     "debt": "41.6",
     "pop2023": 1830211,
-    "code": "LVA",
-    "imfCountry": "Latvia"
+    "code": "LVA"
   },
   {
     "gdppc2023": "0",
@@ -2314,8 +2220,7 @@
     "rusName": "Ливан",
     "debt": "0",
     "pop2023": 5353930,
-    "code": "LBN",
-    "imfCountry": "Lebanon"
+    "code": "LBN"
   },
   {
     "gdppc2023": "1052.122",
@@ -2335,8 +2240,7 @@
     "rusName": "Лесото",
     "debt": "57.9",
     "pop2023": 2330318,
-    "code": "LSO",
-    "imfCountry": "Lesotho"
+    "code": "LSO"
   },
   {
     "gdppc2023": "808.229",
@@ -2356,8 +2260,7 @@
     "rusName": "Либерия",
     "debt": "55.4",
     "pop2023": 5418377,
-    "code": "LBR",
-    "imfCountry": "Liberia"
+    "code": "LBR"
   },
   {
     "gdppc2023": "6576.036",
@@ -2377,8 +2280,7 @@
     "rusName": "Ливия",
     "debt": "0",
     "pop2023": 6888388,
-    "code": "LBY",
-    "imfCountry": "Libya"
+    "code": "LBY"
   },
   {
     "gdppc2023": "0",
@@ -2417,8 +2319,7 @@
     "rusName": "Литва",
     "debt": "39.6",
     "pop2023": 2718352,
-    "code": "LTU",
-    "imfCountry": "Lithuania"
+    "code": "LTU"
   },
   {
     "gdppc2023": "129810.315",
@@ -2438,8 +2339,7 @@
     "rusName": "Люксембург",
     "debt": "24.3",
     "pop2023": 654768,
-    "code": "LUX",
-    "imfCountry": "Luxembourg"
+    "code": "LUX"
   },
   {
     "gdppc2023": "69079.722",
@@ -2459,8 +2359,7 @@
     "rusName": "Макао",
     "debt": "0",
     "pop2023": 704149,
-    "code": "MAC",
-    "imfCountry": "Macao SAR"
+    "code": "MAC"
   },
   {
     "gdppc2023": "8147.93",
@@ -2480,8 +2379,7 @@
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 2085679,
-    "code": "MKD",
-    "imfCountry": "North Macedonia"
+    "code": "MKD"
   },
   {
     "gdppc2023": "529.224",
@@ -2501,8 +2399,7 @@
     "rusName": "Мадагаскар",
     "debt": "57",
     "pop2023": 30325732,
-    "code": "MDG",
-    "imfCountry": "Madagascar"
+    "code": "MDG"
   },
   {
     "gdppc2023": "577.538",
@@ -2522,8 +2419,7 @@
     "rusName": "Малави",
     "debt": "70.1",
     "pop2023": 20931751,
-    "code": "MWI",
-    "imfCountry": "Malawi"
+    "code": "MWI"
   },
   {
     "gdppc2023": "12570.46",
@@ -2543,8 +2439,7 @@
     "rusName": "Малайзия",
     "debt": "66.3",
     "pop2023": 34308525,
-    "code": "MYS",
-    "imfCountry": "Malaysia"
+    "code": "MYS"
   },
   {
     "gdppc2023": "16822.54",
@@ -2564,8 +2459,7 @@
     "rusName": "Мальдивы",
     "debt": "114.9",
     "pop2023": 521021,
-    "code": "MDV",
-    "imfCountry": "Maldives"
+    "code": "MDV"
   },
   {
     "gdppc2023": "885.88",
@@ -2585,8 +2479,7 @@
     "rusName": "Мали",
     "debt": "53.2",
     "pop2023": 23293698,
-    "code": "MLI",
-    "imfCountry": "Mali"
+    "code": "MLI"
   },
   {
     "gdppc2023": "38673.584",
@@ -2606,8 +2499,7 @@
     "rusName": "Мальта",
     "debt": "55.8",
     "pop2023": 535064,
-    "code": "MLT",
-    "imfCountry": "Malta"
+    "code": "MLT"
   },
   {
     "gdppc2023": "6306.945",
@@ -2627,8 +2519,7 @@
     "rusName": "Маршалловы Острова",
     "debt": "21.2",
     "pop2023": 41996,
-    "code": "MHL",
-    "imfCountry": "Marshall Islands"
+    "code": "MHL"
   },
   {
     "gdppc2023": "0",
@@ -2667,8 +2558,7 @@
     "rusName": "Мавритания",
     "debt": "47.7",
     "pop2023": 4862989,
-    "code": "MRT",
-    "imfCountry": "Mauritania"
+    "code": "MRT"
   },
   {
     "gdppc2023": "11396.06",
@@ -2688,8 +2578,7 @@
     "rusName": "Маврикий",
     "debt": "80.9",
     "pop2023": 1300557,
-    "code": "MUS",
-    "imfCountry": "Mauritius"
+    "code": "MUS"
   },
   {
     "gdppc2023": "0",
@@ -2728,8 +2617,7 @@
     "rusName": "Мексика",
     "debt": "56",
     "pop2023": 128455567,
-    "code": "MEX",
-    "imfCountry": "Mexico"
+    "code": "MEX"
   },
   {
     "gdppc2023": "6832.465",
@@ -2749,8 +2637,7 @@
     "rusName": "Молдавия",
     "debt": "33.5",
     "pop2023": 3435931,
-    "code": "MDA",
-    "imfCountry": "Moldova"
+    "code": "MDA"
   },
   {
     "gdppc2023": "0",
@@ -2789,8 +2676,7 @@
     "rusName": "Монголия",
     "debt": "82.4",
     "pop2023": 3447157,
-    "code": "MNG",
-    "imfCountry": "Mongolia"
+    "code": "MNG"
   },
   {
     "gdppc2023": "11696.262",
@@ -2810,8 +2696,7 @@
     "rusName": "Черногория",
     "debt": "71.2",
     "pop2023": 626485,
-    "code": "MNE",
-    "imfCountry": "Montenegro"
+    "code": "MNE"
   },
   {
     "gdppc2023": "0",
@@ -2850,8 +2735,7 @@
     "rusName": "Марокко",
     "debt": "68.8",
     "pop2023": 37840044,
-    "code": "MAR",
-    "imfCountry": "Morocco"
+    "code": "MAR"
   },
   {
     "gdppc2023": "629.921",
@@ -2871,8 +2755,7 @@
     "rusName": "Мозамбик",
     "debt": "104.5",
     "pop2023": 33897354,
-    "code": "MOZ",
-    "imfCountry": "Mozambique"
+    "code": "MOZ"
   },
   {
     "gdppc2023": "1189.842",
@@ -2892,8 +2775,7 @@
     "rusName": "Мьянма",
     "debt": "63.9",
     "pop2023": 54577997,
-    "code": "MMR",
-    "imfCountry": "Myanmar"
+    "code": "MMR"
   },
   {
     "gdppc2023": "4664.713",
@@ -2913,8 +2795,7 @@
     "rusName": "Намибия",
     "debt": "71.3",
     "pop2023": 2604172,
-    "code": "NAM",
-    "imfCountry": "Namibia"
+    "code": "NAM"
   },
   {
     "gdppc2023": "12037.888",
@@ -2934,8 +2815,7 @@
     "rusName": "Науру",
     "debt": "24.3",
     "pop2023": 12780,
-    "code": "NRU",
-    "imfCountry": "Nauru"
+    "code": "NRU"
   },
   {
     "gdppc2023": "1319.643",
@@ -2955,8 +2835,7 @@
     "rusName": "Непал",
     "debt": "43.8",
     "pop2023": 30896590,
-    "code": "NPL",
-    "imfCountry": "Nepal"
+    "code": "NPL"
   },
   {
     "gdppc2023": "62718.681",
@@ -2976,8 +2855,7 @@
     "rusName": "Нидерланды",
     "debt": "48.5",
     "pop2023": 17618299,
-    "code": "NLD",
-    "imfCountry": "Netherlands"
+    "code": "NLD"
   },
   {
     "gdppc2023": "0",
@@ -3035,8 +2913,7 @@
     "rusName": "Новая Зеландия",
     "debt": "52.8",
     "pop2023": 5228100,
-    "code": "NZL",
-    "imfCountry": "New Zealand"
+    "code": "NZL"
   },
   {
     "gdppc2023": "2608.085",
@@ -3056,8 +2933,7 @@
     "rusName": "Никарагуа",
     "debt": "46",
     "pop2023": 7046310,
-    "code": "NIC",
-    "imfCountry": "Nicaragua"
+    "code": "NIC"
   },
   {
     "gdppc2023": "610.635",
@@ -3077,8 +2953,7 @@
     "rusName": "Нигер",
     "debt": "51.1",
     "pop2023": 27202843,
-    "code": "NER",
-    "imfCountry": "Niger"
+    "code": "NER"
   },
   {
     "gdppc2023": "1687.568",
@@ -3098,8 +2973,7 @@
     "rusName": "Нигерия",
     "debt": "38",
     "pop2023": 223804632,
-    "code": "NGA",
-    "imfCountry": "Nigeria"
+    "code": "NGA"
   },
   {
     "gdppc2023": "0",
@@ -3195,8 +3069,7 @@
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 49796,
-    "code": "MKD",
-    "imfCountry": "North Macedonia"
+    "code": "MKD"
   },
   {
     "gdppc2023": "87739.41",
@@ -3216,8 +3089,7 @@
     "rusName": "Норвегия",
     "debt": "39.6",
     "pop2023": 5474360,
-    "code": "NOR",
-    "imfCountry": "Norway"
+    "code": "NOR"
   },
   {
     "gdppc2023": "21623.401",
@@ -3237,8 +3109,7 @@
     "rusName": "Оман",
     "debt": "40.1",
     "pop2023": 4644384,
-    "code": "OMN",
-    "imfCountry": "Oman"
+    "code": "OMN"
   },
   {
     "gdppc2023": "1460.74",
@@ -3258,8 +3129,7 @@
     "rusName": "Пакистан",
     "debt": "75.8",
     "pop2023": 240485658,
-    "code": "PAK",
-    "imfCountry": "Pakistan"
+    "code": "PAK"
   },
   {
     "gdppc2023": "15084.549",
@@ -3279,8 +3149,7 @@
     "rusName": "Палау",
     "debt": "0",
     "pop2023": 18058,
-    "code": "PLW",
-    "imfCountry": "Palau"
+    "code": "PLW"
   },
   {
     "gdppc2023": "0",
@@ -3319,8 +3188,7 @@
     "rusName": "Панама",
     "debt": "54.9",
     "pop2023": 4468087,
-    "code": "PAN",
-    "imfCountry": "Panama"
+    "code": "PAN"
   },
   {
     "gdppc2023": "2524.633",
@@ -3340,8 +3208,7 @@
     "rusName": "Папуа — Новая Гвинея",
     "debt": "49.2",
     "pop2023": 10329931,
-    "code": "PNG",
-    "imfCountry": "Papua New Guinea"
+    "code": "PNG"
   },
   {
     "gdppc2023": "5806.988",
@@ -3361,8 +3228,7 @@
     "rusName": "Парагвай",
     "debt": "40.9",
     "pop2023": 6861524,
-    "code": "PRY",
-    "imfCountry": "Paraguay"
+    "code": "PRY"
   },
   {
     "gdppc2023": "7932.905",
@@ -3382,8 +3248,7 @@
     "rusName": "Перу",
     "debt": "33.4",
     "pop2023": 34352719,
-    "code": "PER",
-    "imfCountry": "Peru"
+    "code": "PER"
   },
   {
     "gdppc2023": "3867.672",
@@ -3403,8 +3268,7 @@
     "rusName": "Филиппины",
     "debt": "57.5",
     "pop2023": 117337368,
-    "code": "PHL",
-    "imfCountry": "Philippines"
+    "code": "PHL"
   },
   {
     "gdppc2023": "21995.995",
@@ -3424,8 +3288,7 @@
     "rusName": "Польша",
     "debt": "49.6",
     "pop2023": 41026067,
-    "code": "POL",
-    "imfCountry": "Poland"
+    "code": "POL"
   },
   {
     "gdppc2023": "27880.066",
@@ -3445,8 +3308,7 @@
     "rusName": "Португалия",
     "debt": "116",
     "pop2023": 10247605,
-    "code": "PRT",
-    "imfCountry": "Portugal"
+    "code": "PRT"
   },
   {
     "gdppc2023": "36369.133",
@@ -3466,8 +3328,7 @@
     "rusName": "Пуэрто-Рико",
     "debt": "16.3",
     "pop2023": 3260314,
-    "code": "PRI",
-    "imfCountry": "Puerto Rico"
+    "code": "PRI"
   },
   {
     "gdppc2023": "78696.207",
@@ -3487,8 +3348,7 @@
     "rusName": "Катар",
     "debt": "45.3",
     "pop2023": 2716391,
-    "code": "QAT",
-    "imfCountry": "Qatar"
+    "code": "QAT"
   },
   {
     "gdppc2023": "2349.952",
@@ -3508,8 +3368,7 @@
     "rusName": "Республика Конго",
     "debt": "99.6",
     "pop2023": 6106869,
-    "code": "COG",
-    "imfCountry": "Congo. Republic of"
+    "code": "COG"
   },
   {
     "gdppc2023": "0",
@@ -3548,8 +3407,7 @@
     "rusName": "Румыния",
     "debt": "48.7",
     "pop2023": 19892812,
-    "code": "ROU",
-    "imfCountry": "Romania"
+    "code": "ROU"
   },
   {
     "gdppc2023": "13647.814",
@@ -3569,8 +3427,7 @@
     "rusName": "Россия",
     "debt": "19.6",
     "pop2023": 144444359,
-    "code": "RUS",
-    "imfCountry": "Russian Federation"
+    "code": "RUS"
   },
   {
     "gdppc2023": "1038.642",
@@ -3590,8 +3447,7 @@
     "rusName": "Руанда",
     "debt": "64.4",
     "pop2023": 14094683,
-    "code": "RWA",
-    "imfCountry": "Rwanda"
+    "code": "RWA"
   },
   {
     "gdppc2023": "0",
@@ -3649,8 +3505,7 @@
     "rusName": "Сент-Китс и Невис",
     "debt": "64.8",
     "pop2023": 47755,
-    "code": "KNA",
-    "imfCountry": "Saint Kitts and Nevis"
+    "code": "KNA"
   },
   {
     "gdppc2023": "0",
@@ -3708,8 +3563,7 @@
     "rusName": "Сент-Винсент и Гренадины",
     "debt": "86.8",
     "pop2023": 103698,
-    "code": "VCT",
-    "imfCountry": "Saint Vincent and the Grenadines"
+    "code": "VCT"
   },
   {
     "gdppc2023": "4478.194",
@@ -3729,8 +3583,7 @@
     "rusName": "Самоа",
     "debt": "43.7",
     "pop2023": 225681,
-    "code": "WSM",
-    "imfCountry": "Samoa"
+    "code": "WSM"
   },
   {
     "gdppc2023": "57259.3",
@@ -3750,8 +3603,7 @@
     "rusName": "Сан-Марино",
     "debt": "81.2",
     "pop2023": 33642,
-    "code": "SMR",
-    "imfCountry": "San Marino"
+    "code": "SMR"
   },
   {
     "gdppc2023": "2827.812",
@@ -3771,8 +3623,7 @@
     "rusName": "Сан-Томе и Принсипи",
     "debt": "58.1",
     "pop2023": 231856,
-    "code": "STP",
-    "imfCountry": "São Tomé and Príncipe"
+    "code": "STP"
   },
   {
     "gdppc2023": "32529.702",
@@ -3792,8 +3643,7 @@
     "rusName": "Саудовская Аравия",
     "debt": "22.6",
     "pop2023": 36947025,
-    "code": "SAU",
-    "imfCountry": "Saudi Arabia"
+    "code": "SAU"
   },
   {
     "gdppc2023": "1729.274",
@@ -3813,8 +3663,7 @@
     "rusName": "Сенегал",
     "debt": "75",
     "pop2023": 17763163,
-    "code": "SEN",
-    "imfCountry": "Senegal"
+    "code": "SEN"
   },
   {
     "gdppc2023": "11327.13",
@@ -3834,8 +3683,7 @@
     "rusName": "Сербия",
     "debt": "53.5",
     "pop2023": 7149077,
-    "code": "SRB",
-    "imfCountry": "Serbia"
+    "code": "SRB"
   },
   {
     "gdppc2023": "21575.319",
@@ -3855,8 +3703,7 @@
     "rusName": "Сейшельские Острова",
     "debt": "63.4",
     "pop2023": 107660,
-    "code": "SYC",
-    "imfCountry": "Seychelles"
+    "code": "SYC"
   },
   {
     "gdppc2023": "460.598",
@@ -3876,8 +3723,7 @@
     "rusName": "Сьерра-Леоне",
     "debt": "98.8",
     "pop2023": 8791092,
-    "code": "SLE",
-    "imfCountry": "Sierra Leone"
+    "code": "SLE"
   },
   {
     "gdppc2023": "84734.277",
@@ -3897,8 +3743,7 @@
     "rusName": "Сингапур",
     "debt": "134.2",
     "pop2023": 6014723,
-    "code": "SGP",
-    "imfCountry": "Singapore"
+    "code": "SGP"
   },
   {
     "gdppc2023": "0",
@@ -3937,8 +3782,7 @@
     "rusName": "Словакия",
     "debt": "58.8",
     "pop2023": 5795199,
-    "code": "SVK",
-    "imfCountry": "Slovak Republic"
+    "code": "SVK"
   },
   {
     "gdppc2023": "32233.058",
@@ -3958,8 +3802,7 @@
     "rusName": "Словения",
     "debt": "70.2",
     "pop2023": 2119675,
-    "code": "SVN",
-    "imfCountry": "Slovenia"
+    "code": "SVN"
   },
   {
     "gdppc2023": "2204.929",
@@ -3979,8 +3822,7 @@
     "rusName": "Соломоновы Острова",
     "debt": "16.9",
     "pop2023": 740424,
-    "code": "SLB",
-    "imfCountry": "Solomon Islands"
+    "code": "SLB"
   },
   {
     "gdppc2023": "727.678",
@@ -4000,8 +3842,7 @@
     "rusName": "Сомали",
     "debt": "0",
     "pop2023": 18143378,
-    "code": "SOM",
-    "imfCountry": "Somalia"
+    "code": "SOM"
   },
   {
     "gdppc2023": "6138.248",
@@ -4021,8 +3862,7 @@
     "rusName": "ЮАР",
     "debt": "71",
     "pop2023": 60414495,
-    "code": "ZAF",
-    "imfCountry": "South Africa"
+    "code": "ZAF"
   },
   {
     "gdppc2023": "0",
@@ -4061,8 +3901,7 @@
     "rusName": "Южный Судан",
     "debt": "39.6",
     "pop2023": 11088796,
-    "code": "SSD",
-    "imfCountry": "South Sudan. Republic of"
+    "code": "SSD"
   },
   {
     "gdppc2023": "33071.349",
@@ -4082,8 +3921,7 @@
     "rusName": "Испания",
     "debt": "112",
     "pop2023": 47519628,
-    "code": "ESP",
-    "imfCountry": "Spain"
+    "code": "ESP"
   },
   {
     "gdppc2023": "0",
@@ -4103,8 +3941,7 @@
     "rusName": "Шри-Ланка",
     "debt": "117.7",
     "pop2023": 21893579,
-    "code": "LKA",
-    "imfCountry": "Sri Lanka"
+    "code": "LKA"
   },
   {
     "gdppc2023": "13545.906",
@@ -4124,8 +3961,7 @@
     "rusName": "Сент-Люсия",
     "debt": "83.5",
     "pop2023": 180251,
-    "code": "LCA",
-    "imfCountry": "Saint Lucia"
+    "code": "LCA"
   },
   {
     "gdppc2023": "536.922",
@@ -4145,8 +3981,7 @@
     "rusName": "Судан",
     "debt": "127.6",
     "pop2023": 48109006,
-    "code": "SDN",
-    "imfCountry": "Sudan"
+    "code": "SDN"
   },
   {
     "gdppc2023": "5885.181",
@@ -4166,8 +4001,7 @@
     "rusName": "Суринам",
     "debt": "123.2",
     "pop2023": 623236,
-    "code": "SUR",
-    "imfCountry": "Suriname"
+    "code": "SUR"
   },
   {
     "gdppc2023": "4184.275",
@@ -4176,7 +4010,7 @@
     "gdp2023": "4.868",
     "country": "Eswatini",
     "phoneCode": "+268",
-    "capital": "Lobamba",
+    "capital": "Mbabane",
     "abbr": "SWZ",
     "id": "SZ",
     "currency": "SZL",
@@ -4187,8 +4021,7 @@
     "rusName": "Эсватини",
     "debt": "45.4",
     "pop2023": 1210822,
-    "code": "SWZ",
-    "imfCountry": "Eswatini"
+    "code": "SWZ"
   },
   {
     "gdppc2023": "56224.808",
@@ -4208,8 +4041,7 @@
     "rusName": "Швеция",
     "debt": "31.7",
     "pop2023": 10612086,
-    "code": "SWE",
-    "imfCountry": "Sweden"
+    "code": "SWE"
   },
   {
     "gdppc2023": "100413.067",
@@ -4229,8 +4061,7 @@
     "rusName": "Швейцария",
     "debt": "39.1",
     "pop2023": 8796669,
-    "code": "CHE",
-    "imfCountry": "Switzerland"
+    "code": "CHE"
   },
   {
     "gdppc2023": "0",
@@ -4250,8 +4081,7 @@
     "rusName": "Сирия",
     "debt": "0",
     "pop2023": 23227014,
-    "code": "SYR",
-    "imfCountry": "Syria"
+    "code": "SYR"
   },
   {
     "gdppc2023": "32443.705",
@@ -4271,8 +4101,7 @@
     "rusName": "Тайвань",
     "debt": "27.5",
     "pop2023": 23923276,
-    "code": "TWN",
-    "imfCountry": "Taiwan Province of China"
+    "code": "TWN"
   },
   {
     "gdppc2023": "1183.908",
@@ -4292,8 +4121,7 @@
     "rusName": "Таджикистан",
     "debt": "34.6",
     "pop2023": 10143543,
-    "code": "TJK",
-    "imfCountry": "Tajikistan"
+    "code": "TJK"
   },
   {
     "gdppc2023": "1254.229",
@@ -4313,8 +4141,7 @@
     "rusName": "Танзания",
     "debt": "41.6",
     "pop2023": 67438106,
-    "code": "TZA",
-    "imfCountry": "Tanzania"
+    "code": "TZA"
   },
   {
     "gdppc2023": "7337.194",
@@ -4334,8 +4161,7 @@
     "rusName": "Таиланд",
     "debt": "60.5",
     "pop2023": 71801279,
-    "code": "THA",
-    "imfCountry": "Thailand"
+    "code": "THA"
   },
   {
     "gdppc2023": "1730.627",
@@ -4355,8 +4181,7 @@
     "rusName": "Восточный Тимор",
     "debt": "7.5",
     "pop2023": 1360596,
-    "code": "TLS",
-    "imfCountry": "Timor-Leste"
+    "code": "TLS"
   },
   {
     "gdppc2023": "998.245",
@@ -4376,8 +4201,7 @@
     "rusName": "Того",
     "debt": "68",
     "pop2023": 9053799,
-    "code": "TGO",
-    "imfCountry": "Togo"
+    "code": "TGO"
   },
   {
     "gdppc2023": "0",
@@ -4416,8 +4240,7 @@
     "rusName": "Тонга",
     "debt": "46.6",
     "pop2023": 107773,
-    "code": "TON",
-    "imfCountry": "Tonga"
+    "code": "TON"
   },
   {
     "gdppc2023": "19801.012",
@@ -4437,8 +4260,7 @@
     "rusName": "Тринидад и Тобаго",
     "debt": "53.8",
     "pop2023": 1534937,
-    "code": "TTO",
-    "imfCountry": "Trinidad and Tobago"
+    "code": "TTO"
   },
   {
     "gdppc2023": "4191.62",
@@ -4458,8 +4280,7 @@
     "rusName": "Тунис",
     "debt": "79.4",
     "pop2023": 12458223,
-    "code": "TUN",
-    "imfCountry": "Tunisia"
+    "code": "TUN"
   },
   {
     "gdppc2023": "12849",
@@ -4479,8 +4300,7 @@
     "rusName": "Турция",
     "debt": "31.2",
     "pop2023": 85816199,
-    "code": "TUR",
-    "imfCountry": "Türkiye. Republic of"
+    "code": "TUR"
   },
   {
     "gdppc2023": "11833.107",
@@ -4500,8 +4320,7 @@
     "rusName": "Туркмения",
     "debt": "5.2",
     "pop2023": 6516100,
-    "code": "TKM",
-    "imfCountry": "Turkmenistan"
+    "code": "TKM"
   },
   {
     "gdppc2023": "0",
@@ -4540,8 +4359,7 @@
     "rusName": "Тувалу",
     "debt": "7.6",
     "pop2023": 11396,
-    "code": "TUV",
-    "imfCountry": "Tuvalu"
+    "code": "TUV"
   },
   {
     "gdppc2023": "1139.3",
@@ -4561,8 +4379,7 @@
     "rusName": "Уганда",
     "debt": "50.8",
     "pop2023": 48582334,
-    "code": "UGA",
-    "imfCountry": "Uganda"
+    "code": "UGA"
   },
   {
     "gdppc2023": "5337.491",
@@ -4582,8 +4399,7 @@
     "rusName": "Украина",
     "debt": "81.7",
     "pop2023": 36744634,
-    "code": "UKR",
-    "imfCountry": "Ukraine"
+    "code": "UKR"
   },
   {
     "gdppc2023": "51908.699",
@@ -4603,8 +4419,7 @@
     "rusName": "ОАЭ",
     "debt": "30",
     "pop2023": 9516871,
-    "code": "ARE",
-    "imfCountry": "United Arab Emirates"
+    "code": "ARE"
   },
   {
     "gdppc2023": "49098.977",
@@ -4624,8 +4439,7 @@
     "rusName": "Великобритания",
     "debt": "102.6",
     "pop2023": 67736802,
-    "code": "GBR",
-    "imfCountry": "United Kingdom"
+    "code": "GBR"
   },
   {
     "gdppc2023": "81632.253",
@@ -4645,8 +4459,7 @@
     "rusName": "США",
     "debt": "121.7",
     "pop2023": 339996563,
-    "code": "USA",
-    "imfCountry": "United States"
+    "code": "USA"
   },
   {
     "gdppc2023": "21656.979",
@@ -4666,8 +4479,7 @@
     "rusName": "Уругвай",
     "debt": "61",
     "pop2023": 3423108,
-    "code": "URY",
-    "imfCountry": "Uruguay"
+    "code": "URY"
   },
   {
     "gdppc2023": "0",
@@ -4706,8 +4518,7 @@
     "rusName": "Узбекистан",
     "debt": "34.3",
     "pop2023": 35163944,
-    "code": "UZB",
-    "imfCountry": "Uzbekistan"
+    "code": "UZB"
   },
   {
     "gdppc2023": "3501.24",
@@ -4727,8 +4538,7 @@
     "rusName": "Вануату",
     "debt": "45.8",
     "pop2023": 334506,
-    "code": "VUT",
-    "imfCountry": "Vanuatu"
+    "code": "VUT"
   },
   {
     "gdppc2023": "0",
@@ -4767,8 +4577,7 @@
     "rusName": "Венесуэла",
     "debt": "157.8",
     "pop2023": 28838499,
-    "code": "VEN",
-    "imfCountry": "Venezuela"
+    "code": "VEN"
   },
   {
     "gdppc2023": "4324.049",
@@ -4788,8 +4597,7 @@
     "rusName": "Вьетнам",
     "debt": "37.1",
     "pop2023": 98858950,
-    "code": "VNM",
-    "imfCountry": "Vietnam"
+    "code": "VNM"
   },
   {
     "gdppc2023": "0",
@@ -4866,8 +4674,7 @@
     "rusName": "Йемен",
     "debt": "73.5",
     "pop2023": 34449825,
-    "code": "YEM",
-    "imfCountry": "Yemen"
+    "code": "YEM"
   },
   {
     "gdppc2023": "1380.974",
@@ -4887,8 +4694,7 @@
     "rusName": "Замбия",
     "debt": "0",
     "pop2023": 20569737,
-    "code": "ZMB",
-    "imfCountry": "Zambia"
+    "code": "ZMB"
   },
   {
     "gdppc2023": "1993.038",
@@ -4908,7 +4714,6 @@
     "rusName": "Зимбабве",
     "debt": "92.8",
     "pop2023": 16665409,
-    "code": "ZWE",
-    "imfCountry": "Zimbabwe"
+    "code": "ZWE"
   }
 ]
