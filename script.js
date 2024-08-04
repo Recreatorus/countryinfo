@@ -17,7 +17,7 @@ function dollarFormatter(e) {
   return 0 == e ? 'no data' : new Intl.NumberFormat('ru-RU', { style: 'currency', currency: 'USD' }).format(e);
 }
 const searchcountry = async (e) => {
-    let t = await fetch('./data/countries.json'),
+    let t = await fetch('./data/countries.json', { priority: 'high' }),
       a = await t.json(),
       r = a.filter((t) => {
         let a = RegExp(`^${e}`, 'gi');
