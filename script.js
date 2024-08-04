@@ -21,7 +21,7 @@ const searchcountry = async (e) => {
       a = await t.json(),
       r = a.filter((t) => {
         let a = RegExp(`^${e}`, 'gi');
-        return t.country.match(a) || t.abbr.match(a);
+        return t.country.match(a) || t.capital.match(a);
       });
     0 === e.length && ((r = []), (countryList.innerHTML = '')), outputHtml(r);
     let n = document.querySelectorAll('.capitalCity');
