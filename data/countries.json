@@ -12,11 +12,12 @@
     "currency": "AFN",
     "timezones": "UTC+04:30",
     "area": 652230,
-    "density": 66.4995,
+    "density": 65.3872,
     "rusName": "Афганистан",
     "debt": "0",
     "pop2023": 42239854,
-    "code": "AFG"
+    "code": "AFG",
+    "pop2024": 42647492
   },
   {
     "gdppc2023": "7956.559",
@@ -31,11 +32,12 @@
     "currency": "ALL",
     "timezones": "UTC+01:00",
     "area": 28748,
-    "density": 103.1394,
+    "density": 101.8892,
     "rusName": "Албания",
     "debt": "67.6",
     "pop2023": 2832439,
-    "code": "ALB"
+    "code": "ALB",
+    "pop2024": 2791765
   },
   {
     "gdppc2023": "5323.635",
@@ -50,11 +52,12 @@
     "currency": "DZD",
     "timezones": "UTC+01:00",
     "area": 2381741,
-    "density": 19.4306,
+    "density": 19.6555,
     "rusName": "Алжир",
     "debt": "52.4",
     "pop2023": 45606480,
-    "code": "DZA"
+    "code": "DZA",
+    "pop2024": 46814308
   },
   {
     "gdppc2023": "0",
@@ -69,10 +72,11 @@
     "currency": "USD",
     "timezones": "UTC-11:00",
     "area": 199,
-    "density": 217.72,
+    "density": 233.825,
     "rusName": "Американское Самоа",
     "debt": "0",
-    "pop2023": 43914
+    "pop2023": 43914,
+    "pop2024": 46765
   },
   {
     "gdppc2023": "43784.571",
@@ -87,11 +91,12 @@
     "currency": "EUR",
     "timezones": "UTC+01:00",
     "area": 468,
-    "density": 170.9383,
+    "density": 174.3362,
     "rusName": "Андорра",
     "debt": "38.8",
     "pop2023": 80088,
-    "code": "AND"
+    "code": "AND",
+    "pop2024": 81938
   },
   {
     "gdppc2023": "2565.912",
@@ -106,11 +111,12 @@
     "currency": "AOA",
     "timezones": "UTC+01:00",
     "area": 1246700,
-    "density": 30.3238,
+    "density": 30.3889,
     "rusName": "Ангола",
     "debt": "67",
     "pop2023": 36684202,
-    "code": "AGO"
+    "code": "AGO",
+    "pop2024": 37885849
   },
   {
     "gdppc2023": "0",
@@ -125,10 +131,11 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 91,
-    "density": 175.1209,
+    "density": 160.4176,
     "rusName": "Ангилья",
     "debt": "0",
-    "pop2023": 15899
+    "pop2023": 15899,
+    "pop2024": 14598
   },
   {
     "gdppc2023": "19123.213",
@@ -143,11 +150,12 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 442,
-    "density": 215.4909,
+    "density": 213.1182,
     "rusName": "Антигуа и Барбуда",
     "debt": "90.6",
     "pop2023": 94298,
-    "code": "ATG"
+    "code": "ATG",
+    "pop2024": 93772
   },
   {
     "gdppc2023": "14024.239",
@@ -162,11 +170,12 @@
     "currency": "ARS",
     "timezones": "UTC-03:00",
     "area": 2780400,
-    "density": 16.8298,
+    "density": 16.6976,
     "rusName": "Аргентина",
     "debt": "84.5",
     "pop2023": 45773884,
-    "code": "ARG"
+    "code": "ARG",
+    "pop2024": 45696159
   },
   {
     "gdppc2023": "8153.076",
@@ -181,11 +190,12 @@
     "currency": "AMD",
     "timezones": "UTC+04:00",
     "area": 29743,
-    "density": 97.5757,
+    "density": 104.4552,
     "rusName": "Армения",
     "debt": "49.3",
     "pop2023": 2777970,
-    "code": "ARM"
+    "code": "ARM",
+    "pop2024": 2973840
   },
   {
     "gdppc2023": "36745.657",
@@ -200,11 +210,12 @@
     "currency": "AWG",
     "timezones": "UTC-04:00",
     "area": 180,
-    "density": 589.8722,
+    "density": 600.3667,
     "rusName": "Аруба",
     "debt": "92",
     "pop2023": 106277,
-    "code": "ABW"
+    "code": "ABW",
+    "pop2024": 108066
   },
   {
     "gdppc2023": "65434.328",
@@ -219,11 +230,12 @@
     "currency": "AUD",
     "timezones": "UTC+10:00",
     "area": 7692024,
-    "density": 3.4711,
+    "density": 3.4728,
     "rusName": "Австралия",
     "debt": "55.7",
     "pop2023": 26439111,
-    "code": "AUS"
+    "code": "AUS",
+    "pop2024": 26713205
   },
   {
     "gdppc2023": "57081.047",
@@ -238,11 +250,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 83871,
-    "density": 108.7874,
+    "density": 110.5285,
     "rusName": "Австрия",
     "debt": "77.8",
     "pop2023": 8958960,
-    "code": "AUT"
+    "code": "AUT",
+    "pop2024": 9120813
   },
   {
     "gdppc2023": "7525.428",
@@ -257,11 +270,12 @@
     "currency": "AZN",
     "timezones": "UTC+04:00",
     "area": 86600,
-    "density": 126.599,
+    "density": 125.0705,
     "rusName": "Азербайджан",
     "debt": "20.7",
     "pop2023": 10412651,
-    "code": "AZE"
+    "code": "AZE",
+    "pop2024": 10336577
   },
   {
     "gdppc2023": "34224.065",
@@ -276,11 +290,12 @@
     "currency": "BSD",
     "timezones": "UTC-04:00",
     "area": 13943,
-    "density": 41.4808,
+    "density": 40.0882,
     "rusName": "Багамские Острова",
     "debt": "89.4",
     "pop2023": 412623,
-    "code": "BHS"
+    "code": "BHS",
+    "pop2024": 401283
   },
   {
     "gdppc2023": "28262.187",
@@ -295,11 +310,12 @@
     "currency": "BHD",
     "timezones": "UTC+03:00",
     "area": 765,
-    "density": 1909.1873,
+    "density": 2047.1962,
     "rusName": "Бахрейн",
     "debt": "117.6",
     "pop2023": 1485509,
-    "code": "BHR"
+    "code": "BHR",
+    "pop2024": 1607049
   },
   {
     "gdppc2023": "2621.288",
@@ -314,11 +330,12 @@
     "currency": "BDT",
     "timezones": "UTC+06:00",
     "area": 147570,
-    "density": 1342.1004,
+    "density": 1333.3515,
     "rusName": "Бангладеш",
     "debt": "39.1",
     "pop2023": 172954319,
-    "code": "BGD"
+    "code": "BGD",
+    "pop2024": 173562364
   },
   {
     "gdppc2023": "22020.335",
@@ -333,11 +350,12 @@
     "currency": "BBD",
     "timezones": "UTC-04:00",
     "area": 430,
-    "density": 656.5326,
+    "density": 656.9,
     "rusName": "Барбадос",
     "debt": "120.8",
     "pop2023": 281995,
-    "code": "BRB"
+    "code": "BRB",
+    "pop2024": 282467
   },
   {
     "gdppc2023": "7820.257",
@@ -352,11 +370,12 @@
     "currency": "BYN",
     "timezones": "UTC+03:00",
     "area": 207600,
-    "density": 46.5811,
+    "density": 44.6187,
     "rusName": "Белоруссия",
     "debt": "39.8",
     "pop2023": 9498238,
-    "code": "BLR"
+    "code": "BLR",
+    "pop2024": 9056696
   },
   {
     "gdppc2023": "53659.317",
@@ -371,11 +390,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 30528,
-    "density": 386.9146,
+    "density": 387.6738,
     "rusName": "Бельгия",
     "debt": "105.3",
     "pop2023": 11686140,
-    "code": "BEL"
+    "code": "BEL",
+    "pop2024": 11738763
   },
   {
     "gdppc2023": "6865.047",
@@ -390,11 +410,12 @@
     "currency": "BZD",
     "timezones": "UTC-06:00",
     "area": 22966,
-    "density": 18.2664,
+    "density": 18.2846,
     "rusName": "Белиз",
     "debt": "64.1",
     "pop2023": 410825,
-    "code": "BLZ"
+    "code": "BLZ",
+    "pop2024": 417072
   },
   {
     "gdppc2023": "1411.222",
@@ -409,11 +430,12 @@
     "currency": "XOF",
     "timezones": "UTC+01:00",
     "area": 112622,
-    "density": 124.8676,
+    "density": 128.2611,
     "rusName": "Бенин",
     "debt": "52.4",
     "pop2023": 13712828,
-    "code": "BEN"
+    "code": "BEN",
+    "pop2024": 14462724
   },
   {
     "gdppc2023": "0",
@@ -428,10 +450,11 @@
     "currency": "BMD",
     "timezones": "UTC-03:00",
     "area": 54,
-    "density": 1183.9815,
+    "density": 1196.963,
     "rusName": "Бермудские Острова",
     "debt": "0",
-    "pop2023": 64069
+    "pop2023": 64069,
+    "pop2024": 64636
   },
   {
     "gdppc2023": "3776.426",
@@ -446,11 +469,12 @@
     "currency": "BTN",
     "timezones": "UTC+06:00",
     "area": 38394,
-    "density": 20.7756,
+    "density": 20.7531,
     "rusName": "Бутан",
     "debt": "124.8",
     "pop2023": 787424,
-    "code": "BTN"
+    "code": "BTN",
+    "pop2024": 791524
   },
   {
     "gdppc2023": "3831.281",
@@ -465,11 +489,12 @@
     "currency": "BOB",
     "timezones": "UTC-04:00",
     "area": 1098581,
-    "density": 11.601,
+    "density": 11.4588,
     "rusName": "Боливия",
     "debt": "82.6",
     "pop2023": 12388571,
-    "code": "BOL"
+    "code": "BOL",
+    "pop2024": 12413315
   },
   {
     "gdppc2023": "7856.628",
@@ -484,11 +509,12 @@
     "currency": "BAM",
     "timezones": "UTC+01:00",
     "area": 51209,
-    "density": 62.3902,
+    "density": 61.8018,
     "rusName": "Босния и Герцеговина",
     "debt": "29.6",
     "pop2023": 3210847,
-    "code": "BIH"
+    "code": "BIH",
+    "pop2024": 3164253
   },
   {
     "gdppc2023": "7642.011",
@@ -503,11 +529,12 @@
     "currency": "BWP",
     "timezones": "UTC+02:00",
     "area": 582000,
-    "density": 4.7989,
+    "density": 4.4486,
     "rusName": "Ботсвана",
     "debt": "19.9",
     "pop2023": 2675352,
-    "code": "BWA"
+    "code": "BWA",
+    "pop2024": 2521139
   },
   {
     "gdppc2023": "10642.437",
@@ -522,11 +549,12 @@
     "currency": "BRL",
     "timezones": "UTC-03:00",
     "area": 8515767,
-    "density": 26.039,
+    "density": 25.3643,
     "rusName": "Бразилия",
     "debt": "85.9",
     "pop2023": 216422446,
-    "code": "BRA"
+    "code": "BRA",
+    "pop2024": 211998573
   },
   {
     "gdppc2023": "0",
@@ -559,10 +587,11 @@
     "currency": "USD",
     "timezones": "UTC-04:00",
     "area": 151,
-    "density": 211.7533,
+    "density": 263.14,
     "rusName": "Британские Виргинские острова",
     "debt": "0.0",
-    "pop2023": 31538
+    "pop2023": 31538,
+    "pop2024": 39471
   },
   {
     "gdppc2023": "34248.034",
@@ -577,11 +606,12 @@
     "currency": "BND",
     "timezones": "UTC+08:00",
     "area": 5765,
-    "density": 86.5006,
+    "density": 87.8028,
     "rusName": "Бруней",
     "debt": "2.1",
     "pop2023": 452524,
-    "code": "BRN"
+    "code": "BRN",
+    "pop2024": 462721
   },
   {
     "gdppc2023": "15854.324",
@@ -596,11 +626,12 @@
     "currency": "BGN",
     "timezones": "UTC+03:00",
     "area": 110879,
-    "density": 60.9673,
+    "density": 62.2484,
     "rusName": "Болгария",
     "debt": "21.8",
     "pop2023": 6687717,
-    "code": "BGR"
+    "code": "BGR",
+    "pop2024": 6757689
   },
   {
     "gdppc2023": "870.833",
@@ -615,11 +646,12 @@
     "currency": "XOF",
     "timezones": "UTC+00:00",
     "area": 272967,
-    "density": 87.1354,
+    "density": 86.0701,
     "rusName": "Буркина-Фасо",
     "debt": "54.3",
     "pop2023": 23251485,
-    "code": "BFA"
+    "code": "BFA",
+    "pop2024": 23548781
   },
   {
     "gdppc2023": "324.904",
@@ -634,18 +666,19 @@
     "currency": "BIF",
     "timezones": "UTC+02:00",
     "area": 27834,
-    "density": 529.2701,
+    "density": 547.0322,
     "rusName": "Бурунди",
     "debt": "68.3",
     "pop2023": 13238559,
-    "code": "BDI"
+    "code": "BDI",
+    "pop2024": 14047786
   },
   {
     "gdppc2023": "4368.07",
     "gdpppppc2023": "9720.544",
     "growthgdp2023": "4.8",
     "gdp2023": "2.52",
-    "country": "Cabo Verde",
+    "country": "Cape Verde",
     "phoneCode": "+238",
     "capital": "Praia",
     "abbr": "CPV",
@@ -653,11 +686,12 @@
     "currency": "CVE",
     "timezones": "UTC-01:00",
     "area": 4033,
-    "density": 149.8788,
+    "density": 130.1455,
     "rusName": "Кабо-Верде",
     "debt": "127.4",
     "pop2023": 598682,
-    "code": "CPV"
+    "code": "CPV",
+    "pop2024": 524877
   },
   {
     "gdppc2023": "2460.351",
@@ -672,11 +706,12 @@
     "currency": "KHR",
     "timezones": "UTC+07:00",
     "area": 181035,
-    "density": 96.9966,
+    "density": 99.9252,
     "rusName": "Камбоджа",
     "debt": "36.5",
     "pop2023": 16944826,
-    "code": "KHM"
+    "code": "KHM",
+    "pop2024": 17638801
   },
   {
     "gdppc2023": "1711.341",
@@ -691,11 +726,12 @@
     "currency": "XAF",
     "timezones": "UTC+01:00",
     "area": 475442,
-    "density": 62.1828,
+    "density": 61.6102,
     "rusName": "Камерун",
     "debt": "46.4",
     "pop2023": 28647293,
-    "code": "CMR"
+    "code": "CMR",
+    "pop2024": 29123744
   },
   {
     "gdppc2023": "53547.719",
@@ -710,11 +746,12 @@
     "currency": "CAD",
     "timezones": "UTC-04:00",
     "area": 9984670,
-    "density": 4.3619,
+    "density": 4.4328,
     "rusName": "Канада",
     "debt": "106.6",
     "pop2023": 38781291,
-    "code": "CAN"
+    "code": "CAN",
+    "pop2024": 39742430
   },
   {
     "gdppc2023": "0",
@@ -729,10 +766,11 @@
     "currency": "KYD",
     "timezones": "UTC-05:00",
     "area": 264,
-    "density": 291.1875,
+    "density": 310.2375,
     "rusName": "Каймановы о-ва",
     "debt": "0",
-    "pop2023": 69310
+    "pop2023": 69310,
+    "pop2024": 74457
   },
   {
     "gdppc2023": "514.097",
@@ -747,11 +785,12 @@
     "currency": "XAF",
     "timezones": "UTC+01:00",
     "area": 622984,
-    "density": 9.4957,
+    "density": 8.5568,
     "rusName": "ЦАР",
     "debt": "50.7",
     "pop2023": 5742315,
-    "code": "CAF"
+    "code": "CAF",
+    "pop2024": 5330690
   },
   {
     "gdppc2023": "976.128",
@@ -766,11 +805,12 @@
     "currency": "XAF",
     "timezones": "UTC+01:00",
     "area": 1284000,
-    "density": 14.9676,
+    "density": 16.1207,
     "rusName": "Чад",
     "debt": "50.4",
     "pop2023": 18278568,
-    "code": "TCD"
+    "code": "TCD",
+    "pop2024": 20299123
   },
   {
     "gdppc2023": "16815.783",
@@ -785,11 +825,12 @@
     "currency": "CLP",
     "timezones": "UTC-04:00",
     "area": 756102,
-    "density": 26.4398,
+    "density": 26.5823,
     "rusName": "Чили",
     "debt": "38",
     "pop2023": 19629590,
-    "code": "CHL"
+    "code": "CHL",
+    "pop2024": 19764771
   },
   {
     "gdppc2023": "12513.871",
@@ -804,11 +845,12 @@
     "currency": "CNY",
     "timezones": "UTC+08:00",
     "area": 9706961,
-    "density": 151.2174,
+    "density": 150.5959,
     "rusName": "Китай (Китайская Народная Республика)",
     "debt": "77.1",
     "pop2023": 1425671352,
-    "code": "CHN"
+    "code": "CHN",
+    "pop2024": 1419321278
   },
   {
     "gdppc2023": "6971.669",
@@ -823,11 +865,12 @@
     "currency": "COP",
     "timezones": "UTC-05:00",
     "area": 1141748,
-    "density": 47.1751,
+    "density": 47.6668,
     "rusName": "Колумбия",
     "debt": "63.6",
     "pop2023": 52085168,
-    "code": "COL"
+    "code": "COL",
+    "pop2024": 52886363
   },
   {
     "gdppc2023": "1352.918",
@@ -842,11 +885,12 @@
     "currency": "KMF",
     "timezones": "UTC+03:00",
     "area": 1862,
-    "density": 466.2037,
+    "density": 465.6787,
     "rusName": "Коморы",
     "debt": "29.1",
     "pop2023": 852075,
-    "code": "COM"
+    "code": "COM",
+    "pop2024": 866628
   },
   {
     "gdppc2023": "0",
@@ -861,10 +905,11 @@
     "currency": "NZD",
     "timezones": "UTC-10:00",
     "area": 236,
-    "density": 71.1333,
+    "density": 57.2042,
     "rusName": "Острова Кука",
     "debt": "0",
-    "pop2023": 17044
+    "pop2023": 17044,
+    "pop2024": 13729
   },
   {
     "gdppc2023": "16390.222",
@@ -879,18 +924,19 @@
     "currency": "CRC",
     "timezones": "UTC-06:00",
     "area": 51100,
-    "density": 102.7559,
+    "density": 100.4683,
     "rusName": "Коста-Рика",
     "debt": "63.8",
     "pop2023": 5212173,
-    "code": "CRI"
+    "code": "CRI",
+    "pop2024": 5129910
   },
   {
     "gdppc2023": "2572.145",
     "gdpppppc2023": "6469.107",
     "growthgdp2023": "6.2",
     "gdp2023": "79.978",
-    "country": "Côte d'Ivoire",
+    "country": "Ivory Coast",
     "phoneCode": "+225",
     "capital": "Yamoussoukro",
     "abbr": "CIV",
@@ -898,11 +944,12 @@
     "currency": "XOF",
     "timezones": "UTC-00:00",
     "area": 322463,
-    "density": 93.0921,
+    "density": 100.4221,
     "rusName": "Кот-д'Ивуар",
     "debt": "56.8",
     "pop2023": 28873034,
-    "code": "CIV"
+    "code": "CIV",
+    "pop2024": 31934230
   },
   {
     "gdppc2023": "21347.327",
@@ -917,11 +964,12 @@
     "currency": "HRK",
     "timezones": "UTC+02:00",
     "area": 56594,
-    "density": 71.2407,
+    "density": 69.2517,
     "rusName": "Хорватия",
     "debt": "67.5",
     "pop2023": 4008617,
-    "code": "HRV"
+    "code": "HRV",
+    "pop2024": 3875325
   },
   {
     "gdppc2023": "0",
@@ -936,10 +984,11 @@
     "currency": "CUP",
     "timezones": "UTC-04:00",
     "area": 109884,
-    "density": 107.655,
+    "density": 105.7783,
     "rusName": "Куба",
     "debt": "0",
-    "pop2023": 11194449
+    "pop2023": 11194449,
+    "pop2024": 10979783
   },
   {
     "gdppc2023": "0",
@@ -954,10 +1003,11 @@
     "currency": "ANG",
     "timezones": "UTC-04:00",
     "area": 444,
-    "density": 434.6059,
+    "density": 417.7523,
     "rusName": "Кюрасао",
     "debt": "0",
-    "pop2023": 192077
+    "pop2023": 192077,
+    "pop2024": 185482
   },
   {
     "gdppc2023": "34956.733",
@@ -972,11 +1022,12 @@
     "currency": "EUR",
     "timezones": "UTC+03:00",
     "area": 9251,
-    "density": 137.28,
+    "density": 147.0002,
     "rusName": "Кипр",
     "debt": "86.5",
     "pop2023": 1260138,
-    "code": "CYP"
+    "code": "CYP",
+    "pop2024": 1358282
   },
   {
     "gdppc2023": "30599.595",
@@ -991,18 +1042,19 @@
     "currency": "CZK",
     "timezones": "UTC+02:00",
     "area": 78865,
-    "density": 136.0614,
+    "density": 139.0682,
     "rusName": "Чехия",
     "debt": "42.3",
     "pop2023": 10495295,
-    "code": "CZE"
+    "code": "CZE",
+    "pop2024": 10735859
   },
   {
     "gdppc2023": "673.033",
     "gdpppppc2023": "1494.817",
     "growthgdp2023": "6.1",
     "gdp2023": "67.268",
-    "country": "The Democratic Republic of Congo",
+    "country": "DR Congo",
     "phoneCode": "+243",
     "capital": "Kinshasa",
     "abbr": "COD",
@@ -1010,11 +1062,12 @@
     "currency": "CDF",
     "timezones": "UTC+01:00",
     "area": 2344858,
-    "density": 46.5914,
+    "density": 48.202,
     "rusName": "ДР Конго",
     "debt": "14.6",
     "pop2023": 102262808,
-    "code": "COD"
+    "code": "COD",
+    "pop2024": 109276265
   },
   {
     "gdppc2023": "68299.821",
@@ -1029,11 +1082,12 @@
     "currency": "DKK",
     "timezones": "UTC+02:00",
     "area": 43094,
-    "density": 148.4924,
+    "density": 149.4353,
     "rusName": "Дания",
     "debt": "29.7",
     "pop2023": 5910913,
-    "code": "DNK"
+    "code": "DNK",
+    "pop2024": 5977412
   },
   {
     "gdppc2023": "3906.67",
@@ -1048,11 +1102,12 @@
     "currency": "DJF",
     "timezones": "UTC+03:00",
     "area": 23200,
-    "density": 49.7122,
+    "density": 50.4194,
     "rusName": "Джибути",
     "debt": "40.6",
     "pop2023": 1136455,
-    "code": "DJI"
+    "code": "DJI",
+    "pop2024": 1168722
   },
   {
     "gdppc2023": "8837.332",
@@ -1067,11 +1122,12 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 751,
-    "density": 97.824,
+    "density": 88.2733,
     "rusName": "Доминика",
     "debt": "104.8",
     "pop2023": 73040,
-    "code": "DMA"
+    "code": "DMA",
+    "pop2024": 66205
   },
   {
     "gdppc2023": "11186.956",
@@ -1086,11 +1142,12 @@
     "currency": "DOP",
     "timezones": "UTC-04:00",
     "area": 48671,
-    "density": 236.6799,
+    "density": 236.5464,
     "rusName": "Доминиканская Республика",
     "debt": "58.9",
     "pop2023": 11332972,
-    "code": "DOM"
+    "code": "DOM",
+    "pop2024": 11427557
   },
   {
     "gdppc2023": "6581.574",
@@ -1105,11 +1162,12 @@
     "currency": "USD",
     "timezones": "UTC-05:00",
     "area": 276841,
-    "density": 73.9949,
+    "density": 73.0209,
     "rusName": "Эквадор",
     "debt": "57.3",
     "pop2023": 18190484,
-    "code": "ECU"
+    "code": "ECU",
+    "pop2024": 18135478
   },
   {
     "gdppc2023": "3727.657",
@@ -1124,11 +1182,12 @@
     "currency": "EGP",
     "timezones": "UTC+02:00",
     "area": 1002450,
-    "density": 115.0075,
+    "density": 117.0709,
     "rusName": "Египет",
     "debt": "88.5",
     "pop2023": 112716598,
-    "code": "EGY"
+    "code": "EGY",
+    "pop2024": 116538258
   },
   {
     "gdppc2023": "5349.48",
@@ -1143,11 +1202,12 @@
     "currency": "USD",
     "timezones": "UTC-06:00",
     "area": 21041,
-    "density": 308.7012,
+    "density": 305.8973,
     "rusName": "Сальвадор",
     "debt": "77.2",
     "pop2023": 6364943,
-    "code": "SLV"
+    "code": "SLV",
+    "pop2024": 6338193
   },
   {
     "gdppc2023": "6659.505",
@@ -1162,11 +1222,12 @@
     "currency": "XAF",
     "timezones": "UTC+01:00",
     "area": 28051,
-    "density": 62.5666,
+    "density": 67.4694,
     "rusName": "Экваториальная Гвинея",
     "debt": "27.1",
     "pop2023": 1714671,
-    "code": "GNQ"
+    "code": "GNQ",
+    "pop2024": 1892516
   },
   {
     "gdppc2023": "0",
@@ -1181,11 +1242,12 @@
     "currency": "ERN",
     "timezones": "UTC+03:00",
     "area": 117600,
-    "density": 31.5402,
+    "density": 29.21,
     "rusName": "Эритрея",
     "debt": "163.8",
     "pop2023": 3748901,
-    "code": "ERI"
+    "code": "ERI",
+    "pop2024": 3535603
   },
   {
     "gdppc2023": "29838.985",
@@ -1200,11 +1262,12 @@
     "currency": "EUR",
     "timezones": "UTC+03:00",
     "area": 45227,
-    "density": 30.8548,
+    "density": 31.8256,
     "rusName": "Эстония",
     "debt": "17.2",
     "pop2023": 1322765,
-    "code": "EST"
+    "code": "EST",
+    "pop2024": 1360546
   },
   {
     "gdppc2023": "1511.217",
@@ -1219,11 +1282,12 @@
     "currency": "ETB",
     "timezones": "UTC+03:00",
     "area": 1104300,
-    "density": 114.9415,
+    "density": 117.015,
     "rusName": "Эфиопия",
     "debt": "46.4",
     "pop2023": 126527060,
-    "code": "ETH"
+    "code": "ETH",
+    "pop2024": 132059767
   },
   {
     "gdppc2023": "0",
@@ -1238,10 +1302,11 @@
     "currency": "FKP",
     "timezones": "UTC-03:00",
     "area": 12173,
-    "density": 0.3124,
+    "density": 0.2851,
     "rusName": "Фолклендские острова (Мальвинские)",
     "debt": "0",
-    "pop2023": 3791
+    "pop2023": 3791,
+    "pop2024": 3470
   },
   {
     "gdppc2023": "0",
@@ -1256,10 +1321,11 @@
     "currency": "DKK",
     "timezones": "UTC+01:00",
     "area": 1393,
-    "density": 39.1245,
+    "density": 40.5564,
     "rusName": "Фарерские острова",
     "debt": "0",
-    "pop2023": 53270
+    "pop2023": 53270,
+    "pop2024": 55400
   },
   {
     "gdppc2023": "4864.704",
@@ -1274,11 +1340,12 @@
     "currency": "USD",
     "timezones": "UTC+11:00",
     "area": 702,
-    "density": 166.1429,
+    "density": 161.6571,
     "rusName": "Микронезия",
     "debt": "14",
     "pop2023": 115224,
-    "code": "FSM"
+    "code": "FSM",
+    "pop2024": 113160
   },
   {
     "gdppc2023": "5992.792",
@@ -1293,11 +1360,12 @@
     "currency": "FJD",
     "timezones": "UTC+12:00",
     "area": 18272,
-    "density": 51.6186,
+    "density": 50.8366,
     "rusName": "Фиджи",
     "debt": "92.8",
     "pop2023": 936375,
-    "code": "FJI"
+    "code": "FJI",
+    "pop2024": 928784
   },
   {
     "gdppc2023": "54007.975",
@@ -1312,11 +1380,12 @@
     "currency": "EUR",
     "timezones": "UTC+03:00",
     "area": 338424,
-    "density": 18.2598,
+    "density": 18.4816,
     "rusName": "Финляндия",
     "debt": "74.8",
     "pop2023": 5545475,
-    "code": "FIN"
+    "code": "FIN",
+    "pop2024": 5617310
   },
   {
     "gdppc2023": "46000.803",
@@ -1331,11 +1400,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 551695,
-    "density": 118.4933,
+    "density": 121.5372,
     "rusName": "Франция",
     "debt": "111.1",
     "pop2023": 64756584,
-    "code": "FRA"
+    "code": "FRA",
+    "pop2024": 66548530
   },
   {
     "gdppc2023": "0",
@@ -1350,10 +1420,11 @@
     "currency": "EUR",
     "timezones": "UTC-03:00",
     "area": 83534,
-    "density": 3.8283,
+    "density": 3.6934,
     "rusName": "Французская Гвиана",
     "debt": "0",
-    "pop2023": 312155
+    "pop2023": 312155,
+    "pop2024": 308522
   },
   {
     "gdppc2023": "0",
@@ -1368,10 +1439,11 @@
     "currency": "XPF",
     "timezones": "UTC-10:00",
     "area": 4167,
-    "density": 89.7099,
+    "density": 81.189,
     "rusName": "Французская Полинезия",
     "debt": "0",
-    "pop2023": 308872
+    "pop2023": 308872,
+    "pop2024": 281807
   },
   {
     "gdppc2023": "9289.891",
@@ -1386,11 +1458,12 @@
     "currency": "XAF",
     "timezones": "UTC+01:00",
     "area": 267668,
-    "density": 9.6424,
+    "density": 9.8535,
     "rusName": "Габон",
     "debt": "55.1",
     "pop2023": 2436566,
-    "code": "GAB"
+    "code": "GAB",
+    "pop2024": 2538952
   },
   {
     "gdppc2023": "893.223",
@@ -1405,11 +1478,12 @@
     "currency": "GMD",
     "timezones": "UTC+00:00",
     "area": 10689,
-    "density": 280.8106,
+    "density": 272.7261,
     "rusName": "Гамбия",
     "debt": "84",
     "pop2023": 2773168,
-    "code": "GMB"
+    "code": "GMB",
+    "pop2024": 2759988
   },
   {
     "gdppc2023": "8172.574",
@@ -1424,11 +1498,12 @@
     "currency": "GEL",
     "timezones": "UTC+04:00",
     "area": 69700,
-    "density": 53.4958,
+    "density": 54.7945,
     "rusName": "Грузия",
     "debt": "39.8",
     "pop2023": 3728282,
-    "code": "GEO"
+    "code": "GEO",
+    "pop2024": 3807670
   },
   {
     "gdppc2023": "52726.965",
@@ -1443,11 +1518,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 357114,
-    "density": 238.2795,
+    "density": 241.9996,
     "rusName": "Германия",
     "debt": "66.5",
     "pop2023": 83294633,
-    "code": "DEU"
+    "code": "DEU",
+    "pop2024": 84552242
   },
   {
     "gdppc2023": "2318.309",
@@ -1462,11 +1538,12 @@
     "currency": "GHS",
     "timezones": "UTC+00:00",
     "area": 238533,
-    "density": 152.8461,
+    "density": 151.3073,
     "rusName": "Гана",
     "debt": "88.8",
     "pop2023": 34121985,
-    "code": "GHA"
+    "code": "GHA",
+    "pop2024": 34427414
   },
   {
     "gdppc2023": "0",
@@ -1481,10 +1558,11 @@
     "currency": "GIP",
     "timezones": "UTC+02:00",
     "area": 6,
-    "density": 4811.4706,
+    "density": 5783.6765,
     "rusName": "Гибралтар",
     "debt": "0",
-    "pop2023": 32688
+    "pop2023": 32688,
+    "pop2024": 39329
   },
   {
     "gdppc2023": "22805.197",
@@ -1499,11 +1577,12 @@
     "currency": "EUR",
     "timezones": "UTC+03:00",
     "area": 131990,
-    "density": 79.928,
+    "density": 77.9505,
     "rusName": "Греция",
     "debt": "177.4",
     "pop2023": 10341277,
-    "code": "GRC"
+    "code": "GRC",
+    "pop2024": 10047817
   },
   {
     "gdppc2023": "0",
@@ -1518,10 +1597,11 @@
     "currency": "DKK",
     "timezones": "UTC-02:00",
     "area": 2166086,
-    "density": 0.1384,
+    "density": 0.136,
     "rusName": "Гренландия",
     "debt": "0",
-    "pop2023": 56643
+    "pop2023": 56643,
+    "pop2024": 55840
   },
   {
     "gdppc2023": "11623.786",
@@ -1536,11 +1616,12 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 344,
-    "density": 373.1971,
+    "density": 344.7265,
     "rusName": "Гренада",
     "debt": "64.5",
     "pop2023": 126183,
-    "code": "GRD"
+    "code": "GRD",
+    "pop2024": 117207
   },
   {
     "gdppc2023": "0",
@@ -1555,10 +1636,11 @@
     "currency": "EUR",
     "timezones": "UTC-04:00",
     "area": 1628,
-    "density": 243.4558,
+    "density": 230.4091,
     "rusName": "Гваделупа",
     "debt": "0",
-    "pop2023": 395839
+    "pop2023": 395839,
+    "pop2024": 375106
   },
   {
     "gdppc2023": "0",
@@ -1573,10 +1655,11 @@
     "currency": "USD",
     "timezones": "UTC+10:00",
     "area": 549,
-    "density": 322.4333,
+    "density": 310.6981,
     "rusName": "Гуам",
     "debt": "0",
-    "pop2023": 172952
+    "pop2023": 172952,
+    "pop2024": 167777
   },
   {
     "gdppc2023": "5368.885",
@@ -1591,11 +1674,12 @@
     "currency": "GTQ",
     "timezones": "UTC-06:00",
     "area": 108889,
-    "density": 171.3179,
+    "density": 171.7652,
     "rusName": "Гватемала",
     "debt": "30.1",
     "pop2023": 18092026,
-    "code": "GTM"
+    "code": "GTM",
+    "pop2024": 18406359
   },
   {
     "gdppc2023": "1529.46",
@@ -1610,11 +1694,12 @@
     "currency": "GNF",
     "timezones": "UTC+00:00",
     "area": 245857,
-    "density": 59.1273,
+    "density": 60.0471,
     "rusName": "Гвинея",
     "debt": "33.4",
     "pop2023": 14190612,
-    "code": "GIN"
+    "code": "GIN",
+    "pop2024": 14754785
   },
   {
     "gdppc2023": "1016.816",
@@ -1629,11 +1714,12 @@
     "currency": "XOF",
     "timezones": "UTC+00:00",
     "area": 36125,
-    "density": 78.1347,
+    "density": 78.2842,
     "rusName": "Гвинея-Бисау",
     "debt": "79.5",
     "pop2023": 2150842,
-    "code": "GNB"
+    "code": "GNB",
+    "pop2024": 2201352
   },
   {
     "gdppc2023": "21472.271",
@@ -1648,11 +1734,12 @@
     "currency": "GYD",
     "timezones": "UTC-04:00",
     "area": 214969,
-    "density": 4.1635,
+    "density": 4.2219,
     "rusName": "Гайана",
     "debt": "27.8",
     "pop2023": 813834,
-    "code": "GUY"
+    "code": "GUY",
+    "pop2024": 831087
   },
   {
     "gdppc2023": "1761.086",
@@ -1667,11 +1754,12 @@
     "currency": "HTG",
     "timezones": "UTC-04:00",
     "area": 27750,
-    "density": 430.5889,
+    "density": 427.161,
     "rusName": "Гаити",
     "debt": "25",
     "pop2023": 11724763,
-    "code": "HTI"
+    "code": "HTI",
+    "pop2024": 11772557
   },
   {
     "gdppc2023": "3330.339",
@@ -1686,11 +1774,12 @@
     "currency": "HNL",
     "timezones": "UTC-06:00",
     "area": 112492,
-    "density": 96.1606,
+    "density": 96.7531,
     "rusName": "Гондурас",
     "debt": "50",
     "pop2023": 10593798,
-    "code": "HND"
+    "code": "HND",
+    "pop2024": 10825703
   },
   {
     "gdppc2023": "50029.777",
@@ -1705,11 +1794,12 @@
     "currency": "HKD",
     "timezones": "UTC+08:00",
     "area": 1104,
-    "density": 7139.6962,
+    "density": 7061.8181,
     "rusName": "Гонконг",
     "debt": "4.3",
     "pop2023": 7491609,
-    "code": "HKG"
+    "code": "HKG",
+    "pop2024": 7414909
   },
   {
     "gdppc2023": "22146.885",
@@ -1724,11 +1814,12 @@
     "currency": "HUF",
     "timezones": "UTC+02:00",
     "area": 93028,
-    "density": 109.5222,
+    "density": 106.0282,
     "rusName": "Венгрия",
     "debt": "76.4",
     "pop2023": 10156239,
-    "code": "HUN"
+    "code": "HUN",
+    "pop2024": 9676135
   },
   {
     "gdppc2023": "79998.436",
@@ -1743,11 +1834,12 @@
     "currency": "ISK",
     "timezones": "UTC+00:00",
     "area": 103000,
-    "density": 3.7458,
+    "density": 3.9016,
     "rusName": "Исландия",
     "debt": "68.7",
     "pop2023": 375318,
-    "code": "ISL"
+    "code": "ISL",
+    "pop2024": 393396
   },
   {
     "gdppc2023": "2500.356",
@@ -1762,11 +1854,12 @@
     "currency": "INR",
     "timezones": "UTC+05:30",
     "area": 3287590,
-    "density": 484.9067,
+    "density": 488.0064,
     "rusName": "Индия",
     "debt": "83.1",
     "pop2023": 1428627663,
-    "code": "IND"
+    "code": "IND",
+    "pop2024": 1450935791
   },
   {
     "gdppc2023": "4942.361",
@@ -1781,11 +1874,12 @@
     "currency": "IDR",
     "timezones": "UTC+07:00",
     "area": 1904569,
-    "density": 149.0254,
+    "density": 150.9907,
     "rusName": "Индонезия",
     "debt": "39.9",
     "pop2023": 277534122,
-    "code": "IDN"
+    "code": "IDN",
+    "pop2024": 283487931
   },
   {
     "gdppc2023": "4662.52",
@@ -1800,11 +1894,12 @@
     "currency": "IRR",
     "timezones": "UTC+04:30",
     "area": 1648195,
-    "density": 55.3527,
+    "density": 56.4362,
     "rusName": "Иран",
     "debt": "34",
     "pop2023": 89172767,
-    "code": "IRN"
+    "code": "IRN",
+    "pop2024": 91567738
   },
   {
     "gdppc2023": "5869.58",
@@ -1819,11 +1914,12 @@
     "currency": "IQD",
     "timezones": "UTC+03:00",
     "area": 438317,
-    "density": 107.1658,
+    "density": 106.0563,
     "rusName": "Ирак",
     "debt": "43.3",
     "pop2023": 45504560,
-    "code": "IRQ"
+    "code": "IRQ",
+    "pop2024": 46042015
   },
   {
     "gdppc2023": "104272.075",
@@ -1838,11 +1934,12 @@
     "currency": "EUR",
     "timezones": "UTC+01:00",
     "area": 70273,
-    "density": 73.8783,
+    "density": 76.2813,
     "rusName": "Ирландия",
     "debt": "45.2",
     "pop2023": 5056935,
-    "code": "IRL"
+    "code": "IRL",
+    "pop2024": 5255017
   },
   {
     "gdppc2023": "52219.276",
@@ -1857,11 +1954,12 @@
     "currency": "ILS",
     "timezones": "UTC+03:00",
     "area": 20770,
-    "density": 430.2982,
+    "density": 433.781,
     "rusName": "Израиль",
     "debt": "60.9",
     "pop2023": 9174520,
-    "code": "ISR"
+    "code": "ISR",
+    "pop2024": 9387021
   },
   {
     "gdppc2023": "38325.839",
@@ -1876,11 +1974,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 301336,
-    "density": 198.493,
+    "density": 200.6745,
     "rusName": "Италия",
     "debt": "144.7",
     "pop2023": 58870762,
-    "code": "ITA"
+    "code": "ITA",
+    "pop2024": 59342867
   },
   {
     "gdppc2023": "6875.672",
@@ -1895,11 +1994,12 @@
     "currency": "JMD",
     "timezones": "UTC-05:00",
     "area": 10991,
-    "density": 260.8253,
+    "density": 262.1584,
     "rusName": "Ямайка",
     "debt": "84.1",
     "pop2023": 2825544,
-    "code": "JAM"
+    "code": "JAM",
+    "pop2024": 2839175
   },
   {
     "gdppc2023": "33805.939",
@@ -1914,11 +2014,12 @@
     "currency": "JPY",
     "timezones": "UTC+09:00",
     "area": 377930,
-    "density": 336.4374,
+    "density": 339.5145,
     "rusName": "Япония",
     "debt": "261.3",
     "pop2023": 123294513,
-    "code": "JPN"
+    "code": "JPN",
+    "pop2024": 123753041
   },
   {
     "gdppc2023": "4497.524",
@@ -1933,11 +2034,12 @@
     "currency": "JOD",
     "timezones": "UTC+03:00",
     "area": 89342,
-    "density": 128.2172,
+    "density": 130.1087,
     "rusName": "Иордания",
     "debt": "89.4",
     "pop2023": 11337052,
-    "code": "JOR"
+    "code": "JOR",
+    "pop2024": 11552876
   },
   {
     "gdppc2023": "13116.815",
@@ -1952,11 +2054,12 @@
     "currency": "KZT",
     "timezones": "UTC+06:00",
     "area": 2724900,
-    "density": 7.3446,
+    "density": 7.6277,
     "rusName": "Казахстан",
     "debt": "23.5",
     "pop2023": 19606633,
-    "code": "KAZ"
+    "code": "KAZ",
+    "pop2024": 20592571
   },
   {
     "gdppc2023": "2113.407",
@@ -1971,11 +2074,12 @@
     "currency": "KES",
     "timezones": "UTC+03:00",
     "area": 580367,
-    "density": 98.7508,
+    "density": 99.1548,
     "rusName": "Кения",
     "debt": "67.9",
     "pop2023": 55100586,
-    "code": "KEN"
+    "code": "KEN",
+    "pop2024": 56432944
   },
   {
     "gdppc2023": "2231.448",
@@ -1990,11 +2094,12 @@
     "currency": "AUD",
     "timezones": "UTC+12:00",
     "area": 811,
-    "density": 167.6086,
+    "density": 166.0716,
     "rusName": "Кирибати",
     "debt": "15.2",
     "pop2023": 133515,
-    "code": "KIR"
+    "code": "KIR",
+    "pop2024": 134518
   },
   {
     "gdppc2023": "2231.448",
@@ -2009,11 +2114,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 10887,
-    "density": 167.6086,
+    "density": 166.0716,
     "rusName": "Кирибати",
     "debt": "19.3",
     "pop2023": 133515,
-    "code": "KIR"
+    "code": "KIR",
+    "pop2024": 134518
   },
   {
     "gdppc2023": "32638.041",
@@ -2028,11 +2134,12 @@
     "currency": "KWD",
     "timezones": "UTC+03:00",
     "area": 17818,
-    "density": 244.073,
+    "density": 276.9084,
     "rusName": "Кувейт",
     "debt": "2.9",
     "pop2023": 4310108,
-    "code": "KWT"
+    "code": "KWT",
+    "pop2024": 4934507
   },
   {
     "gdppc2023": "1843.19",
@@ -2047,11 +2154,12 @@
     "currency": "KGS",
     "timezones": "UTC+06:00",
     "area": 199951,
-    "density": 35.6601,
+    "density": 37.4662,
     "rusName": "Киргизия",
     "debt": "53.5",
     "pop2023": 6735347,
-    "code": "KGZ"
+    "code": "KGZ",
+    "pop2024": 7186009
   },
   {
     "gdppc2023": "2004.349",
@@ -2066,11 +2174,12 @@
     "currency": "LAK",
     "timezones": "UTC+07:00",
     "area": 236800,
-    "density": 33.5211,
+    "density": 33.6647,
     "rusName": "Лаос",
     "debt": "128.5",
     "pop2023": 7633779,
-    "code": "LAO"
+    "code": "LAO",
+    "pop2024": 7769819
   },
   {
     "gdppc2023": "23153.479",
@@ -2085,11 +2194,12 @@
     "currency": "EUR",
     "timezones": "UTC+03:00",
     "area": 64559,
-    "density": 29.0895,
+    "density": 30.0799,
     "rusName": "Латвия",
     "debt": "41.6",
     "pop2023": 1830211,
-    "code": "LVA"
+    "code": "LVA",
+    "pop2024": 1871871
   },
   {
     "gdppc2023": "0",
@@ -2104,11 +2214,12 @@
     "currency": "LBP",
     "timezones": "UTC+03:00",
     "area": 10452,
-    "density": 510.1705,
+    "density": 567.5427,
     "rusName": "Ливан",
     "debt": "0",
     "pop2023": 5353930,
-    "code": "LBN"
+    "code": "LBN",
+    "pop2024": 5805962
   },
   {
     "gdppc2023": "1052.122",
@@ -2123,11 +2234,12 @@
     "currency": "LSL",
     "timezones": "UTC+02:00",
     "area": 30355,
-    "density": 77.6048,
+    "density": 76.9902,
     "rusName": "Лесото",
     "debt": "57.9",
     "pop2023": 2330318,
-    "code": "LSO"
+    "code": "LSO",
+    "pop2024": 2337423
   },
   {
     "gdppc2023": "808.229",
@@ -2142,11 +2254,12 @@
     "currency": "LRD",
     "timezones": "UTC+00:00",
     "area": 111369,
-    "density": 57.4849,
+    "density": 58.2726,
     "rusName": "Либерия",
     "debt": "55.4",
     "pop2023": 5418377,
-    "code": "LBR"
+    "code": "LBR",
+    "pop2024": 5612817
   },
   {
     "gdppc2023": "6576.036",
@@ -2161,11 +2274,12 @@
     "currency": "LYD",
     "timezones": "UTC+02:00",
     "area": 1759540,
-    "density": 3.958,
+    "density": 4.1949,
     "rusName": "Ливия",
     "debt": "0",
     "pop2023": 6888388,
-    "code": "LBY"
+    "code": "LBY",
+    "pop2024": 7381023
   },
   {
     "gdppc2023": "0",
@@ -2180,10 +2294,11 @@
     "currency": "CHF",
     "timezones": "UTC+02:00",
     "area": 160,
-    "density": 248.8875,
+    "density": 249.1875,
     "rusName": "Лихтенштейн",
     "debt": "0",
-    "pop2023": 39584
+    "pop2023": 39584,
+    "pop2024": 39870
   },
   {
     "gdppc2023": "27026.117",
@@ -2198,11 +2313,12 @@
     "currency": "LTL",
     "timezones": "UTC+03:00",
     "area": 65300,
-    "density": 43.0022,
+    "density": 45.6581,
     "rusName": "Литва",
     "debt": "39.6",
     "pop2023": 2718352,
-    "code": "LTU"
+    "code": "LTU",
+    "pop2024": 2859110
   },
   {
     "gdppc2023": "129810.315",
@@ -2217,18 +2333,19 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 2586,
-    "density": 256.9796,
+    "density": 261.424,
     "rusName": "Люксембург",
     "debt": "24.3",
     "pop2023": 654768,
-    "code": "LUX"
+    "code": "LUX",
+    "pop2024": 673036
   },
   {
     "gdppc2023": "69079.722",
     "gdpppppc2023": "116846.707",
     "growthgdp2023": "80.5",
     "gdp2023": "47.061",
-    "country": "Macao",
+    "country": "Macau",
     "phoneCode": "+853",
     "capital": "",
     "abbr": "MAC",
@@ -2236,11 +2353,12 @@
     "currency": "MOP",
     "timezones": "UTC+08:00",
     "area": 30,
-    "density": 21674.2249,
+    "density": 21892.462,
     "rusName": "Макао",
     "debt": "0",
     "pop2023": 704149,
-    "code": "MAC"
+    "code": "MAC",
+    "pop2024": 720262
   },
   {
     "gdppc2023": "8147.93",
@@ -2255,11 +2373,12 @@
     "currency": "MKD",
     "timezones": "UTC+02:00",
     "area": 25713,
-    "density": 82.5815,
+    "density": 72.2843,
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 2085679,
-    "code": "MKD"
+    "code": "MKD",
+    "pop2024": 1823009
   },
   {
     "gdppc2023": "529.224",
@@ -2274,11 +2393,12 @@
     "currency": "MGA",
     "timezones": "UTC+03:00",
     "area": 587041,
-    "density": 53.3802,
+    "density": 54.9415,
     "rusName": "Мадагаскар",
     "debt": "57",
     "pop2023": 30325732,
-    "code": "MDG"
+    "code": "MDG",
+    "pop2024": 31964956
   },
   {
     "gdppc2023": "577.538",
@@ -2293,11 +2413,12 @@
     "currency": "MWK",
     "timezones": "UTC+02:00",
     "area": 118484,
-    "density": 227.7892,
+    "density": 229.6912,
     "rusName": "Малави",
     "debt": "70.1",
     "pop2023": 20931751,
-    "code": "MWI"
+    "code": "MWI",
+    "pop2024": 21655286
   },
   {
     "gdppc2023": "12570.46",
@@ -2312,11 +2433,12 @@
     "currency": "MYR",
     "timezones": "UTC+08:00",
     "area": 330803,
-    "density": 105.53,
+    "density": 108.2261,
     "rusName": "Малайзия",
     "debt": "66.3",
     "pop2023": 34308525,
-    "code": "MYS"
+    "code": "MYS",
+    "pop2024": 35557673
   },
   {
     "gdppc2023": "16822.54",
@@ -2331,11 +2453,12 @@
     "currency": "MVR",
     "timezones": "UTC+05:00",
     "area": 300,
-    "density": 1726.29,
+    "density": 1759.33,
     "rusName": "Мальдивы",
     "debt": "114.9",
     "pop2023": 521021,
-    "code": "MDV"
+    "code": "MDV",
+    "pop2024": 527799
   },
   {
     "gdppc2023": "885.88",
@@ -2350,11 +2473,12 @@
     "currency": "XOF",
     "timezones": "UTC+00:00",
     "area": 1240192,
-    "density": 19.682,
+    "density": 20.0613,
     "rusName": "Мали",
     "debt": "53.2",
     "pop2023": 23293698,
-    "code": "MLI"
+    "code": "MLI",
+    "pop2024": 24478595
   },
   {
     "gdppc2023": "38673.584",
@@ -2369,11 +2493,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 316,
-    "density": 1677.3125,
+    "density": 1686.2719,
     "rusName": "Мальта",
     "debt": "55.8",
     "pop2023": 535064,
-    "code": "MLT"
+    "code": "MLT",
+    "pop2024": 539607
   },
   {
     "gdppc2023": "6306.945",
@@ -2388,11 +2513,12 @@
     "currency": "USD",
     "timezones": "UTC+12:00",
     "area": 181,
-    "density": 235.6389,
+    "density": 208.6,
     "rusName": "Маршалловы Острова",
     "debt": "21.2",
     "pop2023": 41996,
-    "code": "MHL"
+    "code": "MHL",
+    "pop2024": 37548
   },
   {
     "gdppc2023": "0",
@@ -2407,10 +2533,11 @@
     "currency": "EUR",
     "timezones": "UTC-04:00",
     "area": 1128,
-    "density": 324.8369,
+    "density": 304.2509,
     "rusName": "Мартиника",
     "debt": "0",
-    "pop2023": 366981
+    "pop2023": 366981,
+    "pop2024": 343195
   },
   {
     "gdppc2023": "2379.854",
@@ -2425,11 +2552,12 @@
     "currency": "MRO",
     "timezones": "UTC+00:00",
     "area": 1030700,
-    "density": 4.8452,
+    "density": 5.0154,
     "rusName": "Мавритания",
     "debt": "47.7",
     "pop2023": 4862989,
-    "code": "MRT"
+    "code": "MRT",
+    "pop2024": 5169395
   },
   {
     "gdppc2023": "11396.06",
@@ -2444,11 +2572,12 @@
     "currency": "MUR",
     "timezones": "UTC+04:00",
     "area": 2040,
-    "density": 641.3685,
+    "density": 626.1916,
     "rusName": "Маврикий",
     "debt": "80.9",
     "pop2023": 1300557,
-    "code": "MUS"
+    "code": "MUS",
+    "pop2024": 1271169
   },
   {
     "gdppc2023": "0",
@@ -2463,10 +2592,11 @@
     "currency": "EUR",
     "timezones": "UTC+03:00",
     "area": 374,
-    "density": 925.123,
+    "density": 873.008,
     "rusName": "Майотта",
     "debt": "0",
-    "pop2023": 335995
+    "pop2023": 335995,
+    "pop2024": 326505
   },
   {
     "gdppc2023": "13641.613",
@@ -2481,11 +2611,12 @@
     "currency": "MXN",
     "timezones": "UTC-05:00",
     "area": 1964375,
-    "density": 66.5596,
+    "density": 67.3171,
     "rusName": "Мексика",
     "debt": "56",
     "pop2023": 128455567,
-    "code": "MEX"
+    "code": "MEX",
+    "pop2024": 130861007
   },
   {
     "gdppc2023": "6832.465",
@@ -2500,11 +2631,12 @@
     "currency": "MDL",
     "timezones": "UTC+03:00",
     "area": 33846,
-    "density": 101.2591,
+    "density": 92.2913,
     "rusName": "Молдавия",
     "debt": "33.5",
     "pop2023": 3435931,
-    "code": "MDA"
+    "code": "MDA",
+    "pop2024": 3034961
   },
   {
     "gdppc2023": "0",
@@ -2519,10 +2651,11 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 2.02,
-    "density": 18078.5,
+    "density": 19315.5,
     "rusName": "Монако",
     "debt": "0",
-    "pop2023": 36297
+    "pop2023": 36297,
+    "pop2024": 38631
   },
   {
     "gdppc2023": "5668.351",
@@ -2537,11 +2670,12 @@
     "currency": "MNT",
     "timezones": "UTC+08:00",
     "area": 1564110,
-    "density": 2.2431,
+    "density": 2.2315,
     "rusName": "Монголия",
     "debt": "82.4",
     "pop2023": 3447157,
-    "code": "MNG"
+    "code": "MNG",
+    "pop2024": 3475540
   },
   {
     "gdppc2023": "11696.262",
@@ -2556,11 +2690,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 13812,
-    "density": 46.5503,
+    "density": 47.4706,
     "rusName": "Черногория",
     "debt": "71.2",
     "pop2023": 626485,
-    "code": "MNE"
+    "code": "MNE",
+    "pop2024": 638479
   },
   {
     "gdppc2023": "0",
@@ -2575,10 +2710,11 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 102,
-    "density": 42.8627,
+    "density": 43.0294,
     "rusName": "Монтсеррат",
     "debt": "0",
-    "pop2023": 4386
+    "pop2023": 4386,
+    "pop2024": 4389
   },
   {
     "gdppc2023": "3888.585",
@@ -2593,11 +2729,12 @@
     "currency": "MAD",
     "timezones": "UTC+00:00",
     "area": 446550,
-    "density": 85.6183,
+    "density": 85.3264,
     "rusName": "Марокко",
     "debt": "68.8",
     "pop2023": 37840044,
-    "code": "MAR"
+    "code": "MAR",
+    "pop2024": 38081173
   },
   {
     "gdppc2023": "629.921",
@@ -2612,11 +2749,12 @@
     "currency": "MZN",
     "timezones": "UTC+02:00",
     "area": 801590,
-    "density": 44.3277,
+    "density": 44.0395,
     "rusName": "Мозамбик",
     "debt": "104.5",
     "pop2023": 33897354,
-    "code": "MOZ"
+    "code": "MOZ",
+    "pop2024": 34631766
   },
   {
     "gdppc2023": "1189.842",
@@ -2631,11 +2769,12 @@
     "currency": "MMK",
     "timezones": "UTC+06:30",
     "area": 676578,
-    "density": 84.2151,
+    "density": 83.5033,
     "rusName": "Мьянма",
     "debt": "63.9",
     "pop2023": 54577997,
-    "code": "MMR"
+    "code": "MMR",
+    "pop2024": 54500091
   },
   {
     "gdppc2023": "4664.713",
@@ -2650,11 +2789,12 @@
     "currency": "NAD",
     "timezones": "UTC+02:00",
     "area": 825615,
-    "density": 3.2137,
+    "density": 3.6805,
     "rusName": "Намибия",
     "debt": "71.3",
     "pop2023": 2604172,
-    "code": "NAM"
+    "code": "NAM",
+    "pop2024": 3030131
   },
   {
     "gdppc2023": "12037.888",
@@ -2669,11 +2809,12 @@
     "currency": "AUD",
     "timezones": "UTC+12:00",
     "area": 21,
-    "density": 644.2,
+    "density": 597.35,
     "rusName": "Науру",
     "debt": "24.3",
     "pop2023": 12780,
-    "code": "NRU"
+    "code": "NRU",
+    "pop2024": 11947
   },
   {
     "gdppc2023": "1319.643",
@@ -2688,11 +2829,12 @@
     "currency": "NPR",
     "timezones": "UTC+05:45",
     "area": 147181,
-    "density": 217.9303,
+    "density": 206.8438,
     "rusName": "Непал",
     "debt": "43.8",
     "pop2023": 30896590,
-    "code": "NPL"
+    "code": "NPL",
+    "pop2024": 29651054
   },
   {
     "gdppc2023": "62718.681",
@@ -2707,11 +2849,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 41850,
-    "density": 524.8329,
+    "density": 541.3942,
     "rusName": "Нидерланды",
     "debt": "48.5",
     "pop2023": 17618299,
-    "code": "NLD"
+    "code": "NLD",
+    "pop2024": 18228742
   },
   {
     "gdppc2023": "0",
@@ -2744,10 +2887,11 @@
     "currency": "XPF",
     "timezones": "UTC+11:00",
     "area": 18575,
-    "density": 16.1907,
+    "density": 16.0087,
     "rusName": "Новая Каледония",
     "debt": "0",
-    "pop2023": 292991
+    "pop2023": 292991,
+    "pop2024": 292639
   },
   {
     "gdppc2023": "47536.739",
@@ -2762,11 +2906,12 @@
     "currency": "NZD",
     "timezones": "UTC+12:00",
     "area": 270467,
-    "density": 20.0142,
+    "density": 19.8015,
     "rusName": "Новая Зеландия",
     "debt": "52.8",
     "pop2023": 5228100,
-    "code": "NZL"
+    "code": "NZL",
+    "pop2024": 5213944
   },
   {
     "gdppc2023": "2608.085",
@@ -2781,11 +2926,12 @@
     "currency": "NIO",
     "timezones": "UTC-06:00",
     "area": 130373,
-    "density": 59.3529,
+    "density": 57.4717,
     "rusName": "Никарагуа",
     "debt": "46",
     "pop2023": 7046310,
-    "code": "NIC"
+    "code": "NIC",
+    "pop2024": 6916140
   },
   {
     "gdppc2023": "610.635",
@@ -2800,11 +2946,12 @@
     "currency": "XOF",
     "timezones": "UTC+01:00",
     "area": 1267000,
-    "density": 22.2933,
+    "density": 21.3408,
     "rusName": "Нигер",
     "debt": "51.1",
     "pop2023": 27202843,
-    "code": "NER"
+    "code": "NER",
+    "pop2024": 27032412
   },
   {
     "gdppc2023": "1687.568",
@@ -2819,11 +2966,12 @@
     "currency": "NGN",
     "timezones": "UTC+01:00",
     "area": 923768,
-    "density": 251.6027,
+    "density": 255.4756,
     "rusName": "Нигерия",
     "debt": "38",
     "pop2023": 223804632,
-    "code": "NGA"
+    "code": "NGA",
+    "pop2024": 232679478
   },
   {
     "gdppc2023": "0",
@@ -2838,10 +2986,11 @@
     "currency": "NZD",
     "timezones": "UTC-11:00",
     "area": 260,
-    "density": 7.4138,
+    "density": 6.9693,
     "rusName": "Ниуэ",
     "debt": "0",
-    "pop2023": 1935
+    "pop2023": 1935,
+    "pop2024": 1819
   },
   {
     "gdppc2023": "0",
@@ -2874,10 +3023,11 @@
     "currency": "KPW",
     "timezones": "UTC+09:00",
     "area": 120538,
-    "density": 217.9602,
+    "density": 220.0716,
     "rusName": "Северная Корея",
     "debt": "0",
-    "pop2023": 26160821
+    "pop2023": 26160821,
+    "pop2024": 26498823
   },
   {
     "gdppc2023": "0",
@@ -2892,10 +3042,11 @@
     "currency": "USD",
     "timezones": "UTC+10:00",
     "area": 464,
-    "density": 108.75,
+    "density": 96.2565,
     "rusName": "Северные Марианские острова",
     "debt": "0",
-    "pop2023": 49796
+    "pop2023": 49796,
+    "pop2024": 44278
   },
   {
     "gdppc2023": "8147.93",
@@ -2910,11 +3061,12 @@
     "currency": "MKD",
     "timezones": "UTC+02:00",
     "area": 25713,
-    "density": 108.75,
+    "density": 72.2843,
     "rusName": "Северная Македония",
     "debt": "51.8",
     "pop2023": 49796,
-    "code": "MKD"
+    "code": "MKD",
+    "pop2024": 1823009
   },
   {
     "gdppc2023": "87739.41",
@@ -2929,11 +3081,12 @@
     "currency": "NOK",
     "timezones": "UTC+01:00",
     "area": 323802,
-    "density": 15.1378,
+    "density": 15.3085,
     "rusName": "Норвегия",
     "debt": "39.6",
     "pop2023": 5474360,
-    "code": "NOR"
+    "code": "NOR",
+    "pop2024": 5576660
   },
   {
     "gdppc2023": "21623.401",
@@ -2948,11 +3101,12 @@
     "currency": "OMR",
     "timezones": "UTC+04:00",
     "area": 309500,
-    "density": 15.2296,
+    "density": 17.0647,
     "rusName": "Оман",
     "debt": "40.1",
     "pop2023": 4644384,
-    "code": "OMN"
+    "code": "OMN",
+    "pop2024": 5281538
   },
   {
     "gdppc2023": "1460.74",
@@ -2967,11 +3121,12 @@
     "currency": "PKR",
     "timezones": "UTC+05:00",
     "area": 881912,
-    "density": 318.0908,
+    "density": 325.9511,
     "rusName": "Пакистан",
     "debt": "75.8",
     "pop2023": 240485658,
-    "code": "PAK"
+    "code": "PAK",
+    "pop2024": 251269164
   },
   {
     "gdppc2023": "15084.549",
@@ -2986,11 +3141,12 @@
     "currency": "USD",
     "timezones": "UTC+09:00",
     "area": 459,
-    "density": 39.2413,
+    "density": 38.4674,
     "rusName": "Палау",
     "debt": "0",
     "pop2023": 18058,
-    "code": "PLW"
+    "code": "PLW",
+    "pop2024": 17695
   },
   {
     "gdppc2023": "0",
@@ -3005,10 +3161,11 @@
     "currency": "ILS",
     "timezones": "UTC+03:00",
     "area": 6220,
-    "density": 912.7846,
+    "density": 912.8643,
     "rusName": "Палестина",
     "debt": "0",
-    "pop2023": 5371230
+    "pop2023": 5371230,
+    "pop2024": 5495443
   },
   {
     "gdppc2023": "18725.739",
@@ -3023,11 +3180,12 @@
     "currency": "PAB",
     "timezones": "UTC-05:00",
     "area": 75417,
-    "density": 61.0402,
+    "density": 60.8732,
     "rusName": "Панама",
     "debt": "54.9",
     "pop2023": 4468087,
-    "code": "PAN"
+    "code": "PAN",
+    "pop2024": 4515577
   },
   {
     "gdppc2023": "2524.633",
@@ -3042,11 +3200,12 @@
     "currency": "PGK",
     "timezones": "UTC+10:00",
     "area": 462840,
-    "density": 23.2208,
+    "density": 23.3549,
     "rusName": "Папуа — Новая Гвинея",
     "debt": "49.2",
     "pop2023": 10329931,
-    "code": "PNG"
+    "code": "PNG",
+    "pop2024": 10576502
   },
   {
     "gdppc2023": "5806.988",
@@ -3061,11 +3220,12 @@
     "currency": "PYG",
     "timezones": "UTC-04:00",
     "area": 406752,
-    "density": 17.4862,
+    "density": 17.4406,
     "rusName": "Парагвай",
     "debt": "40.9",
     "pop2023": 6861524,
-    "code": "PRY"
+    "code": "PRY",
+    "pop2024": 6929153
   },
   {
     "gdppc2023": "7932.905",
@@ -3080,11 +3240,12 @@
     "currency": "PEN",
     "timezones": "UTC-05:00",
     "area": 1285216,
-    "density": 27.0964,
+    "density": 26.7327,
     "rusName": "Перу",
     "debt": "33.4",
     "pop2023": 34352719,
-    "code": "PER"
+    "code": "PER",
+    "pop2024": 34217848
   },
   {
     "gdppc2023": "3867.672",
@@ -3099,11 +3260,12 @@
     "currency": "PHP",
     "timezones": "UTC+08:00",
     "area": 342353,
-    "density": 399.4574,
+    "density": 388.5155,
     "rusName": "Филиппины",
     "debt": "57.5",
     "pop2023": 117337368,
-    "code": "PHL"
+    "code": "PHL",
+    "pop2024": 115843670
   },
   {
     "gdppc2023": "21995.995",
@@ -3118,11 +3280,12 @@
     "currency": "PLN",
     "timezones": "UTC+01:00",
     "area": 312679,
-    "density": 131.3877,
+    "density": 125.8916,
     "rusName": "Польша",
     "debt": "49.6",
     "pop2023": 41026067,
-    "code": "POL"
+    "code": "POL",
+    "pop2024": 38539201
   },
   {
     "gdppc2023": "27880.066",
@@ -3137,11 +3300,12 @@
     "currency": "EUR",
     "timezones": "UTC+01:00",
     "area": 92090,
-    "density": 111.6018,
+    "density": 113.8063,
     "rusName": "Португалия",
     "debt": "116",
     "pop2023": 10247605,
-    "code": "PRT"
+    "code": "PRT",
+    "pop2024": 10425292
   },
   {
     "gdppc2023": "36369.133",
@@ -3156,11 +3320,12 @@
     "currency": "USD",
     "timezones": "UTC-04:00",
     "area": 8870,
-    "density": 368.5233,
+    "density": 365.5247,
     "rusName": "Пуэрто-Рико",
     "debt": "16.3",
     "pop2023": 3260314,
-    "code": "PRI"
+    "code": "PRI",
+    "pop2024": 3242204
   },
   {
     "gdppc2023": "78696.207",
@@ -3175,18 +3340,19 @@
     "currency": "QAR",
     "timezones": "UTC+03:00",
     "area": 11586,
-    "density": 238.2124,
+    "density": 265.311,
     "rusName": "Катар",
     "debt": "45.3",
     "pop2023": 2716391,
-    "code": "QAT"
+    "code": "QAT",
+    "pop2024": 3048423
   },
   {
     "gdppc2023": "2349.952",
     "gdpppppc2023": "4555.655",
     "growthgdp2023": "4",
     "gdp2023": "14.423",
-    "country": "Congo",
+    "country": "Republic of the Congo",
     "phoneCode": "+242",
     "capital": "Brazzaville",
     "abbr": "ROC",
@@ -3194,11 +3360,12 @@
     "currency": "XAF",
     "timezones": "UTC+01:00",
     "area": 342000,
-    "density": 18.2856,
+    "density": 18.5445,
     "rusName": "Республика Конго",
     "debt": "99.6",
     "pop2023": 6106869,
-    "code": "COG"
+    "code": "COG",
+    "pop2024": 6332961
   },
   {
     "gdppc2023": "0",
@@ -3213,10 +3380,11 @@
     "currency": "EUR",
     "timezones": "UTC+04:00",
     "area": 2511,
-    "density": 393.8495,
+    "density": 349.7576,
     "rusName": "Рейюньион",
     "debt": "0",
-    "pop2023": 981796
+    "pop2023": 981796,
+    "pop2024": 878591
   },
   {
     "gdppc2023": "18175.989",
@@ -3231,18 +3399,19 @@
     "currency": "RON",
     "timezones": "UTC+03:00",
     "area": 238391,
-    "density": 85.2703,
+    "density": 82.6455,
     "rusName": "Румыния",
     "debt": "48.7",
     "pop2023": 19892812,
-    "code": "ROU"
+    "code": "ROU",
+    "pop2024": 19015088
   },
   {
     "gdppc2023": "13647.814",
     "gdpppppc2023": "35401.386",
     "growthgdp2023": "3.6",
     "gdp2023": "1997.03",
-    "country": "Russian Federation",
+    "country": "Russia",
     "phoneCode": "+7",
     "capital": "Moscow",
     "abbr": "RUS",
@@ -3250,11 +3419,12 @@
     "currency": "RUB",
     "timezones": "UTC+03:00",
     "area": 17098242,
-    "density": 8.7903,
+    "density": 8.843,
     "rusName": "Россия",
     "debt": "19.6",
     "pop2023": 144444359,
-    "code": "RUS"
+    "code": "RUS",
+    "pop2024": 144820423
   },
   {
     "gdppc2023": "1038.642",
@@ -3269,11 +3439,12 @@
     "currency": "RWF",
     "timezones": "UTC+02:00",
     "area": 26338,
-    "density": 584.3093,
+    "density": 577.8908,
     "rusName": "Руанда",
     "debt": "64.4",
     "pop2023": 14094683,
-    "code": "RWA"
+    "code": "RWA",
+    "pop2024": 14256567
   },
   {
     "gdppc2023": "0",
@@ -3288,10 +3459,11 @@
     "currency": "EUR",
     "timezones": "UTC-04:00",
     "area": 21,
-    "density": 440.76,
+    "density": 450.32,
     "rusName": "Сен-Бартельми",
     "debt": "0",
-    "pop2023": 10994
+    "pop2023": 10994,
+    "pop2024": 11258
   },
   {
     "gdppc2023": "0",
@@ -3324,11 +3496,12 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 261,
-    "density": 184.0269,
+    "density": 180.1654,
     "rusName": "Сент-Китс и Невис",
     "debt": "64.8",
     "pop2023": 47755,
-    "code": "KNA"
+    "code": "KNA",
+    "pop2024": 46843
   },
   {
     "gdppc2023": "0",
@@ -3343,10 +3516,11 @@
     "currency": "EUR",
     "timezones": "UTC-04:00",
     "area": 53,
-    "density": 646.74,
+    "density": 522.58,
     "rusName": "Сен-Мартен (Франция)",
     "debt": "0",
-    "pop2023": 32077
+    "pop2023": 32077,
+    "pop2024": 26129
   },
   {
     "gdppc2023": "0",
@@ -3361,10 +3535,11 @@
     "currency": "EUR",
     "timezones": "UTC-02:00",
     "area": 242,
-    "density": 24.0289,
+    "density": 23.2562,
     "rusName": "Сен-Пьер и Микелон",
     "debt": "0",
-    "pop2023": 5840
+    "pop2023": 5840,
+    "pop2024": 5628
   },
   {
     "gdppc2023": "9377.364",
@@ -3379,11 +3554,12 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 389,
-    "density": 265.8538,
+    "density": 257.9897,
     "rusName": "Сент-Винсент и Гренадины",
     "debt": "86.8",
     "pop2023": 103698,
-    "code": "VCT"
+    "code": "VCT",
+    "pop2024": 100616
   },
   {
     "gdppc2023": "4478.194",
@@ -3398,11 +3574,12 @@
     "currency": "WST",
     "timezones": "UTC+13:00",
     "area": 2842,
-    "density": 82.3619,
+    "density": 78.4241,
     "rusName": "Самоа",
     "debt": "43.7",
     "pop2023": 225681,
-    "code": "WSM"
+    "code": "WSM",
+    "pop2024": 218019
   },
   {
     "gdppc2023": "57259.3",
@@ -3417,11 +3594,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 61,
-    "density": 560.2333,
+    "density": 559.6833,
     "rusName": "Сан-Марино",
     "debt": "81.2",
     "pop2023": 33642,
-    "code": "SMR"
+    "code": "SMR",
+    "pop2024": 33581
   },
   {
     "gdppc2023": "2827.812",
@@ -3436,11 +3614,12 @@
     "currency": "STD",
     "timezones": "UTC+00:00",
     "area": 964,
-    "density": 246.2302,
+    "density": 245.35,
     "rusName": "Сан-Томе и Принсипи",
     "debt": "58.1",
     "pop2023": 231856,
-    "code": "STP"
+    "code": "STP",
+    "pop2024": 235536
   },
   {
     "gdppc2023": "32529.702",
@@ -3455,11 +3634,12 @@
     "currency": "SAR",
     "timezones": "UTC+03:00",
     "area": 2149690,
-    "density": 17.4322,
+    "density": 15.7989,
     "rusName": "Саудовская Аравия",
     "debt": "22.6",
     "pop2023": 36947025,
-    "code": "SAU"
+    "code": "SAU",
+    "pop2024": 33962757
   },
   {
     "gdppc2023": "1729.274",
@@ -3474,11 +3654,12 @@
     "currency": "XOF",
     "timezones": "UTC+00:00",
     "area": 196722,
-    "density": 94.6427,
+    "density": 96.0992,
     "rusName": "Сенегал",
     "debt": "75",
     "pop2023": 17763163,
-    "code": "SEN"
+    "code": "SEN",
+    "pop2024": 18501984
   },
   {
     "gdppc2023": "11327.13",
@@ -3493,11 +3674,12 @@
     "currency": "RSD",
     "timezones": "UTC+02:00",
     "area": 88361,
-    "density": 81.146,
+    "density": 77.0205,
     "rusName": "Сербия",
     "debt": "53.5",
     "pop2023": 7149077,
-    "code": "SRB"
+    "code": "SRB",
+    "pop2024": 6736216
   },
   {
     "gdppc2023": "21575.319",
@@ -3512,11 +3694,12 @@
     "currency": "SCR",
     "timezones": "UTC+04:00",
     "area": 452,
-    "density": 235.3543,
+    "density": 283.5174,
     "rusName": "Сейшельские Острова",
     "debt": "63.4",
     "pop2023": 107660,
-    "code": "SYC"
+    "code": "SYC",
+    "pop2024": 130418
   },
   {
     "gdppc2023": "460.598",
@@ -3531,11 +3714,12 @@
     "currency": "SLL",
     "timezones": "UTC+00:00",
     "area": 71740,
-    "density": 124.3831,
+    "density": 119.7288,
     "rusName": "Сьерра-Леоне",
     "debt": "98.8",
     "pop2023": 8791092,
-    "code": "SLE"
+    "code": "SLE",
+    "pop2024": 8642022
   },
   {
     "gdppc2023": "84734.277",
@@ -3550,11 +3734,12 @@
     "currency": "SGD",
     "timezones": "UTC+08:00",
     "area": 710,
-    "density": 8429.9568,
+    "density": 8123.1017,
     "rusName": "Сингапур",
     "debt": "134.2",
     "pop2023": 6014723,
-    "code": "SGP"
+    "code": "SGP",
+    "pop2024": 5832387
   },
   {
     "gdppc2023": "0",
@@ -3569,10 +3754,11 @@
     "currency": "ANG",
     "timezones": "UTC-04:00",
     "area": 34,
-    "density": 1303.2059,
+    "density": 1275,
     "rusName": "Синт-Мартен (остров)",
     "debt": "0",
-    "pop2023": 44222
+    "pop2023": 44222,
+    "pop2024": 43350
   },
   {
     "gdppc2023": "24337.251",
@@ -3587,11 +3773,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 49037,
-    "density": 116.3013,
+    "density": 112.3026,
     "rusName": "Словакия",
     "debt": "58.8",
     "pop2023": 5795199,
-    "code": "SVK"
+    "code": "SVK",
+    "pop2024": 5506760
   },
   {
     "gdppc2023": "32233.058",
@@ -3606,11 +3793,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 20273,
-    "density": 105.2306,
+    "density": 105.2173,
     "rusName": "Словения",
     "debt": "70.2",
     "pop2023": 2119675,
-    "code": "SVN"
+    "code": "SVN",
+    "pop2024": 2118697
   },
   {
     "gdppc2023": "2204.929",
@@ -3625,11 +3813,12 @@
     "currency": "SBD",
     "timezones": "UTC+11:00",
     "area": 28896,
-    "density": 27.0337,
+    "density": 29.2675,
     "rusName": "Соломоновы Острова",
     "debt": "16.9",
     "pop2023": 740424,
-    "code": "SLB"
+    "code": "SLB",
+    "pop2024": 819198
   },
   {
     "gdppc2023": "727.678",
@@ -3644,11 +3833,12 @@
     "currency": "SOS",
     "timezones": "UTC+03:00",
     "area": 637657,
-    "density": 29.8194,
+    "density": 30.3012,
     "rusName": "Сомали",
     "debt": "0",
     "pop2023": 18143378,
-    "code": "SOM"
+    "code": "SOM",
+    "pop2024": 19009151
   },
   {
     "gdppc2023": "6138.248",
@@ -3663,11 +3853,12 @@
     "currency": "ZAR",
     "timezones": "UTC+02:00",
     "area": 1221037,
-    "density": 50.3015,
+    "density": 52.7638,
     "rusName": "ЮАР",
     "debt": "71",
     "pop2023": 60414495,
-    "code": "ZAF"
+    "code": "ZAF",
+    "pop2024": 64007187
   },
   {
     "gdppc2023": "0",
@@ -3682,10 +3873,11 @@
     "currency": "KRW",
     "timezones": "UTC+09:00",
     "area": 100210,
-    "density": 530.1431,
+    "density": 529.8933,
     "rusName": "Республика Корея",
     "debt": "54.3",
-    "pop2023": 51784059
+    "pop2023": 51784059,
+    "pop2024": 51717590
   },
   {
     "gdppc2023": "485.913",
@@ -3700,11 +3892,12 @@
     "currency": "SSP",
     "timezones": "UTC+02:00",
     "area": 619745,
-    "density": 17.8455,
+    "density": 18.8999,
     "rusName": "Южный Судан",
     "debt": "39.6",
     "pop2023": 11088796,
-    "code": "SSD"
+    "code": "SSD",
+    "pop2024": 11943408
   },
   {
     "gdppc2023": "33071.349",
@@ -3719,11 +3912,12 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 505992,
-    "density": 95.031,
+    "density": 95.9061,
     "rusName": "Испания",
     "debt": "112",
     "pop2023": 47519628,
-    "code": "ESP"
+    "code": "ESP",
+    "pop2024": 47910526
   },
   {
     "gdppc2023": "0",
@@ -3738,11 +3932,12 @@
     "currency": "LKR",
     "timezones": "UTC+05:30",
     "area": 65610,
-    "density": 354.8217,
+    "density": 373.4815,
     "rusName": "Шри-Ланка",
     "debt": "117.7",
     "pop2023": 21893579,
-    "code": "LKA"
+    "code": "LKA",
+    "pop2024": 23103565
   },
   {
     "gdppc2023": "13545.906",
@@ -3757,11 +3952,12 @@
     "currency": "XCD",
     "timezones": "UTC-04:00",
     "area": 616,
-    "density": 296.4016,
+    "density": 294.6623,
     "rusName": "Сент-Люсия",
     "debt": "83.5",
     "pop2023": 180251,
-    "code": "LCA"
+    "code": "LCA",
+    "pop2024": 179744
   },
   {
     "gdppc2023": "536.922",
@@ -3776,11 +3972,12 @@
     "currency": "SDG",
     "timezones": "UTC+03:00",
     "area": 1886068,
-    "density": 26.423,
+    "density": 27.0069,
     "rusName": "Судан",
     "debt": "127.6",
     "pop2023": 48109006,
-    "code": "SDN"
+    "code": "SDN",
+    "pop2024": 50448963
   },
   {
     "gdppc2023": "5885.181",
@@ -3795,11 +3992,12 @@
     "currency": "SRD",
     "timezones": "UTC-03:00",
     "area": 163820,
-    "density": 4.0307,
+    "density": 4.0669,
     "rusName": "Суринам",
     "debt": "123.2",
     "pop2023": 623236,
-    "code": "SUR"
+    "code": "SUR",
+    "pop2024": 634431
   },
   {
     "gdppc2023": "4184.275",
@@ -3814,11 +4012,12 @@
     "currency": "SZL",
     "timezones": "UTC+02:00",
     "area": 17364,
-    "density": 71.0509,
+    "density": 72.2571,
     "rusName": "Эсватини",
     "debt": "45.4",
     "pop2023": 1210822,
-    "code": "SWZ"
+    "code": "SWZ",
+    "pop2024": 1242822
   },
   {
     "gdppc2023": "56224.808",
@@ -3833,11 +4032,12 @@
     "currency": "SEK",
     "timezones": "UTC+02:00",
     "area": 450295,
-    "density": 26.207,
+    "density": 26.0433,
     "rusName": "Швеция",
     "debt": "31.7",
     "pop2023": 10612086,
-    "code": "SWE"
+    "code": "SWE",
+    "pop2024": 10606999
   },
   {
     "gdppc2023": "100413.067",
@@ -3852,11 +4052,12 @@
     "currency": "CHF",
     "timezones": "UTC+02:00",
     "area": 41284,
-    "density": 223.9961,
+    "density": 225.7815,
     "rusName": "Швейцария",
     "debt": "39.1",
     "pop2023": 8796669,
-    "code": "CHE"
+    "code": "CHE",
+    "pop2024": 8921981
   },
   {
     "gdppc2023": "0",
@@ -3871,11 +4072,12 @@
     "currency": "SYP",
     "timezones": "UTC+03:00",
     "area": 185180,
-    "density": 132.593,
+    "density": 134.3613,
     "rusName": "Сирия",
     "debt": "0",
     "pop2023": 23227014,
-    "code": "SYR"
+    "code": "SYR",
+    "pop2024": 24672760
   },
   {
     "gdppc2023": "32443.705",
@@ -3890,11 +4092,12 @@
     "currency": "TWD",
     "timezones": "UTC+08:00",
     "area": 36193,
-    "density": 661.663,
+    "density": 641.3228,
     "rusName": "Тайвань",
     "debt": "27.5",
     "pop2023": 23923276,
-    "code": "TWN"
+    "code": "TWN",
+    "pop2024": 23213962
   },
   {
     "gdppc2023": "1183.908",
@@ -3909,11 +4112,12 @@
     "currency": "TJS",
     "timezones": "UTC+05:00",
     "area": 143100,
-    "density": 74.4399,
+    "density": 76.309,
     "rusName": "Таджикистан",
     "debt": "34.6",
     "pop2023": 10143543,
-    "code": "TJK"
+    "code": "TJK",
+    "pop2024": 10590927
   },
   {
     "gdppc2023": "1254.229",
@@ -3928,11 +4132,12 @@
     "currency": "TZS",
     "timezones": "UTC+03:00",
     "area": 945087,
-    "density": 78.3688,
+    "density": 77.3991,
     "rusName": "Танзания",
     "debt": "41.6",
     "pop2023": 67438106,
-    "code": "TZA"
+    "code": "TZA",
+    "pop2024": 68560157
   },
   {
     "gdppc2023": "7337.194",
@@ -3947,11 +4152,12 @@
     "currency": "THB",
     "timezones": "UTC+07:00",
     "area": 513120,
-    "density": 140.707,
+    "density": 140.2807,
     "rusName": "Таиланд",
     "debt": "60.5",
     "pop2023": 71801279,
-    "code": "THA"
+    "code": "THA",
+    "pop2024": 71668011
   },
   {
     "gdppc2023": "1730.627",
@@ -3966,11 +4172,12 @@
     "currency": "USD",
     "timezones": "UTC+09:00",
     "area": 14874,
-    "density": 92.7964,
+    "density": 94.1922,
     "rusName": "Восточный Тимор",
     "debt": "7.5",
     "pop2023": 1360596,
-    "code": "TLS"
+    "code": "TLS",
+    "pop2024": 1400638
   },
   {
     "gdppc2023": "998.245",
@@ -3985,11 +4192,12 @@
     "currency": "XOF",
     "timezones": "UTC",
     "area": 56785,
-    "density": 170.2678,
+    "density": 174.9446,
     "rusName": "Того",
     "debt": "68",
     "pop2023": 9053799,
-    "code": "TGO"
+    "code": "TGO",
+    "pop2024": 9515236
   },
   {
     "gdppc2023": "0",
@@ -4004,10 +4212,11 @@
     "currency": "NZD",
     "timezones": "UTC+13:00",
     "area": 12,
-    "density": 191.5,
+    "density": 250.6,
     "rusName": "Токелау",
     "debt": "0",
-    "pop2023": 1893
+    "pop2023": 1893,
+    "pop2024": 2506
   },
   {
     "gdppc2023": "5487.667",
@@ -4022,11 +4231,12 @@
     "currency": "TOP",
     "timezones": "UTC+13:00",
     "area": 747,
-    "density": 150.9486,
+    "density": 144.6875,
     "rusName": "Тонга",
     "debt": "46.6",
     "pop2023": 107773,
-    "code": "TON"
+    "code": "TON",
+    "pop2024": 104175
   },
   {
     "gdppc2023": "19801.012",
@@ -4041,11 +4251,12 @@
     "currency": "TTD",
     "timezones": "UTC-04:00",
     "area": 5130,
-    "density": 299.8441,
+    "density": 293.9146,
     "rusName": "Тринидад и Тобаго",
     "debt": "53.8",
     "pop2023": 1534937,
-    "code": "TTO"
+    "code": "TTO",
+    "pop2024": 1507782
   },
   {
     "gdppc2023": "4191.62",
@@ -4060,11 +4271,12 @@
     "currency": "TND",
     "timezones": "UTC+01:00",
     "area": 163610,
-    "density": 80.8747,
+    "density": 79.0236,
     "rusName": "Тунис",
     "debt": "79.4",
     "pop2023": 12458223,
-    "code": "TUN"
+    "code": "TUN",
+    "pop2024": 12277109
   },
   {
     "gdppc2023": "12849",
@@ -4079,11 +4291,12 @@
     "currency": "TRY",
     "timezones": "UTC+03:00",
     "area": 783562,
-    "density": 110.0875,
+    "density": 111.6361,
     "rusName": "Турция",
     "debt": "31.2",
     "pop2023": 85816199,
-    "code": "TUR"
+    "code": "TUR",
+    "pop2024": 87473805
   },
   {
     "gdppc2023": "11833.107",
@@ -4098,11 +4311,12 @@
     "currency": "TMT",
     "timezones": "UTC+05:00",
     "area": 488100,
-    "density": 14.0405,
+    "density": 15.9481,
     "rusName": "Туркмения",
     "debt": "5.2",
     "pop2023": 6516100,
-    "code": "TKM"
+    "code": "TKM",
+    "pop2024": 7494498
   },
   {
     "gdppc2023": "0",
@@ -4117,10 +4331,11 @@
     "currency": "USD",
     "timezones": "UTC-04:00",
     "area": 948,
-    "density": 48.9778,
+    "density": 49.0876,
     "rusName": "Туркс и Кайкос",
     "debt": "0",
-    "pop2023": 46062
+    "pop2023": 46062,
+    "pop2024": 46535
   },
   {
     "gdppc2023": "5722.541",
@@ -4135,11 +4350,12 @@
     "currency": "AUD",
     "timezones": "UTC+12:00",
     "area": 26,
-    "density": 382.6,
+    "density": 321.5333,
     "rusName": "Тувалу",
     "debt": "7.6",
     "pop2023": 11396,
-    "code": "TUV"
+    "code": "TUV",
+    "pop2024": 9646
   },
   {
     "gdppc2023": "1139.3",
@@ -4154,11 +4370,12 @@
     "currency": "UGX",
     "timezones": "UTC+03:00",
     "area": 241550,
-    "density": 248.9739,
+    "density": 249.4269,
     "rusName": "Уганда",
     "debt": "50.8",
     "pop2023": 48582334,
-    "code": "UGA"
+    "code": "UGA",
+    "pop2024": 50015092
   },
   {
     "gdppc2023": "5337.491",
@@ -4173,11 +4390,12 @@
     "currency": "UAH",
     "timezones": "UTC+02:00",
     "area": 603500,
-    "density": 65.4778,
+    "density": 65.3438,
     "rusName": "Украина",
     "debt": "81.7",
     "pop2023": 36744634,
-    "code": "UKR"
+    "code": "UKR",
+    "pop2024": 37860221
   },
   {
     "gdppc2023": "51908.699",
@@ -4192,11 +4410,12 @@
     "currency": "AED",
     "timezones": "UTC+04:00",
     "area": 83600,
-    "density": 135.0585,
+    "density": 155.2679,
     "rusName": "ОАЭ",
     "debt": "30",
     "pop2023": 9516871,
-    "code": "ARE"
+    "code": "ARE",
+    "pop2024": 11027129
   },
   {
     "gdppc2023": "49098.977",
@@ -4211,11 +4430,12 @@
     "currency": "GBP",
     "timezones": "UTC+01:00",
     "area": 242900,
-    "density": 280.9136,
+    "density": 285.7777,
     "rusName": "Великобритания",
     "debt": "102.6",
     "pop2023": 67736802,
-    "code": "GBR"
+    "code": "GBR",
+    "pop2024": 69138192
   },
   {
     "gdppc2023": "81632.253",
@@ -4230,11 +4450,12 @@
     "currency": "USD",
     "timezones": "UTC-04:00",
     "area": 9372610,
-    "density": 37.3673,
+    "density": 37.7622,
     "rusName": "США",
     "debt": "121.7",
     "pop2023": 339996563,
-    "code": "USA"
+    "code": "USA",
+    "pop2024": 345426571
   },
   {
     "gdppc2023": "21656.979",
@@ -4249,11 +4470,12 @@
     "currency": "UYU",
     "timezones": "UTC-03:00",
     "area": 181034,
-    "density": 19.5596,
+    "density": 19.3497,
     "rusName": "Уругвай",
     "debt": "61",
     "pop2023": 3423108,
-    "code": "URY"
+    "code": "URY",
+    "pop2024": 3386588
   },
   {
     "gdppc2023": "0",
@@ -4268,10 +4490,11 @@
     "currency": "USD",
     "timezones": "UTC-04:00",
     "area": 347,
-    "density": 282.5793,
+    "density": 244.683,
     "rusName": "Виргинские острова США",
     "debt": "0",
-    "pop2023": 98750
+    "pop2023": 98750,
+    "pop2024": 84905
   },
   {
     "gdppc2023": "2522.757",
@@ -4286,11 +4509,12 @@
     "currency": "UZS",
     "timezones": "UTC+05:00",
     "area": 447400,
-    "density": 80.9572,
+    "density": 82.5187,
     "rusName": "Узбекистан",
     "debt": "34.3",
     "pop2023": 35163944,
-    "code": "UZB"
+    "code": "UZB",
+    "pop2024": 36361859
   },
   {
     "gdppc2023": "3501.24",
@@ -4305,11 +4529,12 @@
     "currency": "VUV",
     "timezones": "UTC+11:00",
     "area": 12189,
-    "density": 28.0824,
+    "density": 26.889,
     "rusName": "Вануату",
     "debt": "45.8",
     "pop2023": 334506,
-    "code": "VUT"
+    "code": "VUT",
+    "pop2024": 327777
   },
   {
     "gdppc2023": "0",
@@ -4324,10 +4549,11 @@
     "currency": "EUR",
     "timezones": "UTC+02:00",
     "area": 1,
-    "density": 1195.4545,
+    "density": 1127.2727,
     "rusName": "Ватикан",
     "debt": "0",
-    "pop2023": 518
+    "pop2023": 518,
+    "pop2024": 496
   },
   {
     "gdppc2023": "3659.195",
@@ -4342,11 +4568,12 @@
     "currency": "VEF",
     "timezones": "UTC-04:00",
     "area": 916445,
-    "density": 33.3262,
+    "density": 32.204,
     "rusName": "Венесуэла",
     "debt": "157.8",
     "pop2023": 28838499,
-    "code": "VEN"
+    "code": "VEN",
+    "pop2024": 28405543
   },
   {
     "gdppc2023": "4324.049",
@@ -4361,11 +4588,12 @@
     "currency": "VND",
     "timezones": "UTC+07:00",
     "area": 331212,
-    "density": 317.4489,
+    "density": 322.2028,
     "rusName": "Вьетнам",
     "debt": "37.1",
     "pop2023": 98858950,
-    "code": "VNM"
+    "code": "VNM",
+    "pop2024": 100987686
   },
   {
     "gdppc2023": "0",
@@ -4380,10 +4608,11 @@
     "currency": "XPF",
     "timezones": "UTC+12:00",
     "area": 142,
-    "density": 41.7482,
+    "density": 41.1569,
     "rusName": "Уоллис и Футуна",
     "debt": "0",
-    "pop2023": 11502
+    "pop2023": 11502,
+    "pop2024": 11277
   },
   {
     "gdppc2023": "0",
@@ -4398,10 +4627,11 @@
     "currency": "MAD",
     "timezones": "UTC+00:00",
     "area": 266800,
-    "density": 2.2496,
+    "density": 2.2199,
     "rusName": "Западная Сахара",
     "debt": "0",
-    "pop2023": 587259
+    "pop2023": 587259,
+    "pop2024": 590506
   },
   {
     "gdppc2023": "0",
@@ -4434,11 +4664,12 @@
     "currency": "YER",
     "timezones": "UTC+03:00",
     "area": 527968,
-    "density": 66.7081,
+    "density": 76.8664,
     "rusName": "Йемен",
     "debt": "73.5",
     "pop2023": 34449825,
-    "code": "YEM"
+    "code": "YEM",
+    "pop2024": 40583164
   },
   {
     "gdppc2023": "1380.974",
@@ -4453,11 +4684,12 @@
     "currency": "ZMK",
     "timezones": "UTC+02:00",
     "area": 752612,
-    "density": 28.4302,
+    "density": 28.6726,
     "rusName": "Замбия",
     "debt": "0",
     "pop2023": 20569737,
-    "code": "ZMB"
+    "code": "ZMB",
+    "pop2024": 21314956
   },
   {
     "gdppc2023": "1993.038",
@@ -4472,10 +4704,11 @@
     "currency": "ZWL",
     "timezones": "UTC+02:00",
     "area": 390757,
-    "density": 43.9972,
+    "density": 42.9995,
     "rusName": "Зимбабве",
     "debt": "92.8",
     "pop2023": 16665409,
-    "code": "ZWE"
+    "code": "ZWE",
+    "pop2024": 16634373
   }
 ]
