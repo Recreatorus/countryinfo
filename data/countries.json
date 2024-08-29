@@ -568,7 +568,7 @@
     "id": "IO",
     "currency": "USD",
     "timezones": "UTC+06:00",
-    "area": "78",
+    "area": 78,
     "density": "0",
     "rusName": "Британская территория в Индийском океане",
     "debt": "0.0",
@@ -2869,7 +2869,7 @@
     "id": "AN",
     "currency": "EUR",
     "timezones": "UTC-04:00",
-    "area": "800",
+    "area": 800,
     "density": "0",
     "rusName": "Антильские острова",
     "debt": "0",
@@ -3008,13 +3008,13 @@
     "id": "NF",
     "currency": "AUD",
     "timezones": "UTC+11:00",
-    "area": "36",
+    "area": 34.6,
     "density": "0",
     "rusName": "Остров Норфолк",
     "debt": "0",
     "pop2023": 0,
     "code": "NFK",
-    "pop2024": 0
+    "pop2024": 2188
   },
   {
     "gdppc2023": "0",
@@ -3483,13 +3483,13 @@
     "id": "SH",
     "currency": "SHP",
     "timezones": "UTC+00:00",
-    "area": "314",
-    "density": "0",
+    "area": 121.7,
+    "density": "36.39",
     "rusName": "о.Святой Елены",
     "debt": "0",
     "pop2023": 0,
     "code": "SHN",
-    "pop2024": 0
+    "pop2024": 4439
   },
   {
     "gdppc2023": "22366.128",
@@ -4654,12 +4654,12 @@
     "currency": "NOK",
     "timezones": "UTC+01:00",
     "area": 62.045,
-    "density": "0.044",
+    "density": "0.05",
     "rusName": "Шпицберген",
     "debt": "0",
     "pop2023": 0,
     "code": "SJM",
-    "pop2024": 0
+    "pop2024": 2504
   },
   {
     "gdppc2023": "540.765",
