@@ -9,9 +9,9 @@ var a=document.getElementById('countryList'),g=aK=>{if(aK.length>0){document.get
               Population: <span>${d(aL.pop2024)}</span></div>
               <div class="density">Density: <span>${d(aL.density)} /km<sup>2</sup></span></div>
               <div class="area">Area: <span>${d(aL.area,0)} km<sup>2</sup></span></div>
-              <div class="area">GDP (2023), bln.: <span>${e(aL.gdp2023)} </span></div>
-              <div class="area">GDP per capita (2023): <span>${e(aL.gdppc2023)}</span></div>
-              <div class="area">GDP PPP (2023), int.dollars: <span>${e(aL.gdpppppc2023)}</span></div>
+              <div class="area">GDP (2024), bln.: <span>${e(aL.gdp2024)} </span></div>
+              <div class="area">GDP per capita (2024): <span>${e(aL.gdppc2024)}</span></div>
+              <div class="area">GDP PPP (2024), int.dollars: <span>${e(aL.gdpppppc2024)}</span></div>
               <div class="capitalCity">Capital: <span class="capitalName">${aL.capital}</span>
                 <div id="capitalWeather"></div>
               </div>
@@ -22,7 +22,7 @@ var a=document.getElementById('countryList'),g=aK=>{if(aK.length>0){document.get
               <div class="time">Time in the capital: <span>${new Date(new Date().getTime()+c(`${aL.timezones}`)).toUTCString()}</span></div>
             </div>
           </div>
-        `).join('')}};var b=new Date();function c(s){const[h,m]=s.replace(/utc/i,'').split(':').map(x=>+x.replace(/\D/,'')),ms=h*60*60*1000+m*60*1000;return s.includes('-')?-ms:ms}function d(A){if(Number.isInteger(A))return new Intl.NumberFormat('ru-RU').format(A);return new Intl.NumberFormat('ru-RU', {maximumSignificantDigits:2}).format(A)}function e(_){if(_==0)return'no data';return new Intl.NumberFormat('ru-RU', {style:'currency',currency:'USD'}).format(_)}var f=async B=>{const C=await fetch('./data/countries.json',{priority:'high'});const _c=await C.json();let D=_c.filter(_a=>{const _b=new RegExp(`^${B}`, 'gi');return _a.country.match(_b)||_a.capital.match(_b)});B.length===0&&(D=[],a.innerHTML='');g(D);let E=document.querySelectorAll('.capitalCity');for(const _A of E)_A.addEventListener('click',function(){for(const aB of E)aB.classList.remove('active');this.classList.add('active');var aA=this.querySelector('span').textContent||this.querySelector('span').innerText,_B='4d8fb5b93d4af21d66a2948710284366';fetch(`https://api.openweathermap.org/data/2.5/weather?q=${aA}&appid=${_B}&units=metric`).then(aC=>aC.json()).then(aD=>{const{main:aE,name:_C,sys:_d,weather:_e}=aD,G=document.querySelector('.capitalCity.active #capitalWeather');const _f=`./img/weather/${_e[0]['icon']}.svg`;G.innerHTML=`
+        `).join('')}};var b=new Date;function c(s){const[h,m]=s.replace(/utc/i,'').split(':').map(x=>+x.replace(/\D/,'')),ms=h*60*60*1000+m*60*1000;return s.includes('-')?-ms:ms}function d(A){if(Number.isInteger(A))return new Intl.NumberFormat('ru-RU').format(A);return new Intl.NumberFormat('ru-RU', {maximumSignificantDigits:2}).format(A)}function e(_){if(_==0)return'no data';return new Intl.NumberFormat('ru-RU', {style:'currency',currency:'USD'}).format(_)}var f=async B=>{const C=await fetch('./data/countries.json',{priority:'high'});const _c=await C.json();let D=_c.filter(_a=>{const _b=new RegExp(`^${B}`, 'gi');return _a.country.match(_b)||_a.capital.match(_b)});B.length===0&&(D=[],a.innerHTML='');g(D);let E=document.querySelectorAll('.capitalCity');for(const _A of E)_A.addEventListener('click',function(){for(const aB of E)aB.classList.remove('active');this.classList.add('active');var aA=this.querySelector('span').textContent||this.querySelector('span').innerText,_B='4d8fb5b93d4af21d66a2948710284366';fetch(`https://api.openweathermap.org/data/2.5/weather?q=${aA}&appid=${_B}&units=metric`).then(aC=>aC.json()).then(aD=>{const{main:aE,name:_C,sys:_d,weather:_e}=aD,G=document.querySelector('.capitalCity.active #capitalWeather');const _f=`./img/weather/${_e[0]['icon']}.svg`;G.innerHTML=`
             <div class="city-name" data-name="${_C},${_d.country}">
               <span>${_C}</span>
             </div>
