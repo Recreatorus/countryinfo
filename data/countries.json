@@ -14,8 +14,9 @@
     "timezones": "UTC+04:30",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Albania",
@@ -32,8 +33,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "26.13",
     "gdppc2024": "10012.917",
-    "debt": "67.6",
-    "gdpppppc2024": "21747.183"
+    "gdpppppc2024": "21747.183",
+    "growthgdp2024": "4",
+    "debt": "67.6"
   },
   {
     "country": "Algeria",
@@ -50,8 +52,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "260.134",
     "gdppc2024": "5681.632",
-    "debt": "52.4",
-    "gdpppppc2024": "17669.858"
+    "gdpppppc2024": "17669.858",
+    "growthgdp2024": "3.5",
+    "debt": "52.4"
   },
   {
     "country": "American Samoa",
@@ -68,8 +71,9 @@
     "timezones": "UTC-11:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Andorra",
@@ -86,8 +90,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "3.93",
     "gdppc2024": "46359.174",
-    "debt": "38.8",
-    "gdpppppc2024": "70501.395"
+    "gdpppppc2024": "70501.395",
+    "growthgdp2024": "3.4",
+    "debt": "38.8"
   },
   {
     "country": "Angola",
@@ -104,8 +109,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "113.286",
     "gdppc2024": "3053.759",
-    "debt": "67",
-    "gdpppppc2024": "10078.614"
+    "gdpppppc2024": "10078.614",
+    "growthgdp2024": "4.5",
+    "debt": "67"
   },
   {
     "country": "Anguilla",
@@ -122,8 +128,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Antigua and Barbuda",
@@ -140,8 +147,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "2.292",
     "gdppc2024": "21490.99",
-    "debt": "90.6",
-    "gdpppppc2024": "30433.003"
+    "gdpppppc2024": "30433.003",
+    "growthgdp2024": "4.3",
+    "debt": "90.6"
   },
   {
     "country": "Argentina",
@@ -158,8 +166,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "604.382",
     "gdppc2024": "13415.312",
-    "debt": "84.5",
-    "gdpppppc2024": "29263.048"
+    "gdpppppc2024": "29263.048",
+    "growthgdp2024": "-1.7",
+    "debt": "84.5"
   },
   {
     "country": "Armenia",
@@ -176,8 +185,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "25.251",
     "gdppc2024": "8613.224",
-    "debt": "49.3",
-    "gdpppppc2024": "23360.984"
+    "gdpppppc2024": "23360.984",
+    "growthgdp2024": "5.9",
+    "debt": "49.3"
   },
   {
     "country": "Aruba",
@@ -194,8 +204,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "4.258",
     "gdppc2024": "36385.97",
-    "debt": "92",
-    "gdpppppc2024": "48478.811"
+    "gdpppppc2024": "48478.811",
+    "growthgdp2024": "6.5",
+    "debt": "92"
   },
   {
     "country": "Australia",
@@ -212,8 +223,9 @@
     "timezones": "UTC+10:00",
     "gdp2024": "1802.006",
     "gdppc2024": "66247.96",
-    "debt": "55.7",
-    "gdpppppc2024": "69970.69"
+    "gdpppppc2024": "69970.69",
+    "growthgdp2024": "1",
+    "debt": "55.7"
   },
   {
     "country": "Austria",
@@ -230,8 +242,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "535.804",
     "gdppc2024": "56914.537",
-    "debt": "77.8",
-    "gdpppppc2024": "72818.694"
+    "gdpppppc2024": "72818.694",
+    "growthgdp2024": "-1.2",
+    "debt": "77.8"
   },
   {
     "country": "Azerbaijan",
@@ -248,8 +261,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "75.649",
     "gdppc2024": "7251.303",
-    "debt": "20.7",
-    "gdpppppc2024": "24983.786"
+    "gdpppppc2024": "24983.786",
+    "growthgdp2024": "4.1",
+    "debt": "20.7"
   },
   {
     "country": "Bahamas",
@@ -266,8 +280,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "14.825",
     "gdppc2024": "36166.529",
-    "debt": "89.4",
-    "gdpppppc2024": "7564.429"
+    "gdpppppc2024": "7564.429",
+    "growthgdp2024": "2",
+    "debt": "89.4"
   },
   {
     "country": "Bahrain",
@@ -284,8 +299,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "47.812",
     "gdppc2024": "29035.628",
-    "debt": "117.6",
-    "gdpppppc2024": "65888.992"
+    "gdpppppc2024": "65888.992",
+    "growthgdp2024": "2.8",
+    "debt": "117.6"
   },
   {
     "country": "Bangladesh",
@@ -302,8 +318,9 @@
     "timezones": "UTC+06:00",
     "gdp2024": "451.468",
     "gdppc2024": "2622.368",
-    "debt": "39.1",
-    "gdpppppc2024": "9733.359"
+    "gdpppppc2024": "9733.359",
+    "growthgdp2024": "4.2",
+    "debt": "39.1"
   },
   {
     "country": "Barbados",
@@ -320,8 +337,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "7.201",
     "gdppc2024": "24644.036",
-    "debt": "120.8",
-    "gdpppppc2024": "22062.333"
+    "gdpppppc2024": "22062.333",
+    "growthgdp2024": "4",
+    "debt": "120.8"
   },
   {
     "country": "Belarus",
@@ -338,8 +356,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "73.129",
     "gdppc2024": "7794.265",
-    "debt": "39.8",
-    "gdpppppc2024": "32365.128"
+    "gdpppppc2024": "32365.128",
+    "growthgdp2024": "4",
+    "debt": "39.8"
   },
   {
     "country": "Belgium",
@@ -356,8 +375,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "662.183",
     "gdppc2024": "56271.417",
-    "debt": "105.3",
-    "gdpppppc2024": "73500.432"
+    "gdpppppc2024": "73500.432",
+    "growthgdp2024": "1",
+    "debt": "105.3"
   },
   {
     "country": "Belize",
@@ -374,8 +394,9 @@
     "timezones": "UTC-06:00",
     "gdp2024": "3.342",
     "gdppc2024": "8339.46",
-    "debt": "64.1",
-    "gdpppppc2024": "15324.207"
+    "gdpppppc2024": "15324.207",
+    "growthgdp2024": "8.2",
+    "debt": "64.1"
   },
   {
     "country": "Benin",
@@ -392,8 +413,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "21.322",
     "gdppc2024": "1507.167",
-    "debt": "52.4",
-    "gdpppppc2024": "4508.997"
+    "gdpppppc2024": "4508.997",
+    "growthgdp2024": "6.5",
+    "debt": "52.4"
   },
   {
     "country": "Bermuda",
@@ -410,8 +432,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Bhutan",
@@ -428,8 +451,9 @@
     "timezones": "UTC+06:00",
     "gdp2024": "3.151",
     "gdppc2024": "3913.004",
-    "debt": "124.8",
-    "gdpppppc2024": "16251.063"
+    "gdpppppc2024": "16251.063",
+    "growthgdp2024": "4",
+    "debt": "124.8"
   },
   {
     "country": "Bolivia",
@@ -446,8 +470,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "48.172",
     "gdppc2024": "3938.517",
-    "debt": "82.6",
-    "gdpppppc2024": "11292.655"
+    "gdpppppc2024": "11292.655",
+    "growthgdp2024": "1.3",
+    "debt": "82.6"
   },
   {
     "country": "Bosnia and Herzegovina",
@@ -464,8 +489,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "28.404",
     "gdppc2024": "8334.086",
-    "debt": "29.6",
-    "gdpppppc2024": "21571.807"
+    "gdpppppc2024": "21571.807",
+    "growthgdp2024": "2.5",
+    "debt": "29.6"
   },
   {
     "country": "Botswana",
@@ -482,8 +508,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "19.966",
     "gdppc2024": "7117.095",
-    "debt": "19.9",
-    "gdpppppc2024": "19038.741"
+    "gdpppppc2024": "19038.741",
+    "growthgdp2024": "-3",
+    "debt": "19.9"
   },
   {
     "country": "Brazil",
@@ -500,8 +527,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "2188.419",
     "gdppc2024": "10214.032",
-    "debt": "85.9",
-    "gdpppppc2024": "22271.942"
+    "gdpppppc2024": "22271.942",
+    "growthgdp2024": "3.4",
+    "debt": "85.9"
   },
   {
     "country": "British Indian Ocean Territory",
@@ -518,8 +546,9 @@
     "timezones": "UTC+06:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0.0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0.0"
   },
   {
     "country": "British Virgin Islands",
@@ -536,8 +565,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0.0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0.0"
   },
   {
     "country": "Brunei",
@@ -554,8 +584,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "15.71",
     "gdppc2024": "34044.497",
-    "debt": "2.1",
-    "gdpppppc2024": "91695.051"
+    "gdpppppc2024": "91695.051",
+    "growthgdp2024": "3.9",
+    "debt": "2.1"
   },
   {
     "country": "Bulgaria",
@@ -572,8 +603,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "108.425",
     "gdppc2024": "17588.432",
-    "debt": "21.8",
-    "gdpppppc2024": "39439.331"
+    "gdpppppc2024": "39439.331",
+    "growthgdp2024": "2.8",
+    "debt": "21.8"
   },
   {
     "country": "Burkina Faso",
@@ -590,8 +622,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "21.858",
     "gdppc2024": "1005.493",
-    "debt": "54.3",
-    "gdpppppc2024": "2851.4"
+    "gdpppppc2024": "2851.4",
+    "growthgdp2024": "4.4",
+    "debt": "54.3"
   },
   {
     "country": "Burundi",
@@ -608,11 +641,12 @@
     "timezones": "UTC+02:00",
     "gdp2024": "4.285",
     "gdppc2024": "354.838",
-    "debt": "68.3",
-    "gdpppppc2024": "999.905"
+    "gdpppppc2024": "999.905",
+    "growthgdp2024": "3.5",
+    "debt": "68.3"
   },
   {
-    "country": "Cape Verde",
+    "country": "Cabo Verde",
     "code": "CPV",
     "id": "CV",
     "abbr": "CPV",
@@ -626,8 +660,9 @@
     "timezones": "UTC-01:00",
     "gdp2024": "2.756",
     "gdppc2024": "5328.689",
-    "debt": "127.4",
-    "gdpppppc2024": "11426.843"
+    "gdpppppc2024": "11426.843",
+    "growthgdp2024": "6",
+    "debt": "127.4"
   },
   {
     "country": "Cambodia",
@@ -644,8 +679,9 @@
     "timezones": "UTC+07:00",
     "gdp2024": "47.147",
     "gdppc2024": "2754.508",
-    "debt": "36.5",
-    "gdpppppc2024": "8179.246"
+    "gdpppppc2024": "8179.246",
+    "growthgdp2024": "6",
+    "debt": "36.5"
   },
   {
     "country": "Cameroon",
@@ -662,8 +698,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "53.391",
     "gdppc2024": "1800.59",
-    "debt": "46.4",
-    "gdpppppc2024": "5547.602"
+    "gdpppppc2024": "5547.602",
+    "growthgdp2024": "3.6",
+    "debt": "46.4"
   },
   {
     "country": "Canada",
@@ -680,8 +717,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "2214.796",
     "gdppc2024": "54473.186",
-    "debt": "106.6",
-    "gdpppppc2024": "63760.253"
+    "gdpppppc2024": "63760.253",
+    "growthgdp2024": "1.5",
+    "debt": "106.6"
   },
   {
     "country": "Cayman Islands",
@@ -698,8 +736,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Central African Republic",
@@ -716,8 +755,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "2.823",
     "gdppc2024": "531.056",
-    "debt": "50.7",
-    "gdpppppc2024": "1301.685"
+    "gdpppppc2024": "1301.685",
+    "growthgdp2024": "1.8",
+    "debt": "50.7"
   },
   {
     "country": "Chad",
@@ -734,8 +774,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "18.67",
     "gdppc2024": "1034.768",
-    "debt": "50.4",
-    "gdpppppc2024": "2942.667"
+    "gdpppppc2024": "2942.667",
+    "growthgdp2024": "1.5",
+    "debt": "50.4"
   },
   {
     "country": "Chile",
@@ -752,8 +793,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "328.72",
     "gdppc2024": "16439.479",
-    "debt": "38",
-    "gdpppppc2024": "33756.351"
+    "gdpppppc2024": "33756.351",
+    "growthgdp2024": "2.6",
+    "debt": "38"
   },
   {
     "country": "China",
@@ -770,8 +812,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "18273.357",
     "gdppc2024": "13312.7",
-    "debt": "77.1",
-    "gdpppppc2024": "27092.779"
+    "gdpppppc2024": "27092.779",
+    "growthgdp2024": "5",
+    "debt": "77.1"
   },
   {
     "country": "Colombia",
@@ -788,8 +831,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "417.207",
     "gdppc2024": "7942.589",
-    "debt": "63.6",
-    "gdpppppc2024": "21493.706"
+    "gdpppppc2024": "21493.706",
+    "growthgdp2024": "1.7",
+    "debt": "63.6"
   },
   {
     "country": "Comoros",
@@ -806,8 +850,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "1.45",
     "gdppc2024": "1636.893",
-    "debt": "29.1",
-    "gdpppppc2024": "3855.987"
+    "gdpppppc2024": "3855.987",
+    "growthgdp2024": "3.3",
+    "debt": "29.1"
   },
   {
     "country": "Cook Islands",
@@ -824,8 +869,9 @@
     "timezones": "UTC-10:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Costa Rica",
@@ -842,11 +888,12 @@
     "timezones": "UTC-06:00",
     "gdp2024": "95.149",
     "gdppc2024": "17908.546",
-    "debt": "63.8",
-    "gdpppppc2024": "29892.358"
+    "gdpppppc2024": "29892.358",
+    "growthgdp2024": "4.3",
+    "debt": "63.8"
   },
   {
-    "country": "Ivory Coast",
+    "country": "Côte d'Ivoire",
     "code": "CIV",
     "id": "CI",
     "abbr": "CIV",
@@ -860,8 +907,9 @@
     "timezones": "UTC-00:00",
     "gdp2024": "86.993",
     "gdppc2024": "2723.207",
-    "debt": "56.8",
-    "gdpppppc2024": "7645.41"
+    "gdpppppc2024": "7645.41",
+    "growthgdp2024": "6",
+    "debt": "56.8"
   },
   {
     "country": "Croatia",
@@ -878,8 +926,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "89.665",
     "gdppc2024": "23989.148",
-    "debt": "67.5",
-    "gdpppppc2024": "48565.632"
+    "gdpppppc2024": "48565.632",
+    "growthgdp2024": "3.8",
+    "debt": "67.5"
   },
   {
     "country": "Cuba",
@@ -896,8 +945,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Curacao",
@@ -914,8 +964,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Cyprus",
@@ -932,8 +983,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "34.79",
     "gdppc2024": "38624.883",
-    "debt": "86.5",
-    "gdpppppc2024": "62205.915"
+    "gdpppppc2024": "62205.915",
+    "growthgdp2024": "3.4",
+    "debt": "86.5"
   },
   {
     "country": "Czech Republic",
@@ -950,11 +1002,12 @@
     "timezones": "UTC+02:00",
     "gdp2024": "342.992",
     "gdppc2024": "31542.861",
-    "debt": "42.3",
-    "gdpppppc2024": "56744.316"
+    "gdpppppc2024": "56744.316",
+    "growthgdp2024": "1.1",
+    "debt": "42.3"
   },
   {
-    "country": "DR Congo",
+    "country": "The Democratic Republic of Congo",
     "code": "COD",
     "id": "CD",
     "abbr": "COD",
@@ -968,8 +1021,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "72.483",
     "gdppc2024": "688.112",
-    "debt": "14.6",
-    "gdpppppc2024": "1810.142"
+    "gdpppppc2024": "1810.142",
+    "growthgdp2024": "6.5",
+    "debt": "14.6"
   },
   {
     "country": "Denmark",
@@ -986,8 +1040,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "412.293",
     "gdppc2024": "72041.536",
-    "debt": "29.7",
-    "gdpppppc2024": "84762.011"
+    "gdpppppc2024": "84762.011",
+    "growthgdp2024": "3.7",
+    "debt": "29.7"
   },
   {
     "country": "Djibouti",
@@ -1004,8 +1059,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "4.334",
     "gdppc2024": "4081.528",
-    "debt": "40.6",
-    "gdpppppc2024": "8759.405"
+    "gdpppppc2024": "8759.405",
+    "growthgdp2024": "6.5",
+    "debt": "40.6"
   },
   {
     "country": "Dominica",
@@ -1022,8 +1078,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0.703",
     "gdppc2024": "9307.924",
-    "debt": "104.8",
-    "gdpppppc2024": "18395.878"
+    "gdpppppc2024": "18395.878",
+    "growthgdp2024": "4.6",
+    "debt": "104.8"
   },
   {
     "country": "Dominican Republic",
@@ -1040,8 +1097,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "126.238",
     "gdppc2024": "11541.579",
-    "debt": "58.9",
-    "gdpppppc2024": "29149.992"
+    "gdpppppc2024": "29149.992",
+    "growthgdp2024": "5",
+    "debt": "58.9"
   },
   {
     "country": "Ecuador",
@@ -1058,8 +1116,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "121.425",
     "gdppc2024": "6775.257",
-    "debt": "57.3",
-    "gdpppppc2024": "15996.059"
+    "gdpppppc2024": "15996.059",
+    "growthgdp2024": "-2",
+    "debt": "57.3"
   },
   {
     "country": "Egypt",
@@ -1076,8 +1135,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "380.044",
     "gdppc2024": "3570.313",
-    "debt": "88.5",
-    "gdpppppc2024": "20749.635"
+    "gdpppppc2024": "20749.635",
+    "growthgdp2024": "2.4",
+    "debt": "88.5"
   },
   {
     "country": "El Salvador",
@@ -1094,8 +1154,9 @@
     "timezones": "UTC-06:00",
     "gdp2024": "35.848",
     "gdppc2024": "5526.955",
-    "debt": "77.2",
-    "gdpppppc2024": "13125.309"
+    "gdpppppc2024": "13125.309",
+    "growthgdp2024": "2.6",
+    "debt": "77.2"
   },
   {
     "country": "Equatorial Guinea",
@@ -1112,8 +1173,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "12.884",
     "gdppc2024": "7888.213",
-    "debt": "27.1",
-    "gdpppppc2024": "21102.981"
+    "gdpppppc2024": "21102.981",
+    "growthgdp2024": "1.9",
+    "debt": "27.1"
   },
   {
     "country": "Eritrea",
@@ -1130,8 +1192,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "163.8",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "163.8"
   },
   {
     "country": "Estonia",
@@ -1148,8 +1211,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "43.044",
     "gdppc2024": "31174.35",
-    "debt": "17.2",
-    "gdpppppc2024": "48112.372"
+    "gdpppppc2024": "48112.372",
+    "growthgdp2024": "-0.3",
+    "debt": "17.2"
   },
   {
     "country": "Ethiopia",
@@ -1166,8 +1230,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "145.031",
     "gdppc2024": "1320.157",
-    "debt": "46.4",
-    "gdpppppc2024": "4082.601"
+    "gdpppppc2024": "4082.601",
+    "growthgdp2024": "8.1",
+    "debt": "46.4"
   },
   {
     "country": "Falkland Islands",
@@ -1184,8 +1249,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Faroe Islands",
@@ -1202,8 +1268,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Micronesia",
@@ -1220,8 +1287,9 @@
     "timezones": "UTC+11:00",
     "gdp2024": "0.484",
     "gdppc2024": "4986.485",
-    "debt": "14",
-    "gdpppppc2024": "4595.003"
+    "gdpppppc2024": "4595.003",
+    "growthgdp2024": "0.7",
+    "debt": "14"
   },
   {
     "country": "Fiji",
@@ -1238,8 +1306,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "5.773",
     "gdppc2024": "6446.922",
-    "debt": "92.8",
-    "gdpppppc2024": "16111.724"
+    "gdpppppc2024": "16111.724",
+    "growthgdp2024": "3.7",
+    "debt": "92.8"
   },
   {
     "country": "Finland",
@@ -1256,8 +1325,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "306.083",
     "gdppc2024": "53326.396",
-    "debt": "74.8",
-    "gdpppppc2024": "64249.338"
+    "gdpppppc2024": "64249.338",
+    "growthgdp2024": "-0.1",
+    "debt": "74.8"
   },
   {
     "country": "France",
@@ -1274,8 +1344,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "3174.099",
     "gdppc2024": "46203.675",
-    "debt": "111.1",
-    "gdpppppc2024": "63698.382"
+    "gdpppppc2024": "63698.382",
+    "growthgdp2024": "1.1",
+    "debt": "111.1"
   },
   {
     "country": "French Guiana",
@@ -1292,8 +1363,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "French Polynesia",
@@ -1310,8 +1382,9 @@
     "timezones": "UTC-10:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Gabon",
@@ -1328,8 +1401,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "20.897",
     "gdppc2024": "9201.947",
-    "debt": "55.1",
-    "gdpppppc2024": "24118.221"
+    "gdpppppc2024": "24118.221",
+    "growthgdp2024": "3.1",
+    "debt": "55.1"
   },
   {
     "country": "Gambia",
@@ -1346,8 +1420,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "2.693",
     "gdppc2024": "939.184",
-    "debt": "84",
-    "gdpppppc2024": "3493.641"
+    "gdpppppc2024": "3493.641",
+    "growthgdp2024": "5.8",
+    "debt": "84"
   },
   {
     "country": "Georgia",
@@ -1364,8 +1439,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "33.191",
     "gdppc2024": "9141.846",
-    "debt": "39.8",
-    "gdpppppc2024": "28258.381"
+    "gdpppppc2024": "28258.381",
+    "growthgdp2024": "9.4",
+    "debt": "39.8"
   },
   {
     "country": "Germany",
@@ -1382,8 +1458,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "4710.032",
     "gdppc2024": "54989.76",
-    "debt": "66.5",
-    "gdpppppc2024": "70878.415"
+    "gdpppppc2024": "70878.415",
+    "growthgdp2024": "-0.2",
+    "debt": "66.5"
   },
   {
     "country": "Ghana",
@@ -1400,8 +1477,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "75.307",
     "gdppc2024": "2405.795",
-    "debt": "88.8",
-    "gdpppppc2024": "8027.18"
+    "gdpppppc2024": "8027.18",
+    "growthgdp2024": "5.7",
+    "debt": "88.8"
   },
   {
     "country": "Gibraltar",
@@ -1418,8 +1496,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Greece",
@@ -1436,8 +1515,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "252.732",
     "gdppc2024": "24716.307",
-    "debt": "177.4",
-    "gdpppppc2024": "42922.829"
+    "gdpppppc2024": "42922.829",
+    "growthgdp2024": "2.3",
+    "debt": "177.4"
   },
   {
     "country": "Greenland",
@@ -1454,8 +1534,9 @@
     "timezones": "UTC-02:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Grenada",
@@ -1472,8 +1553,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "1.393",
     "gdppc2024": "12033.337",
-    "debt": "64.5",
-    "gdpppppc2024": "20429.829"
+    "gdpppppc2024": "20429.829",
+    "growthgdp2024": "3.6",
+    "debt": "64.5"
   },
   {
     "country": "Guadeloupe",
@@ -1490,8 +1572,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Guam",
@@ -1508,8 +1591,9 @@
     "timezones": "UTC+10:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Guatemala",
@@ -1526,8 +1610,9 @@
     "timezones": "UTC-06:00",
     "gdp2024": "112.369",
     "gdppc2024": "6306.597",
-    "debt": "30.1",
-    "gdpppppc2024": "14826.727"
+    "gdpppppc2024": "14826.727",
+    "growthgdp2024": "3.7",
+    "debt": "30.1"
   },
   {
     "country": "Guinea",
@@ -1544,8 +1629,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "25.474",
     "gdppc2024": "1670.734",
-    "debt": "33.4",
-    "gdpppppc2024": "4428.251"
+    "gdpppppc2024": "4428.251",
+    "growthgdp2024": "6.1",
+    "debt": "33.4"
   },
   {
     "country": "Guinea-Bissau",
@@ -1562,8 +1648,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "2.188",
     "gdppc2024": "1104.288",
-    "debt": "79.5",
-    "gdpppppc2024": "3102.188"
+    "gdpppppc2024": "3102.188",
+    "growthgdp2024": "4.7",
+    "debt": "79.5"
   },
   {
     "country": "Guyana",
@@ -1580,8 +1667,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "23.033",
     "gdppc2024": "30962.252",
-    "debt": "27.8",
-    "gdpppppc2024": "83483.29"
+    "gdpppppc2024": "83483.29",
+    "growthgdp2024": "43.6",
+    "debt": "27.8"
   },
   {
     "country": "Haiti",
@@ -1598,8 +1686,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "26.274",
     "gdppc2024": "2116.754",
-    "debt": "25",
-    "gdpppppc2024": "3033.326"
+    "gdpppppc2024": "3033.326",
+    "growthgdp2024": "-4.2",
+    "debt": "25"
   },
   {
     "country": "Honduras",
@@ -1616,8 +1705,9 @@
     "timezones": "UTC-06:00",
     "gdp2024": "36.735",
     "gdppc2024": "3467.846",
-    "debt": "50",
-    "gdpppppc2024": "7606.817"
+    "gdpppppc2024": "7606.817",
+    "growthgdp2024": "3.6",
+    "debt": "50"
   },
   {
     "country": "Hong Kong",
@@ -1634,8 +1724,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "401.751",
     "gdppc2024": "54034.499",
-    "debt": "4.3",
-    "gdpppppc2024": "75115.01"
+    "gdpppppc2024": "75115.01",
+    "growthgdp2024": "2.5",
+    "debt": "4.3"
   },
   {
     "country": "Hungary",
@@ -1652,8 +1743,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "228.806",
     "gdppc2024": "23271.805",
-    "debt": "76.4",
-    "gdpppppc2024": "46545.923"
+    "gdpppppc2024": "46545.923",
+    "growthgdp2024": "0.5",
+    "debt": "76.4"
   },
   {
     "country": "Iceland",
@@ -1670,8 +1762,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "32.919",
     "gdppc2024": "87204.974",
-    "debt": "68.7",
-    "gdpppppc2024": "79049.091"
+    "gdpppppc2024": "79049.091",
+    "growthgdp2024": "0.5",
+    "debt": "68.7"
   },
   {
     "country": "India",
@@ -1688,8 +1781,9 @@
     "timezones": "UTC+05:30",
     "gdp2024": "3889.13",
     "gdppc2024": "2711.412",
-    "debt": "83.1",
-    "gdpppppc2024": "11227.689"
+    "gdpppppc2024": "11227.689",
+    "growthgdp2024": "6.5",
+    "debt": "83.1"
   },
   {
     "country": "Indonesia",
@@ -1706,8 +1800,9 @@
     "timezones": "UTC+07:00",
     "gdp2024": "1402.59",
     "gdppc2024": "4958.385",
-    "debt": "39.9",
-    "gdpppppc2024": "16558.347"
+    "gdpppppc2024": "16558.347",
+    "growthgdp2024": "5",
+    "debt": "39.9"
   },
   {
     "country": "Iran",
@@ -1724,8 +1819,9 @@
     "timezones": "UTC+04:30",
     "gdp2024": "434.243",
     "gdppc2024": "4633.211",
-    "debt": "34",
-    "gdpppppc2024": "19576.509"
+    "gdpppppc2024": "19576.509",
+    "growthgdp2024": "3.5",
+    "debt": "34"
   },
   {
     "country": "Iraq",
@@ -1742,8 +1838,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "264.149",
     "gdppc2024": "6247.414",
-    "debt": "43.3",
-    "gdpppppc2024": "15384.461"
+    "gdpppppc2024": "15384.461",
+    "growthgdp2024": "0.3",
+    "debt": "43.3"
   },
   {
     "country": "Ireland",
@@ -1760,8 +1857,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "560.566",
     "gdppc2024": "106455.886",
-    "debt": "45.2",
-    "gdpppppc2024": "129433.156"
+    "gdpppppc2024": "129433.156",
+    "growthgdp2024": "1.2",
+    "debt": "45.2"
   },
   {
     "country": "Israel",
@@ -1778,8 +1876,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "528.067",
     "gdppc2024": "54191.61",
-    "debt": "60.9",
-    "gdpppppc2024": "53928.733"
+    "gdpppppc2024": "53928.733",
+    "growthgdp2024": "0.9",
+    "debt": "60.9"
   },
   {
     "country": "Italy",
@@ -1796,8 +1895,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "2376.51",
     "gdppc2024": "40224.012",
-    "debt": "144.7",
-    "gdpppppc2024": "61165.473"
+    "gdpppppc2024": "61165.473",
+    "growthgdp2024": "0.7",
+    "debt": "144.7"
   },
   {
     "country": "Jamaica",
@@ -1814,8 +1914,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "20.586",
     "gdppc2024": "7298.781",
-    "debt": "84.1",
-    "gdpppppc2024": "12032.025"
+    "gdpppppc2024": "12032.025",
+    "growthgdp2024": "-0.8",
+    "debt": "84.1"
   },
   {
     "country": "Japan",
@@ -1832,8 +1933,9 @@
     "timezones": "UTC+09:00",
     "gdp2024": "4070.094",
     "gdppc2024": "32498.146",
-    "debt": "261.3",
-    "gdpppppc2024": "52712.614"
+    "gdpppppc2024": "52712.614",
+    "growthgdp2024": "0.1",
+    "debt": "261.3"
   },
   {
     "country": "Jordan",
@@ -1850,8 +1952,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "53.305",
     "gdppc2024": "4692.842",
-    "debt": "89.4",
-    "gdpppppc2024": "10981.152"
+    "gdpppppc2024": "10981.152",
+    "growthgdp2024": "2.5",
+    "debt": "89.4"
   },
   {
     "country": "Kazakhstan",
@@ -1868,8 +1971,9 @@
     "timezones": "UTC+06:00",
     "gdp2024": "292.553",
     "gdppc2024": "14149.097",
-    "debt": "23.5",
-    "gdpppppc2024": "41734.957"
+    "gdpppppc2024": "41734.957",
+    "growthgdp2024": "4.8",
+    "debt": "23.5"
   },
   {
     "country": "Kenya",
@@ -1886,8 +1990,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "116.321",
     "gdppc2024": "2305.312",
-    "debt": "67.9",
-    "gdpppppc2024": "7123.759"
+    "gdpppppc2024": "7123.759",
+    "growthgdp2024": "4.5",
+    "debt": "67.9"
   },
   {
     "country": "Kiribati",
@@ -1904,8 +2009,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "0.312",
     "gdppc2024": "2418.727",
-    "debt": "15.2",
-    "gdpppppc2024": "3529.68"
+    "gdpppppc2024": "3529.68",
+    "growthgdp2024": "5.3",
+    "debt": "15.2"
   },
   {
     "country": "Kiribati",
@@ -1922,8 +2028,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "0.312",
     "gdppc2024": "2418.727",
-    "debt": "19.3",
-    "gdpppppc2024": "3529.68"
+    "gdpppppc2024": "3529.68",
+    "growthgdp2024": "5.3",
+    "debt": "19.3"
   },
   {
     "country": "Kuwait",
@@ -1940,8 +2047,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "161.822",
     "gdppc2024": "31640.653",
-    "debt": "2.9",
-    "gdpppppc2024": "49708.104"
+    "gdpppppc2024": "49708.104",
+    "growthgdp2024": "-2.8",
+    "debt": "2.9"
   },
   {
     "country": "Kyrgyzstan",
@@ -1958,8 +2066,9 @@
     "timezones": "UTC+06:00",
     "gdp2024": "15.774",
     "gdppc2024": "2471.432",
-    "debt": "53.5",
-    "gdpppppc2024": "8175.96"
+    "gdpppppc2024": "8175.96",
+    "growthgdp2024": "9",
+    "debt": "53.5"
   },
   {
     "country": "Laos",
@@ -1976,8 +2085,9 @@
     "timezones": "UTC+07:00",
     "gdp2024": "14.949",
     "gdppc2024": "2066.017",
-    "debt": "128.5",
-    "gdpppppc2024": "9747.935"
+    "gdpppppc2024": "9747.935",
+    "growthgdp2024": "4.3",
+    "debt": "128.5"
   },
   {
     "country": "Latvia",
@@ -1994,8 +2104,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "45.521",
     "gdppc2024": "23242.742",
-    "debt": "41.6",
-    "gdpppppc2024": "42473.35"
+    "gdpppppc2024": "42473.35",
+    "growthgdp2024": "-0.4",
+    "debt": "41.6"
   },
   {
     "country": "Lebanon",
@@ -2012,8 +2123,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "0",
     "gdppc2024": "5282.154",
-    "debt": "0",
-    "gdpppppc2024": "11798.48"
+    "gdpppppc2024": "11798.48",
+    "growthgdp2024": "-7.5",
+    "debt": "0"
   },
   {
     "country": "Lesotho",
@@ -2030,8 +2142,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "2.297",
     "gdppc2024": "1067.071",
-    "debt": "57.9",
-    "gdpppppc2024": "3286.211"
+    "gdpppppc2024": "3286.211",
+    "growthgdp2024": "2.6",
+    "debt": "57.9"
   },
   {
     "country": "Liberia",
@@ -2048,8 +2161,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "4.756",
     "gdppc2024": "866.452",
-    "debt": "55.4",
-    "gdpppppc2024": "1898.603"
+    "gdpppppc2024": "1898.603",
+    "growthgdp2024": "4.8",
+    "debt": "55.4"
   },
   {
     "country": "Libya",
@@ -2066,8 +2180,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "44.812",
     "gdppc2024": "6098.355",
-    "debt": "0",
-    "gdpppppc2024": "14893.734"
+    "gdpppppc2024": "14893.734",
+    "growthgdp2024": "-0.6",
+    "debt": "0"
   },
   {
     "country": "Liechtenstein",
@@ -2084,8 +2199,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Lithuania",
@@ -2102,8 +2218,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "82.789",
     "gdppc2024": "29338.624",
-    "debt": "39.6",
-    "gdpppppc2024": "54215.976"
+    "gdpppppc2024": "54215.976",
+    "growthgdp2024": "2.7",
+    "debt": "39.6"
   },
   {
     "country": "Luxembourg",
@@ -2120,11 +2237,12 @@
     "timezones": "UTC+02:00",
     "gdp2024": "91.21",
     "gdppc2024": "138634.368",
-    "debt": "24.3",
-    "gdpppppc2024": "149582.781"
+    "gdpppppc2024": "149582.781",
+    "growthgdp2024": "1",
+    "debt": "24.3"
   },
   {
-    "country": "Macau",
+    "country": "Macao",
     "code": "MAC",
     "id": "MO",
     "abbr": "MAC",
@@ -2138,8 +2256,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "53.447",
     "gdppc2024": "72906.947",
-    "debt": "0",
-    "gdpppppc2024": "128025.819"
+    "gdpppppc2024": "128025.819",
+    "growthgdp2024": "8.8",
+    "debt": "0"
   },
   {
     "country": "North Macedonia",
@@ -2156,8 +2275,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "15.861",
     "gdppc2024": "9169.273",
-    "debt": "51.8",
-    "gdpppppc2024": "27681.123"
+    "gdpppppc2024": "27681.123",
+    "growthgdp2024": "2.8",
+    "debt": "51.8"
   },
   {
     "country": "Madagascar",
@@ -2174,8 +2294,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "17.212",
     "gdppc2024": "569.409",
-    "debt": "57",
-    "gdpppppc2024": "1967.945"
+    "gdpppppc2024": "1967.945",
+    "growthgdp2024": "4.2",
+    "debt": "57"
   },
   {
     "country": "Malawi",
@@ -2192,8 +2313,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "10.844",
     "gdppc2024": "504.486",
-    "debt": "70.1",
-    "gdpppppc2024": "1721.567"
+    "gdpppppc2024": "1721.567",
+    "growthgdp2024": "1.8",
+    "debt": "70.1"
   },
   {
     "country": "Malaysia",
@@ -2210,8 +2332,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "439.748",
     "gdppc2024": "12540.71",
-    "debt": "66.3",
-    "gdpppppc2024": "41156.534"
+    "gdpppppc2024": "41156.534",
+    "growthgdp2024": "5.1",
+    "debt": "66.3"
   },
   {
     "country": "Maldives",
@@ -2228,8 +2351,9 @@
     "timezones": "UTC+05:00",
     "gdp2024": "6.984",
     "gdppc2024": "17371.777",
-    "debt": "114.9",
-    "gdpppppc2024": "34685.849"
+    "gdpppppc2024": "34685.849",
+    "growthgdp2024": "5.1",
+    "debt": "114.9"
   },
   {
     "country": "Mali",
@@ -2246,8 +2370,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "21.653",
     "gdppc2024": "945.612",
-    "debt": "53.2",
-    "gdpppppc2024": "2810.82"
+    "gdpppppc2024": "2810.82",
+    "growthgdp2024": "4.4",
+    "debt": "53.2"
   },
   {
     "country": "Malta",
@@ -2264,8 +2389,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "24.397",
     "gdppc2024": "43991.583",
-    "debt": "55.8",
-    "gdpppppc2024": "73258.783"
+    "gdpppppc2024": "73258.783",
+    "growthgdp2024": "6",
+    "debt": "55.8"
   },
   {
     "country": "Marshall Islands",
@@ -2282,8 +2408,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "0.279",
     "gdppc2024": "7302.982",
-    "debt": "21.2",
-    "gdpppppc2024": "6946.081"
+    "gdpppppc2024": "6946.081",
+    "growthgdp2024": "2.8",
+    "debt": "21.2"
   },
   {
     "country": "Martinique",
@@ -2300,8 +2427,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Mauritania",
@@ -2318,8 +2446,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "10.761",
     "gdppc2024": "2362.13",
-    "debt": "47.7",
-    "gdpppppc2024": "8250.331"
+    "gdpppppc2024": "8250.331",
+    "growthgdp2024": "4.6",
+    "debt": "47.7"
   },
   {
     "country": "Mauritius",
@@ -2336,8 +2465,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "15.89",
     "gdppc2024": "11882.551",
-    "debt": "80.9",
-    "gdpppppc2024": "31078.764"
+    "gdpppppc2024": "31078.764",
+    "growthgdp2024": "4.7",
+    "debt": "80.9"
   },
   {
     "country": "Mayotte",
@@ -2354,8 +2484,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Mexico",
@@ -2372,8 +2503,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "1848.125",
     "gdppc2024": "14006.661",
-    "debt": "56",
-    "gdpppppc2024": "25074.233"
+    "gdpppppc2024": "25074.233",
+    "growthgdp2024": "1.5",
+    "debt": "56"
   },
   {
     "country": "Moldova",
@@ -2390,8 +2522,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "18.062",
     "gdppc2024": "7480.091",
-    "debt": "33.5",
-    "gdpppppc2024": "18527.017"
+    "gdpppppc2024": "18527.017",
+    "growthgdp2024": "0.5",
+    "debt": "33.5"
   },
   {
     "country": "Monaco",
@@ -2408,8 +2541,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Mongolia",
@@ -2426,8 +2560,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "23.669",
     "gdppc2024": "6653.641",
-    "debt": "82.4",
-    "gdpppppc2024": "18989.753"
+    "gdpppppc2024": "18989.753",
+    "growthgdp2024": "4.9",
+    "debt": "82.4"
   },
   {
     "country": "Montenegro",
@@ -2444,8 +2579,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "8.11",
     "gdppc2024": "12663.889",
-    "debt": "71.2",
-    "gdpppppc2024": "31750.22"
+    "gdpppppc2024": "31750.22",
+    "growthgdp2024": "3",
+    "debt": "71.2"
   },
   {
     "country": "Montserrat",
@@ -2462,8 +2598,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Morocco",
@@ -2480,8 +2617,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "157.087",
     "gdppc2024": "4157.081",
-    "debt": "68.8",
-    "gdpppppc2024": "10658.839"
+    "gdpppppc2024": "10658.839",
+    "growthgdp2024": "3.2",
+    "debt": "68.8"
   },
   {
     "country": "Mozambique",
@@ -2498,8 +2636,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "22.495",
     "gdppc2024": "629.531",
-    "debt": "104.5",
-    "gdpppppc2024": "1688.654"
+    "gdpppppc2024": "1688.654",
+    "growthgdp2024": "1.9",
+    "debt": "104.5"
   },
   {
     "country": "Myanmar",
@@ -2516,8 +2655,9 @@
     "timezones": "UTC+06:30",
     "gdp2024": "64.284",
     "gdppc2024": "1113.793",
-    "debt": "63.9",
-    "gdpppppc2024": "5689.195"
+    "gdpppppc2024": "5689.195",
+    "growthgdp2024": "-1.1",
+    "debt": "63.9"
   },
   {
     "country": "Namibia",
@@ -2534,8 +2674,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "13.185",
     "gdppc2024": "4471.812",
-    "debt": "71.3",
-    "gdpppppc2024": "11844.074"
+    "gdpppppc2024": "11844.074",
+    "growthgdp2024": "3.7",
+    "debt": "71.3"
   },
   {
     "country": "Nauru",
@@ -2552,8 +2693,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "0.16",
     "gdppc2024": "12317.582",
-    "debt": "24.3",
-    "gdpppppc2024": "10860.472"
+    "gdpppppc2024": "10860.472",
+    "growthgdp2024": "1.8",
+    "debt": "24.3"
   },
   {
     "country": "Nepal",
@@ -2570,8 +2712,9 @@
     "timezones": "UTC+05:45",
     "gdp2024": "43.673",
     "gdppc2024": "1389.427",
-    "debt": "43.8",
-    "gdpppppc2024": "5411.968"
+    "gdpppppc2024": "5411.968",
+    "growthgdp2024": "3.1",
+    "debt": "43.8"
   },
   {
     "country": "Netherlands",
@@ -2588,8 +2731,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "1218.401",
     "gdppc2024": "68393.15",
-    "debt": "48.5",
-    "gdpppppc2024": "81705.3"
+    "gdpppppc2024": "81705.3",
+    "growthgdp2024": "1",
+    "debt": "48.5"
   },
   {
     "country": "Netherlands Antilles",
@@ -2606,8 +2750,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "New Caledonia",
@@ -2624,8 +2769,9 @@
     "timezones": "UTC+11:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "New Zealand",
@@ -2642,8 +2788,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "252.236",
     "gdppc2024": "48310.25",
-    "debt": "52.8",
-    "gdpppppc2024": "53845.621"
+    "gdpppppc2024": "53845.621",
+    "growthgdp2024": "-0.5",
+    "debt": "52.8"
   },
   {
     "country": "Nicaragua",
@@ -2660,8 +2807,9 @@
     "timezones": "UTC-06:00",
     "gdp2024": "19.412",
     "gdppc2024": "2845.715",
-    "debt": "46",
-    "gdpppppc2024": "8695.963"
+    "gdpppppc2024": "8695.963",
+    "growthgdp2024": "3.6",
+    "debt": "46"
   },
   {
     "country": "Niger",
@@ -2678,8 +2826,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "19.599",
     "gdppc2024": "707.47",
-    "debt": "51.1",
-    "gdpppppc2024": "1986.507"
+    "gdpppppc2024": "1986.507",
+    "growthgdp2024": "10.3",
+    "debt": "51.1"
   },
   {
     "country": "Nigeria",
@@ -2696,8 +2845,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "199.721",
     "gdppc2024": "824.021",
-    "debt": "38",
-    "gdpppppc2024": "6580.275"
+    "gdpppppc2024": "6580.275",
+    "growthgdp2024": "3.4",
+    "debt": "38"
   },
   {
     "country": "Niue",
@@ -2714,8 +2864,9 @@
     "timezones": "UTC-11:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Norfolk Island",
@@ -2732,8 +2883,9 @@
     "timezones": "UTC+11:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "North Korea",
@@ -2750,8 +2902,9 @@
     "timezones": "UTC+09:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Northern Mariana Islands",
@@ -2768,8 +2921,9 @@
     "timezones": "UTC+10:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "North Macedonia",
@@ -2786,8 +2940,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "15.861",
     "gdppc2024": "9169.273",
-    "debt": "51.8",
-    "gdpppppc2024": "27681.123"
+    "gdpppppc2024": "27681.123",
+    "growthgdp2024": "2.8",
+    "debt": "51.8"
   },
   {
     "country": "Norway",
@@ -2804,8 +2959,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "503.752",
     "gdppc2024": "86611.173",
-    "debt": "39.6",
-    "gdpppppc2024": "103585.617"
+    "gdpppppc2024": "103585.617",
+    "growthgdp2024": "2.1",
+    "debt": "39.6"
   },
   {
     "country": "Oman",
@@ -2822,8 +2978,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "109.993",
     "gdppc2024": "20059.326",
-    "debt": "40.1",
-    "gdpppppc2024": "41275.192"
+    "gdpppppc2024": "41275.192",
+    "growthgdp2024": "1.7",
+    "debt": "40.1"
   },
   {
     "country": "Pakistan",
@@ -2840,8 +2997,9 @@
     "timezones": "UTC+05:00",
     "gdp2024": "374.595",
     "gdppc2024": "1581.174",
-    "debt": "75.8",
-    "gdpppppc2024": "6724.205"
+    "gdpppppc2024": "6724.205",
+    "growthgdp2024": "2.5",
+    "debt": "75.8"
   },
   {
     "country": "Palau",
@@ -2858,8 +3016,9 @@
     "timezones": "UTC+09:00",
     "gdp2024": "0.316",
     "gdppc2024": "17405.886",
-    "debt": "0",
-    "gdpppppc2024": "16867.936"
+    "gdpppppc2024": "16867.936",
+    "growthgdp2024": "7.1",
+    "debt": "0"
   },
   {
     "country": "Palestine",
@@ -2876,8 +3035,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Panama",
@@ -2894,8 +3054,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "87.347",
     "gdppc2024": "19445.064",
-    "debt": "54.9",
-    "gdpppppc2024": "41572.494"
+    "gdpppppc2024": "41572.494",
+    "growthgdp2024": "2.9",
+    "debt": "54.9"
   },
   {
     "country": "Papua New Guinea",
@@ -2912,8 +3073,9 @@
     "timezones": "UTC+10:00",
     "gdp2024": "31.896",
     "gdppc2024": "2524.37",
-    "debt": "49.2",
-    "gdpppppc2024": "3573.503"
+    "gdpppppc2024": "3573.503",
+    "growthgdp2024": "3.7",
+    "debt": "49.2"
   },
   {
     "country": "Paraguay",
@@ -2930,8 +3092,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "44.937",
     "gdppc2024": "6387.512",
-    "debt": "40.9",
-    "gdpppppc2024": "18593.027"
+    "gdpppppc2024": "18593.027",
+    "growthgdp2024": "4",
+    "debt": "40.9"
   },
   {
     "country": "Peru",
@@ -2948,8 +3111,9 @@
     "timezones": "UTC-05:00",
     "gdp2024": "283.309",
     "gdppc2024": "8485.019",
-    "debt": "33.4",
-    "gdpppppc2024": "17879.21"
+    "gdpppppc2024": "17879.21",
+    "growthgdp2024": "3.3",
+    "debt": "33.4"
   },
   {
     "country": "Philippines",
@@ -2966,8 +3130,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "470.062",
     "gdppc2024": "4078.977",
-    "debt": "57.5",
-    "gdpppppc2024": "12072.808"
+    "gdpppppc2024": "12072.808",
+    "growthgdp2024": "5.7",
+    "debt": "57.5"
   },
   {
     "country": "Poland",
@@ -2984,8 +3149,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "862.908",
     "gdppc2024": "24810.444",
-    "debt": "49.6",
-    "gdpppppc2024": "51983.429"
+    "gdpppppc2024": "51983.429",
+    "growthgdp2024": "2.9",
+    "debt": "49.6"
   },
   {
     "country": "Portugal",
@@ -3002,8 +3168,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "303.032",
     "gdppc2024": "28917.901",
-    "debt": "116",
-    "gdpppppc2024": "47996.659"
+    "gdpppppc2024": "47996.659",
+    "growthgdp2024": "1.9",
+    "debt": "116"
   },
   {
     "country": "Puerto Rico",
@@ -3020,8 +3187,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "120.971",
     "gdppc2024": "37928.3",
-    "debt": "16.3",
-    "gdpppppc2024": "49608.139"
+    "gdpppppc2024": "49608.139",
+    "growthgdp2024": "1",
+    "debt": "16.3"
   },
   {
     "country": "Qatar",
@@ -3038,11 +3206,12 @@
     "timezones": "UTC+03:00",
     "gdp2024": "221.406",
     "gdppc2024": "71583.128",
-    "debt": "45.3",
-    "gdpppppc2024": "116249.332"
+    "gdpppppc2024": "116249.332",
+    "growthgdp2024": "2.4",
+    "debt": "45.3"
   },
   {
-    "country": "Republic of the Congo",
+    "country": "Congo",
     "code": "COG",
     "id": "CG",
     "abbr": "ROC",
@@ -3056,8 +3225,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "15.044",
     "gdppc2024": "2360.4",
-    "debt": "99.6",
-    "gdpppppc2024": "6390.614"
+    "gdpppppc2024": "6390.614",
+    "growthgdp2024": "2.6",
+    "debt": "99.6"
   },
   {
     "country": "Reunion",
@@ -3074,8 +3244,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Romania",
@@ -3092,11 +3263,12 @@
     "timezones": "UTC+03:00",
     "gdp2024": "380.561",
     "gdppc2024": "20278.199",
-    "debt": "48.7",
-    "gdpppppc2024": "46906.351"
+    "gdpppppc2024": "46906.351",
+    "growthgdp2024": "0.9",
+    "debt": "48.7"
   },
   {
-    "country": "Russia",
+    "country": "Russian Federation",
     "code": "RUS",
     "id": "RU",
     "abbr": "RUS",
@@ -3110,8 +3282,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "2184.316",
     "gdppc2024": "14794.697",
-    "debt": "19.6",
-    "gdpppppc2024": "47269.22"
+    "gdpppppc2024": "47269.22",
+    "growthgdp2024": "4.1",
+    "debt": "19.6"
   },
   {
     "country": "Rwanda",
@@ -3128,8 +3301,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "13.663",
     "gdppc2024": "1028.469",
-    "debt": "64.4",
-    "gdpppppc2024": "3814.347"
+    "gdpppppc2024": "3814.347",
+    "growthgdp2024": "8.9",
+    "debt": "64.4"
   },
   {
     "country": "Saint Barthelemy",
@@ -3146,8 +3320,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Saint Helena",
@@ -3164,8 +3339,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Saint Kitts and Nevis",
@@ -3182,8 +3358,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "1.158",
     "gdppc2024": "21726.255",
-    "debt": "64.8",
-    "gdpppppc2024": "32539.407"
+    "gdpppppc2024": "32539.407",
+    "growthgdp2024": "1.5",
+    "debt": "64.8"
   },
   {
     "country": "Saint Martin",
@@ -3200,8 +3377,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Saint Pierre and Miquelon",
@@ -3218,8 +3396,9 @@
     "timezones": "UTC-02:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Saint Vincent and the Grenadines",
@@ -3236,8 +3415,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "1.173",
     "gdppc2024": "10457.609",
-    "debt": "86.8",
-    "gdpppppc2024": "19836.894"
+    "gdpppppc2024": "19836.894",
+    "growthgdp2024": "4.8",
+    "debt": "86.8"
   },
   {
     "country": "Samoa",
@@ -3254,8 +3434,9 @@
     "timezones": "UTC+13:00",
     "gdp2024": "1.068",
     "gdppc2024": "5070.481",
-    "debt": "43.7",
-    "gdpppppc2024": "7088.831"
+    "gdpppppc2024": "7088.831",
+    "growthgdp2024": "9.4",
+    "debt": "43.7"
   },
   {
     "country": "San Marino",
@@ -3272,8 +3453,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "2.049",
     "gdppc2024": "60263.243",
-    "debt": "81.2",
-    "gdpppppc2024": "80322.06"
+    "gdpppppc2024": "80322.06",
+    "growthgdp2024": "0.7",
+    "debt": "81.2"
   },
   {
     "country": "Sao Tome and Principe",
@@ -3290,8 +3472,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "0.812",
     "gdppc2024": "3357.442",
-    "debt": "58.1",
-    "gdpppppc2024": "6194.682"
+    "gdpppppc2024": "6194.682",
+    "growthgdp2024": "0.9",
+    "debt": "58.1"
   },
   {
     "country": "Saudi Arabia",
@@ -3308,8 +3491,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "1100.706",
     "gdppc2024": "30746.453",
-    "debt": "22.6",
-    "gdpppppc2024": "59741.029"
+    "gdpppppc2024": "59741.029",
+    "growthgdp2024": "1.3",
+    "debt": "22.6"
   },
   {
     "country": "Senegal",
@@ -3326,8 +3510,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "33.685",
     "gdppc2024": "1762.642",
-    "debt": "75",
-    "gdpppppc2024": "5075.038"
+    "gdpppppc2024": "5075.038",
+    "growthgdp2024": "6.7",
+    "debt": "75"
   },
   {
     "country": "Serbia",
@@ -3344,8 +3529,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "82.55",
     "gdppc2024": "13544.907",
-    "debt": "53.5",
-    "gdpppppc2024": "30956.315"
+    "gdpppppc2024": "30956.315",
+    "growthgdp2024": "3.9",
+    "debt": "53.5"
   },
   {
     "country": "Seychelles",
@@ -3362,8 +3548,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "2.144",
     "gdppc2024": "21531.871",
-    "debt": "63.4",
-    "gdpppppc2024": "39880.72"
+    "gdpppppc2024": "39880.72",
+    "growthgdp2024": "3",
+    "debt": "63.4"
   },
   {
     "country": "Sierra Leone",
@@ -3380,8 +3567,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "7.411",
     "gdppc2024": "853.02",
-    "debt": "98.8",
-    "gdpppppc2024": "3371.959"
+    "gdpppppc2024": "3371.959",
+    "growthgdp2024": "3.7",
+    "debt": "98.8"
   },
   {
     "country": "Singapore",
@@ -3398,8 +3586,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "530.708",
     "gdppc2024": "90674.044",
-    "debt": "134.2",
-    "gdpppppc2024": "150689.491"
+    "gdpppppc2024": "150689.491",
+    "growthgdp2024": "4.4",
+    "debt": "134.2"
   },
   {
     "country": "Sint Maarten",
@@ -3416,8 +3605,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Slovakia",
@@ -3434,8 +3624,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "142.617",
     "gdppc2024": "25925.21",
-    "debt": "58.8",
-    "gdpppppc2024": "45582.773"
+    "gdpppppc2024": "45582.773",
+    "growthgdp2024": "2",
+    "debt": "58.8"
   },
   {
     "country": "Slovenia",
@@ -3452,8 +3643,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "73.198",
     "gdppc2024": "34117.175",
-    "debt": "70.2",
-    "gdpppppc2024": "55619.027"
+    "gdpppppc2024": "55619.027",
+    "growthgdp2024": "1.6",
+    "debt": "70.2"
   },
   {
     "country": "Solomon Islands",
@@ -3470,8 +3662,9 @@
     "timezones": "UTC+11:00",
     "gdp2024": "1.73",
     "gdppc2024": "2269.051",
-    "debt": "16.9",
-    "gdpppppc2024": "2621.692"
+    "gdpppppc2024": "2621.692",
+    "growthgdp2024": "2.5",
+    "debt": "16.9"
   },
   {
     "country": "Somalia",
@@ -3488,8 +3681,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "12.729",
     "gdppc2024": "735.391",
-    "debt": "0",
-    "gdpppppc2024": "1844.608"
+    "gdpppppc2024": "1844.608",
+    "growthgdp2024": "4",
+    "debt": "0"
   },
   {
     "country": "South Africa",
@@ -3506,8 +3700,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "403.045",
     "gdppc2024": "6331.913",
-    "debt": "71",
-    "gdpppppc2024": "15654.361"
+    "gdpppppc2024": "15654.361",
+    "growthgdp2024": "0.6",
+    "debt": "71"
   },
   {
     "country": "South Korea",
@@ -3524,8 +3719,9 @@
     "timezones": "UTC+09:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "54.3",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "54.3"
   },
   {
     "country": "South Sudan",
@@ -3542,8 +3738,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "5.268",
     "gdppc2024": "351.023",
-    "debt": "39.6",
-    "gdpppppc2024": "750.318"
+    "gdpppppc2024": "750.318",
+    "growthgdp2024": "-27.6",
+    "debt": "39.6"
   },
   {
     "country": "Spain",
@@ -3560,8 +3757,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "1731.469",
     "gdppc2024": "35091.647",
-    "debt": "112",
-    "gdpppppc2024": "54451.021"
+    "gdpppppc2024": "54451.021",
+    "growthgdp2024": "3.2",
+    "debt": "112"
   },
   {
     "country": "Sri Lanka",
@@ -3578,8 +3776,9 @@
     "timezones": "UTC+05:30",
     "gdp2024": "0",
     "gdppc2024": "4324.872",
-    "debt": "117.7",
-    "gdpppppc2024": "14972.338"
+    "gdpppppc2024": "14972.338",
+    "growthgdp2024": "5",
+    "debt": "117.7"
   },
   {
     "country": "Saint Lucia",
@@ -3596,8 +3795,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "2.569",
     "gdppc2024": "13982.577",
-    "debt": "83.5",
-    "gdpppppc2024": "27438.475"
+    "gdpppppc2024": "27438.475",
+    "growthgdp2024": "3.8",
+    "debt": "83.5"
   },
   {
     "country": "Sudan",
@@ -3614,8 +3814,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "29.793",
     "gdppc2024": "575.284",
-    "debt": "127.6",
-    "gdpppppc2024": "2343.537"
+    "gdpppppc2024": "2343.537",
+    "growthgdp2024": "-23.4",
+    "debt": "127.6"
   },
   {
     "country": "Suriname",
@@ -3632,8 +3833,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "4.918",
     "gdppc2024": "6888.591",
-    "debt": "123.2",
-    "gdpppppc2024": "21504.349"
+    "gdpppppc2024": "21504.349",
+    "growthgdp2024": "3",
+    "debt": "123.2"
   },
   {
     "country": "Eswatini",
@@ -3650,8 +3852,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "5.145",
     "gdppc2024": "4420.762",
-    "debt": "45.4",
-    "gdpppppc2024": "12862.194"
+    "gdpppppc2024": "12862.194",
+    "growthgdp2024": "3.7",
+    "debt": "45.4"
   },
   {
     "country": "Sweden",
@@ -3668,8 +3871,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "609.039",
     "gdppc2024": "57625.095",
-    "debt": "31.7",
-    "gdpppppc2024": "72232.64"
+    "gdpppppc2024": "72232.64",
+    "growthgdp2024": "1",
+    "debt": "31.7"
   },
   {
     "country": "Switzerland",
@@ -3686,8 +3890,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "942.265",
     "gdppc2024": "104523.348",
-    "debt": "39.1",
-    "gdpppppc2024": "94937.215"
+    "gdpppppc2024": "94937.215",
+    "growthgdp2024": "1.3",
+    "debt": "39.1"
   },
   {
     "country": "Syria",
@@ -3704,8 +3909,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Taiwan",
@@ -3722,8 +3928,9 @@
     "timezones": "UTC+08:00",
     "gdp2024": "775.017",
     "gdppc2024": "33437.355",
-    "debt": "27.5",
-    "gdpppppc2024": "79564.849"
+    "gdpppppc2024": "79564.849",
+    "growthgdp2024": "4.3",
+    "debt": "27.5"
   },
   {
     "country": "Tajikistan",
@@ -3740,8 +3947,9 @@
     "timezones": "UTC+05:00",
     "gdp2024": "12.995",
     "gdppc2024": "1329.442",
-    "debt": "34.6",
-    "gdpppppc2024": "5615.024"
+    "gdpppppc2024": "5615.024",
+    "growthgdp2024": "8.4",
+    "debt": "34.6"
   },
   {
     "country": "Tanzania",
@@ -3758,8 +3966,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "79.867",
     "gdppc2024": "1229.041",
-    "debt": "41.6",
-    "gdpppppc2024": "4135.419"
+    "gdpppppc2024": "4135.419",
+    "growthgdp2024": "5.4",
+    "debt": "41.6"
   },
   {
     "country": "Thailand",
@@ -3776,8 +3985,9 @@
     "timezones": "UTC+07:00",
     "gdp2024": "528.919",
     "gdppc2024": "7491.686",
-    "debt": "60.5",
-    "gdpppppc2024": "25210.871"
+    "gdpppppc2024": "25210.871",
+    "growthgdp2024": "2.5",
+    "debt": "60.5"
   },
   {
     "country": "Timor-Leste",
@@ -3794,8 +4004,9 @@
     "timezones": "UTC+09:00",
     "gdp2024": "1.992",
     "gdppc2024": "1438.471",
-    "debt": "7.5",
-    "gdpppppc2024": "4727.695"
+    "gdpppppc2024": "4727.695",
+    "growthgdp2024": "4.1",
+    "debt": "7.5"
   },
   {
     "country": "Togo",
@@ -3812,8 +4023,9 @@
     "timezones": "UTC",
     "gdp2024": "9.766",
     "gdppc2024": "1052.367",
-    "debt": "68",
-    "gdpppppc2024": "3290.793"
+    "gdpppppc2024": "3290.793",
+    "growthgdp2024": "5.3",
+    "debt": "68"
   },
   {
     "country": "Tokelau",
@@ -3830,8 +4042,9 @@
     "timezones": "UTC+13:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Tonga",
@@ -3848,8 +4061,9 @@
     "timezones": "UTC+13:00",
     "gdp2024": "0.545",
     "gdppc2024": "5415.944",
-    "debt": "46.6",
-    "gdpppppc2024": "7653.573"
+    "gdpppppc2024": "7653.573",
+    "growthgdp2024": "2.1",
+    "debt": "46.6"
   },
   {
     "country": "Trinidad and Tobago",
@@ -3866,8 +4080,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "28.139",
     "gdppc2024": "17871.883",
-    "debt": "53.8",
-    "gdpppppc2024": "34436.256"
+    "gdpppppc2024": "34436.256",
+    "growthgdp2024": "1.4",
+    "debt": "53.8"
   },
   {
     "country": "Tunisia",
@@ -3884,8 +4099,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "52.636",
     "gdppc2024": "4301.62",
-    "debt": "79.4",
-    "gdpppppc2024": "14304.042"
+    "gdpppppc2024": "14304.042",
+    "growthgdp2024": "1.4",
+    "debt": "79.4"
   },
   {
     "country": "Turkey",
@@ -3902,8 +4118,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "1344.318",
     "gdppc2024": "15463.289",
-    "debt": "31.2",
-    "gdpppppc2024": "40501.47"
+    "gdpppppc2024": "40501.47",
+    "growthgdp2024": "3.2",
+    "debt": "31.2"
   },
   {
     "country": "Turkmenistan",
@@ -3920,8 +4137,9 @@
     "timezones": "UTC+05:00",
     "gdp2024": "83.883",
     "gdppc2024": "12505.855",
-    "debt": "5.2",
-    "gdpppppc2024": "26870.371"
+    "gdpppppc2024": "26870.371",
+    "growthgdp2024": "2.3",
+    "debt": "5.2"
   },
   {
     "country": "Turks and Caicos Islands",
@@ -3938,8 +4156,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Tuvalu",
@@ -3956,8 +4175,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "0.073",
     "gdppc2024": "6598.62",
-    "debt": "7.6",
-    "gdpppppc2024": "6658.352"
+    "gdpppppc2024": "6658.352",
+    "growthgdp2024": "3.3",
+    "debt": "7.6"
   },
   {
     "country": "Uganda",
@@ -3974,8 +4194,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "55.587",
     "gdppc2024": "1210.836",
-    "debt": "50.8",
-    "gdpppppc2024": "3683.965"
+    "gdpppppc2024": "3683.965",
+    "growthgdp2024": "6.3",
+    "debt": "50.8"
   },
   {
     "country": "Ukraine",
@@ -3992,8 +4213,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "184.099",
     "gdppc2024": "5711.164",
-    "debt": "81.7",
-    "gdpppppc2024": "19765.075"
+    "gdpppppc2024": "19765.075",
+    "growthgdp2024": "3.5",
+    "debt": "81.7"
   },
   {
     "country": "United Arab Emirates",
@@ -4010,8 +4232,9 @@
     "timezones": "UTC+04:00",
     "gdp2024": "545.053",
     "gdppc2024": "48830.171",
-    "debt": "30",
-    "gdpppppc2024": "77094.761"
+    "gdpppppc2024": "77094.761",
+    "growthgdp2024": "3.8",
+    "debt": "30"
   },
   {
     "country": "United Kingdom",
@@ -4028,8 +4251,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "3587.545",
     "gdppc2024": "52648.187",
-    "debt": "102.6",
-    "gdpppppc2024": "61921.239"
+    "gdpppppc2024": "61921.239",
+    "growthgdp2024": "1.1",
+    "debt": "102.6"
   },
   {
     "country": "United States",
@@ -4046,8 +4270,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "29167.779",
     "gdppc2024": "85812.176",
-    "debt": "121.7",
-    "gdpppppc2024": "85812.176"
+    "gdpppppc2024": "85812.176",
+    "growthgdp2024": "2.8",
+    "debt": "121.7"
   },
   {
     "country": "Uruguay",
@@ -4064,8 +4289,9 @@
     "timezones": "UTC-03:00",
     "gdp2024": "82.482",
     "gdppc2024": "23089.277",
-    "debt": "61",
-    "gdpppppc2024": "35173.09"
+    "gdpppppc2024": "35173.09",
+    "growthgdp2024": "3.1",
+    "debt": "61"
   },
   {
     "country": "United States Virgin Islands",
@@ -4082,8 +4308,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Uzbekistan",
@@ -4100,8 +4327,9 @@
     "timezones": "UTC+05:00",
     "gdp2024": "112.653",
     "gdppc2024": "3113.335",
-    "debt": "34.3",
-    "gdpppppc2024": "11704.351"
+    "gdpppppc2024": "11704.351",
+    "growthgdp2024": "6.5",
+    "debt": "34.3"
   },
   {
     "country": "Vanuatu",
@@ -4118,8 +4346,9 @@
     "timezones": "UTC+11:00",
     "gdp2024": "1.169",
     "gdppc2024": "3491.778",
-    "debt": "45.8",
-    "gdpppppc2024": "2967.817"
+    "gdpppppc2024": "2967.817",
+    "growthgdp2024": "0.9",
+    "debt": "45.8"
   },
   {
     "country": "Vatican City",
@@ -4136,8 +4365,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Venezuela",
@@ -4154,8 +4384,9 @@
     "timezones": "UTC-04:00",
     "gdp2024": "106.327",
     "gdppc2024": "4510.618",
-    "debt": "157.8",
-    "gdpppppc2024": "8556.8"
+    "gdpppppc2024": "8556.8",
+    "growthgdp2024": "5.3",
+    "debt": "157.8"
   },
   {
     "country": "Vietnam",
@@ -4172,8 +4403,9 @@
     "timezones": "UTC+07:00",
     "gdp2024": "468.485",
     "gdppc2024": "4535.756",
-    "debt": "37.1",
-    "gdpppppc2024": "16335.01"
+    "gdpppppc2024": "16335.01",
+    "growthgdp2024": "7.1",
+    "debt": "37.1"
   },
   {
     "country": "Wallis and Futuna",
@@ -4190,8 +4422,9 @@
     "timezones": "UTC+12:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Western Sahara",
@@ -4208,8 +4441,9 @@
     "timezones": "UTC+00:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Svalbard",
@@ -4226,8 +4460,9 @@
     "timezones": "UTC+01:00",
     "gdp2024": "0",
     "gdppc2024": "0",
-    "debt": "0",
-    "gdpppppc2024": "0"
+    "gdpppppc2024": "0",
+    "growthgdp2024": "0",
+    "debt": "0"
   },
   {
     "country": "Yemen",
@@ -4244,8 +4479,9 @@
     "timezones": "UTC+03:00",
     "gdp2024": "16.192",
     "gdppc2024": "470.656",
-    "debt": "73.5",
-    "gdpppppc2024": "1704.843"
+    "gdpppppc2024": "1704.843",
+    "growthgdp2024": "-1.5",
+    "debt": "73.5"
   },
   {
     "country": "Zambia",
@@ -4262,8 +4498,9 @@
     "timezones": "UTC+02:00",
     "gdp2024": "25.913",
     "gdppc2024": "1245.619",
-    "debt": "0",
-    "gdpppppc2024": "4259.982"
+    "gdpppppc2024": "4259.982",
+    "growthgdp2024": "4",
+    "debt": "0"
   },
   {
     "country": "Zimbabwe",
@@ -4280,7 +4517,8 @@
     "timezones": "UTC+02:00",
     "gdp2024": "35.919",
     "gdppc2024": "2072.911",
-    "debt": "92.8",
-    "gdpppppc2024": "5075.699"
+    "gdpppppc2024": "5075.699",
+    "growthgdp2024": "2",
+    "debt": "92.8"
   }
 ]
