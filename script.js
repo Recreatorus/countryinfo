@@ -1,36 +1,118 @@
-var a=document.getElementById('countryList'),g=aK=>{if(aK.length>0){document.getElementById('countryList').innerHTML=aK.map(aL=>`
+const countryList = document.getElementById('countryList');
+var currentDate = new Date();
+function offsetToMs(e) {
+  let [t, a] = e
+      .replace(/utc/i, '')
+      .split(':')
+      .map((e) => Number(e.replace(/\D/, ''))),
+    r = 36e5 * t + 6e4 * a;
+  return e.includes('-') ? -r : r;
+}
+function numberFormatter(e) {
+  return Number.isInteger(e)
+    ? new Intl.NumberFormat('ru-RU').format(e)
+    : new Intl.NumberFormat('ru-RU', { maximumSignificantDigits: 2 }).format(e);
+}
+function dollarFormatter(e) {
+  return 0 == e ? 'no data' : new Intl.NumberFormat('ru-RU', { style: 'currency', currency: 'USD' }).format(e);
+}
+const searchcountry = async (e) => {
+    let t = await fetch('./data/countries.json', { priority: 'high' }),
+      a = await t.json(),
+      r = a.filter((t) => {
+        let a = RegExp(`^${e}`, 'gi');
+        return t.country.match(a) || t.capital.match(a);
+      });
+    (0 === e.length && ((r = []), (countryList.innerHTML = '')), outputHtml(r));
+    let n = document.querySelectorAll('.capitalCity');
+    n.forEach((e) => {
+      e.addEventListener('click', function () {
+        (n.forEach((e) => e.classList.remove('active')), this.classList.add('active'));
+        var e = this.querySelector('span').textContent || this.querySelector('span').innerText;
+        let t = `https://api.openweathermap.org/data/2.5/weather?q=${e}&appid=4d8fb5b93d4af21d66a2948710284366&units=metric`;
+        fetch(t)
+          .then((e) => e.json())
+          .then((e) => {
+            let { main: t, name: a, sys: r, weather: n } = e,
+              i = `./img/weather/${n[0].icon}.svg`,
+              s = document.querySelector('.capitalCity.active #capitalWeather'),
+              c = `
+            <div class="city-name" data-name="${a},${r.country}">
+              <span>${a}</span>
+            </div>
+            <div class="city-temp">${Math.round(t.temp)}<sup>\xb0C</sup></div>
+            <figure>
+              <img class="city-icon" src="${i}" alt="${n[0].description}">
+              <figcaption>${n[0].description}</figcaption>
+            </figure>
+          `;
+            s.innerHTML = c;
+          })
+          .catch(() => {
+            n.textContent = 'Please search for a valid city';
+          });
+      });
+    });
+    let i = document.querySelectorAll('.currency');
+    i.forEach((e) => {
+      e.addEventListener('click', function () {
+        (i.forEach((e) => e.classList.remove('currency-open')), this.classList.add('currency-open'));
+        var e = this.querySelector('span').textContent || this.querySelector('span').innerText;
+        fetch('https://openexchangerates.org/api/latest.json?app_id=507f9314f79f467d9605061678f7e286')
+          .then((e) => e.json())
+          .then((t) => {
+            let a = document.querySelector('.currency-open #currencyData'),
+              r = new Intl.NumberFormat('en-EN', {
+                style: 'currency',
+                currency: `${e}`,
+                currencyDisplay: 'name',
+              }).format(`${t.rates[e]}`),
+              n = `
+            <span>1 US$ = ${r}</span>
+          `;
+            a.innerHTML = n;
+          })
+          .catch(() => {
+            ((i.textContent = 'There is no data'), console.log('There is no data'));
+          });
+      });
+    });
+  },
+  outputHtml = (e) => {
+    if (e.length > 0) {
+      let t = e
+        .map(
+          (e) => `
           <div class="card">
             <div class="card-top">
-              <div class="card-title">${aL.country}</div>
-              <img src="./img/flags/${aL.id.toLowerCase()}.svg">
+              <div class="card-title">${e.country}</div>
+              <img src="./img/flags/${e.id.toLowerCase()}.svg">
             </div>
             <div class="card-data">
               <div class="population">
-              Population: <span>${d(aL.pop2024)}</span></div>
-              <div class="density">Density: <span>${d(aL.density)} /km<sup>2</sup></span></div>
-              <div class="area">Area: <span>${d(aL.area,0)} km<sup>2</sup></span></div>
-              <div class="area">GDP (2024), bln.: <span>${e(aL.gdp2024)} </span></div>
-              <div class="area">GDP per capita (2024): <span>${e(aL.gdppc2024)}</span></div>
-              <div class="area">GDP PPP (2024), int.dollars: <span>${e(aL.gdpppppc2024)}</span></div>
-              <div class="capitalCity">Capital: <span class="capitalName">${aL.capital}</span>
+              Population (2026): <span>${numberFormatter(e.pop2026)} (${e.rank} place)</span></div>
+              <div class="density">Density: <span>${numberFormatter(e.density)} /km<sup>2</sup></span></div>
+              <div class="area">Area: <span>${numberFormatter(e.area, 0)} km<sup>2</sup></span></div>
+              <div class="area">GDP (2025), bln.: <span>${dollarFormatter(e.gdp2025)} </span></div>
+              <div class="area">GDP per capita (2024): <span>${dollarFormatter(e.gdppc2024)}</span></div>
+              <div class="area">GDP PPP (2024), int.dollars: <span>${dollarFormatter(e.gdpppppc2024)}</span></div>
+              <div class="capitalCity">Capital: <span class="capitalName">${e.capital}</span>
                 <div id="capitalWeather"></div>
               </div>
-              <div class="countryCode">Country Code: <span>${aL.phoneCode}</span></div>
-              <div class="currency">Сurrency: <span>${aL.currency}</span>
+              <div class="countryCode">Country Code: <span>${e.phoneCode}</span></div>
+              <div class="currency">Сurrency: <span>${e.currency}</span>
                 <div id="currencyData"></div>
               </div>
-              <div class="time">Time in the capital: <span>${new Date(new Date().getTime()+c(`${aL.timezones}`)).toUTCString()}</span></div>
+              <div class="time">Time in the capital: <span>${new Date(new Date().getTime() + offsetToMs(`${e.timezones}`)).toUTCString()}</span></div>
             </div>
           </div>
-        `).join('')}};var b=new Date;function c(s){const[h,m]=s.replace(/utc/i,'').split(':').map(x=>+x.replace(/\D/,'')),ms=h*60*60*1000+m*60*1000;return s.includes('-')?-ms:ms}function d(A){if(Number.isInteger(A))return new Intl.NumberFormat('ru-RU').format(A);return new Intl.NumberFormat('ru-RU', {maximumSignificantDigits:2}).format(A)}function e(_){if(_==0)return'no data';return new Intl.NumberFormat('ru-RU', {style:'currency',currency:'USD'}).format(_)}var f=async B=>{const C=await fetch('./data/countries.json',{priority:'high'});const _c=await C.json();let D=_c.filter(_a=>{const _b=new RegExp(`^${B}`, 'gi');return _a.country.match(_b)||_a.capital.match(_b)});B.length===0&&(D=[],a.innerHTML='');g(D);let E=document.querySelectorAll('.capitalCity');for(const _A of E)_A.addEventListener('click',function(){for(const aB of E)aB.classList.remove('active');this.classList.add('active');var aA=this.querySelector('span').textContent||this.querySelector('span').innerText,_B='4d8fb5b93d4af21d66a2948710284366';fetch(`https://api.openweathermap.org/data/2.5/weather?q=${aA}&appid=${_B}&units=metric`).then(aC=>aC.json()).then(aD=>{const{main:aE,name:_C,sys:_d,weather:_e}=aD,G=document.querySelector('.capitalCity.active #capitalWeather');const _f=`./img/weather/${_e[0]['icon']}.svg`;G.innerHTML=`
-            <div class="city-name" data-name="${_C},${_d.country}">
-              <span>${_C}</span>
-            </div>
-            <div class="city-temp">${Math.round(aE.temp)}<sup>°C</sup></div>
-            <figure>
-              <img class="city-icon" src="${_f}" alt="${_e[0]['description']}">
-              <figcaption>${_e[0]['description']}</figcaption>
-            </figure>
-          `}).catch(()=>E.textContent='Please search for a valid city')});let F=document.querySelectorAll('.currency');for(const item of F)item.addEventListener('click',function(){for(const item of F)item.classList.remove('currency-open');this.classList.add('currency-open');var aF=this.querySelector('span').textContent||this.querySelector('span').innerText;fetch('https://openexchangerates.org/api/latest.json?app_id=507f9314f79f467d9605061678f7e286').then(aG=>aG.json()).then(aH=>{const aI=document.querySelector('.currency-open #currencyData');let aJ=new Intl.NumberFormat('en-EN', {style:'currency',currency:`${aF}`,currencyDisplay:'name'}).format(`${aH.rates[aF]}`);aI.innerHTML=`
-            <span>1 US$ = ${aJ}</span>
-          `}).catch(()=>{F.textContent='There is no data';console.log('There is no data')})})};document.getElementById('search').addEventListener('input',()=>f(search.value));document.addEventListener('DOMContentLoaded',()=>document.getElementById('search').focus({focusVisible:!0}));
+        `,
+        )
+        .join('');
+      document.getElementById('countryList').innerHTML = t;
+    }
+  };
+(document.getElementById('search').addEventListener('input', () => searchcountry(search.value)),
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('search').focus({ focusVisible: !0 });
+  }));
