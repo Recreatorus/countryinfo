@@ -90,7 +90,7 @@ const searchcountry = async (e) => {
             </div>
             <div class="card-data">
               <div class="population">
-              Population (2026): <span>${numberFormatter(e.pop2026)} (${e.rank} place)</span></div>
+              Population (2026): <span>${numberFormatter(e.pop2026)} (${numberFormatter(e.rank)} place)</span></div>
               <div class="density">Density: <span>${numberFormatter(e.density)} /km<sup>2</sup></span></div>
               <div class="area">Area: <span>${numberFormatter(e.area, 0)} km<sup>2</sup></span></div>
               <div class="area">GDP (2025), bln.: <span>${dollarFormatter(e.gdp2025)} </span></div>
