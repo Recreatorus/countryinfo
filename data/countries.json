@@ -686,7 +686,14 @@
     "id": "IO",
     "phoneCode": "+246",
     "rusName": "Британская территория в Индийском океане",
-    "timezones": "UTC+06:00"
+    "timezones": "UTC+06:00",
+    "pop2026": 2800,
+    "area": 60,
+    "landAreaKm": 0,
+    "density": 46.67,
+    "growthRate": 0,
+    "worldPercentage": 0,
+    "rank": 0
   },
   {
     "pop2024": 39471,
