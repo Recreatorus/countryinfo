@@ -1,6 +1,5 @@
 [
   {
-    "pop2024": 42647492,
     "capital": "Kabul",
     "code": "AFG",
     "country": "Afghanistan",
@@ -22,10 +21,9 @@
     "growthRate": 0.0274,
     "worldPercentage": 0.0056,
     "rank": 36,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 2791765,
     "capital": "Tirana",
     "code": "ALB",
     "country": "Albania",
@@ -47,10 +45,9 @@
     "growthRate": -0.0074,
     "worldPercentage": 0.0003,
     "rank": 144,
-    "growth2025": "3.4"
+    "growth2025": 3.4
   },
   {
-    "pop2024": 46814308,
     "capital": "Algiers",
     "code": "DZA",
     "country": "Algeria",
@@ -72,10 +69,9 @@
     "growthRate": 0.0125,
     "worldPercentage": 0.006,
     "rank": 32,
-    "growth2025": "3.4"
+    "growth2025": 3.4
   },
   {
-    "pop2024": 46765,
     "capital": "Pago Pago",
     "code": "ASM",
     "country": "American Samoa",
@@ -97,10 +93,9 @@
     "growthRate": -0.0154,
     "worldPercentage": 0,
     "rank": 212,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 81938,
     "capital": "Andorra la Vella",
     "code": "AND",
     "country": "Andorra",
@@ -122,10 +117,9 @@
     "growthRate": 0.0102,
     "worldPercentage": 0,
     "rank": 202,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 37885849,
     "capital": "Luanda",
     "code": "AGO",
     "country": "Angola",
@@ -147,10 +141,9 @@
     "growthRate": 0.0301,
     "worldPercentage": 0.005,
     "rank": 39,
-    "growth2025": "2.1"
+    "growth2025": 2.1
   },
   {
-    "pop2024": 14598,
     "capital": "The Valley",
     "code": "AIA",
     "country": "Anguilla",
@@ -172,10 +165,9 @@
     "growthRate": 0.006,
     "worldPercentage": 0,
     "rank": 223,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 93772,
     "capital": "Saint John's",
     "code": "ATG",
     "country": "Antigua and Barbuda",
@@ -197,10 +189,9 @@
     "growthRate": 0.0044,
     "worldPercentage": 0,
     "rank": 200,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 45696159,
     "capital": "Buenos Aires",
     "code": "ARG",
     "country": "Argentina",
@@ -222,10 +213,9 @@
     "growthRate": 0.0033,
     "worldPercentage": 0.0057,
     "rank": 35,
-    "growth2025": "4.5"
+    "growth2025": 4.5
   },
   {
-    "pop2024": 2973840,
     "capital": "Yerevan",
     "code": "ARM",
     "country": "Armenia",
@@ -247,10 +237,9 @@
     "growthRate": -0.0073,
     "worldPercentage": 0.0004,
     "rank": 140,
-    "growth2025": "4.8"
+    "growth2025": 4.8
   },
   {
-    "pop2024": 108066,
     "capital": "Oranjestad",
     "code": "ABW",
     "country": "Aruba",
@@ -272,10 +261,9 @@
     "growthRate": 0.0002,
     "worldPercentage": 0,
     "rank": 196,
-    "growth2025": "2"
+    "growth2025": 2
   },
   {
-    "pop2024": 26713205,
     "capital": "Canberra",
     "code": "AUS",
     "country": "Australia",
@@ -297,10 +285,9 @@
     "growthRate": 0.0094,
     "worldPercentage": 0.0034,
     "rank": 55,
-    "growth2025": "1.8"
+    "growth2025": 1.8
   },
   {
-    "pop2024": 9120813,
     "capital": "Vienna",
     "code": "AUT",
     "country": "Austria",
@@ -322,10 +309,9 @@
     "growthRate": -0.0007,
     "worldPercentage": 0.0011,
     "rank": 99,
-    "growth2025": "0.3"
+    "growth2025": 0.3
   },
   {
-    "pop2024": 10336577,
     "capital": "Baku",
     "code": "AZE",
     "country": "Azerbaijan",
@@ -347,10 +333,9 @@
     "growthRate": 0.0055,
     "worldPercentage": 0.0013,
     "rank": 93,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 401283,
     "capital": "Nassau",
     "code": "BHS",
     "country": "Bahamas",
@@ -372,10 +357,9 @@
     "growthRate": 0.004,
     "worldPercentage": 0.0001,
     "rank": 177,
-    "growth2025": "2.2"
+    "growth2025": 2.2
   },
   {
-    "pop2024": 1607049,
     "capital": "Manama",
     "code": "BHR",
     "country": "Bahrain",
@@ -397,10 +381,9 @@
     "growthRate": 0.0196,
     "worldPercentage": 0.0002,
     "rank": 153,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 173562364,
     "capital": "Dhaka",
     "code": "BGD",
     "country": "Bangladesh",
@@ -422,10 +405,9 @@
     "growthRate": 0.0121,
     "worldPercentage": 0.0222,
     "rank": 8,
-    "growth2025": "3.8"
+    "growth2025": 3.8
   },
   {
-    "pop2024": 282467,
     "capital": "Bridgetown",
     "code": "BRB",
     "country": "Barbados",
@@ -447,10 +429,9 @@
     "growthRate": 0.0004,
     "worldPercentage": 0,
     "rank": 186,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 9056696,
     "capital": "Minsk",
     "code": "BLR",
     "country": "Belarus",
@@ -472,10 +453,9 @@
     "growthRate": -0.0067,
     "worldPercentage": 0.0011,
     "rank": 102,
-    "growth2025": "2.1"
+    "growth2025": 2.1
   },
   {
-    "pop2024": 11738763,
     "capital": "Brussels",
     "code": "BEL",
     "country": "Belgium",
@@ -497,10 +477,9 @@
     "growthRate": 0.0014,
     "worldPercentage": 0.0015,
     "rank": 83,
-    "growth2025": "1.1"
+    "growth2025": 1.1
   },
   {
-    "pop2024": 417072,
     "capital": "Belmopan",
     "code": "BLZ",
     "country": "Belize",
@@ -522,10 +501,9 @@
     "growthRate": 0.0135,
     "worldPercentage": 0.0001,
     "rank": 176,
-    "growth2025": "1.5"
+    "growth2025": 1.5
   },
   {
-    "pop2024": 14462724,
     "capital": "Porto-Novo",
     "code": "BEN",
     "country": "Benin",
@@ -547,10 +525,9 @@
     "growthRate": 0.024,
     "worldPercentage": 0.0019,
     "rank": 76,
-    "growth2025": "7"
+    "growth2025": 7
   },
   {
-    "pop2024": 64636,
     "capital": "Hamilton",
     "code": "BMU",
     "country": "Bermuda",
@@ -572,10 +549,9 @@
     "growthRate": -0.0015,
     "worldPercentage": 0,
     "rank": 207,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 791524,
     "capital": "Thimphu",
     "code": "BTN",
     "country": "Bhutan",
@@ -597,10 +573,9 @@
     "growthRate": 0.0069,
     "worldPercentage": 0.0001,
     "rank": 166,
-    "growth2025": "6.8"
+    "growth2025": 6.8
   },
   {
-    "pop2024": 12413315,
     "capital": "La Paz",
     "code": "BOL",
     "country": "Bolivia",
@@ -622,10 +597,9 @@
     "growthRate": 0.0133,
     "worldPercentage": 0.0016,
     "rank": 79,
-    "growth2025": "0.6"
+    "growth2025": 0.6
   },
   {
-    "pop2024": 3164253,
     "capital": "Sarajevo",
     "code": "BIH",
     "country": "Bosnia and Herzegovina",
@@ -647,10 +621,9 @@
     "growthRate": -0.0082,
     "worldPercentage": 0.0004,
     "rank": 138,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 2521139,
     "capital": "Gaborone",
     "code": "BWA",
     "country": "Botswana",
@@ -672,10 +645,9 @@
     "growthRate": 0.0161,
     "worldPercentage": 0.0003,
     "rank": 146,
-    "growth2025": "-0.9"
+    "growth2025": -0.9
   },
   {
-    "pop2024": 211998573,
     "capital": "Brasília",
     "code": "BRA",
     "country": "Brazil",
@@ -697,10 +669,9 @@
     "growthRate": 0.0035,
     "worldPercentage": 0.0267,
     "rank": 7,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 0,
     "capital": "Diego Garcia",
     "code": "IOT",
     "country": "British Indian Ocean Territory",
@@ -722,10 +693,9 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 39471,
     "capital": "RoadTown",
     "code": "VGB",
     "country": "British Virgin Islands",
@@ -747,10 +717,9 @@
     "growthRate": 0.0051,
     "worldPercentage": 0,
     "rank": 217,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 462721,
     "capital": "Bandar Seri Begawan",
     "code": "BRN",
     "country": "Brunei",
@@ -772,10 +741,9 @@
     "growthRate": 0.0074,
     "worldPercentage": 0.0001,
     "rank": 175,
-    "growth2025": "1.8"
+    "growth2025": 1.8
   },
   {
-    "pop2024": 6757689,
     "capital": "Sofia",
     "code": "BGR",
     "country": "Bulgaria",
@@ -797,10 +765,9 @@
     "growthRate": -0.007,
     "worldPercentage": 0.0008,
     "rank": 110,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 23548781,
     "capital": "Ouagadougou",
     "code": "BFA",
     "country": "Burkina Faso",
@@ -822,10 +789,9 @@
     "growthRate": 0.0219,
     "worldPercentage": 0.0031,
     "rank": 59,
-    "growth2025": "4"
+    "growth2025": 4
   },
   {
-    "pop2024": 14047786,
     "capital": "Bujumbura",
     "code": "BDI",
     "country": "Burundi",
@@ -847,10 +813,9 @@
     "growthRate": 0.0236,
     "worldPercentage": 0.0018,
     "rank": 78,
-    "growth2025": "4.4"
+    "growth2025": 4.4
   },
   {
-    "pop2024": 524877,
     "capital": "Praia",
     "code": "CPV",
     "country": "Cabo Verde",
@@ -872,10 +837,9 @@
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
     "rank": 174,
-    "growth2025": "5.2"
+    "growth2025": 5.2
   },
   {
-    "pop2024": 17638801,
     "capital": "Phnom Penh",
     "code": "KHM",
     "country": "Cambodia",
@@ -897,10 +861,9 @@
     "growthRate": 0.0114,
     "worldPercentage": 0.0023,
     "rank": 73,
-    "growth2025": "4.8"
+    "growth2025": 4.8
   },
   {
-    "pop2024": 29123744,
     "capital": "Yaoundé",
     "code": "CMR",
     "country": "Cameroon",
@@ -922,10 +885,9 @@
     "growthRate": 0.0255,
     "worldPercentage": 0.0038,
     "rank": 51,
-    "growth2025": "3.8"
+    "growth2025": 3.8
   },
   {
-    "pop2024": 39742430,
     "capital": "Ottawa",
     "code": "CAN",
     "country": "Canada",
@@ -947,10 +909,9 @@
     "growthRate": 0.0085,
     "worldPercentage": 0.0051,
     "rank": 38,
-    "growth2025": "1.2"
+    "growth2025": 1.2
   },
   {
-    "pop2024": 74457,
     "capital": "George Town",
     "code": "CYM",
     "country": "Cayman Islands",
@@ -972,10 +933,9 @@
     "growthRate": 0.0178,
     "worldPercentage": 0,
     "rank": 204,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 5330690,
     "capital": "Bangui",
     "code": "CAF",
     "country": "Central African Republic",
@@ -997,10 +957,9 @@
     "growthRate": 0.0337,
     "worldPercentage": 0.0007,
     "rank": 118,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 20299123,
     "capital": "N'Djamena",
     "code": "TCD",
     "country": "Chad",
@@ -1022,10 +981,9 @@
     "growthRate": 0.0265,
     "worldPercentage": 0.0027,
     "rank": 64,
-    "growth2025": "3.3"
+    "growth2025": 3.3
   },
   {
-    "pop2024": 19764771,
     "capital": "Santiago",
     "code": "CHL",
     "country": "Chile",
@@ -1047,10 +1005,9 @@
     "growthRate": 0.0043,
     "worldPercentage": 0.0025,
     "rank": 67,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 1419321278,
     "capital": "Beijing",
     "code": "CHN",
     "country": "China",
@@ -1072,10 +1029,9 @@
     "growthRate": -0.0023,
     "worldPercentage": 0.1765,
     "rank": 2,
-    "growth2025": "4.8"
+    "growth2025": 4.8
   },
   {
-    "pop2024": 52886363,
     "capital": "Bogotá",
     "code": "COL",
     "country": "Colombia",
@@ -1097,10 +1053,9 @@
     "growthRate": 0.0096,
     "worldPercentage": 0.0067,
     "rank": 28,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 866628,
     "capital": "Moroni",
     "code": "COM",
     "country": "Comoros",
@@ -1122,10 +1077,9 @@
     "growthRate": 0.0183,
     "worldPercentage": 0.0001,
     "rank": 162,
-    "growth2025": "3.8"
+    "growth2025": 3.8
   },
   {
-    "pop2024": 13729,
     "capital": "Avarua",
     "code": "COK",
     "country": "Cook Islands",
@@ -1147,10 +1101,9 @@
     "growthRate": -0.0329,
     "worldPercentage": 0,
     "rank": 224,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 5129910,
     "capital": "San José",
     "code": "CRI",
     "country": "Costa Rica",
@@ -1172,10 +1125,9 @@
     "growthRate": 0.0042,
     "worldPercentage": 0.0006,
     "rank": 127,
-    "growth2025": "3.6"
+    "growth2025": 3.6
   },
   {
-    "pop2024": 31934230,
     "capital": "Yamoussoukro",
     "code": "CIV",
     "country": "Côte d'Ivoire",
@@ -1197,10 +1149,9 @@
     "growthRate": 0.0239,
     "worldPercentage": 0.0042,
     "rank": 50,
-    "growth2025": "6.4"
+    "growth2025": 6.4
   },
   {
-    "pop2024": 3875325,
     "capital": "Zagreb",
     "code": "HRV",
     "country": "Croatia",
@@ -1222,10 +1173,9 @@
     "growthRate": -0.0067,
     "worldPercentage": 0.0005,
     "rank": 130,
-    "growth2025": "3.1"
+    "growth2025": 3.1
   },
   {
-    "pop2024": 10979783,
     "capital": "Havana",
     "code": "CUB",
     "country": "Cuba",
@@ -1247,10 +1197,9 @@
     "growthRate": -0.0041,
     "worldPercentage": 0.0014,
     "rank": 90,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 185482,
     "capital": "Willemstad",
     "code": "CUW",
     "country": "Curacao",
@@ -1272,10 +1221,9 @@
     "growthRate": -0.0003,
     "worldPercentage": 0,
     "rank": 189,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 1358282,
     "capital": "Nicosia",
     "code": "CYP",
     "country": "Cyprus",
@@ -1297,10 +1245,9 @@
     "growthRate": 0.0084,
     "worldPercentage": 0.0002,
     "rank": 156,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 10735859,
     "capital": "Prague",
     "code": "CZE",
     "country": "Czech Republic",
@@ -1322,10 +1269,9 @@
     "growthRate": -0.0077,
     "worldPercentage": 0.0013,
     "rank": 92,
-    "growth2025": "2.3"
+    "growth2025": 2.3
   },
   {
-    "pop2024": 109276265,
     "capital": "Kinshasa",
     "code": "COD",
     "country": "The Democratic Republic of Congo",
@@ -1347,10 +1293,9 @@
     "growthRate": 0.0321,
     "worldPercentage": 0.0145,
     "rank": 15,
-    "growth2025": "5.3"
+    "growth2025": 5.3
   },
   {
-    "pop2024": 5977412,
     "capital": "Copenhagen",
     "code": "DNK",
     "country": "Denmark",
@@ -1372,10 +1317,9 @@
     "growthRate": 0.0035,
     "worldPercentage": 0.0008,
     "rank": 114,
-    "growth2025": "1.8"
+    "growth2025": 1.8
   },
   {
-    "pop2024": 1168722,
     "capital": "Djibouti",
     "code": "DJI",
     "country": "Djibouti",
@@ -1397,10 +1341,9 @@
     "growthRate": 0.013,
     "worldPercentage": 0.0001,
     "rank": 160,
-    "growth2025": "6"
+    "growth2025": 6
   },
   {
-    "pop2024": 66205,
     "capital": "Roseau",
     "code": "DMA",
     "country": "Dominica",
@@ -1422,10 +1365,9 @@
     "growthRate": -0.0055,
     "worldPercentage": 0,
     "rank": 205,
-    "growth2025": "4.2"
+    "growth2025": 4.2
   },
   {
-    "pop2024": 11427557,
     "capital": "Santo Domingo",
     "code": "DOM",
     "country": "Dominican Republic",
@@ -1447,10 +1389,9 @@
     "growthRate": 0.0077,
     "worldPercentage": 0.0015,
     "rank": 84,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 18135478,
     "capital": "Quito",
     "code": "ECU",
     "country": "Ecuador",
@@ -1472,10 +1413,9 @@
     "growthRate": 0.0085,
     "worldPercentage": 0.0023,
     "rank": 72,
-    "growth2025": "3.2"
+    "growth2025": 3.2
   },
   {
-    "pop2024": 116538258,
     "capital": "Cairo",
     "code": "EGY",
     "country": "Egypt",
@@ -1497,10 +1437,9 @@
     "growthRate": 0.0147,
     "worldPercentage": 0.015,
     "rank": 13,
-    "growth2025": "4.3"
+    "growth2025": 4.3
   },
   {
-    "pop2024": 6338193,
     "capital": "San Salvador",
     "code": "SLV",
     "country": "El Salvador",
@@ -1522,10 +1461,9 @@
     "growthRate": 0.004,
     "worldPercentage": 0.0008,
     "rank": 113,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 1892516,
     "capital": "Malabo",
     "code": "GNQ",
     "country": "Equatorial Guinea",
@@ -1547,10 +1485,9 @@
     "growthRate": 0.0238,
     "worldPercentage": 0.0002,
     "rank": 150,
-    "growth2025": "-1.6"
+    "growth2025": -1.6
   },
   {
-    "pop2024": 3535603,
     "capital": "Asmara",
     "code": "ERI",
     "country": "Eritrea",
@@ -1572,10 +1509,9 @@
     "growthRate": 0.021,
     "worldPercentage": 0.0005,
     "rank": 132,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 1360546,
     "capital": "Tallinn",
     "code": "EST",
     "country": "Estonia",
@@ -1597,10 +1533,9 @@
     "growthRate": -0.0098,
     "worldPercentage": 0.0002,
     "rank": 157,
-    "growth2025": "0.5"
+    "growth2025": 0.5
   },
   {
-    "pop2024": 132059767,
     "capital": "Addis Ababa",
     "code": "ETH",
     "country": "Ethiopia",
@@ -1622,10 +1557,9 @@
     "growthRate": 0.0253,
     "worldPercentage": 0.0174,
     "rank": 10,
-    "growth2025": "7.2"
+    "growth2025": 7.2
   },
   {
-    "pop2024": 3470,
     "capital": "FK",
     "code": "FLK",
     "country": "Falkland Islands",
@@ -1647,10 +1581,9 @@
     "growthRate": -0.0012,
     "worldPercentage": 0,
     "rank": 232,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 55400,
     "capital": "Tórshavn",
     "code": "FRO",
     "country": "Faroe Islands",
@@ -1672,10 +1605,9 @@
     "growthRate": 0.0094,
     "worldPercentage": 0,
     "rank": 208,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 113160,
     "capital": "Palikir",
     "code": "FSM",
     "country": "Micronesia",
@@ -1697,10 +1629,9 @@
     "growthRate": 0.0044,
     "worldPercentage": 0,
     "rank": 195,
-    "growth2025": "1"
+    "growth2025": 1
   },
   {
-    "pop2024": 928784,
     "capital": "Suva",
     "code": "FJI",
     "country": "Fiji",
@@ -1722,10 +1653,9 @@
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
     "rank": 161,
-    "growth2025": "3.2"
+    "growth2025": 3.2
   },
   {
-    "pop2024": 5617310,
     "capital": "Helsinki",
     "code": "FIN",
     "country": "Finland",
@@ -1747,10 +1677,9 @@
     "growthRate": -0.0003,
     "worldPercentage": 0.0007,
     "rank": 122,
-    "growth2025": "0.5"
+    "growth2025": 0.5
   },
   {
-    "pop2024": 66548530,
     "capital": "Paris",
     "code": "FRA",
     "country": "France",
@@ -1772,10 +1701,9 @@
     "growthRate": 0.0014,
     "worldPercentage": 0.0083,
     "rank": 23,
-    "growth2025": "0.7"
+    "growth2025": 0.7
   },
   {
-    "pop2024": 308522,
     "capital": "Cayenne",
     "code": "GUF",
     "country": "French Guiana",
@@ -1797,10 +1725,9 @@
     "growthRate": 0.0166,
     "worldPercentage": 0,
     "rank": 183,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 281807,
     "capital": "Papeete",
     "code": "PYF",
     "country": "French Polynesia",
@@ -1822,10 +1749,9 @@
     "growthRate": 0.0022,
     "worldPercentage": 0,
     "rank": 185,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 2538952,
     "capital": "Libreville",
     "code": "GAB",
     "country": "Gabon",
@@ -1847,10 +1773,9 @@
     "growthRate": 0.0209,
     "worldPercentage": 0.0003,
     "rank": 145,
-    "growth2025": "1.9"
+    "growth2025": 1.9
   },
   {
-    "pop2024": 2759988,
     "capital": "Banjul",
     "code": "GMB",
     "country": "Gambia",
@@ -1872,10 +1797,9 @@
     "growthRate": 0.022,
     "worldPercentage": 0.0004,
     "rank": 141,
-    "growth2025": "6"
+    "growth2025": 6
   },
   {
-    "pop2024": 3807670,
     "capital": "Tbilisi",
     "code": "GEO",
     "country": "Georgia",
@@ -1897,10 +1821,9 @@
     "growthRate": -0.0005,
     "worldPercentage": 0.0005,
     "rank": 131,
-    "growth2025": "7.2"
+    "growth2025": 7.2
   },
   {
-    "pop2024": 84552242,
     "capital": "Berlin",
     "code": "DEU",
     "country": "Germany",
@@ -1922,10 +1845,9 @@
     "growthRate": -0.0051,
     "worldPercentage": 0.0104,
     "rank": 19,
-    "growth2025": "0.2"
+    "growth2025": 0.2
   },
   {
-    "pop2024": 34427414,
     "capital": "Accra",
     "code": "GHA",
     "country": "Ghana",
@@ -1947,10 +1869,9 @@
     "growthRate": 0.0181,
     "worldPercentage": 0.0045,
     "rank": 46,
-    "growth2025": "4"
+    "growth2025": 4
   },
   {
-    "pop2024": 39329,
     "capital": "Gibraltar",
     "code": "GIB",
     "country": "Gibraltar",
@@ -1972,10 +1893,9 @@
     "growthRate": 0.0185,
     "worldPercentage": 0,
     "rank": 215,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 10047817,
     "capital": "Athens",
     "code": "GRC",
     "country": "Greece",
@@ -1997,10 +1917,9 @@
     "growthRate": -0.0042,
     "worldPercentage": 0.0012,
     "rank": 96,
-    "growth2025": "2"
+    "growth2025": 2
   },
   {
-    "pop2024": 55840,
     "capital": "Nuuk",
     "code": "GRL",
     "country": "Greenland",
@@ -2022,10 +1941,9 @@
     "growthRate": -0.0021,
     "worldPercentage": 0,
     "rank": 209,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 117207,
     "capital": "St. George's",
     "code": "GRD",
     "country": "Grenada",
@@ -2047,10 +1965,9 @@
     "growthRate": 0.0005,
     "worldPercentage": 0,
     "rank": 194,
-    "growth2025": "3.3"
+    "growth2025": 3.3
   },
   {
-    "pop2024": 375106,
     "capital": "Basse-Terre",
     "code": "GLP",
     "country": "Guadeloupe",
@@ -2072,10 +1989,9 @@
     "growthRate": -0.0036,
     "worldPercentage": 0,
     "rank": 179,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 167777,
     "capital": "Hagåtña",
     "code": "GUM",
     "country": "Guam",
@@ -2097,10 +2013,9 @@
     "growthRate": 0.007,
     "worldPercentage": 0,
     "rank": 191,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 18406359,
     "capital": "Guatemala City",
     "code": "GTM",
     "country": "Guatemala",
@@ -2122,10 +2037,9 @@
     "growthRate": 0.015,
     "worldPercentage": 0.0024,
     "rank": 69,
-    "growth2025": "3.8"
+    "growth2025": 3.8
   },
   {
-    "pop2024": 14754785,
     "capital": "Conakry",
     "code": "GIN",
     "country": "Guinea",
@@ -2147,10 +2061,9 @@
     "growthRate": 0.0227,
     "worldPercentage": 0.0019,
     "rank": 75,
-    "growth2025": "7.2"
+    "growth2025": 7.2
   },
   {
-    "pop2024": 2201352,
     "capital": "Bissau",
     "code": "GNB",
     "country": "Guinea-Bissau",
@@ -2172,10 +2085,9 @@
     "growthRate": 0.0215,
     "worldPercentage": 0.0003,
     "rank": 148,
-    "growth2025": "5.1"
+    "growth2025": 5.1
   },
   {
-    "pop2024": 831087,
     "capital": "Georgetown",
     "code": "GUY",
     "country": "Guyana",
@@ -2197,10 +2109,9 @@
     "growthRate": 0.0059,
     "worldPercentage": 0.0001,
     "rank": 165,
-    "growth2025": "10.3"
+    "growth2025": 10.3
   },
   {
-    "pop2024": 11772557,
     "capital": "Port-au-Prince",
     "code": "HTI",
     "country": "Haiti",
@@ -2222,10 +2133,9 @@
     "growthRate": 0.011,
     "worldPercentage": 0.0015,
     "rank": 82,
-    "growth2025": "-3.1"
+    "growth2025": -3.1
   },
   {
-    "pop2024": 10825703,
     "capital": "Tegucigalpa",
     "code": "HND",
     "country": "Honduras",
@@ -2247,10 +2157,9 @@
     "growthRate": 0.0163,
     "worldPercentage": 0.0014,
     "rank": 87,
-    "growth2025": "3.8"
+    "growth2025": 3.8
   },
   {
-    "pop2024": 7414909,
     "capital": "Hong Kong",
     "code": "HKG",
     "country": "Hong Kong",
@@ -2272,10 +2181,9 @@
     "growthRate": -0.0024,
     "worldPercentage": 0.0009,
     "rank": 107,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 9676135,
     "capital": "Budapest",
     "code": "HUN",
     "country": "Hungary",
@@ -2297,10 +2205,9 @@
     "growthRate": -0.0048,
     "worldPercentage": 0.0012,
     "rank": 98,
-    "growth2025": "0.6"
+    "growth2025": 0.6
   },
   {
-    "pop2024": 393396,
     "capital": "Reykjavík",
     "code": "ISL",
     "country": "Iceland",
@@ -2322,10 +2229,9 @@
     "growthRate": 0.0102,
     "worldPercentage": 0.0001,
     "rank": 178,
-    "growth2025": "1.4"
+    "growth2025": 1.4
   },
   {
-    "pop2024": 1450935791,
     "capital": "New Delhi",
     "code": "IND",
     "country": "India",
@@ -2347,10 +2253,9 @@
     "growthRate": 0.0087,
     "worldPercentage": 0.1845,
     "rank": 1,
-    "growth2025": "6.6"
+    "growth2025": 6.6
   },
   {
-    "pop2024": 283487931,
     "capital": "Jakarta",
     "code": "IDN",
     "country": "Indonesia",
@@ -2372,10 +2277,9 @@
     "growthRate": 0.0076,
     "worldPercentage": 0.036,
     "rank": 4,
-    "growth2025": "4.9"
+    "growth2025": 4.9
   },
   {
-    "pop2024": 91567738,
     "capital": "Tehran",
     "code": "IRN",
     "country": "Iran",
@@ -2397,10 +2301,9 @@
     "growthRate": 0.0081,
     "worldPercentage": 0.0116,
     "rank": 17,
-    "growth2025": "0.6"
+    "growth2025": 0.6
   },
   {
-    "pop2024": 46042015,
     "capital": "Baghdad",
     "code": "IRQ",
     "country": "Iraq",
@@ -2422,10 +2325,9 @@
     "growthRate": 0.021,
     "worldPercentage": 0.006,
     "rank": 33,
-    "growth2025": "0.5"
+    "growth2025": 0.5
   },
   {
-    "pop2024": 5255017,
     "capital": "Dublin",
     "code": "IRL",
     "country": "Ireland",
@@ -2447,10 +2349,9 @@
     "growthRate": 0.0092,
     "worldPercentage": 0.0007,
     "rank": 125,
-    "growth2025": "9.1"
+    "growth2025": 9.1
   },
   {
-    "pop2024": 9387021,
     "capital": "Jerusalem",
     "code": "ISR",
     "country": "Israel",
@@ -2472,10 +2373,9 @@
     "growthRate": 0.0137,
     "worldPercentage": 0.0012,
     "rank": 97,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 59342867,
     "capital": "Rome",
     "code": "ITA",
     "country": "Italy",
@@ -2497,10 +2397,9 @@
     "growthRate": -0.0037,
     "worldPercentage": 0.0074,
     "rank": 25,
-    "growth2025": "0.5"
+    "growth2025": 0.5
   },
   {
-    "pop2024": 2839175,
     "capital": "Kingston",
     "code": "JAM",
     "country": "Jamaica",
@@ -2522,10 +2421,9 @@
     "growthRate": -0.0013,
     "worldPercentage": 0.0004,
     "rank": 142,
-    "growth2025": "2.1"
+    "growth2025": 2.1
   },
   {
-    "pop2024": 123753041,
     "capital": "Tokyo",
     "code": "JPN",
     "country": "Japan",
@@ -2547,10 +2445,9 @@
     "growthRate": -0.0055,
     "worldPercentage": 0.0153,
     "rank": 12,
-    "growth2025": "1.1"
+    "growth2025": 1.1
   },
   {
-    "pop2024": 11552876,
     "capital": "Amman",
     "code": "JOR",
     "country": "Jordan",
@@ -2572,10 +2469,9 @@
     "growthRate": 0.006,
     "worldPercentage": 0.0014,
     "rank": 85,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 20592571,
     "capital": "Astana (Nur-Sultan)",
     "code": "KAZ",
     "country": "Kazakhstan",
@@ -2597,10 +2493,9 @@
     "growthRate": 0.0115,
     "worldPercentage": 0.0026,
     "rank": 65,
-    "growth2025": "5.9"
+    "growth2025": 5.9
   },
   {
-    "pop2024": 56432944,
     "capital": "Nairobi",
     "code": "KEN",
     "country": "Kenya",
@@ -2622,10 +2517,9 @@
     "growthRate": 0.0192,
     "worldPercentage": 0.0073,
     "rank": 26,
-    "growth2025": "4.8"
+    "growth2025": 4.8
   },
   {
-    "pop2024": 134518,
     "capital": "South Tarawa",
     "code": "KIR",
     "country": "Kiribati",
@@ -2647,10 +2541,9 @@
     "growthRate": 0.0143,
     "worldPercentage": 0,
     "rank": 192,
-    "growth2025": "3.9"
+    "growth2025": 3.9
   },
   {
-    "pop2024": 134518,
     "capital": "Pristina",
     "code": "KIR",
     "country": "Kiribati",
@@ -2672,10 +2565,9 @@
     "growthRate": 0.0143,
     "worldPercentage": 0,
     "rank": 192,
-    "growth2025": "3.9"
+    "growth2025": 3.9
   },
   {
-    "pop2024": 4934507,
     "capital": "Kuwait City",
     "code": "KWT",
     "country": "Kuwait",
@@ -2697,10 +2589,9 @@
     "growthRate": 0.0153,
     "worldPercentage": 0.0006,
     "rank": 128,
-    "growth2025": "2.6"
+    "growth2025": 2.6
   },
   {
-    "pop2024": 7186009,
     "capital": "Bishkek",
     "code": "KGZ",
     "country": "Kyrgyzstan",
@@ -2722,10 +2613,9 @@
     "growthRate": 0.0145,
     "worldPercentage": 0.0009,
     "rank": 106,
-    "growth2025": "8"
+    "growth2025": 8
   },
   {
-    "pop2024": 7769819,
     "capital": "Vientiane",
     "code": "LAO",
     "country": "Laos",
@@ -2747,10 +2637,9 @@
     "growthRate": 0.0128,
     "worldPercentage": 0.001,
     "rank": 103,
-    "growth2025": "3.5"
+    "growth2025": 3.5
   },
   {
-    "pop2024": 1871871,
     "capital": "Riga",
     "code": "LVA",
     "country": "Latvia",
@@ -2772,10 +2661,9 @@
     "growthRate": -0.0095,
     "worldPercentage": 0.0002,
     "rank": 151,
-    "growth2025": "1"
+    "growth2025": 1
   },
   {
-    "pop2024": 5805962,
     "capital": "Beirut",
     "code": "LBN",
     "country": "Lebanon",
@@ -2797,10 +2685,9 @@
     "growthRate": 0.0082,
     "worldPercentage": 0.0007,
     "rank": 116,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 2337423,
     "capital": "Maseru",
     "code": "LSO",
     "country": "Lesotho",
@@ -2822,10 +2709,9 @@
     "growthRate": 0.011,
     "worldPercentage": 0.0003,
     "rank": 147,
-    "growth2025": "1.4"
+    "growth2025": 1.4
   },
   {
-    "pop2024": 5612817,
     "capital": "Monrovia",
     "code": "LBR",
     "country": "Liberia",
@@ -2847,10 +2733,9 @@
     "growthRate": 0.0214,
     "worldPercentage": 0.0007,
     "rank": 117,
-    "growth2025": "4.6"
+    "growth2025": 4.6
   },
   {
-    "pop2024": 7381023,
     "capital": "Tripoli",
     "code": "LBY",
     "country": "Libya",
@@ -2872,10 +2757,9 @@
     "growthRate": 0.0109,
     "worldPercentage": 0.0009,
     "rank": 105,
-    "growth2025": "15.6"
+    "growth2025": 15.6
   },
   {
-    "pop2024": 39870,
     "capital": "Vaduz",
     "code": "LIE",
     "country": "Liechtenstein",
@@ -2897,10 +2781,9 @@
     "growthRate": 0.006,
     "worldPercentage": 0,
     "rank": 216,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 2859110,
     "capital": "Vilnius",
     "code": "LTU",
     "country": "Lithuania",
@@ -2922,10 +2805,9 @@
     "growthRate": -0.0116,
     "worldPercentage": 0.0003,
     "rank": 143,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 673036,
     "capital": "Luxembourg",
     "code": "LUX",
     "country": "Luxembourg",
@@ -2947,10 +2829,9 @@
     "growthRate": 0.0103,
     "worldPercentage": 0.0001,
     "rank": 168,
-    "growth2025": "1.2"
+    "growth2025": 1.2
   },
   {
-    "pop2024": 720262,
     "capital": "",
     "code": "MAC",
     "country": "Macao",
@@ -2972,10 +2853,9 @@
     "growthRate": 0.0016,
     "worldPercentage": 0.0001,
     "rank": 167,
-    "growth2025": "2.6"
+    "growth2025": 2.6
   },
   {
-    "pop2024": 1823009,
     "capital": "Skopje",
     "code": "MKD",
     "country": "North Macedonia",
@@ -2997,10 +2877,9 @@
     "growthRate": -0.0054,
     "worldPercentage": 0.0002,
     "rank": 152,
-    "growth2025": "3.4"
+    "growth2025": 3.4
   },
   {
-    "pop2024": 31964956,
     "capital": "Antananarivo",
     "code": "MDG",
     "country": "Madagascar",
@@ -3022,10 +2901,9 @@
     "growthRate": 0.0239,
     "worldPercentage": 0.0042,
     "rank": 49,
-    "growth2025": "3.8"
+    "growth2025": 3.8
   },
   {
-    "pop2024": 21655286,
     "capital": "Lilongwe",
     "code": "MWI",
     "country": "Malawi",
@@ -3047,10 +2925,9 @@
     "growthRate": 0.0256,
     "worldPercentage": 0.0028,
     "rank": 62,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 35557673,
     "capital": "Kuala Lumpur",
     "code": "MYS",
     "country": "Malaysia",
@@ -3072,10 +2949,9 @@
     "growthRate": 0.0113,
     "worldPercentage": 0.0045,
     "rank": 45,
-    "growth2025": "4.5"
+    "growth2025": 4.5
   },
   {
-    "pop2024": 527799,
     "capital": "Malé",
     "code": "MDV",
     "country": "Maldives",
@@ -3097,10 +2973,9 @@
     "growthRate": 0.0035,
     "worldPercentage": 0.0001,
     "rank": 173,
-    "growth2025": "4.8"
+    "growth2025": 4.8
   },
   {
-    "pop2024": 24478595,
     "capital": "Bamako",
     "code": "MLI",
     "country": "Mali",
@@ -3122,10 +2997,9 @@
     "growthRate": 0.0291,
     "worldPercentage": 0.0032,
     "rank": 58,
-    "growth2025": "5"
+    "growth2025": 5
   },
   {
-    "pop2024": 539607,
     "capital": "Valletta",
     "code": "MLT",
     "country": "Malta",
@@ -3147,10 +3021,9 @@
     "growthRate": 0.0066,
     "worldPercentage": 0.0001,
     "rank": 172,
-    "growth2025": "3.9"
+    "growth2025": 3.9
   },
   {
-    "pop2024": 37548,
     "capital": "Majuro",
     "code": "MHL",
     "country": "Marshall Islands",
@@ -3172,10 +3045,9 @@
     "growthRate": -0.0333,
     "worldPercentage": 0,
     "rank": 219,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 343195,
     "capital": "Fort-de-France",
     "code": "MTQ",
     "country": "Martinique",
@@ -3197,10 +3069,9 @@
     "growthRate": -0.008,
     "worldPercentage": 0,
     "rank": 182,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 5169395,
     "capital": "Nouakchott",
     "code": "MRT",
     "country": "Mauritania",
@@ -3222,10 +3093,9 @@
     "growthRate": 0.0275,
     "worldPercentage": 0.0007,
     "rank": 123,
-    "growth2025": "4"
+    "growth2025": 4
   },
   {
-    "pop2024": 1271169,
     "capital": "Port Louis",
     "code": "MUS",
     "country": "Mauritius",
@@ -3247,10 +3117,9 @@
     "growthRate": -0.0025,
     "worldPercentage": 0.0002,
     "rank": 159,
-    "growth2025": "3.2"
+    "growth2025": 3.2
   },
   {
-    "pop2024": 326505,
     "capital": "Mamoudzou",
     "code": "MYT",
     "country": "Mayotte",
@@ -3272,10 +3141,9 @@
     "growthRate": 0.0312,
     "worldPercentage": 0,
     "rank": 180,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 130861007,
     "capital": "Mexico City",
     "code": "MEX",
     "country": "Mexico",
@@ -3297,10 +3165,9 @@
     "growthRate": 0.008,
     "worldPercentage": 0.0166,
     "rank": 11,
-    "growth2025": "1"
+    "growth2025": 1
   },
   {
-    "pop2024": 3034961,
     "capital": "Chisinau",
     "code": "MDA",
     "country": "Moldova",
@@ -3322,10 +3189,9 @@
     "growthRate": -0.0116,
     "worldPercentage": 0.0004,
     "rank": 139,
-    "growth2025": "1.7"
+    "growth2025": 1.7
   },
   {
-    "pop2024": 38631,
     "capital": "Monaco",
     "code": "MCO",
     "country": "Monaco",
@@ -3347,10 +3213,9 @@
     "growthRate": -0.0066,
     "worldPercentage": 0,
     "rank": 218,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 3475540,
     "capital": "Ulan Bator",
     "code": "MNG",
     "country": "Mongolia",
@@ -3372,10 +3237,9 @@
     "growthRate": 0.0113,
     "worldPercentage": 0.0004,
     "rank": 133,
-    "growth2025": "5.5"
+    "growth2025": 5.5
   },
   {
-    "pop2024": 638479,
     "capital": "Podgorica",
     "code": "MNE",
     "country": "Montenegro",
@@ -3397,10 +3261,9 @@
     "growthRate": -0.0103,
     "worldPercentage": 0.0001,
     "rank": 170,
-    "growth2025": "3.2"
+    "growth2025": 3.2
   },
   {
-    "pop2024": 4389,
     "capital": "Plymouth",
     "code": "MSR",
     "country": "Montserrat",
@@ -3422,10 +3285,9 @@
     "growthRate": -0.0071,
     "worldPercentage": 0,
     "rank": 231,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 38081173,
     "capital": "Rabat",
     "code": "MAR",
     "country": "Morocco",
@@ -3447,10 +3309,9 @@
     "growthRate": 0.0086,
     "worldPercentage": 0.0048,
     "rank": 41,
-    "growth2025": "4.4"
+    "growth2025": 4.4
   },
   {
-    "pop2024": 34631766,
     "capital": "Maputo",
     "code": "MOZ",
     "country": "Mozambique",
@@ -3472,10 +3333,9 @@
     "growthRate": 0.0283,
     "worldPercentage": 0.0046,
     "rank": 44,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 54500091,
     "capital": "Naypyidaw",
     "code": "MMR",
     "country": "Myanmar",
@@ -3497,10 +3357,9 @@
     "growthRate": 0.0061,
     "worldPercentage": 0.0069,
     "rank": 27,
-    "growth2025": "-2.7"
+    "growth2025": -2.7
   },
   {
-    "pop2024": 3030131,
     "capital": "Windhoek",
     "code": "NAM",
     "country": "Namibia",
@@ -3522,10 +3381,9 @@
     "growthRate": 0.0195,
     "worldPercentage": 0.0004,
     "rank": 137,
-    "growth2025": "3.6"
+    "growth2025": 3.6
   },
   {
-    "pop2024": 11947,
     "capital": "Yaren",
     "code": "NRU",
     "country": "Nauru",
@@ -3547,10 +3405,9 @@
     "growthRate": 0.0063,
     "worldPercentage": 0,
     "rank": 225,
-    "growth2025": "2.1"
+    "growth2025": 2.1
   },
   {
-    "pop2024": 29651054,
     "capital": "Kathmandu",
     "code": "NPL",
     "country": "Nepal",
@@ -3572,10 +3429,9 @@
     "growthRate": 0.0004,
     "worldPercentage": 0.0037,
     "rank": 52,
-    "growth2025": "4.3"
+    "growth2025": 4.3
   },
   {
-    "pop2024": 18228742,
     "capital": "Amsterdam",
     "code": "NLD",
     "country": "Netherlands",
@@ -3597,10 +3453,9 @@
     "growthRate": 0.0056,
     "worldPercentage": 0.0023,
     "rank": 71,
-    "growth2025": "1.4"
+    "growth2025": 1.4
   },
   {
-    "pop2024": 0,
     "capital": "willemstad",
     "code": "ANT",
     "country": "Netherlands Antilles",
@@ -3622,10 +3477,9 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 292639,
     "capital": "Nouméa",
     "code": "NCL",
     "country": "New Caledonia",
@@ -3647,10 +3501,9 @@
     "growthRate": 0.0087,
     "worldPercentage": 0,
     "rank": 184,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 5213944,
     "capital": "Wellington",
     "code": "NZL",
     "country": "New Zealand",
@@ -3672,10 +3525,9 @@
     "growthRate": 0.0068,
     "worldPercentage": 0.0007,
     "rank": 126,
-    "growth2025": "0.8"
+    "growth2025": 0.8
   },
   {
-    "pop2024": 6916140,
     "capital": "Managua",
     "code": "NIC",
     "country": "Nicaragua",
@@ -3697,10 +3549,9 @@
     "growthRate": 0.0128,
     "worldPercentage": 0.0009,
     "rank": 108,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 27032412,
     "capital": "Niamey",
     "code": "NER",
     "country": "Niger",
@@ -3722,10 +3573,9 @@
     "growthRate": 0.0321,
     "worldPercentage": 0.0036,
     "rank": 53,
-    "growth2025": "6.6"
+    "growth2025": 6.6
   },
   {
-    "pop2024": 232679478,
     "capital": "Abuja",
     "code": "NGA",
     "country": "Nigeria",
@@ -3747,10 +3597,9 @@
     "growthRate": 0.0206,
     "worldPercentage": 0.0303,
     "rank": 6,
-    "growth2025": "3.9"
+    "growth2025": 3.9
   },
   {
-    "pop2024": 1819,
     "capital": "Alofi",
     "code": "NIU",
     "country": "Niue",
@@ -3772,10 +3621,9 @@
     "growthRate": 0.0005,
     "worldPercentage": 0,
     "rank": 234,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 2188,
     "capital": "Kingston",
     "code": "NFK",
     "country": "Norfolk Island",
@@ -3797,10 +3645,9 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 26498823,
     "capital": "Pyongyang",
     "code": "PRK",
     "country": "North Korea",
@@ -3822,10 +3669,9 @@
     "growthRate": 0.0024,
     "worldPercentage": 0.0033,
     "rank": 56,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 44278,
     "capital": "Saipan",
     "code": "MNP",
     "country": "Northern Mariana Islands",
@@ -3847,10 +3693,9 @@
     "growthRate": -0.0144,
     "worldPercentage": 0,
     "rank": 214,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 1823009,
     "capital": "Skopje",
     "code": "MKD",
     "country": "North Macedonia",
@@ -3872,10 +3717,9 @@
     "growthRate": -0.0054,
     "worldPercentage": 0.0002,
     "rank": 152,
-    "growth2025": "3.4"
+    "growth2025": 3.4
   },
   {
-    "pop2024": 5576660,
     "capital": "Oslo",
     "code": "NOR",
     "country": "Norway",
@@ -3897,10 +3741,9 @@
     "growthRate": 0.0053,
     "worldPercentage": 0.0007,
     "rank": 121,
-    "growth2025": "1.2"
+    "growth2025": 1.2
   },
   {
-    "pop2024": 5281538,
     "capital": "Muscat",
     "code": "OMN",
     "country": "Oman",
@@ -3922,10 +3765,9 @@
     "growthRate": 0.0322,
     "worldPercentage": 0.0007,
     "rank": 120,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 251269164,
     "capital": "Islamabad",
     "code": "PAK",
     "country": "Pakistan",
@@ -3947,10 +3789,9 @@
     "growthRate": 0.016,
     "worldPercentage": 0.0324,
     "rank": 5,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 17695,
     "capital": "Ngerulmud",
     "code": "PLW",
     "country": "Palau",
@@ -3972,10 +3813,9 @@
     "growthRate": -0.0028,
     "worldPercentage": 0,
     "rank": 222,
-    "growth2025": "4.5"
+    "growth2025": 4.5
   },
   {
-    "pop2024": 5495443,
     "capital": "Jerusalem(East)",
     "code": "PSE",
     "country": "Palestine",
@@ -3997,10 +3837,9 @@
     "growthRate": 0.0185,
     "worldPercentage": 0.0007,
     "rank": 119,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 4515577,
     "capital": "Panama City",
     "code": "PAN",
     "country": "Panama",
@@ -4022,10 +3861,9 @@
     "growthRate": 0.0119,
     "worldPercentage": 0.0006,
     "rank": 129,
-    "growth2025": "4"
+    "growth2025": 4
   },
   {
-    "pop2024": 10576502,
     "capital": "Port Moresby",
     "code": "PNG",
     "country": "Papua New Guinea",
@@ -4047,10 +3885,9 @@
     "growthRate": 0.0172,
     "worldPercentage": 0.0014,
     "rank": 89,
-    "growth2025": "4.7"
+    "growth2025": 4.7
   },
   {
-    "pop2024": 6929153,
     "capital": "Asunción",
     "code": "PRY",
     "country": "Paraguay",
@@ -4072,10 +3909,9 @@
     "growthRate": 0.0117,
     "worldPercentage": 0.0009,
     "rank": 109,
-    "growth2025": "4.4"
+    "growth2025": 4.4
   },
   {
-    "pop2024": 34217848,
     "capital": "Lima",
     "code": "PER",
     "country": "Peru",
@@ -4097,10 +3933,9 @@
     "growthRate": 0.01,
     "worldPercentage": 0.0044,
     "rank": 48,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 115843670,
     "capital": "Manila",
     "code": "PHL",
     "country": "Philippines",
@@ -4122,10 +3957,9 @@
     "growthRate": 0.008,
     "worldPercentage": 0.0147,
     "rank": 14,
-    "growth2025": "5.4"
+    "growth2025": 5.4
   },
   {
-    "pop2024": 38539201,
     "capital": "Warsaw",
     "code": "POL",
     "country": "Poland",
@@ -4147,10 +3981,9 @@
     "growthRate": -0.0078,
     "worldPercentage": 0.0047,
     "rank": 42,
-    "growth2025": "3.2"
+    "growth2025": 3.2
   },
   {
-    "pop2024": 10425292,
     "capital": "Lisbon",
     "code": "PRT",
     "country": "Portugal",
@@ -4172,10 +4005,9 @@
     "growthRate": -0.0016,
     "worldPercentage": 0.0013,
     "rank": 94,
-    "growth2025": "1.9"
+    "growth2025": 1.9
   },
   {
-    "pop2024": 3242204,
     "capital": "San Juan",
     "code": "PRI",
     "country": "Puerto Rico",
@@ -4197,10 +4029,9 @@
     "growthRate": -0.0039,
     "worldPercentage": 0.0004,
     "rank": 135,
-    "growth2025": "-0.8"
+    "growth2025": -0.8
   },
   {
-    "pop2024": 3048423,
     "capital": "Doha",
     "code": "QAT",
     "country": "Qatar",
@@ -4222,10 +4053,9 @@
     "growthRate": 0.0185,
     "worldPercentage": 0.0004,
     "rank": 136,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 6332961,
     "capital": "Brazzaville",
     "code": "COG",
     "country": "Congo",
@@ -4247,10 +4077,9 @@
     "growthRate": 0.0236,
     "worldPercentage": 0.0008,
     "rank": 112,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 878591,
     "capital": "Saint-Denis",
     "code": "REU",
     "country": "Reunion",
@@ -4272,10 +4101,9 @@
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
     "rank": 163,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 19015088,
     "capital": "Bucharest",
     "code": "ROU",
     "country": "Romania",
@@ -4297,10 +4125,9 @@
     "growthRate": -0.0057,
     "worldPercentage": 0.0023,
     "rank": 70,
-    "growth2025": "1"
+    "growth2025": 1
   },
   {
-    "pop2024": 144820423,
     "capital": "Moscow",
     "code": "RUS",
     "country": "Russian Federation",
@@ -4322,10 +4149,9 @@
     "growthRate": -0.0042,
     "worldPercentage": 0.0179,
     "rank": 9,
-    "growth2025": "0.6"
+    "growth2025": 0.6
   },
   {
-    "pop2024": 14256567,
     "capital": "Kigali",
     "code": "RWA",
     "country": "Rwanda",
@@ -4347,10 +4173,9 @@
     "growthRate": 0.022,
     "worldPercentage": 0.0019,
     "rank": 77,
-    "growth2025": "7.1"
+    "growth2025": 7.1
   },
   {
-    "pop2024": 11258,
     "capital": "Gustavia",
     "code": "BLM",
     "country": "Saint Barthelemy",
@@ -4372,10 +4197,9 @@
     "growthRate": 0.0119,
     "worldPercentage": 0,
     "rank": 226,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 4439,
     "capital": "Jamestown",
     "code": "SHN",
     "country": "Saint Helena",
@@ -4397,10 +4221,9 @@
     "growthRate": -0.0096,
     "worldPercentage": 0,
     "rank": 230,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 46843,
     "capital": "Basseterre",
     "code": "KNA",
     "country": "Saint Kitts and Nevis",
@@ -4422,10 +4245,9 @@
     "growthRate": 0.0015,
     "worldPercentage": 0,
     "rank": 211,
-    "growth2025": "1.7"
+    "growth2025": 1.7
   },
   {
-    "pop2024": 26129,
     "capital": "Marigot",
     "code": "MAF",
     "country": "Saint Martin",
@@ -4447,10 +4269,9 @@
     "growthRate": -0.0418,
     "worldPercentage": 0,
     "rank": 221,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 5628,
     "capital": "Saint-Pierre",
     "code": "SPM",
     "country": "Saint Pierre and Miquelon",
@@ -4472,10 +4293,9 @@
     "growthRate": -0.0109,
     "worldPercentage": 0,
     "rank": 229,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 100616,
     "capital": "Kingstown",
     "code": "VCT",
     "country": "Saint Vincent and the Grenadines",
@@ -4497,10 +4317,9 @@
     "growthRate": -0.0068,
     "worldPercentage": 0,
     "rank": 199,
-    "growth2025": "4.4"
+    "growth2025": 4.4
   },
   {
-    "pop2024": 218019,
     "capital": "Apia",
     "code": "WSM",
     "country": "Samoa",
@@ -4522,10 +4341,9 @@
     "growthRate": 0.0056,
     "worldPercentage": 0,
     "rank": 188,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 33581,
     "capital": "City of San Marino",
     "code": "SMR",
     "country": "San Marino",
@@ -4547,10 +4365,9 @@
     "growthRate": 0.001,
     "worldPercentage": 0,
     "rank": 220,
-    "growth2025": "1"
+    "growth2025": 1
   },
   {
-    "pop2024": 235536,
     "capital": "São Tomé",
     "code": "STP",
     "country": "Sao Tome and Principe",
@@ -4572,10 +4389,9 @@
     "growthRate": 0.0197,
     "worldPercentage": 0,
     "rank": 187,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 33962757,
     "capital": "Riyadh",
     "code": "SAU",
     "country": "Saudi Arabia",
@@ -4597,10 +4413,9 @@
     "growthRate": 0.0173,
     "worldPercentage": 0.0044,
     "rank": 47,
-    "growth2025": "4"
+    "growth2025": 4
   },
   {
-    "pop2024": 18501984,
     "capital": "Dakar",
     "code": "SEN",
     "country": "Senegal",
@@ -4622,10 +4437,9 @@
     "growthRate": 0.023,
     "worldPercentage": 0.0024,
     "rank": 68,
-    "growth2025": "6"
+    "growth2025": 6
   },
   {
-    "pop2024": 6736216,
     "capital": "Belgrade",
     "code": "SRB",
     "country": "Serbia",
@@ -4647,10 +4461,9 @@
     "growthRate": -0.007,
     "worldPercentage": 0.0008,
     "rank": 111,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 130418,
     "capital": "Victoria",
     "code": "SYC",
     "country": "Seychelles",
@@ -4672,10 +4485,9 @@
     "growthRate": 0.0164,
     "worldPercentage": 0,
     "rank": 193,
-    "growth2025": "3.9"
+    "growth2025": 3.9
   },
   {
-    "pop2024": 8642022,
     "capital": "Freetown",
     "code": "SLE",
     "country": "Sierra Leone",
@@ -4697,10 +4509,9 @@
     "growthRate": 0.0201,
     "worldPercentage": 0.0011,
     "rank": 101,
-    "growth2025": "4.4"
+    "growth2025": 4.4
   },
   {
-    "pop2024": 5832387,
     "capital": "Singapore",
     "code": "SGP",
     "country": "Singapore",
@@ -4722,10 +4533,9 @@
     "growthRate": 0.006,
     "worldPercentage": 0.0007,
     "rank": 115,
-    "growth2025": "2.2"
+    "growth2025": 2.2
   },
   {
-    "pop2024": 43350,
     "capital": "Philipsburg",
     "code": "SXM",
     "country": "Sint Maarten",
@@ -4747,10 +4557,9 @@
     "growthRate": 0.0119,
     "worldPercentage": 0,
     "rank": 213,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 5506760,
     "capital": "Bratislava",
     "code": "SVK",
     "country": "Slovakia",
@@ -4772,10 +4581,9 @@
     "growthRate": -0.0043,
     "worldPercentage": 0.0007,
     "rank": 124,
-    "growth2025": "0.9"
+    "growth2025": 0.9
   },
   {
-    "pop2024": 2118697,
     "capital": "Ljubljana",
     "code": "SVN",
     "country": "Slovenia",
@@ -4797,10 +4605,9 @@
     "growthRate": -0.0012,
     "worldPercentage": 0.0003,
     "rank": 149,
-    "growth2025": "1.1"
+    "growth2025": 1.1
   },
   {
-    "pop2024": 819198,
     "capital": "Honiara",
     "code": "SLB",
     "country": "Solomon Islands",
@@ -4822,10 +4629,9 @@
     "growthRate": 0.0234,
     "worldPercentage": 0.0001,
     "rank": 164,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 19009151,
     "capital": "Mogadishu",
     "code": "SOM",
     "country": "Somalia",
@@ -4847,10 +4653,9 @@
     "growthRate": 0.0331,
     "worldPercentage": 0.0025,
     "rank": 66,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 64007187,
     "capital": "Pretoria",
     "code": "ZAF",
     "country": "South Africa",
@@ -4872,10 +4677,9 @@
     "growthRate": 0.0109,
     "worldPercentage": 0.0082,
     "rank": 24,
-    "growth2025": "1.1"
+    "growth2025": 1.1
   },
   {
-    "pop2024": 51717590,
     "capital": "Seoul",
     "code": "KOR",
     "country": "South Korea",
@@ -4897,10 +4701,9 @@
     "growthRate": -0.0013,
     "worldPercentage": 0.0064,
     "rank": 31,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 11943408,
     "capital": "Juba",
     "code": "SSD",
     "country": "South Sudan",
@@ -4922,10 +4725,9 @@
     "growthRate": 0.0203,
     "worldPercentage": 0.0016,
     "rank": 80,
-    "growth2025": "24.3"
+    "growth2025": 24.3
   },
   {
-    "pop2024": 47910526,
     "capital": "Madrid",
     "code": "ESP",
     "country": "Spain",
@@ -4947,10 +4749,9 @@
     "growthRate": -0.0008,
     "worldPercentage": 0.006,
     "rank": 34,
-    "growth2025": "2.9"
+    "growth2025": 2.9
   },
   {
-    "pop2024": 23103565,
     "capital": "Colombo",
     "code": "LKA",
     "country": "Sri Lanka",
@@ -4972,10 +4773,9 @@
     "growthRate": 0.0051,
     "worldPercentage": 0.0029,
     "rank": 60,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 179744,
     "capital": "Castries",
     "code": "LCA",
     "country": "Saint Lucia",
@@ -4997,10 +4797,9 @@
     "growthRate": 0.0019,
     "worldPercentage": 0,
     "rank": 190,
-    "growth2025": "2.4"
+    "growth2025": 2.4
   },
   {
-    "pop2024": 50448963,
     "capital": "Khartoum",
     "code": "SDN",
     "country": "Sudan",
@@ -5022,10 +4821,9 @@
     "growthRate": 0.0314,
     "worldPercentage": 0.0067,
     "rank": 29,
-    "growth2025": "3.2"
+    "growth2025": 3.2
   },
   {
-    "pop2024": 634431,
     "capital": "Paramaribo",
     "code": "SUR",
     "country": "Suriname",
@@ -5047,10 +4845,9 @@
     "growthRate": 0.0084,
     "worldPercentage": 0.0001,
     "rank": 169,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 1242822,
     "capital": "Mbabane",
     "code": "SWZ",
     "country": "Eswatini",
@@ -5072,10 +4869,9 @@
     "growthRate": 0.0109,
     "worldPercentage": 0.0002,
     "rank": 158,
-    "growth2025": "4.3"
+    "growth2025": 4.3
   },
   {
-    "pop2024": 10606999,
     "capital": "Stockholm",
     "code": "SWE",
     "country": "Sweden",
@@ -5097,10 +4893,9 @@
     "growthRate": 0.0042,
     "worldPercentage": 0.0013,
     "rank": 91,
-    "growth2025": "0.7"
+    "growth2025": 0.7
   },
   {
-    "pop2024": 8921981,
     "capital": "Bern",
     "code": "CHE",
     "country": "Switzerland",
@@ -5122,10 +4917,9 @@
     "growthRate": 0.0045,
     "worldPercentage": 0.0011,
     "rank": 100,
-    "growth2025": "0.9"
+    "growth2025": 0.9
   },
   {
-    "pop2024": 24672760,
     "capital": "Damascus",
     "code": "SYR",
     "country": "Syria",
@@ -5147,10 +4941,9 @@
     "growthRate": 0.0333,
     "worldPercentage": 0.0033,
     "rank": 57,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 23213962,
     "capital": "Taipei",
     "code": "TWN",
     "country": "Taiwan",
@@ -5172,10 +4965,9 @@
     "growthRate": -0.0044,
     "worldPercentage": 0.0029,
     "rank": 61,
-    "growth2025": "3.7"
+    "growth2025": 3.7
   },
   {
-    "pop2024": 10590927,
     "capital": "Dushanbe",
     "code": "TJK",
     "country": "Tajikistan",
@@ -5197,10 +4989,9 @@
     "growthRate": 0.0178,
     "worldPercentage": 0.0014,
     "rank": 88,
-    "growth2025": "7.5"
+    "growth2025": 7.5
   },
   {
-    "pop2024": 68560157,
     "capital": "Dodoma",
     "code": "TZA",
     "country": "Tanzania",
@@ -5222,10 +5013,9 @@
     "growthRate": 0.0286,
     "worldPercentage": 0.0091,
     "rank": 20,
-    "growth2025": "6"
+    "growth2025": 6
   },
   {
-    "pop2024": 71668011,
     "capital": "Bangkok",
     "code": "THA",
     "country": "Thailand",
@@ -5247,10 +5037,9 @@
     "growthRate": -0.0008,
     "worldPercentage": 0.0089,
     "rank": 21,
-    "growth2025": "2"
+    "growth2025": 2
   },
   {
-    "pop2024": 1400638,
     "capital": "Dili",
     "code": "TLS",
     "country": "Timor-Leste",
@@ -5272,10 +5061,9 @@
     "growthRate": 0.013,
     "worldPercentage": 0.0002,
     "rank": 155,
-    "growth2025": "3.9"
+    "growth2025": 3.9
   },
   {
-    "pop2024": 9515236,
     "capital": "Lomé",
     "code": "TGO",
     "country": "Togo",
@@ -5297,10 +5085,9 @@
     "growthRate": 0.0215,
     "worldPercentage": 0.0012,
     "rank": 95,
-    "growth2025": "5.2"
+    "growth2025": 5.2
   },
   {
-    "pop2024": 2506,
     "capital": "Fakaofo",
     "code": "TKL",
     "country": "Tokelau",
@@ -5322,10 +5109,9 @@
     "growthRate": 0.0318,
     "worldPercentage": 0,
     "rank": 233,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 104175,
     "capital": "Nuku'alofa",
     "code": "TON",
     "country": "Tonga",
@@ -5347,10 +5133,9 @@
     "growthRate": -0.0043,
     "worldPercentage": 0,
     "rank": 198,
-    "growth2025": "2.7"
+    "growth2025": 2.7
   },
   {
-    "pop2024": 1507782,
     "capital": "Port of Spain",
     "code": "TTO",
     "country": "Trinidad and Tobago",
@@ -5372,10 +5157,9 @@
     "growthRate": 0.0014,
     "worldPercentage": 0.0002,
     "rank": 154,
-    "growth2025": "1"
+    "growth2025": 1
   },
   {
-    "pop2024": 12277109,
     "capital": "Tunis",
     "code": "TUN",
     "country": "Tunisia",
@@ -5397,10 +5181,9 @@
     "growthRate": 0.0054,
     "worldPercentage": 0.0016,
     "rank": 81,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 87473805,
     "capital": "Ankara",
     "code": "TUR",
     "country": "Turkey",
@@ -5422,10 +5205,9 @@
     "growthRate": 0.0027,
     "worldPercentage": 0.011,
     "rank": 18,
-    "growth2025": "3.5"
+    "growth2025": 3.5
   },
   {
-    "pop2024": 7494498,
     "capital": "Ashgabat",
     "code": "TKM",
     "country": "Turkmenistan",
@@ -5447,10 +5229,9 @@
     "growthRate": 0.0155,
     "worldPercentage": 0.001,
     "rank": 104,
-    "growth2025": "2.3"
+    "growth2025": 2.3
   },
   {
-    "pop2024": 46535,
     "capital": "Cockburn Town",
     "code": "TCA",
     "country": "Turks and Caicos Islands",
@@ -5472,10 +5253,9 @@
     "growthRate": 0.0063,
     "worldPercentage": 0,
     "rank": 210,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 9646,
     "capital": "Funafuti",
     "code": "TUV",
     "country": "Tuvalu",
@@ -5497,10 +5277,9 @@
     "growthRate": -0.0137,
     "worldPercentage": 0,
     "rank": 228,
-    "growth2025": "3"
+    "growth2025": 3
   },
   {
-    "pop2024": 50015092,
     "capital": "Kampala",
     "code": "UGA",
     "country": "Uganda",
@@ -5522,10 +5301,9 @@
     "growthRate": 0.0268,
     "worldPercentage": 0.0066,
     "rank": 30,
-    "growth2025": "6.4"
+    "growth2025": 6.4
   },
   {
-    "pop2024": 37860221,
     "capital": "Kiev",
     "code": "UKR",
     "country": "Ukraine",
@@ -5547,10 +5325,9 @@
     "growthRate": 0.0142,
     "worldPercentage": 0.0049,
     "rank": 40,
-    "growth2025": "2"
+    "growth2025": 2
   },
   {
-    "pop2024": 11027129,
     "capital": "Abu Dhabi",
     "code": "ARE",
     "country": "United Arab Emirates",
@@ -5572,10 +5349,9 @@
     "growthRate": 0.0202,
     "worldPercentage": 0.0014,
     "rank": 86,
-    "growth2025": "4.8"
+    "growth2025": 4.8
   },
   {
-    "pop2024": 69138192,
     "capital": "London",
     "code": "GBR",
     "country": "United Kingdom",
@@ -5597,10 +5373,9 @@
     "growthRate": 0.0055,
     "worldPercentage": 0.0087,
     "rank": 22,
-    "growth2025": "1.3"
+    "growth2025": 1.3
   },
   {
-    "pop2024": 345426571,
     "capital": "Washington. D.C.",
     "code": "USA",
     "country": "United States",
@@ -5622,10 +5397,9 @@
     "growthRate": 0.0051,
     "worldPercentage": 0.0436,
     "rank": 3,
-    "growth2025": "2"
+    "growth2025": 2
   },
   {
-    "pop2024": 3386588,
     "capital": "Montevideo",
     "code": "URY",
     "country": "Uruguay",
@@ -5647,10 +5421,9 @@
     "growthRate": -0.0006,
     "worldPercentage": 0.0004,
     "rank": 134,
-    "growth2025": "2.5"
+    "growth2025": 2.5
   },
   {
-    "pop2024": 84905,
     "capital": "Charlotte Amalie",
     "code": "VIR",
     "country": "United States Virgin Islands",
@@ -5672,10 +5445,9 @@
     "growthRate": -0.0088,
     "worldPercentage": 0,
     "rank": 203,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 36361859,
     "capital": "Tashkent",
     "code": "UZB",
     "country": "Uzbekistan",
@@ -5697,10 +5469,9 @@
     "growthRate": 0.0181,
     "worldPercentage": 0.0047,
     "rank": 43,
-    "growth2025": "6.8"
+    "growth2025": 6.8
   },
   {
-    "pop2024": 327777,
     "capital": "Port Vila",
     "code": "VUT",
     "country": "Vanuatu",
@@ -5722,10 +5493,9 @@
     "growthRate": 0.0221,
     "worldPercentage": 0,
     "rank": 181,
-    "growth2025": "1.7"
+    "growth2025": 1.7
   },
   {
-    "pop2024": 496,
     "capital": "Vatican City",
     "code": "VAT",
     "country": "Vatican City",
@@ -5747,10 +5517,9 @@
     "growthRate": 0.01,
     "worldPercentage": 0,
     "rank": 235,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 28405543,
     "capital": "Caracas",
     "code": "VEN",
     "country": "Venezuela",
@@ -5772,10 +5541,9 @@
     "growthRate": 0.0041,
     "worldPercentage": 0.0036,
     "rank": 54,
-    "growth2025": "0.5"
+    "growth2025": 0.5
   },
   {
-    "pop2024": 100987686,
     "capital": "Hanoi",
     "code": "VNM",
     "country": "Vietnam",
@@ -5797,10 +5565,9 @@
     "growthRate": 0.0057,
     "worldPercentage": 0.0128,
     "rank": 16,
-    "growth2025": "6.5"
+    "growth2025": 6.5
   },
   {
-    "pop2024": 11277,
     "capital": "Mata-Utu",
     "code": "WLF",
     "country": "Wallis and Futuna",
@@ -5822,10 +5589,9 @@
     "growthRate": -0.0072,
     "worldPercentage": 0,
     "rank": 227,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 590506,
     "capital": "El-Aaiun",
     "code": "ESH",
     "country": "Western Sahara",
@@ -5847,10 +5613,9 @@
     "growthRate": 0.0165,
     "worldPercentage": 0.0001,
     "rank": 171,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 2504,
     "capital": "Longyearbyen",
     "code": "SJM",
     "country": "Svalbard",
@@ -5872,10 +5637,9 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": "0"
+    "growth2025": 0
   },
   {
-    "pop2024": 40583164,
     "capital": "Sana'a",
     "code": "YEM",
     "country": "Yemen",
@@ -5897,10 +5661,9 @@
     "growthRate": 0.0284,
     "worldPercentage": 0.0054,
     "rank": 37,
-    "growth2025": "-1.5"
+    "growth2025": -1.5
   },
   {
-    "pop2024": 21314956,
     "capital": "Lusaka",
     "code": "ZMB",
     "country": "Zambia",
@@ -5922,10 +5685,9 @@
     "growthRate": 0.0277,
     "worldPercentage": 0.0028,
     "rank": 63,
-    "growth2025": "5.8"
+    "growth2025": 5.8
   },
   {
-    "pop2024": 16634373,
     "capital": "Harare",
     "code": "ZWE",
     "country": "Zimbabwe",
@@ -5947,6 +5709,6 @@
     "growthRate": 0.019,
     "worldPercentage": 0.0022,
     "rank": 74,
-    "growth2025": "6"
+    "growth2025": 6
   }
 ]
