@@ -21,7 +21,8 @@
     "density": 69.0663,
     "growthRate": 0.0274,
     "worldPercentage": 0.0056,
-    "rank": 36
+    "rank": 36,
+    "growth2025": "0"
   },
   {
     "pop2024": 2791765,
@@ -45,7 +46,8 @@
     "density": 100.4022,
     "growthRate": -0.0074,
     "worldPercentage": 0.0003,
-    "rank": 144
+    "rank": 144,
+    "growth2025": "3.4"
   },
   {
     "pop2024": 46814308,
@@ -69,7 +71,8 @@
     "density": 20.1652,
     "growthRate": 0.0125,
     "worldPercentage": 0.006,
-    "rank": 32
+    "rank": 32,
+    "growth2025": "3.4"
   },
   {
     "pop2024": 46765,
@@ -93,7 +96,8 @@
     "density": 226.595,
     "growthRate": -0.0154,
     "worldPercentage": 0,
-    "rank": 212
+    "rank": 212,
+    "growth2025": "0"
   },
   {
     "pop2024": 81938,
@@ -117,7 +121,8 @@
     "density": 178.1979,
     "growthRate": 0.0102,
     "worldPercentage": 0,
-    "rank": 202
+    "rank": 202,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 37885849,
@@ -141,7 +146,8 @@
     "density": 32.2573,
     "growthRate": 0.0301,
     "worldPercentage": 0.005,
-    "rank": 39
+    "rank": 39,
+    "growth2025": "2.1"
   },
   {
     "pop2024": 14598,
@@ -165,7 +171,8 @@
     "density": 162.8242,
     "growthRate": 0.006,
     "worldPercentage": 0,
-    "rank": 223
+    "rank": 223,
+    "growth2025": "0"
   },
   {
     "pop2024": 93772,
@@ -189,7 +196,8 @@
     "density": 215.0591,
     "growthRate": 0.0044,
     "worldPercentage": 0,
-    "rank": 200
+    "rank": 200,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 45696159,
@@ -213,7 +221,8 @@
     "density": 16.81,
     "growthRate": 0.0033,
     "worldPercentage": 0.0057,
-    "rank": 35
+    "rank": 35,
+    "growth2025": "4.5"
   },
   {
     "pop2024": 2973840,
@@ -237,7 +246,8 @@
     "density": 102.9477,
     "growthRate": -0.0073,
     "worldPercentage": 0.0004,
-    "rank": 140
+    "rank": 140,
+    "growth2025": "4.8"
   },
   {
     "pop2024": 108066,
@@ -261,7 +271,8 @@
     "density": 600.9111,
     "growthRate": 0.0002,
     "worldPercentage": 0,
-    "rank": 196
+    "rank": 196,
+    "growth2025": "2"
   },
   {
     "pop2024": 26713205,
@@ -285,7 +296,8 @@
     "density": 3.5397,
     "growthRate": 0.0094,
     "worldPercentage": 0.0034,
-    "rank": 55
+    "rank": 55,
+    "growth2025": "1.8"
   },
   {
     "pop2024": 9120813,
@@ -309,7 +321,8 @@
     "density": 110.3644,
     "growthRate": -0.0007,
     "worldPercentage": 0.0011,
-    "rank": 99
+    "rank": 99,
+    "growth2025": "0.3"
   },
   {
     "pop2024": 10336577,
@@ -333,7 +346,8 @@
     "density": 126.5022,
     "growthRate": 0.0055,
     "worldPercentage": 0.0013,
-    "rank": 93
+    "rank": 93,
+    "growth2025": "3"
   },
   {
     "pop2024": 401283,
@@ -357,7 +371,8 @@
     "density": 40.4224,
     "growthRate": 0.004,
     "worldPercentage": 0.0001,
-    "rank": 177
+    "rank": 177,
+    "growth2025": "2.2"
   },
   {
     "pop2024": 1607049,
@@ -381,7 +396,8 @@
     "density": 2134.4841,
     "growthRate": 0.0196,
     "worldPercentage": 0.0002,
-    "rank": 153
+    "rank": 153,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 173562364,
@@ -405,7 +421,8 @@
     "density": 1366.0444,
     "growthRate": 0.0121,
     "worldPercentage": 0.0222,
-    "rank": 8
+    "rank": 8,
+    "growth2025": "3.8"
   },
   {
     "pop2024": 282467,
@@ -429,7 +446,8 @@
     "density": 657.4977,
     "growthRate": 0.0004,
     "worldPercentage": 0,
-    "rank": 186
+    "rank": 186,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 9056696,
@@ -453,7 +471,8 @@
     "density": 44.0291,
     "growthRate": -0.0067,
     "worldPercentage": 0.0011,
-    "rank": 102
+    "rank": 102,
+    "growth2025": "2.1"
   },
   {
     "pop2024": 11738763,
@@ -477,7 +496,8 @@
     "density": 388.8573,
     "growthRate": 0.0014,
     "worldPercentage": 0.0015,
-    "rank": 83
+    "rank": 83,
+    "growth2025": "1.1"
   },
   {
     "pop2024": 417072,
@@ -501,7 +521,8 @@
     "density": 18.7919,
     "growthRate": 0.0135,
     "worldPercentage": 0.0001,
-    "rank": 176
+    "rank": 176,
+    "growth2025": "1.5"
   },
   {
     "pop2024": 14462724,
@@ -525,7 +546,8 @@
     "density": 134.5371,
     "growthRate": 0.024,
     "worldPercentage": 0.0019,
-    "rank": 76
+    "rank": 76,
+    "growth2025": "7"
   },
   {
     "pop2024": 64636,
@@ -549,7 +571,8 @@
     "density": 1193.6852,
     "growthRate": -0.0015,
     "worldPercentage": 0,
-    "rank": 207
+    "rank": 207,
+    "growth2025": "0"
   },
   {
     "pop2024": 791524,
@@ -573,7 +596,8 @@
     "density": 21.0334,
     "growthRate": 0.0069,
     "worldPercentage": 0.0001,
-    "rank": 166
+    "rank": 166,
+    "growth2025": "6.8"
   },
   {
     "pop2024": 12413315,
@@ -597,7 +621,8 @@
     "density": 11.7689,
     "growthRate": 0.0133,
     "worldPercentage": 0.0016,
-    "rank": 79
+    "rank": 79,
+    "growth2025": "0.6"
   },
   {
     "pop2024": 3164253,
@@ -621,7 +646,8 @@
     "density": 60.825,
     "growthRate": -0.0082,
     "worldPercentage": 0.0004,
-    "rank": 138
+    "rank": 138,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 2521139,
@@ -645,7 +671,8 @@
     "density": 4.5937,
     "growthRate": 0.0161,
     "worldPercentage": 0.0003,
-    "rank": 146
+    "rank": 146,
+    "growth2025": "-0.9"
   },
   {
     "pop2024": 211998573,
@@ -669,7 +696,8 @@
     "density": 25.5515,
     "growthRate": 0.0035,
     "worldPercentage": 0.0267,
-    "rank": 7
+    "rank": 7,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 0,
@@ -693,7 +721,8 @@
     "density": 46.67,
     "growthRate": 0,
     "worldPercentage": 0,
-    "rank": 0
+    "rank": 0,
+    "growth2025": "0"
   },
   {
     "pop2024": 39471,
@@ -717,7 +746,8 @@
     "density": 266.24,
     "growthRate": 0.0051,
     "worldPercentage": 0,
-    "rank": 217
+    "rank": 217,
+    "growth2025": "0"
   },
   {
     "pop2024": 462721,
@@ -741,7 +771,8 @@
     "density": 89.1414,
     "growthRate": 0.0074,
     "worldPercentage": 0.0001,
-    "rank": 175
+    "rank": 175,
+    "growth2025": "1.8"
   },
   {
     "pop2024": 6757689,
@@ -765,7 +796,8 @@
     "density": 61.4191,
     "growthRate": -0.007,
     "worldPercentage": 0.0008,
-    "rank": 110
+    "rank": 110,
+    "growth2025": "3"
   },
   {
     "pop2024": 23548781,
@@ -789,7 +821,8 @@
     "density": 89.9185,
     "growthRate": 0.0219,
     "worldPercentage": 0.0031,
-    "rank": 59
+    "rank": 59,
+    "growth2025": "4"
   },
   {
     "pop2024": 14047786,
@@ -813,7 +846,8 @@
     "density": 573.567,
     "growthRate": 0.0236,
     "worldPercentage": 0.0018,
-    "rank": 78
+    "rank": 78,
+    "growth2025": "4.4"
   },
   {
     "pop2024": 524877,
@@ -837,7 +871,8 @@
     "density": 131.3241,
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
-    "rank": 174
+    "rank": 174,
+    "growth2025": "5.2"
   },
   {
     "pop2024": 17638801,
@@ -861,7 +896,8 @@
     "density": 102.2615,
     "growthRate": 0.0114,
     "worldPercentage": 0.0023,
-    "rank": 73
+    "rank": 73,
+    "growth2025": "4.8"
   },
   {
     "pop2024": 29123744,
@@ -885,7 +921,8 @@
     "density": 64.8194,
     "growthRate": 0.0255,
     "worldPercentage": 0.0038,
-    "rank": 51
+    "rank": 51,
+    "growth2025": "3.8"
   },
   {
     "pop2024": 39742430,
@@ -909,7 +946,8 @@
     "density": 4.5137,
     "growthRate": 0.0085,
     "worldPercentage": 0.0051,
-    "rank": 38
+    "rank": 38,
+    "growth2025": "1.2"
   },
   {
     "pop2024": 74457,
@@ -933,7 +971,8 @@
     "density": 321.65,
     "growthRate": 0.0178,
     "worldPercentage": 0,
-    "rank": 204
+    "rank": 204,
+    "growth2025": "0"
   },
   {
     "pop2024": 5330690,
@@ -957,7 +996,8 @@
     "density": 9.1479,
     "growthRate": 0.0337,
     "worldPercentage": 0.0007,
-    "rank": 118
+    "rank": 118,
+    "growth2025": "3"
   },
   {
     "pop2024": 20299123,
@@ -981,7 +1021,8 @@
     "density": 17.1223,
     "growthRate": 0.0265,
     "worldPercentage": 0.0027,
-    "rank": 64
+    "rank": 64,
+    "growth2025": "3.3"
   },
   {
     "pop2024": 19764771,
@@ -1005,7 +1046,8 @@
     "density": 26.8257,
     "growthRate": 0.0043,
     "worldPercentage": 0.0025,
-    "rank": 67
+    "rank": 67,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 1419321278,
@@ -1029,7 +1071,8 @@
     "density": 149.9156,
     "growthRate": -0.0023,
     "worldPercentage": 0.1765,
-    "rank": 2
+    "rank": 2,
+    "growth2025": "4.8"
   },
   {
     "pop2024": 52886363,
@@ -1053,7 +1096,8 @@
     "density": 48.6131,
     "growthRate": 0.0096,
     "worldPercentage": 0.0067,
-    "rank": 28
+    "rank": 28,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 866628,
@@ -1077,7 +1121,8 @@
     "density": 483.079,
     "growthRate": 0.0183,
     "worldPercentage": 0.0001,
-    "rank": 162
+    "rank": 162,
+    "growth2025": "3.8"
   },
   {
     "pop2024": 13729,
@@ -1101,7 +1146,8 @@
     "density": 53.4417,
     "growthRate": -0.0329,
     "worldPercentage": 0,
-    "rank": 224
+    "rank": 224,
+    "growth2025": "0"
   },
   {
     "pop2024": 5129910,
@@ -1125,7 +1171,8 @@
     "density": 101.3472,
     "growthRate": 0.0042,
     "worldPercentage": 0.0006,
-    "rank": 127
+    "rank": 127,
+    "growth2025": "3.6"
   },
   {
     "pop2024": 31934230,
@@ -1149,7 +1196,8 @@
     "density": 105.328,
     "growthRate": 0.0239,
     "worldPercentage": 0.0042,
-    "rank": 50
+    "rank": 50,
+    "growth2025": "6.4"
   },
   {
     "pop2024": 3875325,
@@ -1173,7 +1221,8 @@
     "density": 68.3049,
     "growthRate": -0.0067,
     "worldPercentage": 0.0005,
-    "rank": 130
+    "rank": 130,
+    "growth2025": "3.1"
   },
   {
     "pop2024": 10979783,
@@ -1197,7 +1246,8 @@
     "density": 104.9393,
     "growthRate": -0.0041,
     "worldPercentage": 0.0014,
-    "rank": 90
+    "rank": 90,
+    "growth2025": "0"
   },
   {
     "pop2024": 185482,
@@ -1221,7 +1271,8 @@
     "density": 417.6577,
     "growthRate": -0.0003,
     "worldPercentage": 0,
-    "rank": 189
+    "rank": 189,
+    "growth2025": "0"
   },
   {
     "pop2024": 1358282,
@@ -1245,7 +1296,8 @@
     "density": 149.6028,
     "growthRate": 0.0084,
     "worldPercentage": 0.0002,
-    "rank": 156
+    "rank": 156,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 10735859,
@@ -1269,7 +1321,8 @@
     "density": 136.3731,
     "growthRate": -0.0077,
     "worldPercentage": 0.0013,
-    "rank": 92
+    "rank": 92,
+    "growth2025": "2.3"
   },
   {
     "pop2024": 109276265,
@@ -1293,7 +1346,8 @@
     "density": 51.3672,
     "growthRate": 0.0321,
     "worldPercentage": 0.0145,
-    "rank": 15
+    "rank": 15,
+    "growth2025": "5.3"
   },
   {
     "pop2024": 5977412,
@@ -1317,7 +1371,8 @@
     "density": 150.588,
     "growthRate": 0.0035,
     "worldPercentage": 0.0008,
-    "rank": 114
+    "rank": 114,
+    "growth2025": "1.8"
   },
   {
     "pop2024": 1168722,
@@ -1341,7 +1396,8 @@
     "density": 51.7455,
     "growthRate": 0.013,
     "worldPercentage": 0.0001,
-    "rank": 160
+    "rank": 160,
+    "growth2025": "6"
   },
   {
     "pop2024": 66205,
@@ -1365,7 +1421,8 @@
     "density": 87.348,
     "growthRate": -0.0055,
     "worldPercentage": 0,
-    "rank": 205
+    "rank": 205,
+    "growth2025": "4.2"
   },
   {
     "pop2024": 11427557,
@@ -1389,7 +1446,8 @@
     "density": 240.3126,
     "growthRate": 0.0077,
     "worldPercentage": 0.0015,
-    "rank": 84
+    "rank": 84,
+    "growth2025": "3"
   },
   {
     "pop2024": 18135478,
@@ -1413,7 +1471,8 @@
     "density": 74.2652,
     "growthRate": 0.0085,
     "worldPercentage": 0.0023,
-    "rank": 72
+    "rank": 72,
+    "growth2025": "3.2"
   },
   {
     "pop2024": 116538258,
@@ -1437,7 +1496,8 @@
     "density": 120.65,
     "growthRate": 0.0147,
     "worldPercentage": 0.015,
-    "rank": 13
+    "rank": 13,
+    "growth2025": "4.3"
   },
   {
     "pop2024": 6338193,
@@ -1461,7 +1521,8 @@
     "density": 308.458,
     "growthRate": 0.004,
     "worldPercentage": 0.0008,
-    "rank": 113
+    "rank": 113,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 1892516,
@@ -1485,7 +1546,8 @@
     "density": 70.7476,
     "growthRate": 0.0238,
     "worldPercentage": 0.0002,
-    "rank": 150
+    "rank": 150,
+    "growth2025": "-1.6"
   },
   {
     "pop2024": 3535603,
@@ -1509,7 +1571,8 @@
     "density": 30.425,
     "growthRate": 0.021,
     "worldPercentage": 0.0005,
-    "rank": 132
+    "rank": 132,
+    "growth2025": "0"
   },
   {
     "pop2024": 1360546,
@@ -1533,7 +1596,8 @@
     "density": 31.1359,
     "growthRate": -0.0098,
     "worldPercentage": 0.0002,
-    "rank": 157
+    "rank": 157,
+    "growth2025": "0.5"
   },
   {
     "pop2024": 132059767,
@@ -1557,7 +1621,8 @@
     "density": 123.0777,
     "growthRate": 0.0253,
     "worldPercentage": 0.0174,
-    "rank": 10
+    "rank": 10,
+    "growth2025": "7.2"
   },
   {
     "pop2024": 3470,
@@ -1581,7 +1646,8 @@
     "density": 0.2846,
     "growthRate": -0.0012,
     "worldPercentage": 0,
-    "rank": 232
+    "rank": 232,
+    "growth2025": "0"
   },
   {
     "pop2024": 55400,
@@ -1605,7 +1671,8 @@
     "density": 41.3807,
     "growthRate": 0.0094,
     "worldPercentage": 0,
-    "rank": 208
+    "rank": 208,
+    "growth2025": "0"
   },
   {
     "pop2024": 113160,
@@ -1629,7 +1696,8 @@
     "density": 163.1186,
     "growthRate": 0.0044,
     "worldPercentage": 0,
-    "rank": 195
+    "rank": 195,
+    "growth2025": "1"
   },
   {
     "pop2024": 928784,
@@ -1653,7 +1721,8 @@
     "density": 51.3017,
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
-    "rank": 161
+    "rank": 161,
+    "growth2025": "3.2"
   },
   {
     "pop2024": 5617310,
@@ -1677,7 +1746,8 @@
     "density": 18.4962,
     "growthRate": -0.0003,
     "worldPercentage": 0.0007,
-    "rank": 122
+    "rank": 122,
+    "growth2025": "0.5"
   },
   {
     "pop2024": 66548530,
@@ -1701,7 +1771,8 @@
     "density": 121.8985,
     "growthRate": 0.0014,
     "worldPercentage": 0.0083,
-    "rank": 23
+    "rank": 23,
+    "growth2025": "0.7"
   },
   {
     "pop2024": 308522,
@@ -1725,7 +1796,8 @@
     "density": 3.8173,
     "growthRate": 0.0166,
     "worldPercentage": 0,
-    "rank": 183
+    "rank": 183,
+    "growth2025": "0"
   },
   {
     "pop2024": 281807,
@@ -1749,7 +1821,8 @@
     "density": 81.5546,
     "growthRate": 0.0022,
     "worldPercentage": 0,
-    "rank": 185
+    "rank": 185,
+    "growth2025": "0"
   },
   {
     "pop2024": 2538952,
@@ -1773,7 +1846,8 @@
     "density": 10.2744,
     "growthRate": 0.0209,
     "worldPercentage": 0.0003,
-    "rank": 145
+    "rank": 145,
+    "growth2025": "1.9"
   },
   {
     "pop2024": 2759988,
@@ -1797,7 +1871,8 @@
     "density": 284.9881,
     "growthRate": 0.022,
     "worldPercentage": 0.0004,
-    "rank": 141
+    "rank": 141,
+    "growth2025": "6"
   },
   {
     "pop2024": 3807670,
@@ -1821,7 +1896,8 @@
     "density": 54.7509,
     "growthRate": -0.0005,
     "worldPercentage": 0.0005,
-    "rank": 131
+    "rank": 131,
+    "growth2025": "7.2"
   },
   {
     "pop2024": 84552242,
@@ -1845,7 +1921,8 @@
     "density": 239.401,
     "growthRate": -0.0051,
     "worldPercentage": 0.0104,
-    "rank": 19
+    "rank": 19,
+    "growth2025": "0.2"
   },
   {
     "pop2024": 34427414,
@@ -1869,7 +1946,8 @@
     "density": 156.8898,
     "growthRate": 0.0181,
     "worldPercentage": 0.0045,
-    "rank": 46
+    "rank": 46,
+    "growth2025": "4"
   },
   {
     "pop2024": 39329,
@@ -1893,7 +1971,8 @@
     "density": 6009.8529,
     "growthRate": 0.0185,
     "worldPercentage": 0,
-    "rank": 215
+    "rank": 215,
+    "growth2025": "0"
   },
   {
     "pop2024": 10047817,
@@ -1917,7 +1996,8 @@
     "density": 76.7814,
     "growthRate": -0.0042,
     "worldPercentage": 0.0012,
-    "rank": 96
+    "rank": 96,
+    "growth2025": "2"
   },
   {
     "pop2024": 55840,
@@ -1941,7 +2021,8 @@
     "density": 0.1355,
     "growthRate": -0.0021,
     "worldPercentage": 0,
-    "rank": 209
+    "rank": 209,
+    "growth2025": "0"
   },
   {
     "pop2024": 117207,
@@ -1965,7 +2046,8 @@
     "density": 345.1824,
     "growthRate": 0.0005,
     "worldPercentage": 0,
-    "rank": 194
+    "rank": 194,
+    "growth2025": "3.3"
   },
   {
     "pop2024": 375106,
@@ -1989,7 +2071,8 @@
     "density": 228.7795,
     "growthRate": -0.0036,
     "worldPercentage": 0,
-    "rank": 179
+    "rank": 179,
+    "growth2025": "0"
   },
   {
     "pop2024": 167777,
@@ -2013,7 +2096,8 @@
     "density": 315.1574,
     "growthRate": 0.007,
     "worldPercentage": 0,
-    "rank": 191
+    "rank": 191,
+    "growth2025": "0"
   },
   {
     "pop2024": 18406359,
@@ -2037,7 +2121,8 @@
     "density": 177.0063,
     "growthRate": 0.015,
     "worldPercentage": 0.0024,
-    "rank": 69
+    "rank": 69,
+    "growth2025": "3.8"
   },
   {
     "pop2024": 14754785,
@@ -2061,7 +2146,8 @@
     "density": 62.8439,
     "growthRate": 0.0227,
     "worldPercentage": 0.0019,
-    "rank": 75
+    "rank": 75,
+    "growth2025": "7.2"
   },
   {
     "pop2024": 2201352,
@@ -2085,7 +2171,8 @@
     "density": 81.7144,
     "growthRate": 0.0215,
     "worldPercentage": 0.0003,
-    "rank": 148
+    "rank": 148,
+    "growth2025": "5.1"
   },
   {
     "pop2024": 831087,
@@ -2109,7 +2196,8 @@
     "density": 4.2717,
     "growthRate": 0.0059,
     "worldPercentage": 0.0001,
-    "rank": 165
+    "rank": 165,
+    "growth2025": "10.3"
   },
   {
     "pop2024": 11772557,
@@ -2133,7 +2221,8 @@
     "density": 436.7743,
     "growthRate": 0.011,
     "worldPercentage": 0.0015,
-    "rank": 82
+    "rank": 82,
+    "growth2025": "-3.1"
   },
   {
     "pop2024": 10825703,
@@ -2157,7 +2246,8 @@
     "density": 99.9625,
     "growthRate": 0.0163,
     "worldPercentage": 0.0014,
-    "rank": 87
+    "rank": 87,
+    "growth2025": "3.8"
   },
   {
     "pop2024": 7414909,
@@ -2181,7 +2271,8 @@
     "density": 7027.2381,
     "growthRate": -0.0024,
     "worldPercentage": 0.0009,
-    "rank": 107
+    "rank": 107,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 9676135,
@@ -2205,7 +2296,8 @@
     "density": 105.0386,
     "growthRate": -0.0048,
     "worldPercentage": 0.0012,
-    "rank": 98
+    "rank": 98,
+    "growth2025": "0.6"
   },
   {
     "pop2024": 393396,
@@ -2229,7 +2321,8 @@
     "density": 3.9902,
     "growthRate": 0.0102,
     "worldPercentage": 0.0001,
-    "rank": 178
+    "rank": 178,
+    "growth2025": "1.4"
   },
   {
     "pop2024": 1450935791,
@@ -2253,7 +2346,8 @@
     "density": 496.6484,
     "growthRate": 0.0087,
     "worldPercentage": 0.1845,
-    "rank": 1
+    "rank": 1,
+    "growth2025": "6.6"
   },
   {
     "pop2024": 283487931,
@@ -2277,7 +2371,8 @@
     "density": 153.3337,
     "growthRate": 0.0076,
     "worldPercentage": 0.036,
-    "rank": 4
+    "rank": 4,
+    "growth2025": "4.9"
   },
   {
     "pop2024": 91567738,
@@ -2301,7 +2396,8 @@
     "density": 57.4228,
     "growthRate": 0.0081,
     "worldPercentage": 0.0116,
-    "rank": 17
+    "rank": 17,
+    "growth2025": "0.6"
   },
   {
     "pop2024": 46042015,
@@ -2325,7 +2421,8 @@
     "density": 110.5835,
     "growthRate": 0.021,
     "worldPercentage": 0.006,
-    "rank": 33
+    "rank": 33,
+    "growth2025": "0.5"
   },
   {
     "pop2024": 5255017,
@@ -2349,7 +2446,8 @@
     "density": 77.7609,
     "growthRate": 0.0092,
     "worldPercentage": 0.0007,
-    "rank": 125
+    "rank": 125,
+    "growth2025": "9.1"
   },
   {
     "pop2024": 9387021,
@@ -2373,7 +2471,8 @@
     "density": 445.8267,
     "growthRate": 0.0137,
     "worldPercentage": 0.0012,
-    "rank": 97
+    "rank": 97,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 59342867,
@@ -2397,7 +2496,8 @@
     "density": 199.2655,
     "growthRate": -0.0037,
     "worldPercentage": 0.0074,
-    "rank": 25
+    "rank": 25,
+    "growth2025": "0.5"
   },
   {
     "pop2024": 2839175,
@@ -2421,7 +2521,8 @@
     "density": 261.6251,
     "growthRate": -0.0013,
     "worldPercentage": 0.0004,
-    "rank": 142
+    "rank": 142,
+    "growth2025": "2.1"
   },
   {
     "pop2024": 123753041,
@@ -2445,7 +2546,8 @@
     "density": 335.8793,
     "growthRate": -0.0055,
     "worldPercentage": 0.0153,
-    "rank": 12
+    "rank": 12,
+    "growth2025": "1.1"
   },
   {
     "pop2024": 11552876,
@@ -2469,7 +2571,8 @@
     "density": 130.5212,
     "growthRate": 0.006,
     "worldPercentage": 0.0014,
-    "rank": 85
+    "rank": 85,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 20592571,
@@ -2493,7 +2596,8 @@
     "density": 7.8096,
     "growthRate": 0.0115,
     "worldPercentage": 0.0026,
-    "rank": 65
+    "rank": 65,
+    "growth2025": "5.9"
   },
   {
     "pop2024": 56432944,
@@ -2517,7 +2621,8 @@
     "density": 103.0263,
     "growthRate": 0.0192,
     "worldPercentage": 0.0073,
-    "rank": 26
+    "rank": 26,
+    "growth2025": "4.8"
   },
   {
     "pop2024": 134518,
@@ -2541,7 +2646,8 @@
     "density": 170.9198,
     "growthRate": 0.0143,
     "worldPercentage": 0,
-    "rank": 192
+    "rank": 192,
+    "growth2025": "3.9"
   },
   {
     "pop2024": 134518,
@@ -2565,7 +2671,8 @@
     "density": 170.9198,
     "growthRate": 0.0143,
     "worldPercentage": 0,
-    "rank": 192
+    "rank": 192,
+    "growth2025": "3.9"
   },
   {
     "pop2024": 4934507,
@@ -2589,7 +2696,8 @@
     "density": 286.3507,
     "growthRate": 0.0153,
     "worldPercentage": 0.0006,
-    "rank": 128
+    "rank": 128,
+    "growth2025": "2.6"
   },
   {
     "pop2024": 7186009,
@@ -2613,7 +2721,8 @@
     "density": 38.5843,
     "growthRate": 0.0145,
     "worldPercentage": 0.0009,
-    "rank": 106
+    "rank": 106,
+    "growth2025": "8"
   },
   {
     "pop2024": 7769819,
@@ -2637,7 +2746,8 @@
     "density": 34.5495,
     "growthRate": 0.0128,
     "worldPercentage": 0.001,
-    "rank": 103
+    "rank": 103,
+    "growth2025": "3.5"
   },
   {
     "pop2024": 1871871,
@@ -2661,7 +2771,8 @@
     "density": 29.5025,
     "growthRate": -0.0095,
     "worldPercentage": 0.0002,
-    "rank": 151
+    "rank": 151,
+    "growth2025": "1"
   },
   {
     "pop2024": 5805962,
@@ -2685,7 +2796,8 @@
     "density": 576.4878,
     "growthRate": 0.0082,
     "worldPercentage": 0.0007,
-    "rank": 116
+    "rank": 116,
+    "growth2025": "0"
   },
   {
     "pop2024": 2337423,
@@ -2709,7 +2821,8 @@
     "density": 78.7003,
     "growthRate": 0.011,
     "worldPercentage": 0.0003,
-    "rank": 147
+    "rank": 147,
+    "growth2025": "1.4"
   },
   {
     "pop2024": 5612817,
@@ -2733,7 +2846,8 @@
     "density": 60.7761,
     "growthRate": 0.0214,
     "worldPercentage": 0.0007,
-    "rank": 117
+    "rank": 117,
+    "growth2025": "4.6"
   },
   {
     "pop2024": 7381023,
@@ -2757,7 +2871,8 @@
     "density": 4.2851,
     "growthRate": 0.0109,
     "worldPercentage": 0.0009,
-    "rank": 105
+    "rank": 105,
+    "growth2025": "15.6"
   },
   {
     "pop2024": 39870,
@@ -2781,7 +2896,8 @@
     "density": 252.3,
     "growthRate": 0.006,
     "worldPercentage": 0,
-    "rank": 216
+    "rank": 216,
+    "growth2025": "0"
   },
   {
     "pop2024": 2859110,
@@ -2805,7 +2921,8 @@
     "density": 44.6717,
     "growthRate": -0.0116,
     "worldPercentage": 0.0003,
-    "rank": 143
+    "rank": 143,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 673036,
@@ -2829,7 +2946,8 @@
     "density": 267.0219,
     "growthRate": 0.0103,
     "worldPercentage": 0.0001,
-    "rank": 168
+    "rank": 168,
+    "growth2025": "1.2"
   },
   {
     "pop2024": 720262,
@@ -2853,7 +2971,8 @@
     "density": 21981.3982,
     "growthRate": 0.0016,
     "worldPercentage": 0.0001,
-    "rank": 167
+    "rank": 167,
+    "growth2025": "2.6"
   },
   {
     "pop2024": 1823009,
@@ -2877,7 +2996,8 @@
     "density": 71.5329,
     "growthRate": -0.0054,
     "worldPercentage": 0.0002,
-    "rank": 152
+    "rank": 152,
+    "growth2025": "3.4"
   },
   {
     "pop2024": 31964956,
@@ -2901,7 +3021,8 @@
     "density": 57.6179,
     "growthRate": 0.0239,
     "worldPercentage": 0.0042,
-    "rank": 49
+    "rank": 49,
+    "growth2025": "3.8"
   },
   {
     "pop2024": 21655286,
@@ -2925,7 +3046,8 @@
     "density": 241.679,
     "growthRate": 0.0256,
     "worldPercentage": 0.0028,
-    "rank": 62
+    "rank": 62,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 35557673,
@@ -2949,7 +3071,8 @@
     "density": 110.7445,
     "growthRate": 0.0113,
     "worldPercentage": 0.0045,
-    "rank": 45
+    "rank": 45,
+    "growth2025": "4.5"
   },
   {
     "pop2024": 527799,
@@ -2973,7 +3096,8 @@
     "density": 1771.7233,
     "growthRate": 0.0035,
     "worldPercentage": 0.0001,
-    "rank": 173
+    "rank": 173,
+    "growth2025": "4.8"
   },
   {
     "pop2024": 24478595,
@@ -2997,7 +3121,8 @@
     "density": 21.2527,
     "growthRate": 0.0291,
     "worldPercentage": 0.0032,
-    "rank": 58
+    "rank": 58,
+    "growth2025": "5"
   },
   {
     "pop2024": 539607,
@@ -3021,7 +3146,8 @@
     "density": 1715.6594,
     "growthRate": 0.0066,
     "worldPercentage": 0.0001,
-    "rank": 172
+    "rank": 172,
+    "growth2025": "3.9"
   },
   {
     "pop2024": 37548,
@@ -3045,7 +3171,8 @@
     "density": 194.8611,
     "growthRate": -0.0333,
     "worldPercentage": 0,
-    "rank": 219
+    "rank": 219,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 343195,
@@ -3069,7 +3196,8 @@
     "density": 299.3892,
     "growthRate": -0.008,
     "worldPercentage": 0,
-    "rank": 182
+    "rank": 182,
+    "growth2025": "0"
   },
   {
     "pop2024": 5169395,
@@ -3093,7 +3221,8 @@
     "density": 5.2987,
     "growthRate": 0.0275,
     "worldPercentage": 0.0007,
-    "rank": 123
+    "rank": 123,
+    "growth2025": "4"
   },
   {
     "pop2024": 1271169,
@@ -3117,7 +3246,8 @@
     "density": 623.1823,
     "growthRate": -0.0025,
     "worldPercentage": 0.0002,
-    "rank": 159
+    "rank": 159,
+    "growth2025": "3.2"
   },
   {
     "pop2024": 326505,
@@ -3141,7 +3271,8 @@
     "density": 929.2406,
     "growthRate": 0.0312,
     "worldPercentage": 0,
-    "rank": 180
+    "rank": 180,
+    "growth2025": "0"
   },
   {
     "pop2024": 130861007,
@@ -3165,7 +3296,8 @@
     "density": 68.4164,
     "growthRate": 0.008,
     "worldPercentage": 0.0166,
-    "rank": 11
+    "rank": 11,
+    "growth2025": "1"
   },
   {
     "pop2024": 3034961,
@@ -3189,7 +3321,8 @@
     "density": 90.0497,
     "growthRate": -0.0116,
     "worldPercentage": 0.0004,
-    "rank": 139
+    "rank": 139,
+    "growth2025": "1.7"
   },
   {
     "pop2024": 38631,
@@ -3213,7 +3346,8 @@
     "density": 19043.5,
     "growthRate": -0.0066,
     "worldPercentage": 0,
-    "rank": 218
+    "rank": 218,
+    "growth2025": "0"
   },
   {
     "pop2024": 3475540,
@@ -3237,7 +3371,8 @@
     "density": 2.2836,
     "growthRate": 0.0113,
     "worldPercentage": 0.0004,
-    "rank": 133
+    "rank": 133,
+    "growth2025": "5.5"
   },
   {
     "pop2024": 638479,
@@ -3261,7 +3396,8 @@
     "density": 46.5601,
     "growthRate": -0.0103,
     "worldPercentage": 0.0001,
-    "rank": 170
+    "rank": 170,
+    "growth2025": "3.2"
   },
   {
     "pop2024": 4389,
@@ -3285,7 +3421,8 @@
     "density": 42.4314,
     "growthRate": -0.0071,
     "worldPercentage": 0,
-    "rank": 231
+    "rank": 231,
+    "growth2025": "0"
   },
   {
     "pop2024": 38081173,
@@ -3309,7 +3446,8 @@
     "density": 86.8528,
     "growthRate": 0.0086,
     "worldPercentage": 0.0048,
-    "rank": 41
+    "rank": 41,
+    "growth2025": "4.4"
   },
   {
     "pop2024": 34631766,
@@ -3333,7 +3471,8 @@
     "density": 46.5931,
     "growthRate": 0.0283,
     "worldPercentage": 0.0046,
-    "rank": 44
+    "rank": 44,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 54500091,
@@ -3357,7 +3496,8 @@
     "density": 84.5524,
     "growthRate": 0.0061,
     "worldPercentage": 0.0069,
-    "rank": 27
+    "rank": 27,
+    "growth2025": "-2.7"
   },
   {
     "pop2024": 3030131,
@@ -3381,7 +3521,8 @@
     "density": 3.8301,
     "growthRate": 0.0195,
     "worldPercentage": 0.0004,
-    "rank": 137
+    "rank": 137,
+    "growth2025": "3.6"
   },
   {
     "pop2024": 11947,
@@ -3405,7 +3546,8 @@
     "density": 605.05,
     "growthRate": 0.0063,
     "worldPercentage": 0,
-    "rank": 225
+    "rank": 225,
+    "growth2025": "2.1"
   },
   {
     "pop2024": 29651054,
@@ -3429,7 +3571,8 @@
     "density": 206.6927,
     "growthRate": 0.0004,
     "worldPercentage": 0.0037,
-    "rank": 52
+    "rank": 52,
+    "growth2025": "4.3"
   },
   {
     "pop2024": 18228742,
@@ -3453,7 +3596,8 @@
     "density": 547.9299,
     "growthRate": 0.0056,
     "worldPercentage": 0.0023,
-    "rank": 71
+    "rank": 71,
+    "growth2025": "1.4"
   },
   {
     "pop2024": 0,
@@ -3477,7 +3621,8 @@
     "density": 0,
     "growthRate": 0,
     "worldPercentage": 0,
-    "rank": 0
+    "rank": 0,
+    "growth2025": "0"
   },
   {
     "pop2024": 292639,
@@ -3501,7 +3646,8 @@
     "density": 16.2961,
     "growthRate": 0.0087,
     "worldPercentage": 0,
-    "rank": 184
+    "rank": 184,
+    "growth2025": "0"
   },
   {
     "pop2024": 5213944,
@@ -3525,7 +3671,8 @@
     "density": 20.0808,
     "growthRate": 0.0068,
     "worldPercentage": 0.0007,
-    "rank": 126
+    "rank": 126,
+    "growth2025": "0.8"
   },
   {
     "pop2024": 6916140,
@@ -3549,7 +3696,8 @@
     "density": 58.9773,
     "growthRate": 0.0128,
     "worldPercentage": 0.0009,
-    "rank": 108
+    "rank": 108,
+    "growth2025": "3"
   },
   {
     "pop2024": 27032412,
@@ -3573,7 +3721,8 @@
     "density": 22.748,
     "growthRate": 0.0321,
     "worldPercentage": 0.0036,
-    "rank": 53
+    "rank": 53,
+    "growth2025": "6.6"
   },
   {
     "pop2024": 232679478,
@@ -3597,7 +3746,8 @@
     "density": 266.1836,
     "growthRate": 0.0206,
     "worldPercentage": 0.0303,
-    "rank": 6
+    "rank": 6,
+    "growth2025": "3.9"
   },
   {
     "pop2024": 1819,
@@ -3621,7 +3771,8 @@
     "density": 6.9808,
     "growthRate": 0.0005,
     "worldPercentage": 0,
-    "rank": 234
+    "rank": 234,
+    "growth2025": "0"
   },
   {
     "pop2024": 2188,
@@ -3645,7 +3796,8 @@
     "density": 0,
     "growthRate": 0,
     "worldPercentage": 0,
-    "rank": 0
+    "rank": 0,
+    "growth2025": "0"
   },
   {
     "pop2024": 26498823,
@@ -3669,7 +3821,8 @@
     "density": 221.1918,
     "growthRate": 0.0024,
     "worldPercentage": 0.0033,
-    "rank": 56
+    "rank": 56,
+    "growth2025": "0"
   },
   {
     "pop2024": 44278,
@@ -3693,7 +3846,8 @@
     "density": 93.2913,
     "growthRate": -0.0144,
     "worldPercentage": 0,
-    "rank": 214
+    "rank": 214,
+    "growth2025": "0"
   },
   {
     "pop2024": 1823009,
@@ -3717,7 +3871,8 @@
     "density": 71.5329,
     "growthRate": -0.0054,
     "worldPercentage": 0.0002,
-    "rank": 152
+    "rank": 152,
+    "growth2025": "3.4"
   },
   {
     "pop2024": 5576660,
@@ -3741,7 +3896,8 @@
     "density": 15.518,
     "growthRate": 0.0053,
     "worldPercentage": 0.0007,
-    "rank": 121
+    "rank": 121,
+    "growth2025": "1.2"
   },
   {
     "pop2024": 5281538,
@@ -3765,7 +3921,8 @@
     "density": 18.3246,
     "growthRate": 0.0322,
     "worldPercentage": 0.0007,
-    "rank": 120
+    "rank": 120,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 251269164,
@@ -3789,7 +3946,8 @@
     "density": 336.3688,
     "growthRate": 0.016,
     "worldPercentage": 0.0324,
-    "rank": 5
+    "rank": 5,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 17695,
@@ -3813,7 +3971,8 @@
     "density": 38.2913,
     "growthRate": -0.0028,
     "worldPercentage": 0,
-    "rank": 222
+    "rank": 222,
+    "growth2025": "4.5"
   },
   {
     "pop2024": 5495443,
@@ -3837,7 +3996,8 @@
     "density": 945.6462,
     "growthRate": 0.0185,
     "worldPercentage": 0.0007,
-    "rank": 119
+    "rank": 119,
+    "growth2025": "0"
   },
   {
     "pop2024": 4515577,
@@ -3861,7 +4021,8 @@
     "density": 62.358,
     "growthRate": 0.0119,
     "worldPercentage": 0.0006,
-    "rank": 129
+    "rank": 129,
+    "growth2025": "4"
   },
   {
     "pop2024": 10576502,
@@ -3885,7 +4046,8 @@
     "density": 24.1748,
     "growthRate": 0.0172,
     "worldPercentage": 0.0014,
-    "rank": 89
+    "rank": 89,
+    "growth2025": "4.7"
   },
   {
     "pop2024": 6929153,
@@ -3909,7 +4071,8 @@
     "density": 17.8587,
     "growthRate": 0.0117,
     "worldPercentage": 0.0009,
-    "rank": 109
+    "rank": 109,
+    "growth2025": "4.4"
   },
   {
     "pop2024": 34217848,
@@ -3933,7 +4096,8 @@
     "density": 27.2829,
     "growthRate": 0.01,
     "worldPercentage": 0.0044,
-    "rank": 48
+    "rank": 48,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 115843670,
@@ -3957,7 +4121,8 @@
     "density": 394.8217,
     "growthRate": 0.008,
     "worldPercentage": 0.0147,
-    "rank": 14
+    "rank": 14,
+    "growth2025": "5.4"
   },
   {
     "pop2024": 38539201,
@@ -3981,7 +4146,8 @@
     "density": 123.6181,
     "growthRate": -0.0078,
     "worldPercentage": 0.0047,
-    "rank": 42
+    "rank": 42,
+    "growth2025": "3.2"
   },
   {
     "pop2024": 10425292,
@@ -4005,7 +4171,8 @@
     "density": 113.48,
     "growthRate": -0.0016,
     "worldPercentage": 0.0013,
-    "rank": 94
+    "rank": 94,
+    "growth2025": "1.9"
   },
   {
     "pop2024": 3242204,
@@ -4029,7 +4196,8 @@
     "density": 363.3247,
     "growthRate": -0.0039,
     "worldPercentage": 0.0004,
-    "rank": 135
+    "rank": 135,
+    "growth2025": "-0.8"
   },
   {
     "pop2024": 3048423,
@@ -4053,7 +4221,8 @@
     "density": 276.2019,
     "growthRate": 0.0185,
     "worldPercentage": 0.0004,
-    "rank": 136
+    "rank": 136,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 6332961,
@@ -4077,7 +4246,8 @@
     "density": 19.4371,
     "growthRate": 0.0236,
     "worldPercentage": 0.0008,
-    "rank": 112
+    "rank": 112,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 878591,
@@ -4101,7 +4271,8 @@
     "density": 352.8256,
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
-    "rank": 163
+    "rank": 163,
+    "growth2025": "0"
   },
   {
     "pop2024": 19015088,
@@ -4125,7 +4296,8 @@
     "density": 81.7133,
     "growthRate": -0.0057,
     "worldPercentage": 0.0023,
-    "rank": 70
+    "rank": 70,
+    "growth2025": "1"
   },
   {
     "pop2024": 144820423,
@@ -4149,7 +4321,8 @@
     "density": 8.7559,
     "growthRate": -0.0042,
     "worldPercentage": 0.0179,
-    "rank": 9
+    "rank": 9,
+    "growth2025": "0.6"
   },
   {
     "pop2024": 14256567,
@@ -4173,7 +4346,8 @@
     "density": 603.5549,
     "growthRate": 0.022,
     "worldPercentage": 0.0019,
-    "rank": 77
+    "rank": 77,
+    "growth2025": "7.1"
   },
   {
     "pop2024": 11258,
@@ -4197,7 +4371,8 @@
     "density": 462,
     "growthRate": 0.0119,
     "worldPercentage": 0,
-    "rank": 226
+    "rank": 226,
+    "growth2025": "0"
   },
   {
     "pop2024": 4439,
@@ -4221,7 +4396,8 @@
     "density": 13.0635,
     "growthRate": -0.0096,
     "worldPercentage": 0,
-    "rank": 230
+    "rank": 230,
+    "growth2025": "0"
   },
   {
     "pop2024": 46843,
@@ -4245,7 +4421,8 @@
     "density": 180.7385,
     "growthRate": 0.0015,
     "worldPercentage": 0,
-    "rank": 211
+    "rank": 211,
+    "growth2025": "1.7"
   },
   {
     "pop2024": 26129,
@@ -4269,7 +4446,8 @@
     "density": 477.96,
     "growthRate": -0.0418,
     "worldPercentage": 0,
-    "rank": 221
+    "rank": 221,
+    "growth2025": "0"
   },
   {
     "pop2024": 5628,
@@ -4293,7 +4471,8 @@
     "density": 22.781,
     "growthRate": -0.0109,
     "worldPercentage": 0,
-    "rank": 229
+    "rank": 229,
+    "growth2025": "0"
   },
   {
     "pop2024": 100616,
@@ -4317,7 +4496,8 @@
     "density": 254.4744,
     "growthRate": -0.0068,
     "worldPercentage": 0,
-    "rank": 199
+    "rank": 199,
+    "growth2025": "4.4"
   },
   {
     "pop2024": 218019,
@@ -4341,7 +4521,8 @@
     "density": 79.3266,
     "growthRate": 0.0056,
     "worldPercentage": 0,
-    "rank": 188
+    "rank": 188,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 33581,
@@ -4365,7 +4546,8 @@
     "density": 560.0833,
     "growthRate": 0.001,
     "worldPercentage": 0,
-    "rank": 220
+    "rank": 220,
+    "growth2025": "1"
   },
   {
     "pop2024": 235536,
@@ -4389,7 +4571,8 @@
     "density": 255.2021,
     "growthRate": 0.0197,
     "worldPercentage": 0,
-    "rank": 187
+    "rank": 187,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 33962757,
@@ -4413,7 +4596,8 @@
     "density": 16.3585,
     "growthRate": 0.0173,
     "worldPercentage": 0.0044,
-    "rank": 47
+    "rank": 47,
+    "growth2025": "4"
   },
   {
     "pop2024": 18501984,
@@ -4437,7 +4621,8 @@
     "density": 100.5895,
     "growthRate": 0.023,
     "worldPercentage": 0.0024,
-    "rank": 68
+    "rank": 68,
+    "growth2025": "6"
   },
   {
     "pop2024": 6736216,
@@ -4461,7 +4646,8 @@
     "density": 75.9428,
     "growthRate": -0.007,
     "worldPercentage": 0.0008,
-    "rank": 111
+    "rank": 111,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 130418,
@@ -4485,7 +4671,8 @@
     "density": 293.3891,
     "growthRate": 0.0164,
     "worldPercentage": 0,
-    "rank": 193
+    "rank": 193,
+    "growth2025": "3.9"
   },
   {
     "pop2024": 8642022,
@@ -4509,7 +4696,8 @@
     "density": 124.6431,
     "growthRate": 0.0201,
     "worldPercentage": 0.0011,
-    "rank": 101
+    "rank": 101,
+    "growth2025": "4.4"
   },
   {
     "pop2024": 5832387,
@@ -4533,7 +4721,8 @@
     "density": 8225.2786,
     "growthRate": 0.006,
     "worldPercentage": 0.0007,
-    "rank": 115
+    "rank": 115,
+    "growth2025": "2.2"
   },
   {
     "pop2024": 43350,
@@ -4557,7 +4746,8 @@
     "density": 1307.2647,
     "growthRate": 0.0119,
     "worldPercentage": 0,
-    "rank": 213
+    "rank": 213,
+    "growth2025": "0"
   },
   {
     "pop2024": 5506760,
@@ -4581,7 +4771,8 @@
     "density": 111.1724,
     "growthRate": -0.0043,
     "worldPercentage": 0.0007,
-    "rank": 124
+    "rank": 124,
+    "growth2025": "0.9"
   },
   {
     "pop2024": 2118697,
@@ -4605,7 +4796,8 @@
     "density": 105.0123,
     "growthRate": -0.0012,
     "worldPercentage": 0.0003,
-    "rank": 149
+    "rank": 149,
+    "growth2025": "1.1"
   },
   {
     "pop2024": 819198,
@@ -4629,7 +4821,8 @@
     "density": 30.6641,
     "growthRate": 0.0234,
     "worldPercentage": 0.0001,
-    "rank": 164
+    "rank": 164,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 19009151,
@@ -4653,7 +4846,8 @@
     "density": 32.3683,
     "growthRate": 0.0331,
     "worldPercentage": 0.0025,
-    "rank": 66
+    "rank": 66,
+    "growth2025": "3"
   },
   {
     "pop2024": 64007187,
@@ -4677,7 +4871,8 @@
     "density": 53.9557,
     "growthRate": 0.0109,
     "worldPercentage": 0.0082,
-    "rank": 24
+    "rank": 24,
+    "growth2025": "1.1"
   },
   {
     "pop2024": 51717590,
@@ -4701,7 +4896,8 @@
     "density": 528.6926,
     "growthRate": -0.0013,
     "worldPercentage": 0.0064,
-    "rank": 31
+    "rank": 31,
+    "growth2025": "0"
   },
   {
     "pop2024": 11943408,
@@ -4725,7 +4921,8 @@
     "density": 19.6794,
     "growthRate": 0.0203,
     "worldPercentage": 0.0016,
-    "rank": 80
+    "rank": 80,
+    "growth2025": "24.3"
   },
   {
     "pop2024": 47910526,
@@ -4749,7 +4946,8 @@
     "density": 95.7865,
     "growthRate": -0.0008,
     "worldPercentage": 0.006,
-    "rank": 34
+    "rank": 34,
+    "growth2025": "2.9"
   },
   {
     "pop2024": 23103565,
@@ -4773,7 +4971,8 @@
     "density": 377.4378,
     "growthRate": 0.0051,
     "worldPercentage": 0.0029,
-    "rank": 60
+    "rank": 60,
+    "growth2025": "0"
   },
   {
     "pop2024": 179744,
@@ -4797,7 +4996,8 @@
     "density": 295.882,
     "growthRate": 0.0019,
     "worldPercentage": 0,
-    "rank": 190
+    "rank": 190,
+    "growth2025": "2.4"
   },
   {
     "pop2024": 50448963,
@@ -4821,7 +5021,8 @@
     "density": 28.5239,
     "growthRate": 0.0314,
     "worldPercentage": 0.0067,
-    "rank": 29
+    "rank": 29,
+    "growth2025": "3.2"
   },
   {
     "pop2024": 634431,
@@ -4845,7 +5046,8 @@
     "density": 4.1363,
     "growthRate": 0.0084,
     "worldPercentage": 0.0001,
-    "rank": 169
+    "rank": 169,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 1242822,
@@ -4869,7 +5071,8 @@
     "density": 73.8291,
     "growthRate": 0.0109,
     "worldPercentage": 0.0002,
-    "rank": 158
+    "rank": 158,
+    "growth2025": "4.3"
   },
   {
     "pop2024": 10606999,
@@ -4893,7 +5096,8 @@
     "density": 26.2741,
     "growthRate": 0.0042,
     "worldPercentage": 0.0013,
-    "rank": 91
+    "rank": 91,
+    "growth2025": "0.7"
   },
   {
     "pop2024": 8921981,
@@ -4917,7 +5121,8 @@
     "density": 227.9532,
     "growthRate": 0.0045,
     "worldPercentage": 0.0011,
-    "rank": 100
+    "rank": 100,
+    "growth2025": "0.9"
   },
   {
     "pop2024": 24672760,
@@ -4941,7 +5146,8 @@
     "density": 144.1622,
     "growthRate": 0.0333,
     "worldPercentage": 0.0033,
-    "rank": 57
+    "rank": 57,
+    "growth2025": "0"
   },
   {
     "pop2024": 23213962,
@@ -4965,7 +5171,8 @@
     "density": 635.724,
     "growthRate": -0.0044,
     "worldPercentage": 0.0029,
-    "rank": 61
+    "rank": 61,
+    "growth2025": "3.7"
   },
   {
     "pop2024": 10590927,
@@ -4989,7 +5196,8 @@
     "density": 79.1022,
     "growthRate": 0.0178,
     "worldPercentage": 0.0014,
-    "rank": 88
+    "rank": 88,
+    "growth2025": "7.5"
   },
   {
     "pop2024": 68560157,
@@ -5013,7 +5221,8 @@
     "density": 81.9189,
     "growthRate": 0.0286,
     "worldPercentage": 0.0091,
-    "rank": 20
+    "rank": 20,
+    "growth2025": "6"
   },
   {
     "pop2024": 71668011,
@@ -5037,7 +5246,8 @@
     "density": 140.0685,
     "growthRate": -0.0008,
     "worldPercentage": 0.0089,
-    "rank": 21
+    "rank": 21,
+    "growth2025": "2"
   },
   {
     "pop2024": 1400638,
@@ -5061,7 +5271,8 @@
     "density": 96.6321,
     "growthRate": 0.013,
     "worldPercentage": 0.0002,
-    "rank": 155
+    "rank": 155,
+    "growth2025": "3.9"
   },
   {
     "pop2024": 9515236,
@@ -5085,7 +5296,8 @@
     "density": 182.5872,
     "growthRate": 0.0215,
     "worldPercentage": 0.0012,
-    "rank": 95
+    "rank": 95,
+    "growth2025": "5.2"
   },
   {
     "pop2024": 2506,
@@ -5109,7 +5321,8 @@
     "density": 269.1,
     "growthRate": 0.0318,
     "worldPercentage": 0,
-    "rank": 233
+    "rank": 233,
+    "growth2025": "0"
   },
   {
     "pop2024": 104175,
@@ -5133,7 +5346,8 @@
     "density": 143.4597,
     "growthRate": -0.0043,
     "worldPercentage": 0,
-    "rank": 198
+    "rank": 198,
+    "growth2025": "2.7"
   },
   {
     "pop2024": 1507782,
@@ -5157,7 +5371,8 @@
     "density": 294.9844,
     "growthRate": 0.0014,
     "worldPercentage": 0.0002,
-    "rank": 154
+    "rank": 154,
+    "growth2025": "1"
   },
   {
     "pop2024": 12277109,
@@ -5181,7 +5396,8 @@
     "density": 79.9118,
     "growthRate": 0.0054,
     "worldPercentage": 0.0016,
-    "rank": 81
+    "rank": 81,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 87473805,
@@ -5205,7 +5421,8 @@
     "density": 112.2133,
     "growthRate": 0.0027,
     "worldPercentage": 0.011,
-    "rank": 18
+    "rank": 18,
+    "growth2025": "3.5"
   },
   {
     "pop2024": 7494498,
@@ -5229,7 +5446,8 @@
     "density": 16.4634,
     "growthRate": 0.0155,
     "worldPercentage": 0.001,
-    "rank": 104
+    "rank": 104,
+    "growth2025": "2.3"
   },
   {
     "pop2024": 46535,
@@ -5253,7 +5471,8 @@
     "density": 49.7342,
     "growthRate": 0.0063,
     "worldPercentage": 0,
-    "rank": 210
+    "rank": 210,
+    "growth2025": "0"
   },
   {
     "pop2024": 9646,
@@ -5277,7 +5496,8 @@
     "density": 312.0667,
     "growthRate": -0.0137,
     "worldPercentage": 0,
-    "rank": 228
+    "rank": 228,
+    "growth2025": "3"
   },
   {
     "pop2024": 50015092,
@@ -5301,7 +5521,8 @@
     "density": 263.1234,
     "growthRate": 0.0268,
     "worldPercentage": 0.0066,
-    "rank": 30
+    "rank": 30,
+    "growth2025": "6.4"
   },
   {
     "pop2024": 37860221,
@@ -5325,7 +5546,8 @@
     "density": 68.2358,
     "growthRate": 0.0142,
     "worldPercentage": 0.0049,
-    "rank": 40
+    "rank": 40,
+    "growth2025": "2"
   },
   {
     "pop2024": 11027129,
@@ -5349,7 +5571,8 @@
     "density": 162.978,
     "growthRate": 0.0202,
     "worldPercentage": 0.0014,
-    "rank": 86
+    "rank": 86,
+    "growth2025": "4.8"
   },
   {
     "pop2024": 69138192,
@@ -5373,7 +5596,8 @@
     "density": 289.0568,
     "growthRate": 0.0055,
     "worldPercentage": 0.0087,
-    "rank": 22
+    "rank": 22,
+    "growth2025": "1.3"
   },
   {
     "pop2024": 345426571,
@@ -5397,7 +5621,8 @@
     "density": 38.1567,
     "growthRate": 0.0051,
     "worldPercentage": 0.0436,
-    "rank": 3
+    "rank": 3,
+    "growth2025": "2"
   },
   {
     "pop2024": 3386588,
@@ -5421,7 +5646,8 @@
     "density": 19.3266,
     "growthRate": -0.0006,
     "worldPercentage": 0.0004,
-    "rank": 134
+    "rank": 134,
+    "growth2025": "2.5"
   },
   {
     "pop2024": 84905,
@@ -5445,7 +5671,8 @@
     "density": 240.3458,
     "growthRate": -0.0088,
     "worldPercentage": 0,
-    "rank": 203
+    "rank": 203,
+    "growth2025": "0"
   },
   {
     "pop2024": 36361859,
@@ -5469,7 +5696,8 @@
     "density": 85.6103,
     "growthRate": 0.0181,
     "worldPercentage": 0.0047,
-    "rank": 43
+    "rank": 43,
+    "growth2025": "6.8"
   },
   {
     "pop2024": 327777,
@@ -5493,7 +5721,8 @@
     "density": 28.1021,
     "growthRate": 0.0221,
     "worldPercentage": 0,
-    "rank": 181
+    "rank": 181,
+    "growth2025": "1.7"
   },
   {
     "pop2024": 496,
@@ -5517,7 +5746,8 @@
     "density": 1150,
     "growthRate": 0.01,
     "worldPercentage": 0,
-    "rank": 235
+    "rank": 235,
+    "growth2025": "0"
   },
   {
     "pop2024": 28405543,
@@ -5541,7 +5771,8 @@
     "density": 32.4627,
     "growthRate": 0.0041,
     "worldPercentage": 0.0036,
-    "rank": 54
+    "rank": 54,
+    "growth2025": "0.5"
   },
   {
     "pop2024": 100987686,
@@ -5565,7 +5796,8 @@
     "density": 325.9973,
     "growthRate": 0.0057,
     "worldPercentage": 0.0128,
-    "rank": 16
+    "rank": 16,
+    "growth2025": "6.5"
   },
   {
     "pop2024": 11277,
@@ -5589,7 +5821,8 @@
     "density": 40.5584,
     "growthRate": -0.0072,
     "worldPercentage": 0,
-    "rank": 227
+    "rank": 227,
+    "growth2025": "0"
   },
   {
     "pop2024": 590506,
@@ -5613,7 +5846,8 @@
     "density": 2.2963,
     "growthRate": 0.0165,
     "worldPercentage": 0.0001,
-    "rank": 171
+    "rank": 171,
+    "growth2025": "0"
   },
   {
     "pop2024": 2504,
@@ -5637,7 +5871,8 @@
     "density": 0,
     "growthRate": 0,
     "worldPercentage": 0,
-    "rank": 0
+    "rank": 0,
+    "growth2025": "0"
   },
   {
     "pop2024": 40583164,
@@ -5661,7 +5896,8 @@
     "density": 81.3715,
     "growthRate": 0.0284,
     "worldPercentage": 0.0054,
-    "rank": 37
+    "rank": 37,
+    "growth2025": "-1.5"
   },
   {
     "pop2024": 21314956,
@@ -5685,7 +5921,8 @@
     "density": 30.2962,
     "growthRate": 0.0277,
     "worldPercentage": 0.0028,
-    "rank": 63
+    "rank": 63,
+    "growth2025": "5.8"
   },
   {
     "pop2024": 16634373,
@@ -5709,6 +5946,7 @@
     "density": 44.6519,
     "growthRate": 0.019,
     "worldPercentage": 0.0022,
-    "rank": 74
+    "rank": 74,
+    "growth2025": "6"
   }
 ]
