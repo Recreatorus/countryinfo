@@ -5,11 +5,8 @@
     "country": "Afghanistan",
     "currency": "AFN",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "AF",
     "phoneCode": "+93",
     "rusName": "Афганистан",
@@ -21,7 +18,8 @@
     "growthRate": 0.0274,
     "worldPercentage": 0.0056,
     "rank": 36,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Tirana",
@@ -29,11 +27,8 @@
     "country": "Albania",
     "currency": "ALL",
     "debt": "67.6",
-    "gdp2024": "26.13",
     "gdp2025": "29.939",
     "gdppc2024": "10012.917",
-    "gdpppppc2024": "21747.183",
-    "growthgdp2024": "4",
     "id": "AL",
     "phoneCode": "+355",
     "rusName": "Албания",
@@ -45,7 +40,8 @@
     "growthRate": -0.0074,
     "worldPercentage": 0.0003,
     "rank": 144,
-    "growth2025": 3.4
+    "growth2025": 3.4,
+    "gdpppppc2025": "23327.052"
   },
   {
     "capital": "Algiers",
@@ -53,11 +49,8 @@
     "country": "Algeria",
     "currency": "DZD",
     "debt": "52.4",
-    "gdp2024": "260.134",
     "gdp2025": "288.013",
     "gdppc2024": "5681.632",
-    "gdpppppc2024": "17669.858",
-    "growthgdp2024": "3.5",
     "id": "DZ",
     "phoneCode": "+213",
     "rusName": "Алжир",
@@ -69,7 +62,8 @@
     "growthRate": 0.0125,
     "worldPercentage": 0.006,
     "rank": 32,
-    "growth2025": 3.4
+    "growth2025": 3.4,
+    "gdpppppc2025": "18509.449"
   },
   {
     "capital": "Pago Pago",
@@ -77,11 +71,8 @@
     "country": "American Samoa",
     "currency": "USD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "AS",
     "phoneCode": "+1-684",
     "rusName": "Американское Самоа",
@@ -93,7 +84,8 @@
     "growthRate": -0.0154,
     "worldPercentage": 0,
     "rank": 212,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Andorra la Vella",
@@ -101,11 +93,8 @@
     "country": "Andorra",
     "currency": "EUR",
     "debt": "38.8",
-    "gdp2024": "3.93",
     "gdp2025": "4.408",
     "gdppc2024": "46359.174",
-    "gdpppppc2024": "70501.395",
-    "growthgdp2024": "3.4",
     "id": "AD",
     "phoneCode": "+376",
     "rusName": "Андорра",
@@ -117,7 +106,8 @@
     "growthRate": 0.0102,
     "worldPercentage": 0,
     "rank": 202,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "72359.32"
   },
   {
     "capital": "Luanda",
@@ -125,11 +115,8 @@
     "country": "Angola",
     "currency": "AOA",
     "debt": "67",
-    "gdp2024": "113.286",
     "gdp2025": "115.167",
     "gdppc2024": "3053.759",
-    "gdpppppc2024": "10078.614",
-    "growthgdp2024": "4.5",
     "id": "AO",
     "phoneCode": "+244",
     "rusName": "Ангола",
@@ -141,7 +128,8 @@
     "growthRate": 0.0301,
     "worldPercentage": 0.005,
     "rank": 39,
-    "growth2025": 2.1
+    "growth2025": 2.1,
+    "gdpppppc2025": "10216.557"
   },
   {
     "capital": "The Valley",
@@ -149,11 +137,8 @@
     "country": "Anguilla",
     "currency": "XCD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "AI",
     "phoneCode": "+1-264",
     "rusName": "Ангилья",
@@ -165,7 +150,8 @@
     "growthRate": 0.006,
     "worldPercentage": 0,
     "rank": 223,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Saint John's",
@@ -173,11 +159,8 @@
     "country": "Antigua and Barbuda",
     "currency": "XCD",
     "debt": "90.6",
-    "gdp2024": "2.292",
     "gdp2025": "2.34",
     "gdppc2024": "21490.99",
-    "gdpppppc2024": "30433.003",
-    "growthgdp2024": "4.3",
     "id": "AG",
     "phoneCode": "+1-268",
     "rusName": "Антигуа и Барбуда",
@@ -189,7 +172,8 @@
     "growthRate": 0.0044,
     "worldPercentage": 0,
     "rank": 200,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "31380.292"
   },
   {
     "capital": "Buenos Aires",
@@ -197,11 +181,8 @@
     "country": "Argentina",
     "currency": "ARS",
     "debt": "84.5",
-    "gdp2024": "604.382",
     "gdp2025": "683.371",
     "gdppc2024": "13415.312",
-    "gdpppppc2024": "29263.048",
-    "growthgdp2024": "-1.7",
     "id": "AR",
     "phoneCode": "+54",
     "rusName": "Аргентина",
@@ -213,7 +194,8 @@
     "growthRate": 0.0033,
     "worldPercentage": 0.0057,
     "rank": 35,
-    "growth2025": 4.5
+    "growth2025": 4.5,
+    "gdpppppc2025": "31311.011"
   },
   {
     "capital": "Yerevan",
@@ -221,11 +203,8 @@
     "country": "Armenia",
     "currency": "AMD",
     "debt": "49.3",
-    "gdp2024": "25.251",
     "gdp2025": "27.859",
     "gdppc2024": "8613.224",
-    "gdpppppc2024": "23360.984",
-    "growthgdp2024": "5.9",
     "id": "AM",
     "phoneCode": "+374",
     "rusName": "Армения",
@@ -237,7 +216,8 @@
     "growthRate": -0.0073,
     "worldPercentage": 0.0004,
     "rank": 140,
-    "growth2025": 4.8
+    "growth2025": 4.8,
+    "gdpppppc2025": "23954.238"
   },
   {
     "capital": "Oranjestad",
@@ -245,11 +225,8 @@
     "country": "Aruba",
     "currency": "AWG",
     "debt": "92",
-    "gdp2024": "4.258",
     "gdp2025": "4.319",
     "gdppc2024": "36385.97",
-    "gdpppppc2024": "48478.811",
-    "growthgdp2024": "6.5",
     "id": "AW",
     "phoneCode": "+297",
     "rusName": "Аруба",
@@ -261,7 +238,8 @@
     "growthRate": 0.0002,
     "worldPercentage": 0,
     "rank": 196,
-    "growth2025": 2
+    "growth2025": 2,
+    "gdpppppc2025": "49451.388"
   },
   {
     "capital": "Canberra",
@@ -269,11 +247,8 @@
     "country": "Australia",
     "currency": "AUD",
     "debt": "55.7",
-    "gdp2024": "1802.006",
     "gdp2025": "1829.508",
     "gdppc2024": "66247.96",
-    "gdpppppc2024": "69970.69",
-    "growthgdp2024": "1",
     "id": "AU",
     "phoneCode": "+61",
     "rusName": "Австралия",
@@ -285,7 +260,8 @@
     "growthRate": 0.0094,
     "worldPercentage": 0.0034,
     "rank": 55,
-    "growth2025": 1.8
+    "growth2025": 1.8,
+    "gdpppppc2025": "71430.886"
   },
   {
     "capital": "Vienna",
@@ -293,11 +269,8 @@
     "country": "Austria",
     "currency": "EUR",
     "debt": "77.8",
-    "gdp2024": "535.804",
     "gdp2025": "566.456",
     "gdppc2024": "56914.537",
-    "gdpppppc2024": "72818.694",
-    "growthgdp2024": "-1.2",
     "id": "AT",
     "phoneCode": "+43",
     "rusName": "Австрия",
@@ -309,7 +282,8 @@
     "growthRate": -0.0007,
     "worldPercentage": 0.0011,
     "rank": 99,
-    "growth2025": 0.3
+    "growth2025": 0.3,
+    "gdpppppc2025": "74852.289"
   },
   {
     "capital": "Baku",
@@ -317,11 +291,8 @@
     "country": "Azerbaijan",
     "currency": "AZN",
     "debt": "20.7",
-    "gdp2024": "75.649",
     "gdp2025": "76.39",
     "gdppc2024": "7251.303",
-    "gdpppppc2024": "24983.786",
-    "growthgdp2024": "4.1",
     "id": "AZ",
     "phoneCode": "+994",
     "rusName": "Азербайджан",
@@ -333,7 +304,8 @@
     "growthRate": 0.0055,
     "worldPercentage": 0.0013,
     "rank": 93,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "26081.082"
   },
   {
     "capital": "Nassau",
@@ -341,11 +313,8 @@
     "country": "Bahamas",
     "currency": "BSD",
     "debt": "89.4",
-    "gdp2024": "14.825",
     "gdp2025": "16.393",
     "gdppc2024": "36166.529",
-    "gdpppppc2024": "7564.429",
-    "growthgdp2024": "2",
     "id": "BS",
     "phoneCode": "+1-242",
     "rusName": "Багамские Острова",
@@ -357,7 +326,8 @@
     "growthRate": 0.004,
     "worldPercentage": 0.0001,
     "rank": 177,
-    "growth2025": 2.2
+    "growth2025": 2.2,
+    "gdpppppc2025": "42002.508"
   },
   {
     "capital": "Manama",
@@ -365,11 +335,8 @@
     "country": "Bahrain",
     "currency": "BHD",
     "debt": "117.6",
-    "gdp2024": "47.812",
     "gdp2025": "47.391",
     "gdppc2024": "29035.628",
-    "gdpppppc2024": "65888.992",
-    "growthgdp2024": "2.8",
     "id": "BH",
     "phoneCode": "+973",
     "rusName": "Бахрейн",
@@ -381,7 +348,8 @@
     "growthRate": 0.0196,
     "worldPercentage": 0.0002,
     "rank": 153,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "69270.719"
   },
   {
     "capital": "Dhaka",
@@ -389,11 +357,8 @@
     "country": "Bangladesh",
     "currency": "BDT",
     "debt": "39.1",
-    "gdp2024": "451.468",
     "gdp2025": "475.011",
     "gdppc2024": "2622.368",
-    "gdpppppc2024": "9733.359",
-    "growthgdp2024": "4.2",
     "id": "BD",
     "phoneCode": "+880",
     "rusName": "Бангладеш",
@@ -405,7 +370,8 @@
     "growthRate": 0.0121,
     "worldPercentage": 0.0222,
     "rank": 8,
-    "growth2025": 3.8
+    "growth2025": 3.8,
+    "gdpppppc2025": "10257.554"
   },
   {
     "capital": "Bridgetown",
@@ -413,11 +379,8 @@
     "country": "Barbados",
     "currency": "BBD",
     "debt": "120.8",
-    "gdp2024": "7.201",
     "gdp2025": "7.559",
     "gdppc2024": "24644.036",
-    "gdpppppc2024": "22062.333",
-    "growthgdp2024": "4",
     "id": "BB",
     "phoneCode": "+1-246",
     "rusName": "Барбадос",
@@ -429,7 +392,8 @@
     "growthRate": 0.0004,
     "worldPercentage": 0,
     "rank": 186,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "23183.92"
   },
   {
     "capital": "Minsk",
@@ -437,11 +401,8 @@
     "country": "Belarus",
     "currency": "BYN",
     "debt": "39.8",
-    "gdp2024": "73.129",
     "gdp2025": "85.739",
     "gdppc2024": "7794.265",
-    "gdpppppc2024": "32365.128",
-    "growthgdp2024": "4",
     "id": "BY",
     "phoneCode": "+375",
     "rusName": "Белоруссия",
@@ -453,7 +414,8 @@
     "growthRate": -0.0067,
     "worldPercentage": 0.0011,
     "rank": 102,
-    "growth2025": 2.1
+    "growth2025": 2.1,
+    "gdpppppc2025": "34069.078"
   },
   {
     "capital": "Brussels",
@@ -461,11 +423,8 @@
     "country": "Belgium",
     "currency": "EUR",
     "debt": "105.3",
-    "gdp2024": "662.183",
     "gdp2025": "716.98",
     "gdppc2024": "56271.417",
-    "gdpppppc2024": "73500.432",
-    "growthgdp2024": "1",
     "id": "BE",
     "phoneCode": "+32",
     "rusName": "Бельгия",
@@ -477,7 +436,8 @@
     "growthRate": 0.0014,
     "worldPercentage": 0.0015,
     "rank": 83,
-    "growth2025": 1.1
+    "growth2025": 1.1,
+    "gdpppppc2025": "75882.366"
   },
   {
     "capital": "Belmopan",
@@ -485,11 +445,8 @@
     "country": "Belize",
     "currency": "BZD",
     "debt": "64.1",
-    "gdp2024": "3.342",
     "gdp2025": "3.297",
     "gdppc2024": "8339.46",
-    "gdpppppc2024": "15324.207",
-    "growthgdp2024": "8.2",
     "id": "BZ",
     "phoneCode": "+501",
     "rusName": "Белиз",
@@ -501,7 +458,8 @@
     "growthRate": 0.0135,
     "worldPercentage": 0.0001,
     "rank": 176,
-    "growth2025": 1.5
+    "growth2025": 1.5,
+    "gdpppppc2025": "14920.769"
   },
   {
     "capital": "Porto-Novo",
@@ -509,11 +467,8 @@
     "country": "Benin",
     "currency": "XOF",
     "debt": "52.4",
-    "gdp2024": "21.322",
     "gdp2025": "24.402",
     "gdppc2024": "1507.167",
-    "gdpppppc2024": "4508.997",
-    "growthgdp2024": "6.5",
     "id": "BJ",
     "phoneCode": "+229",
     "rusName": "Бенин",
@@ -525,7 +480,8 @@
     "growthRate": 0.024,
     "worldPercentage": 0.0019,
     "rank": 76,
-    "growth2025": 7
+    "growth2025": 7,
+    "gdpppppc2025": "4719.244"
   },
   {
     "capital": "Hamilton",
@@ -533,11 +489,8 @@
     "country": "Bermuda",
     "currency": "BMD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "BM",
     "phoneCode": "+1-441",
     "rusName": "Бермудские Острова",
@@ -549,7 +502,8 @@
     "growthRate": -0.0015,
     "worldPercentage": 0,
     "rank": 207,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Thimphu",
@@ -557,11 +511,8 @@
     "country": "Bhutan",
     "currency": "BTN",
     "debt": "124.8",
-    "gdp2024": "3.151",
     "gdp2025": "3.408",
     "gdppc2024": "3913.004",
-    "gdpppppc2024": "16251.063",
-    "growthgdp2024": "4",
     "id": "BT",
     "phoneCode": "+975",
     "rusName": "Бутан",
@@ -573,7 +524,8 @@
     "growthRate": 0.0069,
     "worldPercentage": 0.0001,
     "rank": 166,
-    "growth2025": 6.8
+    "growth2025": 6.8,
+    "gdpppppc2025": "17721.787"
   },
   {
     "capital": "La Paz",
@@ -581,11 +533,8 @@
     "country": "Bolivia",
     "currency": "BOB",
     "debt": "82.6",
-    "gdp2024": "48.172",
     "gdp2025": "57.086",
     "gdppc2024": "3938.517",
-    "gdpppppc2024": "11292.655",
-    "growthgdp2024": "1.3",
     "id": "BO",
     "phoneCode": "+591",
     "rusName": "Боливия",
@@ -597,7 +546,8 @@
     "growthRate": 0.0133,
     "worldPercentage": 0.0016,
     "rank": 79,
-    "growth2025": 0.6
+    "growth2025": 0.6,
+    "gdpppppc2025": "11439.02"
   },
   {
     "capital": "Sarajevo",
@@ -605,11 +555,8 @@
     "country": "Bosnia and Herzegovina",
     "currency": "BAM",
     "debt": "29.6",
-    "gdp2024": "28.404",
     "gdp2025": "33.237",
     "gdppc2024": "8334.086",
-    "gdpppppc2024": "21571.807",
-    "growthgdp2024": "2.5",
     "id": "BA",
     "phoneCode": "+387",
     "rusName": "Босния и Герцеговина",
@@ -621,7 +568,8 @@
     "growthRate": -0.0082,
     "worldPercentage": 0.0004,
     "rank": 138,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "22829.684"
   },
   {
     "capital": "Gaborone",
@@ -629,11 +577,8 @@
     "country": "Botswana",
     "currency": "BWP",
     "debt": "19.9",
-    "gdp2024": "19.966",
     "gdp2025": "19.186",
     "gdppc2024": "7117.095",
-    "gdpppppc2024": "19038.741",
-    "growthgdp2024": "-3",
     "id": "BW",
     "phoneCode": "+267",
     "rusName": "Ботсвана",
@@ -645,7 +590,8 @@
     "growthRate": 0.0161,
     "worldPercentage": 0.0003,
     "rank": 146,
-    "growth2025": -0.9
+    "growth2025": -0.9,
+    "gdpppppc2025": "19053.102"
   },
   {
     "capital": "Brasília",
@@ -653,11 +599,8 @@
     "country": "Brazil",
     "currency": "BRL",
     "debt": "85.9",
-    "gdp2024": "2188.419",
     "gdp2025": "2256.91",
     "gdppc2024": "10214.032",
-    "gdpppppc2024": "22271.942",
-    "growthgdp2024": "3.4",
     "id": "BR",
     "phoneCode": "+55",
     "rusName": "Бразилия",
@@ -669,7 +612,8 @@
     "growthRate": 0.0035,
     "worldPercentage": 0.0267,
     "rank": 7,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "23309.631"
   },
   {
     "capital": "Diego Garcia",
@@ -677,11 +621,8 @@
     "country": "British Indian Ocean Territory",
     "currency": "USD",
     "debt": "0.0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "IO",
     "phoneCode": "+246",
     "rusName": "Британская территория в Индийском океане",
@@ -693,7 +634,8 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "RoadTown",
@@ -701,11 +643,8 @@
     "country": "British Virgin Islands",
     "currency": "USD",
     "debt": "0.0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "VG",
     "phoneCode": "+1-284",
     "rusName": "Британские Виргинские острова",
@@ -717,7 +656,8 @@
     "growthRate": 0.0051,
     "worldPercentage": 0,
     "rank": 217,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Bandar Seri Begawan",
@@ -725,11 +665,8 @@
     "country": "Brunei",
     "currency": "BND",
     "debt": "2.1",
-    "gdp2024": "15.71",
     "gdp2025": "15.565",
     "gdppc2024": "34044.497",
-    "gdpppppc2024": "91695.051",
-    "growthgdp2024": "3.9",
     "id": "BN",
     "phoneCode": "+673",
     "rusName": "Бруней",
@@ -741,7 +678,8 @@
     "growthRate": 0.0074,
     "worldPercentage": 0.0001,
     "rank": 175,
-    "growth2025": 1.8
+    "growth2025": 1.8,
+    "gdpppppc2025": "94472.473"
   },
   {
     "capital": "Sofia",
@@ -749,11 +687,8 @@
     "country": "Bulgaria",
     "currency": "BGN",
     "debt": "21.8",
-    "gdp2024": "108.425",
     "gdp2025": "127.924",
     "gdppc2024": "17588.432",
-    "gdpppppc2024": "39439.331",
-    "growthgdp2024": "2.8",
     "id": "BG",
     "phoneCode": "+359",
     "rusName": "Болгария",
@@ -765,7 +700,8 @@
     "growthRate": -0.007,
     "worldPercentage": 0.0008,
     "rank": 110,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "42477.288"
   },
   {
     "capital": "Ouagadougou",
@@ -773,11 +709,8 @@
     "country": "Burkina Faso",
     "currency": "XOF",
     "debt": "54.3",
-    "gdp2024": "21.858",
     "gdp2025": "26.866",
     "gdppc2024": "1005.493",
-    "gdpppppc2024": "2851.4",
-    "growthgdp2024": "4.4",
     "id": "BF",
     "phoneCode": "+226",
     "rusName": "Буркина-Фасо",
@@ -789,7 +722,8 @@
     "growthRate": 0.0219,
     "worldPercentage": 0.0031,
     "rank": 59,
-    "growth2025": 4
+    "growth2025": 4,
+    "gdpppppc2025": "3019.005"
   },
   {
     "capital": "Bujumbura",
@@ -797,11 +731,8 @@
     "country": "Burundi",
     "currency": "BIF",
     "debt": "68.3",
-    "gdp2024": "4.285",
     "gdp2025": "7.025",
     "gdppc2024": "354.838",
-    "gdpppppc2024": "999.905",
-    "growthgdp2024": "3.5",
     "id": "BI",
     "phoneCode": "+257",
     "rusName": "Бурунди",
@@ -813,7 +744,8 @@
     "growthRate": 0.0236,
     "worldPercentage": 0.0018,
     "rank": 78,
-    "growth2025": 4.4
+    "growth2025": 4.4,
+    "gdpppppc2025": "989.295"
   },
   {
     "capital": "Praia",
@@ -821,11 +753,8 @@
     "country": "Cabo Verde",
     "currency": "CVE",
     "debt": "127.4",
-    "gdp2024": "2.756",
     "gdp2025": "2.915",
     "gdppc2024": "5328.689",
-    "gdpppppc2024": "11426.843",
-    "growthgdp2024": "6",
     "id": "CV",
     "phoneCode": "+238",
     "rusName": "Кабо-Верде",
@@ -837,7 +766,8 @@
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
     "rank": 174,
-    "growth2025": 5.2
+    "growth2025": 5.2,
+    "gdpppppc2025": "12335.268"
   },
   {
     "capital": "Phnom Penh",
@@ -845,11 +775,8 @@
     "country": "Cambodia",
     "currency": "KHR",
     "debt": "36.5",
-    "gdp2024": "47.147",
     "gdp2025": "48.802",
     "gdppc2024": "2754.508",
-    "gdpppppc2024": "8179.246",
-    "growthgdp2024": "6",
     "id": "KH",
     "phoneCode": "+855",
     "rusName": "Камбоджа",
@@ -861,7 +788,8 @@
     "growthRate": 0.0114,
     "worldPercentage": 0.0023,
     "rank": 73,
-    "growth2025": 4.8
+    "growth2025": 4.8,
+    "gdpppppc2025": "8707.071"
   },
   {
     "capital": "Yaoundé",
@@ -869,11 +797,8 @@
     "country": "Cameroon",
     "currency": "XAF",
     "debt": "46.4",
-    "gdp2024": "53.391",
     "gdp2025": "60.577",
     "gdppc2024": "1800.59",
-    "gdpppppc2024": "5547.602",
-    "growthgdp2024": "3.6",
     "id": "CM",
     "phoneCode": "+237",
     "rusName": "Камерун",
@@ -885,7 +810,8 @@
     "growthRate": 0.0255,
     "worldPercentage": 0.0038,
     "rank": 51,
-    "growth2025": 3.8
+    "growth2025": 3.8,
+    "gdpppppc2025": "5791.088"
   },
   {
     "capital": "Ottawa",
@@ -893,11 +819,8 @@
     "country": "Canada",
     "currency": "CAD",
     "debt": "106.6",
-    "gdp2024": "2214.796",
     "gdp2025": "2283.599",
     "gdppc2024": "54473.186",
-    "gdpppppc2024": "63760.253",
-    "growthgdp2024": "1.5",
     "id": "CA",
     "phoneCode": "+1",
     "rusName": "Канада",
@@ -909,7 +832,8 @@
     "growthRate": 0.0085,
     "worldPercentage": 0.0051,
     "rank": 38,
-    "growth2025": 1.2
+    "growth2025": 1.2,
+    "gdpppppc2025": "65500.245"
   },
   {
     "capital": "George Town",
@@ -917,11 +841,8 @@
     "country": "Cayman Islands",
     "currency": "KYD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "KY",
     "phoneCode": "+1-345",
     "rusName": "Каймановы о-ва",
@@ -933,7 +854,8 @@
     "growthRate": 0.0178,
     "worldPercentage": 0,
     "rank": 204,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Bangui",
@@ -941,11 +863,8 @@
     "country": "Central African Republic",
     "currency": "XAF",
     "debt": "50.7",
-    "gdp2024": "2.823",
     "gdp2025": "3.3",
     "gdppc2024": "531.056",
-    "gdpppppc2024": "1301.685",
-    "growthgdp2024": "1.8",
     "id": "CF",
     "phoneCode": "+236",
     "rusName": "ЦАР",
@@ -957,7 +876,8 @@
     "growthRate": 0.0337,
     "worldPercentage": 0.0007,
     "rank": 118,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "1369.326"
   },
   {
     "capital": "N'Djamena",
@@ -965,11 +885,8 @@
     "country": "Chad",
     "currency": "XAF",
     "debt": "50.4",
-    "gdp2024": "18.67",
     "gdp2025": "21.592",
     "gdppc2024": "1034.768",
-    "gdpppppc2024": "2942.667",
-    "growthgdp2024": "1.5",
     "id": "TD",
     "phoneCode": "+235",
     "rusName": "Чад",
@@ -981,7 +898,8 @@
     "growthRate": 0.0265,
     "worldPercentage": 0.0027,
     "rank": 64,
-    "growth2025": 3.3
+    "growth2025": 3.3,
+    "gdpppppc2025": "3155.027"
   },
   {
     "capital": "Santiago",
@@ -989,11 +907,8 @@
     "country": "Chile",
     "currency": "CLP",
     "debt": "38",
-    "gdp2024": "328.72",
     "gdp2025": "347.174",
     "gdppc2024": "16439.479",
-    "gdpppppc2024": "33756.351",
-    "growthgdp2024": "2.6",
     "id": "CL",
     "phoneCode": "+56",
     "rusName": "Чили",
@@ -1005,7 +920,8 @@
     "growthRate": 0.0043,
     "worldPercentage": 0.0025,
     "rank": 67,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "35286.468"
   },
   {
     "capital": "Beijing",
@@ -1013,11 +929,8 @@
     "country": "China",
     "currency": "CNY",
     "debt": "77.1",
-    "gdp2024": "18273.357",
     "gdp2025": "19398.577",
     "gdppc2024": "13312.7",
-    "gdpppppc2024": "27092.779",
-    "growthgdp2024": "5",
     "id": "CN",
     "phoneCode": "+86",
     "rusName": "Китай (Китайская Народная Республика)",
@@ -1029,7 +942,8 @@
     "growthRate": -0.0023,
     "worldPercentage": 0.1765,
     "rank": 2,
-    "growth2025": 4.8
+    "growth2025": 4.8,
+    "gdpppppc2025": "29191.097"
   },
   {
     "capital": "Bogotá",
@@ -1037,11 +951,8 @@
     "country": "Colombia",
     "currency": "COP",
     "debt": "63.6",
-    "gdp2024": "417.207",
     "gdp2025": "438.121",
     "gdppc2024": "7942.589",
-    "gdpppppc2024": "21493.706",
-    "growthgdp2024": "1.7",
     "id": "CO",
     "phoneCode": "+57",
     "rusName": "Колумбия",
@@ -1053,7 +964,8 @@
     "growthRate": 0.0096,
     "worldPercentage": 0.0067,
     "rank": 28,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "22396.001"
   },
   {
     "capital": "Moroni",
@@ -1061,11 +973,8 @@
     "country": "Comoros",
     "currency": "KMF",
     "debt": "29.1",
-    "gdp2024": "1.45",
     "gdp2025": "1.613",
     "gdppc2024": "1636.893",
-    "gdpppppc2024": "3855.987",
-    "growthgdp2024": "3.3",
     "id": "KM",
     "phoneCode": "+269",
     "rusName": "Коморы",
@@ -1077,7 +986,8 @@
     "growthRate": 0.0183,
     "worldPercentage": 0.0001,
     "rank": 162,
-    "growth2025": 3.8
+    "growth2025": 3.8,
+    "gdpppppc2025": "4015.311"
   },
   {
     "capital": "Avarua",
@@ -1085,11 +995,8 @@
     "country": "Cook Islands",
     "currency": "NZD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "CK",
     "phoneCode": "+682",
     "rusName": "Острова Кука",
@@ -1101,7 +1008,8 @@
     "growthRate": -0.0329,
     "worldPercentage": 0,
     "rank": 224,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "San José",
@@ -1109,11 +1017,8 @@
     "country": "Costa Rica",
     "currency": "CRC",
     "debt": "63.8",
-    "gdp2024": "95.149",
     "gdp2025": "102.637",
     "gdppc2024": "17908.546",
-    "gdpppppc2024": "29892.358",
-    "growthgdp2024": "4.3",
     "id": "CR",
     "phoneCode": "+506",
     "rusName": "Коста-Рика",
@@ -1125,7 +1030,8 @@
     "growthRate": 0.0042,
     "worldPercentage": 0.0006,
     "rank": 127,
-    "growth2025": 3.6
+    "growth2025": 3.6,
+    "gdpppppc2025": "31485.04"
   },
   {
     "capital": "Yamoussoukro",
@@ -1133,11 +1039,8 @@
     "country": "Côte d'Ivoire",
     "currency": "XOF",
     "debt": "56.8",
-    "gdp2024": "86.993",
     "gdp2025": "99.207",
     "gdppc2024": "2723.207",
-    "gdpppppc2024": "7645.41",
-    "growthgdp2024": "6",
     "id": "CI",
     "phoneCode": "+225",
     "rusName": "Кот-д'Ивуар",
@@ -1149,7 +1052,8 @@
     "growthRate": 0.0239,
     "worldPercentage": 0.0042,
     "rank": 50,
-    "growth2025": 6.4
+    "growth2025": 6.4,
+    "gdpppppc2025": "8112.673"
   },
   {
     "capital": "Zagreb",
@@ -1157,11 +1061,8 @@
     "country": "Croatia",
     "currency": "HRK",
     "debt": "67.5",
-    "gdp2024": "89.665",
     "gdp2025": "103.901",
     "gdppc2024": "23989.148",
-    "gdpppppc2024": "48565.632",
-    "growthgdp2024": "3.8",
     "id": "HR",
     "phoneCode": "+385",
     "rusName": "Хорватия",
@@ -1173,7 +1074,8 @@
     "growthRate": -0.0067,
     "worldPercentage": 0.0005,
     "rank": 130,
-    "growth2025": 3.1
+    "growth2025": 3.1,
+    "gdpppppc2025": "51453.311"
   },
   {
     "capital": "Havana",
@@ -1181,11 +1083,8 @@
     "country": "Cuba",
     "currency": "CUP",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "CU",
     "phoneCode": "+53",
     "rusName": "Куба",
@@ -1197,7 +1096,8 @@
     "growthRate": -0.0041,
     "worldPercentage": 0.0014,
     "rank": 90,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Willemstad",
@@ -1205,11 +1105,8 @@
     "country": "Curacao",
     "currency": "ANG",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "CW",
     "phoneCode": "+599",
     "rusName": "Кюрасао",
@@ -1221,7 +1118,8 @@
     "growthRate": -0.0003,
     "worldPercentage": 0,
     "rank": 189,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Nicosia",
@@ -1229,11 +1127,8 @@
     "country": "Cyprus",
     "currency": "EUR",
     "debt": "86.5",
-    "gdp2024": "34.79",
     "gdp2025": "39.943",
     "gdppc2024": "38624.883",
-    "gdpppppc2024": "62205.915",
-    "growthgdp2024": "3.4",
     "id": "CY",
     "phoneCode": "+357",
     "rusName": "Кипр",
@@ -1245,7 +1140,8 @@
     "growthRate": 0.0084,
     "worldPercentage": 0.0002,
     "rank": 156,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "65304.132"
   },
   {
     "capital": "Prague",
@@ -1253,11 +1149,8 @@
     "country": "Czech Republic",
     "currency": "CZK",
     "debt": "42.3",
-    "gdp2024": "342.992",
     "gdp2025": "383.384",
     "gdppc2024": "31542.861",
-    "gdpppppc2024": "56744.316",
-    "growthgdp2024": "1.1",
     "id": "CZ",
     "phoneCode": "+420",
     "rusName": "Чехия",
@@ -1269,7 +1162,8 @@
     "growthRate": -0.0077,
     "worldPercentage": 0.0013,
     "rank": 92,
-    "growth2025": 2.3
+    "growth2025": 2.3,
+    "gdpppppc2025": "59853.135"
   },
   {
     "capital": "Kinshasa",
@@ -1277,11 +1171,8 @@
     "country": "The Democratic Republic of Congo",
     "currency": "CDF",
     "debt": "14.6",
-    "gdp2024": "72.483",
     "gdp2025": "82.262",
     "gdppc2024": "688.112",
-    "gdpppppc2024": "1810.142",
-    "growthgdp2024": "6.5",
     "id": "CD",
     "phoneCode": "+243",
     "rusName": "ДР Конго",
@@ -1293,7 +1184,8 @@
     "growthRate": 0.0321,
     "worldPercentage": 0.0145,
     "rank": 15,
-    "growth2025": 5.3
+    "growth2025": 5.3,
+    "gdpppppc2025": "1974.505"
   },
   {
     "capital": "Copenhagen",
@@ -1301,11 +1193,8 @@
     "country": "Denmark",
     "currency": "DKK",
     "debt": "29.7",
-    "gdp2024": "412.293",
     "gdp2025": "459.612",
     "gdppc2024": "72041.536",
-    "gdpppppc2024": "84762.011",
-    "growthgdp2024": "3.7",
     "id": "DK",
     "phoneCode": "+45",
     "rusName": "Дания",
@@ -1317,7 +1206,8 @@
     "growthRate": 0.0035,
     "worldPercentage": 0.0008,
     "rank": 114,
-    "growth2025": 1.8
+    "growth2025": 1.8,
+    "gdpppppc2025": "84762.884"
   },
   {
     "capital": "Djibouti",
@@ -1325,11 +1215,8 @@
     "country": "Djibouti",
     "currency": "DJF",
     "debt": "40.6",
-    "gdp2024": "4.334",
     "gdp2025": "4.613",
     "gdppc2024": "4081.528",
-    "gdpppppc2024": "8759.405",
-    "growthgdp2024": "6.5",
     "id": "DJ",
     "phoneCode": "+253",
     "rusName": "Джибути",
@@ -1341,7 +1228,8 @@
     "growthRate": 0.013,
     "worldPercentage": 0.0001,
     "rank": 160,
-    "growth2025": 6
+    "growth2025": 6,
+    "gdpppppc2025": "9407.651"
   },
   {
     "capital": "Roseau",
@@ -1349,11 +1237,8 @@
     "country": "Dominica",
     "currency": "XCD",
     "debt": "104.8",
-    "gdp2024": "0.703",
     "gdp2025": "0.748",
     "gdppc2024": "9307.924",
-    "gdpppppc2024": "18395.878",
-    "growthgdp2024": "4.6",
     "id": "DM",
     "phoneCode": "+1-767",
     "rusName": "Доминика",
@@ -1365,7 +1250,8 @@
     "growthRate": -0.0055,
     "worldPercentage": 0,
     "rank": 205,
-    "growth2025": 4.2
+    "growth2025": 4.2,
+    "gdpppppc2025": "19381.056"
   },
   {
     "capital": "Santo Domingo",
@@ -1373,11 +1259,8 @@
     "country": "Dominican Republic",
     "currency": "DOP",
     "debt": "58.9",
-    "gdp2024": "126.238",
     "gdp2025": "129.748",
     "gdppc2024": "11541.579",
-    "gdpppppc2024": "29149.992",
-    "growthgdp2024": "5",
     "id": "DO",
     "phoneCode": "+1-809",
     "rusName": "Доминиканская Республика",
@@ -1389,7 +1272,8 @@
     "growthRate": 0.0077,
     "worldPercentage": 0.0015,
     "rank": 84,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "30537.613"
   },
   {
     "capital": "Quito",
@@ -1397,11 +1281,8 @@
     "country": "Ecuador",
     "currency": "USD",
     "debt": "57.3",
-    "gdp2024": "121.425",
     "gdp2025": "130.529",
     "gdppc2024": "6775.257",
-    "gdpppppc2024": "15996.059",
-    "growthgdp2024": "-2",
     "id": "EC",
     "phoneCode": "+593",
     "rusName": "Эквадор",
@@ -1413,7 +1294,8 @@
     "growthRate": 0.0085,
     "worldPercentage": 0.0023,
     "rank": 72,
-    "growth2025": 3.2
+    "growth2025": 3.2,
+    "gdpppppc2025": "16805.019"
   },
   {
     "capital": "Cairo",
@@ -1421,11 +1303,8 @@
     "country": "Egypt",
     "currency": "EGP",
     "debt": "88.5",
-    "gdp2024": "380.044",
     "gdp2025": "349.264",
     "gdppc2024": "3570.313",
-    "gdpppppc2024": "20749.635",
-    "growthgdp2024": "2.4",
     "id": "EG",
     "phoneCode": "+20",
     "rusName": "Египет",
@@ -1437,7 +1316,8 @@
     "growthRate": 0.0147,
     "worldPercentage": 0.015,
     "rank": 13,
-    "growth2025": 4.3
+    "growth2025": 4.3,
+    "gdpppppc2025": "21758.838"
   },
   {
     "capital": "San Salvador",
@@ -1445,11 +1325,8 @@
     "country": "El Salvador",
     "currency": "USD",
     "debt": "77.2",
-    "gdp2024": "35.848",
     "gdp2025": "36.587",
     "gdppc2024": "5526.955",
-    "gdpppppc2024": "13125.309",
-    "growthgdp2024": "2.6",
     "id": "SV",
     "phoneCode": "+503",
     "rusName": "Сальвадор",
@@ -1461,7 +1338,8 @@
     "growthRate": 0.004,
     "worldPercentage": 0.0008,
     "rank": 113,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "13876.768"
   },
   {
     "capital": "Malabo",
@@ -1469,11 +1347,8 @@
     "country": "Equatorial Guinea",
     "currency": "XAF",
     "debt": "27.1",
-    "gdp2024": "12.884",
     "gdp2025": "13.467",
     "gdppc2024": "7888.213",
-    "gdpppppc2024": "21102.981",
-    "growthgdp2024": "1.9",
     "id": "GQ",
     "phoneCode": "+240",
     "rusName": "Экваториальная Гвинея",
@@ -1485,7 +1360,8 @@
     "growthRate": 0.0238,
     "worldPercentage": 0.0002,
     "rank": 150,
-    "growth2025": -1.6
+    "growth2025": -1.6,
+    "gdpppppc2025": "20493.834"
   },
   {
     "capital": "Asmara",
@@ -1493,11 +1369,8 @@
     "country": "Eritrea",
     "currency": "ERN",
     "debt": "163.8",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "ER",
     "phoneCode": "+291",
     "rusName": "Эритрея",
@@ -1509,7 +1382,8 @@
     "growthRate": 0.021,
     "worldPercentage": 0.0005,
     "rank": 132,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Tallinn",
@@ -1517,11 +1391,8 @@
     "country": "Estonia",
     "currency": "EUR",
     "debt": "17.2",
-    "gdp2024": "43.044",
     "gdp2025": "46.763",
     "gdppc2024": "31174.35",
-    "gdpppppc2024": "48112.372",
-    "growthgdp2024": "-0.3",
     "id": "EE",
     "phoneCode": "+372",
     "rusName": "Эстония",
@@ -1533,7 +1404,8 @@
     "growthRate": -0.0098,
     "worldPercentage": 0.0002,
     "rank": 157,
-    "growth2025": 0.5
+    "growth2025": 0.5,
+    "gdpppppc2025": "49087.453"
   },
   {
     "capital": "Addis Ababa",
@@ -1541,11 +1413,8 @@
     "country": "Ethiopia",
     "currency": "ETB",
     "debt": "46.4",
-    "gdp2024": "145.031",
     "gdp2025": "109.492",
     "gdppc2024": "1320.157",
-    "gdpppppc2024": "4082.601",
-    "growthgdp2024": "8.1",
     "id": "ET",
     "phoneCode": "+251",
     "rusName": "Эфиопия",
@@ -1557,7 +1426,8 @@
     "growthRate": 0.0253,
     "worldPercentage": 0.0174,
     "rank": 10,
-    "growth2025": 7.2
+    "growth2025": 7.2,
+    "gdpppppc2025": "4419.777"
   },
   {
     "capital": "FK",
@@ -1565,11 +1435,8 @@
     "country": "Falkland Islands",
     "currency": "FKP",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "FK",
     "phoneCode": "+500",
     "rusName": "Фолклендские острова (Мальвинские)",
@@ -1581,7 +1448,8 @@
     "growthRate": -0.0012,
     "worldPercentage": 0,
     "rank": 232,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Tórshavn",
@@ -1589,11 +1457,8 @@
     "country": "Faroe Islands",
     "currency": "DKK",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "FO",
     "phoneCode": "+298",
     "rusName": "Фарерские острова",
@@ -1605,7 +1470,8 @@
     "growthRate": 0.0094,
     "worldPercentage": 0,
     "rank": 208,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Palikir",
@@ -1613,11 +1479,8 @@
     "country": "Micronesia",
     "currency": "USD",
     "debt": "14",
-    "gdp2024": "0.484",
     "gdp2025": "0.495",
     "gdppc2024": "4986.485",
-    "gdpppppc2024": "4595.003",
-    "growthgdp2024": "0.7",
     "id": "FM",
     "phoneCode": "+691",
     "rusName": "Микронезия",
@@ -1629,7 +1492,8 @@
     "growthRate": 0.0044,
     "worldPercentage": 0,
     "rank": 195,
-    "growth2025": 1
+    "growth2025": 1,
+    "gdpppppc2025": "4760.79"
   },
   {
     "capital": "Suva",
@@ -1637,11 +1501,8 @@
     "country": "Fiji",
     "currency": "FJD",
     "debt": "92.8",
-    "gdp2024": "5.773",
     "gdp2025": "6.336",
     "gdppc2024": "6446.922",
-    "gdpppppc2024": "16111.724",
-    "growthgdp2024": "3.7",
     "id": "FJ",
     "phoneCode": "+679",
     "rusName": "Фиджи",
@@ -1653,7 +1514,8 @@
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
     "rank": 161,
-    "growth2025": 3.2
+    "growth2025": 3.2,
+    "gdpppppc2025": "16366.006"
   },
   {
     "capital": "Helsinki",
@@ -1661,11 +1523,8 @@
     "country": "Finland",
     "currency": "EUR",
     "debt": "74.8",
-    "gdp2024": "306.083",
     "gdp2025": "314.724",
     "gdppc2024": "53326.396",
-    "gdpppppc2024": "64249.338",
-    "growthgdp2024": "-0.1",
     "id": "FI",
     "phoneCode": "+358",
     "rusName": "Финляндия",
@@ -1677,7 +1536,8 @@
     "growthRate": -0.0003,
     "worldPercentage": 0.0007,
     "rank": 122,
-    "growth2025": 0.5
+    "growth2025": 0.5,
+    "gdpppppc2025": "66512.47"
   },
   {
     "capital": "Paris",
@@ -1685,11 +1545,8 @@
     "country": "France",
     "currency": "EUR",
     "debt": "111.1",
-    "gdp2024": "3174.099",
     "gdp2025": "3361.557",
     "gdppc2024": "46203.675",
-    "gdpppppc2024": "63698.382",
-    "growthgdp2024": "1.1",
     "id": "FR",
     "phoneCode": "+33",
     "rusName": "Франция",
@@ -1701,7 +1558,8 @@
     "growthRate": 0.0014,
     "worldPercentage": 0.0083,
     "rank": 23,
-    "growth2025": 0.7
+    "growth2025": 0.7,
+    "gdpppppc2025": "66060.528"
   },
   {
     "capital": "Cayenne",
@@ -1709,11 +1567,8 @@
     "country": "French Guiana",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "GF",
     "phoneCode": "+594",
     "rusName": "Французская Гвиана",
@@ -1725,7 +1580,8 @@
     "growthRate": 0.0166,
     "worldPercentage": 0,
     "rank": 183,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Papeete",
@@ -1733,11 +1589,8 @@
     "country": "French Polynesia",
     "currency": "XPF",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "PF",
     "phoneCode": "+689",
     "rusName": "Французская Полинезия",
@@ -1749,7 +1602,8 @@
     "growthRate": 0.0022,
     "worldPercentage": 0,
     "rank": 185,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Libreville",
@@ -1757,11 +1611,8 @@
     "country": "Gabon",
     "currency": "XAF",
     "debt": "55.1",
-    "gdp2024": "20.897",
     "gdp2025": "21.455",
     "gdppc2024": "9201.947",
-    "gdpppppc2024": "24118.221",
-    "growthgdp2024": "3.1",
     "id": "GA",
     "phoneCode": "+241",
     "rusName": "Габон",
@@ -1773,7 +1624,8 @@
     "growthRate": 0.0209,
     "worldPercentage": 0.0003,
     "rank": 145,
-    "growth2025": 1.9
+    "growth2025": 1.9,
+    "gdpppppc2025": "24738.797"
   },
   {
     "capital": "Banjul",
@@ -1781,11 +1633,8 @@
     "country": "Gambia",
     "currency": "GMD",
     "debt": "84",
-    "gdp2024": "2.693",
     "gdp2025": "2.497",
     "gdppc2024": "939.184",
-    "gdpppppc2024": "3493.641",
-    "growthgdp2024": "5.8",
     "id": "GM",
     "phoneCode": "+220",
     "rusName": "Гамбия",
@@ -1797,7 +1646,8 @@
     "growthRate": 0.022,
     "worldPercentage": 0.0004,
     "rank": 141,
-    "growth2025": 6
+    "growth2025": 6,
+    "gdpppppc2025": "3680.027"
   },
   {
     "capital": "Tbilisi",
@@ -1805,11 +1655,8 @@
     "country": "Georgia",
     "currency": "GEL",
     "debt": "39.8",
-    "gdp2024": "33.191",
     "gdp2025": "37.403",
     "gdppc2024": "9141.846",
-    "gdpppppc2024": "28258.381",
-    "growthgdp2024": "9.4",
     "id": "GE",
     "phoneCode": "+995",
     "rusName": "Грузия",
@@ -1821,7 +1668,8 @@
     "growthRate": -0.0005,
     "worldPercentage": 0.0005,
     "rank": 131,
-    "growth2025": 7.2
+    "growth2025": 7.2,
+    "gdpppppc2025": "31089.681"
   },
   {
     "capital": "Berlin",
@@ -1829,11 +1677,8 @@
     "country": "Germany",
     "currency": "EUR",
     "debt": "66.5",
-    "gdp2024": "4710.032",
     "gdp2025": "5013.574",
     "gdppc2024": "54989.76",
-    "gdpppppc2024": "70878.415",
-    "growthgdp2024": "-0.2",
     "id": "DE",
     "phoneCode": "+49",
     "rusName": "Германия",
@@ -1845,7 +1690,8 @@
     "growthRate": -0.0051,
     "worldPercentage": 0.0104,
     "rank": 19,
-    "growth2025": 0.2
+    "growth2025": 0.2,
+    "gdpppppc2025": "73553.296"
   },
   {
     "capital": "Accra",
@@ -1853,11 +1699,8 @@
     "country": "Ghana",
     "currency": "GHS",
     "debt": "88.8",
-    "gdp2024": "75.307",
     "gdp2025": "111.963",
     "gdppc2024": "2405.795",
-    "gdpppppc2024": "8027.18",
-    "growthgdp2024": "5.7",
     "id": "GH",
     "phoneCode": "+233",
     "rusName": "Гана",
@@ -1869,7 +1712,8 @@
     "growthRate": 0.0181,
     "worldPercentage": 0.0045,
     "rank": 46,
-    "growth2025": 4
+    "growth2025": 4,
+    "gdpppppc2025": "8410.294"
   },
   {
     "capital": "Gibraltar",
@@ -1877,11 +1721,8 @@
     "country": "Gibraltar",
     "currency": "GIP",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "GI",
     "phoneCode": "+350",
     "rusName": "Гибралтар",
@@ -1893,7 +1734,8 @@
     "growthRate": 0.0185,
     "worldPercentage": 0,
     "rank": 215,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Athens",
@@ -1901,11 +1743,8 @@
     "country": "Greece",
     "currency": "EUR",
     "debt": "177.4",
-    "gdp2024": "252.732",
     "gdp2025": "282.019",
     "gdppc2024": "24716.307",
-    "gdpppppc2024": "42922.829",
-    "growthgdp2024": "2.3",
     "id": "GR",
     "phoneCode": "+30",
     "rusName": "Греция",
@@ -1917,7 +1756,8 @@
     "growthRate": -0.0042,
     "worldPercentage": 0.0012,
     "rank": 96,
-    "growth2025": 2
+    "growth2025": 2,
+    "gdpppppc2025": "44985.382"
   },
   {
     "capital": "Nuuk",
@@ -1925,11 +1765,8 @@
     "country": "Greenland",
     "currency": "DKK",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "GL",
     "phoneCode": "+299",
     "rusName": "Гренландия",
@@ -1941,7 +1778,8 @@
     "growthRate": -0.0021,
     "worldPercentage": 0,
     "rank": 209,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "St. George's",
@@ -1949,11 +1787,8 @@
     "country": "Grenada",
     "currency": "XCD",
     "debt": "64.5",
-    "gdp2024": "1.393",
     "gdp2025": "1.458",
     "gdppc2024": "12033.337",
-    "gdpppppc2024": "20429.829",
-    "growthgdp2024": "3.6",
     "id": "GD",
     "phoneCode": " +1-473",
     "rusName": "Гренада",
@@ -1965,7 +1800,8 @@
     "growthRate": 0.0005,
     "worldPercentage": 0,
     "rank": 194,
-    "growth2025": 3.3
+    "growth2025": 3.3,
+    "gdpppppc2025": "21414.454"
   },
   {
     "capital": "Basse-Terre",
@@ -1973,11 +1809,8 @@
     "country": "Guadeloupe",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "GP",
     "phoneCode": "+590",
     "rusName": "Гваделупа",
@@ -1989,7 +1822,8 @@
     "growthRate": -0.0036,
     "worldPercentage": 0,
     "rank": 179,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Hagåtña",
@@ -1997,11 +1831,8 @@
     "country": "Guam",
     "currency": "USD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "GU",
     "phoneCode": "+1-671",
     "rusName": "Гуам",
@@ -2013,7 +1844,8 @@
     "growthRate": 0.007,
     "worldPercentage": 0,
     "rank": 191,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Guatemala City",
@@ -2021,11 +1853,8 @@
     "country": "Guatemala",
     "currency": "GTQ",
     "debt": "30.1",
-    "gdp2024": "112.369",
     "gdp2025": "120.85",
     "gdppc2024": "6306.597",
-    "gdpppppc2024": "14826.727",
-    "growthgdp2024": "3.7",
     "id": "GT",
     "phoneCode": "+502",
     "rusName": "Гватемала",
@@ -2037,7 +1866,8 @@
     "growthRate": 0.015,
     "worldPercentage": 0.0024,
     "rank": 69,
-    "growth2025": 3.8
+    "growth2025": 3.8,
+    "gdpppppc2025": "15100.087"
   },
   {
     "capital": "Conakry",
@@ -2045,11 +1875,8 @@
     "country": "Guinea",
     "currency": "GNF",
     "debt": "33.4",
-    "gdp2024": "25.474",
     "gdp2025": "27.515",
     "gdppc2024": "1670.734",
-    "gdpppppc2024": "4428.251",
-    "growthgdp2024": "6.1",
     "id": "GN",
     "phoneCode": "+224",
     "rusName": "Гвинея",
@@ -2061,7 +1888,8 @@
     "growthRate": 0.0227,
     "worldPercentage": 0.0019,
     "rank": 75,
-    "growth2025": 7.2
+    "growth2025": 7.2,
+    "gdpppppc2025": "4751.115"
   },
   {
     "capital": "Bissau",
@@ -2069,11 +1897,8 @@
     "country": "Guinea-Bissau",
     "currency": "XOF",
     "debt": "79.5",
-    "gdp2024": "2.188",
     "gdp2025": "2.474",
     "gdppc2024": "1104.288",
-    "gdpppppc2024": "3102.188",
-    "growthgdp2024": "4.7",
     "id": "GW",
     "phoneCode": "+245",
     "rusName": "Гвинея-Бисау",
@@ -2085,7 +1910,8 @@
     "growthRate": 0.0215,
     "worldPercentage": 0.0003,
     "rank": 148,
-    "growth2025": 5.1
+    "growth2025": 5.1,
+    "gdpppppc2025": "3279.352"
   },
   {
     "capital": "Georgetown",
@@ -2093,11 +1919,8 @@
     "country": "Guyana",
     "currency": "GYD",
     "debt": "27.8",
-    "gdp2024": "23.033",
     "gdp2025": "25.064",
     "gdppc2024": "30962.252",
-    "gdpppppc2024": "83483.29",
-    "growthgdp2024": "43.6",
     "id": "GY",
     "phoneCode": "+592",
     "rusName": "Гайана",
@@ -2109,7 +1932,8 @@
     "growthRate": 0.0059,
     "worldPercentage": 0.0001,
     "rank": 165,
-    "growth2025": 10.3
+    "growth2025": 10.3,
+    "gdpppppc2025": "94189.295"
   },
   {
     "capital": "Port-au-Prince",
@@ -2117,11 +1941,8 @@
     "country": "Haiti",
     "currency": "HTG",
     "debt": "25",
-    "gdp2024": "26.274",
     "gdp2025": "30.908",
     "gdppc2024": "2116.754",
-    "gdpppppc2024": "3033.326",
-    "growthgdp2024": "-4.2",
     "id": "HT",
     "phoneCode": "+509",
     "rusName": "Гаити",
@@ -2133,7 +1954,8 @@
     "growthRate": 0.011,
     "worldPercentage": 0.0015,
     "rank": 82,
-    "growth2025": -3.1
+    "growth2025": -3.1,
+    "gdpppppc2025": "2976.222"
   },
   {
     "capital": "Tegucigalpa",
@@ -2141,11 +1963,8 @@
     "country": "Honduras",
     "currency": "HNL",
     "debt": "50",
-    "gdp2024": "36.735",
     "gdp2025": "39.445",
     "gdppc2024": "3467.846",
-    "gdpppppc2024": "7606.817",
-    "growthgdp2024": "3.6",
     "id": "HN",
     "phoneCode": "+504",
     "rusName": "Гондурас",
@@ -2157,7 +1976,8 @@
     "growthRate": 0.0163,
     "worldPercentage": 0.0014,
     "rank": 87,
-    "growth2025": 3.8
+    "growth2025": 3.8,
+    "gdpppppc2025": "7955.753"
   },
   {
     "capital": "Hong Kong",
@@ -2165,11 +1985,8 @@
     "country": "Hong Kong",
     "currency": "HKD",
     "debt": "4.3",
-    "gdp2024": "401.751",
     "gdp2025": "428.233",
     "gdppc2024": "54034.499",
-    "gdpppppc2024": "75115.01",
-    "growthgdp2024": "2.5",
     "id": "HK",
     "phoneCode": "+852",
     "rusName": "Гонконг",
@@ -2181,7 +1998,8 @@
     "growthRate": -0.0024,
     "worldPercentage": 0.0009,
     "rank": 107,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "78918.785"
   },
   {
     "capital": "Budapest",
@@ -2189,11 +2007,8 @@
     "country": "Hungary",
     "currency": "HUF",
     "debt": "76.4",
-    "gdp2024": "228.806",
     "gdp2025": "247.759",
     "gdppc2024": "23271.805",
-    "gdpppppc2024": "46545.923",
-    "growthgdp2024": "0.5",
     "id": "HU",
     "phoneCode": "+36",
     "rusName": "Венгрия",
@@ -2205,7 +2020,8 @@
     "growthRate": -0.0048,
     "worldPercentage": 0.0012,
     "rank": 98,
-    "growth2025": 0.6
+    "growth2025": 0.6,
+    "gdpppppc2025": "48156.868"
   },
   {
     "capital": "Reykjavík",
@@ -2213,11 +2029,8 @@
     "country": "Iceland",
     "currency": "ISK",
     "debt": "68.7",
-    "gdp2024": "32.919",
     "gdp2025": "38.386",
     "gdppc2024": "87204.974",
-    "gdpppppc2024": "79049.091",
-    "growthgdp2024": "0.5",
     "id": "IS",
     "phoneCode": "+354",
     "rusName": "Исландия",
@@ -2229,7 +2042,8 @@
     "growthRate": 0.0102,
     "worldPercentage": 0.0001,
     "rank": 178,
-    "growth2025": 1.4
+    "growth2025": 1.4,
+    "gdpppppc2025": "80466.384"
   },
   {
     "capital": "New Delhi",
@@ -2237,11 +2051,8 @@
     "country": "India",
     "currency": "INR",
     "debt": "83.1",
-    "gdp2024": "3889.13",
     "gdp2025": "4125.213",
     "gdppc2024": "2711.412",
-    "gdpppppc2024": "11227.689",
-    "growthgdp2024": "6.5",
     "id": "IN",
     "phoneCode": "+91",
     "rusName": "Индия",
@@ -2253,7 +2064,8 @@
     "growthRate": 0.0087,
     "worldPercentage": 0.1845,
     "rank": 1,
-    "growth2025": 6.6
+    "growth2025": 6.6,
+    "gdpppppc2025": "12100.965"
   },
   {
     "capital": "Jakarta",
@@ -2261,11 +2073,8 @@
     "country": "Indonesia",
     "currency": "IDR",
     "debt": "39.9",
-    "gdp2024": "1402.59",
     "gdp2025": "1443.256",
     "gdppc2024": "4958.385",
-    "gdpppppc2024": "16558.347",
-    "growthgdp2024": "5",
     "id": "ID",
     "phoneCode": "+62",
     "rusName": "Индонезия",
@@ -2277,7 +2086,8 @@
     "growthRate": 0.0076,
     "worldPercentage": 0.036,
     "rank": 4,
-    "growth2025": 4.9
+    "growth2025": 4.9,
+    "gdpppppc2025": "17633.888"
   },
   {
     "capital": "Tehran",
@@ -2285,11 +2095,8 @@
     "country": "Iran",
     "currency": "IRR",
     "debt": "34",
-    "gdp2024": "434.243",
     "gdp2025": "356.513",
     "gdppc2024": "4633.211",
-    "gdpppppc2024": "19576.509",
-    "growthgdp2024": "3.5",
     "id": "IR",
     "phoneCode": "+98",
     "rusName": "Иран",
@@ -2301,7 +2108,8 @@
     "growthRate": 0.0081,
     "worldPercentage": 0.0116,
     "rank": 17,
-    "growth2025": 0.6
+    "growth2025": 0.6,
+    "gdpppppc2025": "21473.13"
   },
   {
     "capital": "Baghdad",
@@ -2309,11 +2117,8 @@
     "country": "Iraq",
     "currency": "IQD",
     "debt": "43.3",
-    "gdp2024": "264.149",
     "gdp2025": "265.455",
     "gdppc2024": "6247.414",
-    "gdpppppc2024": "15384.461",
-    "growthgdp2024": "0.3",
     "id": "IQ",
     "phoneCode": "+964",
     "rusName": "Ирак",
@@ -2325,7 +2130,8 @@
     "growthRate": 0.021,
     "worldPercentage": 0.006,
     "rank": 33,
-    "growth2025": 0.5
+    "growth2025": 0.5,
+    "gdpppppc2025": "15390.569"
   },
   {
     "capital": "Dublin",
@@ -2333,11 +2139,8 @@
     "country": "Ireland",
     "currency": "EUR",
     "debt": "45.2",
-    "gdp2024": "560.566",
     "gdp2025": "708.771",
     "gdppc2024": "106455.886",
-    "gdpppppc2024": "129433.156",
-    "growthgdp2024": "1.2",
     "id": "IE",
     "phoneCode": "+353",
     "rusName": "Ирландия",
@@ -2349,7 +2152,8 @@
     "growthRate": 0.0092,
     "worldPercentage": 0.0007,
     "rank": 125,
-    "growth2025": 9.1
+    "growth2025": 9.1,
+    "gdpppppc2025": "147878.191"
   },
   {
     "capital": "Jerusalem",
@@ -2357,11 +2161,8 @@
     "country": "Israel",
     "currency": "ILS",
     "debt": "60.9",
-    "gdp2024": "528.067",
     "gdp2025": "610.752",
     "gdppc2024": "54191.61",
-    "gdpppppc2024": "53928.733",
-    "growthgdp2024": "0.9",
     "id": "IL",
     "phoneCode": "+972",
     "rusName": "Израиль",
@@ -2373,7 +2174,8 @@
     "growthRate": 0.0137,
     "worldPercentage": 0.0012,
     "rank": 97,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "55766.414"
   },
   {
     "capital": "Rome",
@@ -2381,11 +2183,8 @@
     "country": "Italy",
     "currency": "EUR",
     "debt": "144.7",
-    "gdp2024": "2376.51",
     "gdp2025": "2543.677",
     "gdppc2024": "40224.012",
-    "gdpppppc2024": "61165.473",
-    "growthgdp2024": "0.7",
     "id": "IT",
     "phoneCode": "+39",
     "rusName": "Италия",
@@ -2397,7 +2196,8 @@
     "growthRate": -0.0037,
     "worldPercentage": 0.0074,
     "rank": 25,
-    "growth2025": 0.5
+    "growth2025": 0.5,
+    "gdpppppc2025": "63125.675"
   },
   {
     "capital": "Kingston",
@@ -2405,11 +2205,8 @@
     "country": "Jamaica",
     "currency": "JMD",
     "debt": "84.1",
-    "gdp2024": "20.586",
     "gdp2025": "23.137",
     "gdppc2024": "7298.781",
-    "gdpppppc2024": "12032.025",
-    "growthgdp2024": "-0.8",
     "id": "JM",
     "phoneCode": "+1-876",
     "rusName": "Ямайка",
@@ -2421,7 +2218,8 @@
     "growthRate": -0.0013,
     "worldPercentage": 0.0004,
     "rank": 142,
-    "growth2025": 2.1
+    "growth2025": 2.1,
+    "gdpppppc2025": "13924.09"
   },
   {
     "capital": "Tokyo",
@@ -2429,11 +2227,8 @@
     "country": "Japan",
     "currency": "JPY",
     "debt": "261.3",
-    "gdp2024": "4070.094",
     "gdp2025": "4279.828",
     "gdppc2024": "32498.146",
-    "gdpppppc2024": "52712.614",
-    "growthgdp2024": "0.1",
     "id": "JP",
     "phoneCode": "+81",
     "rusName": "Япония",
@@ -2445,7 +2240,8 @@
     "growthRate": -0.0055,
     "worldPercentage": 0.0153,
     "rank": 12,
-    "growth2025": 1.1
+    "growth2025": 1.1,
+    "gdpppppc2025": "54815.317"
   },
   {
     "capital": "Amman",
@@ -2453,11 +2249,8 @@
     "country": "Jordan",
     "currency": "JOD",
     "debt": "89.4",
-    "gdp2024": "53.305",
     "gdp2025": "56.157",
     "gdppc2024": "4692.842",
-    "gdpppppc2024": "10981.152",
-    "growthgdp2024": "2.5",
     "id": "JO",
     "phoneCode": "+962",
     "rusName": "Иордания",
@@ -2469,7 +2262,8 @@
     "growthRate": 0.006,
     "worldPercentage": 0.0014,
     "rank": 85,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "11510.847"
   },
   {
     "capital": "Astana (Nur-Sultan)",
@@ -2477,11 +2271,8 @@
     "country": "Kazakhstan",
     "currency": "KZT",
     "debt": "23.5",
-    "gdp2024": "292.553",
     "gdp2025": "300.052",
     "gdppc2024": "14149.097",
-    "gdpppppc2024": "41734.957",
-    "growthgdp2024": "4.8",
     "id": "KZ",
     "phoneCode": "+77",
     "rusName": "Казахстан",
@@ -2493,7 +2284,8 @@
     "growthRate": 0.0115,
     "worldPercentage": 0.0026,
     "rank": 65,
-    "growth2025": 5.9
+    "growth2025": 5.9,
+    "gdpppppc2025": "44777.865"
   },
   {
     "capital": "Nairobi",
@@ -2501,11 +2293,8 @@
     "country": "Kenya",
     "currency": "KES",
     "debt": "67.9",
-    "gdp2024": "116.321",
     "gdp2025": "136.014",
     "gdppc2024": "2305.312",
-    "gdpppppc2024": "7123.759",
-    "growthgdp2024": "4.5",
     "id": "KE",
     "phoneCode": "+254",
     "rusName": "Кения",
@@ -2517,7 +2306,8 @@
     "growthRate": 0.0192,
     "worldPercentage": 0.0073,
     "rank": 26,
-    "growth2025": 4.8
+    "growth2025": 4.8,
+    "gdpppppc2025": "7556.076"
   },
   {
     "capital": "South Tarawa",
@@ -2525,11 +2315,8 @@
     "country": "Kiribati",
     "currency": "AUD",
     "debt": "15.2",
-    "gdp2024": "0.312",
     "gdp2025": "0.321",
     "gdppc2024": "2418.727",
-    "gdpppppc2024": "3529.68",
-    "growthgdp2024": "5.3",
     "id": "KI",
     "phoneCode": "+686",
     "rusName": "Кирибати",
@@ -2541,7 +2328,8 @@
     "growthRate": 0.0143,
     "worldPercentage": 0,
     "rank": 192,
-    "growth2025": 3.9
+    "growth2025": 3.9,
+    "gdpppppc2025": "3704.847"
   },
   {
     "capital": "Pristina",
@@ -2549,11 +2337,8 @@
     "country": "Kiribati",
     "currency": "EUR",
     "debt": "19.3",
-    "gdp2024": "0.312",
     "gdp2025": "0.321",
     "gdppc2024": "2418.727",
-    "gdpppppc2024": "3529.68",
-    "growthgdp2024": "5.3",
     "id": "KI",
     "phoneCode": "+383",
     "rusName": "Кирибати",
@@ -2565,7 +2350,8 @@
     "growthRate": 0.0143,
     "worldPercentage": 0,
     "rank": 192,
-    "growth2025": 3.9
+    "growth2025": 3.9,
+    "gdpppppc2025": "3704.847"
   },
   {
     "capital": "Kuwait City",
@@ -2573,11 +2359,8 @@
     "country": "Kuwait",
     "currency": "KWD",
     "debt": "2.9",
-    "gdp2024": "161.822",
     "gdp2025": "157.469",
     "gdppc2024": "31640.653",
-    "gdpppppc2024": "49708.104",
-    "growthgdp2024": "-2.8",
     "id": "KW",
     "phoneCode": "+965",
     "rusName": "Кувейт",
@@ -2589,7 +2372,8 @@
     "growthRate": 0.0153,
     "worldPercentage": 0.0006,
     "rank": 128,
-    "growth2025": 2.6
+    "growth2025": 2.6,
+    "gdpppppc2025": "52866.096"
   },
   {
     "capital": "Bishkek",
@@ -2597,11 +2381,8 @@
     "country": "Kyrgyzstan",
     "currency": "KGS",
     "debt": "53.5",
-    "gdp2024": "15.774",
     "gdp2025": "20.16",
     "gdppc2024": "2471.432",
-    "gdpppppc2024": "8175.96",
-    "growthgdp2024": "9",
     "id": "KG",
     "phoneCode": "+996",
     "rusName": "Киргизия",
@@ -2613,7 +2394,8 @@
     "growthRate": 0.0145,
     "worldPercentage": 0.0009,
     "rank": 106,
-    "growth2025": 8
+    "growth2025": 8,
+    "gdpppppc2025": "8870.37"
   },
   {
     "capital": "Vientiane",
@@ -2621,11 +2403,8 @@
     "country": "Laos",
     "currency": "LAK",
     "debt": "128.5",
-    "gdp2024": "14.949",
     "gdp2025": "16.934",
     "gdppc2024": "2066.017",
-    "gdpppppc2024": "9747.935",
-    "growthgdp2024": "4.3",
     "id": "LA",
     "phoneCode": "+856",
     "rusName": "Лаос",
@@ -2637,7 +2416,8 @@
     "growthRate": 0.0128,
     "worldPercentage": 0.001,
     "rank": 103,
-    "growth2025": 3.5
+    "growth2025": 3.5,
+    "gdpppppc2025": "10212.326"
   },
   {
     "capital": "Riga",
@@ -2645,11 +2425,8 @@
     "country": "Latvia",
     "currency": "EUR",
     "debt": "41.6",
-    "gdp2024": "45.521",
     "gdp2025": "47.88",
     "gdppc2024": "23242.742",
-    "gdpppppc2024": "42473.35",
-    "growthgdp2024": "-0.4",
     "id": "LV",
     "phoneCode": "+371",
     "rusName": "Латвия",
@@ -2661,7 +2438,8 @@
     "growthRate": -0.0095,
     "worldPercentage": 0.0002,
     "rank": 151,
-    "growth2025": 1
+    "growth2025": 1,
+    "gdpppppc2025": "44105.521"
   },
   {
     "capital": "Beirut",
@@ -2669,11 +2447,8 @@
     "country": "Lebanon",
     "currency": "LBP",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "5282.154",
-    "gdpppppc2024": "11798.48",
-    "growthgdp2024": "-7.5",
     "id": "LB",
     "phoneCode": "+961",
     "rusName": "Ливан",
@@ -2685,7 +2460,8 @@
     "growthRate": 0.0082,
     "worldPercentage": 0.0007,
     "rank": 116,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Maseru",
@@ -2693,11 +2469,8 @@
     "country": "Lesotho",
     "currency": "LSL",
     "debt": "57.9",
-    "gdp2024": "2.297",
     "gdp2025": "2.39",
     "gdppc2024": "1067.071",
-    "gdpppppc2024": "3286.211",
-    "growthgdp2024": "2.6",
     "id": "LS",
     "phoneCode": "+266",
     "rusName": "Лесото",
@@ -2709,7 +2482,8 @@
     "growthRate": 0.011,
     "worldPercentage": 0.0003,
     "rank": 147,
-    "growth2025": 1.4
+    "growth2025": 1.4,
+    "gdpppppc2025": "3089.293"
   },
   {
     "capital": "Monrovia",
@@ -2717,11 +2491,8 @@
     "country": "Liberia",
     "currency": "LRD",
     "debt": "55.4",
-    "gdp2024": "4.756",
     "gdp2025": "5.182",
     "gdppc2024": "866.452",
-    "gdpppppc2024": "1898.603",
-    "growthgdp2024": "4.8",
     "id": "LR",
     "phoneCode": "+231",
     "rusName": "Либерия",
@@ -2733,7 +2504,8 @@
     "growthRate": 0.0214,
     "worldPercentage": 0.0007,
     "rank": 117,
-    "growth2025": 4.6
+    "growth2025": 4.6,
+    "gdpppppc2025": "1960.929"
   },
   {
     "capital": "Tripoli",
@@ -2741,11 +2513,8 @@
     "country": "Libya",
     "currency": "LYD",
     "debt": "0",
-    "gdp2024": "44.812",
     "gdp2025": "47.941",
     "gdppc2024": "6098.355",
-    "gdpppppc2024": "14893.734",
-    "growthgdp2024": "-0.6",
     "id": "LY",
     "phoneCode": "+218",
     "rusName": "Ливия",
@@ -2757,7 +2526,8 @@
     "growthRate": 0.0109,
     "worldPercentage": 0.0009,
     "rank": 105,
-    "growth2025": 15.6
+    "growth2025": 15.6,
+    "gdpppppc2025": "17930.647"
   },
   {
     "capital": "Vaduz",
@@ -2765,11 +2535,8 @@
     "country": "Liechtenstein",
     "currency": "CHF",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "LI",
     "phoneCode": "+423",
     "rusName": "Лихтенштейн",
@@ -2781,7 +2548,8 @@
     "growthRate": 0.006,
     "worldPercentage": 0,
     "rank": 216,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Vilnius",
@@ -2789,11 +2557,8 @@
     "country": "Lithuania",
     "currency": "LTL",
     "debt": "39.6",
-    "gdp2024": "82.789",
     "gdp2025": "95.274",
     "gdppc2024": "29338.624",
-    "gdpppppc2024": "54215.976",
-    "growthgdp2024": "2.7",
     "id": "LT",
     "phoneCode": "+370",
     "rusName": "Литва",
@@ -2805,7 +2570,8 @@
     "growthRate": -0.0116,
     "worldPercentage": 0.0003,
     "rank": 143,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "57201.425"
   },
   {
     "capital": "Luxembourg",
@@ -2813,11 +2579,8 @@
     "country": "Luxembourg",
     "currency": "EUR",
     "debt": "24.3",
-    "gdp2024": "91.21",
     "gdp2025": "100.642",
     "gdppc2024": "138634.368",
-    "gdpppppc2024": "149582.781",
-    "growthgdp2024": "1",
     "id": "LU",
     "phoneCode": "+352",
     "rusName": "Люксембург",
@@ -2829,7 +2592,8 @@
     "growthRate": 0.0103,
     "worldPercentage": 0.0001,
     "rank": 168,
-    "growth2025": 1.2
+    "growth2025": 1.2,
+    "gdpppppc2025": "152394.648"
   },
   {
     "capital": "",
@@ -2837,11 +2601,8 @@
     "country": "Macao",
     "currency": "MOP",
     "debt": "0",
-    "gdp2024": "53.447",
     "gdp2025": "52.379",
     "gdppc2024": "72906.947",
-    "gdpppppc2024": "128025.819",
-    "growthgdp2024": "8.8",
     "id": "MO",
     "phoneCode": "+853",
     "rusName": "Макао",
@@ -2853,7 +2614,8 @@
     "growthRate": 0.0016,
     "worldPercentage": 0.0001,
     "rank": 167,
-    "growth2025": 2.6
+    "growth2025": 2.6,
+    "gdpppppc2025": "132648.291"
   },
   {
     "capital": "Skopje",
@@ -2861,11 +2623,8 @@
     "country": "North Macedonia",
     "currency": "MKD",
     "debt": "51.8",
-    "gdp2024": "15.861",
     "gdp2025": "18.783",
     "gdppc2024": "9169.273",
-    "gdpppppc2024": "27681.123",
-    "growthgdp2024": "2.8",
     "id": "MK",
     "phoneCode": "+389",
     "rusName": "Северная Македония",
@@ -2877,7 +2636,8 @@
     "growthRate": -0.0054,
     "worldPercentage": 0.0002,
     "rank": 152,
-    "growth2025": 3.4
+    "growth2025": 3.4,
+    "gdpppppc2025": "29509.916"
   },
   {
     "capital": "Antananarivo",
@@ -2885,11 +2645,8 @@
     "country": "Madagascar",
     "currency": "MGA",
     "debt": "57",
-    "gdp2024": "17.212",
     "gdp2025": "19.377",
     "gdppc2024": "569.409",
-    "gdpppppc2024": "1967.945",
-    "growthgdp2024": "4.2",
     "id": "MG",
     "phoneCode": "+261",
     "rusName": "Мадагаскар",
@@ -2901,7 +2658,8 @@
     "growthRate": 0.0239,
     "worldPercentage": 0.0042,
     "rank": 49,
-    "growth2025": 3.8
+    "growth2025": 3.8,
+    "gdpppppc2025": "2039.724"
   },
   {
     "capital": "Lilongwe",
@@ -2909,11 +2667,8 @@
     "country": "Malawi",
     "currency": "MWK",
     "debt": "70.1",
-    "gdp2024": "10.844",
     "gdp2025": "14.975",
     "gdppc2024": "504.486",
-    "gdpppppc2024": "1721.567",
-    "growthgdp2024": "1.8",
     "id": "MW",
     "phoneCode": "+265",
     "rusName": "Малави",
@@ -2925,7 +2680,8 @@
     "growthRate": 0.0256,
     "worldPercentage": 0.0028,
     "rank": 62,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "1757.703"
   },
   {
     "capital": "Kuala Lumpur",
@@ -2933,11 +2689,8 @@
     "country": "Malaysia",
     "currency": "MYR",
     "debt": "66.3",
-    "gdp2024": "439.748",
     "gdp2025": "470.572",
     "gdppc2024": "12540.71",
-    "gdpppppc2024": "41156.534",
-    "growthgdp2024": "5.1",
     "id": "MY",
     "phoneCode": "+60",
     "rusName": "Малайзия",
@@ -2949,7 +2702,8 @@
     "growthRate": 0.0113,
     "worldPercentage": 0.0045,
     "rank": 45,
-    "growth2025": 4.5
+    "growth2025": 4.5,
+    "gdpppppc2025": "43664.705"
   },
   {
     "capital": "Malé",
@@ -2957,11 +2711,8 @@
     "country": "Maldives",
     "currency": "MVR",
     "debt": "114.9",
-    "gdp2024": "6.984",
     "gdp2025": "7.676",
     "gdppc2024": "17371.777",
-    "gdpppppc2024": "34685.849",
-    "growthgdp2024": "5.1",
     "id": "MV",
     "phoneCode": "+960",
     "rusName": "Мальдивы",
@@ -2973,7 +2724,8 @@
     "growthRate": 0.0035,
     "worldPercentage": 0.0001,
     "rank": 173,
-    "growth2025": 4.8
+    "growth2025": 4.8,
+    "gdpppppc2025": "36065.761"
   },
   {
     "capital": "Bamako",
@@ -2981,11 +2733,8 @@
     "country": "Mali",
     "currency": "XOF",
     "debt": "53.2",
-    "gdp2024": "21.653",
     "gdp2025": "25.591",
     "gdppc2024": "945.612",
-    "gdpppppc2024": "2810.82",
-    "growthgdp2024": "4.4",
     "id": "ML",
     "phoneCode": "+223",
     "rusName": "Мали",
@@ -2997,7 +2746,8 @@
     "growthRate": 0.0291,
     "worldPercentage": 0.0032,
     "rank": 58,
-    "growth2025": 5
+    "growth2025": 5,
+    "gdpppppc2025": "2889.967"
   },
   {
     "capital": "Valletta",
@@ -3005,11 +2755,8 @@
     "country": "Malta",
     "currency": "EUR",
     "debt": "55.8",
-    "gdp2024": "24.397",
     "gdp2025": "27.745",
     "gdppc2024": "43991.583",
-    "gdpppppc2024": "73258.783",
-    "growthgdp2024": "6",
     "id": "MT",
     "phoneCode": "+356",
     "rusName": "Мальта",
@@ -3021,7 +2768,8 @@
     "growthRate": 0.0066,
     "worldPercentage": 0.0001,
     "rank": 172,
-    "growth2025": 3.9
+    "growth2025": 3.9,
+    "gdpppppc2025": "78710.887"
   },
   {
     "capital": "Majuro",
@@ -3029,11 +2777,8 @@
     "country": "Marshall Islands",
     "currency": "USD",
     "debt": "21.2",
-    "gdp2024": "0.279",
     "gdp2025": "0.302",
     "gdppc2024": "7302.982",
-    "gdpppppc2024": "6946.081",
-    "growthgdp2024": "2.8",
     "id": "MH",
     "phoneCode": "+692",
     "rusName": "Маршалловы Острова",
@@ -3045,7 +2790,8 @@
     "growthRate": -0.0333,
     "worldPercentage": 0,
     "rank": 219,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "7704.429"
   },
   {
     "capital": "Fort-de-France",
@@ -3053,11 +2799,8 @@
     "country": "Martinique",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "MQ",
     "phoneCode": "+596",
     "rusName": "Мартиника",
@@ -3069,7 +2812,8 @@
     "growthRate": -0.008,
     "worldPercentage": 0,
     "rank": 182,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Nouakchott",
@@ -3077,11 +2821,8 @@
     "country": "Mauritania",
     "currency": "MRO",
     "debt": "47.7",
-    "gdp2024": "10.761",
     "gdp2025": "11.953",
     "gdppc2024": "2362.13",
-    "gdpppppc2024": "8250.331",
-    "growthgdp2024": "4.6",
     "id": "MR",
     "phoneCode": "+222",
     "rusName": "Мавритания",
@@ -3093,7 +2834,8 @@
     "growthRate": 0.0275,
     "worldPercentage": 0.0007,
     "rank": 123,
-    "growth2025": 4
+    "growth2025": 4,
+    "gdpppppc2025": "8774.944"
   },
   {
     "capital": "Port Louis",
@@ -3101,11 +2843,8 @@
     "country": "Mauritius",
     "currency": "MUR",
     "debt": "80.9",
-    "gdp2024": "15.89",
     "gdp2025": "15.73",
     "gdppc2024": "11882.551",
-    "gdpppppc2024": "31078.764",
-    "growthgdp2024": "4.7",
     "id": "MU",
     "phoneCode": "+230",
     "rusName": "Маврикий",
@@ -3117,7 +2856,8 @@
     "growthRate": -0.0025,
     "worldPercentage": 0.0002,
     "rank": 159,
-    "growth2025": 3.2
+    "growth2025": 3.2,
+    "gdpppppc2025": "33023.741"
   },
   {
     "capital": "Mamoudzou",
@@ -3125,11 +2865,8 @@
     "country": "Mayotte",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "YT",
     "phoneCode": "+262",
     "rusName": "Майотта",
@@ -3141,7 +2878,8 @@
     "growthRate": 0.0312,
     "worldPercentage": 0,
     "rank": 180,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Mexico City",
@@ -3149,11 +2887,8 @@
     "country": "Mexico",
     "currency": "MXN",
     "debt": "56",
-    "gdp2024": "1848.125",
     "gdp2025": "1862.74",
     "gdppc2024": "14006.661",
-    "gdpppppc2024": "25074.233",
-    "growthgdp2024": "1.5",
     "id": "MX",
     "phoneCode": "+52",
     "rusName": "Мексика",
@@ -3165,7 +2900,8 @@
     "growthRate": 0.008,
     "worldPercentage": 0.0166,
     "rank": 11,
-    "growth2025": 1
+    "growth2025": 1,
+    "gdpppppc2025": "25770.389"
   },
   {
     "capital": "Chisinau",
@@ -3173,11 +2909,8 @@
     "country": "Moldova",
     "currency": "MDL",
     "debt": "33.5",
-    "gdp2024": "18.062",
     "gdp2025": "19.62",
     "gdppc2024": "7480.091",
-    "gdpppppc2024": "18527.017",
-    "growthgdp2024": "0.5",
     "id": "MD",
     "phoneCode": "+373",
     "rusName": "Молдавия",
@@ -3189,7 +2922,8 @@
     "growthRate": -0.0116,
     "worldPercentage": 0.0004,
     "rank": 139,
-    "growth2025": 1.7
+    "growth2025": 1.7,
+    "gdpppppc2025": "19590.727"
   },
   {
     "capital": "Monaco",
@@ -3197,11 +2931,8 @@
     "country": "Monaco",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "MC",
     "phoneCode": "+377",
     "rusName": "Монако",
@@ -3213,7 +2944,8 @@
     "growthRate": -0.0066,
     "worldPercentage": 0,
     "rank": 218,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Ulan Bator",
@@ -3221,11 +2953,8 @@
     "country": "Mongolia",
     "currency": "MNT",
     "debt": "82.4",
-    "gdp2024": "23.669",
     "gdp2025": "25.105",
     "gdppc2024": "6653.641",
-    "gdpppppc2024": "18989.753",
-    "growthgdp2024": "4.9",
     "id": "MN",
     "phoneCode": "+976",
     "rusName": "Монголия",
@@ -3237,7 +2966,8 @@
     "growthRate": 0.0113,
     "worldPercentage": 0.0004,
     "rank": 133,
-    "growth2025": 5.5
+    "growth2025": 5.5,
+    "gdpppppc2025": "20378.301"
   },
   {
     "capital": "Podgorica",
@@ -3245,11 +2975,8 @@
     "country": "Montenegro",
     "currency": "EUR",
     "debt": "71.2",
-    "gdp2024": "8.11",
     "gdp2025": "9.353",
     "gdppc2024": "12663.889",
-    "gdpppppc2024": "31750.22",
-    "growthgdp2024": "3",
     "id": "ME",
     "phoneCode": "+382",
     "rusName": "Черногория",
@@ -3261,7 +2988,8 @@
     "growthRate": -0.0103,
     "worldPercentage": 0.0001,
     "rank": 170,
-    "growth2025": 3.2
+    "growth2025": 3.2,
+    "gdpppppc2025": "34407.847"
   },
   {
     "capital": "Plymouth",
@@ -3269,11 +2997,8 @@
     "country": "Montserrat",
     "currency": "XCD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "MS",
     "phoneCode": "+1-664",
     "rusName": "Монтсеррат",
@@ -3285,7 +3010,8 @@
     "growthRate": -0.0071,
     "worldPercentage": 0,
     "rank": 231,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Rabat",
@@ -3293,11 +3019,8 @@
     "country": "Morocco",
     "currency": "MAD",
     "debt": "68.8",
-    "gdp2024": "157.087",
     "gdp2025": "179.612",
     "gdppc2024": "4157.081",
-    "gdpppppc2024": "10658.839",
-    "growthgdp2024": "3.2",
     "id": "MA",
     "phoneCode": "+212",
     "rusName": "Марокко",
@@ -3309,7 +3032,8 @@
     "growthRate": 0.0086,
     "worldPercentage": 0.0048,
     "rank": 41,
-    "growth2025": 4.4
+    "growth2025": 4.4,
+    "gdpppppc2025": "11437.148"
   },
   {
     "capital": "Maputo",
@@ -3317,11 +3041,8 @@
     "country": "Mozambique",
     "currency": "MZN",
     "debt": "104.5",
-    "gdp2024": "22.495",
     "gdp2025": "24.726",
     "gdppc2024": "629.531",
-    "gdpppppc2024": "1688.654",
-    "growthgdp2024": "1.9",
     "id": "MZ",
     "phoneCode": "+258",
     "rusName": "Мозамбик",
@@ -3333,7 +3054,8 @@
     "growthRate": 0.0283,
     "worldPercentage": 0.0046,
     "rank": 44,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "1732.595"
   },
   {
     "capital": "Naypyidaw",
@@ -3341,11 +3063,8 @@
     "country": "Myanmar",
     "currency": "MMK",
     "debt": "63.9",
-    "gdp2024": "64.284",
     "gdp2025": "60.561",
     "gdppc2024": "1113.793",
-    "gdpppppc2024": "5689.195",
-    "growthgdp2024": "-1.1",
     "id": "MM",
     "phoneCode": "+95",
     "rusName": "Мьянма",
@@ -3357,7 +3076,8 @@
     "growthRate": 0.0061,
     "worldPercentage": 0.0069,
     "rank": 27,
-    "growth2025": -2.7
+    "growth2025": -2.7,
+    "gdpppppc2025": "4950.861"
   },
   {
     "capital": "Windhoek",
@@ -3365,11 +3085,8 @@
     "country": "Namibia",
     "currency": "NAD",
     "debt": "71.3",
-    "gdp2024": "13.185",
     "gdp2025": "14.686",
     "gdppc2024": "4471.812",
-    "gdpppppc2024": "11844.074",
-    "growthgdp2024": "3.7",
     "id": "NA",
     "phoneCode": "+264",
     "rusName": "Намибия",
@@ -3381,7 +3098,8 @@
     "growthRate": 0.0195,
     "worldPercentage": 0.0004,
     "rank": 137,
-    "growth2025": 3.6
+    "growth2025": 3.6,
+    "gdpppppc2025": "12341.506"
   },
   {
     "capital": "Yaren",
@@ -3389,11 +3107,8 @@
     "country": "Nauru",
     "currency": "AUD",
     "debt": "24.3",
-    "gdp2024": "0.16",
     "gdp2025": "0.172",
     "gdppc2024": "12317.582",
-    "gdpppppc2024": "10860.472",
-    "growthgdp2024": "1.8",
     "id": "NR",
     "phoneCode": "+674",
     "rusName": "Науру",
@@ -3405,7 +3120,8 @@
     "growthRate": 0.0063,
     "worldPercentage": 0,
     "rank": 225,
-    "growth2025": 2.1
+    "growth2025": 2.1,
+    "gdpppppc2025": "12267.627"
   },
   {
     "capital": "Kathmandu",
@@ -3413,11 +3129,8 @@
     "country": "Nepal",
     "currency": "NPR",
     "debt": "43.8",
-    "gdp2024": "43.673",
     "gdp2025": "45.513",
     "gdppc2024": "1389.427",
-    "gdpppppc2024": "5411.968",
-    "growthgdp2024": "3.1",
     "id": "NP",
     "phoneCode": "+977",
     "rusName": "Непал",
@@ -3429,7 +3142,8 @@
     "growthRate": 0.0004,
     "worldPercentage": 0.0037,
     "rank": 52,
-    "growth2025": 4.3
+    "growth2025": 4.3,
+    "gdpppppc2025": "6139.804"
   },
   {
     "capital": "Amsterdam",
@@ -3437,11 +3151,8 @@
     "country": "Netherlands",
     "currency": "EUR",
     "debt": "48.5",
-    "gdp2024": "1218.401",
     "gdp2025": "1320.635",
     "gdppc2024": "68393.15",
-    "gdpppppc2024": "81705.3",
-    "growthgdp2024": "1",
     "id": "NL",
     "phoneCode": "+31",
     "rusName": "Нидерланды",
@@ -3453,7 +3164,8 @@
     "growthRate": 0.0056,
     "worldPercentage": 0.0023,
     "rank": 71,
-    "growth2025": 1.4
+    "growth2025": 1.4,
+    "gdpppppc2025": "84035.223"
   },
   {
     "capital": "willemstad",
@@ -3461,11 +3173,8 @@
     "country": "Netherlands Antilles",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "AN",
     "phoneCode": "+599",
     "rusName": "Антильские острова",
@@ -3477,7 +3186,8 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Nouméa",
@@ -3485,11 +3195,8 @@
     "country": "New Caledonia",
     "currency": "XPF",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "NC",
     "phoneCode": "+687",
     "rusName": "Новая Каледония",
@@ -3501,7 +3208,8 @@
     "growthRate": 0.0087,
     "worldPercentage": 0,
     "rank": 184,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Wellington",
@@ -3509,11 +3217,8 @@
     "country": "New Zealand",
     "currency": "NZD",
     "debt": "52.8",
-    "gdp2024": "252.236",
     "gdp2025": "262.909",
     "gdppc2024": "48310.25",
-    "gdpppppc2024": "53845.621",
-    "growthgdp2024": "-0.5",
     "id": "NZ",
     "phoneCode": "+64",
     "rusName": "Новая Зеландия",
@@ -3525,7 +3230,8 @@
     "growthRate": 0.0068,
     "worldPercentage": 0.0007,
     "rank": 126,
-    "growth2025": 0.8
+    "growth2025": 0.8,
+    "gdpppppc2025": "55781.2"
   },
   {
     "capital": "Managua",
@@ -3533,11 +3239,8 @@
     "country": "Nicaragua",
     "currency": "NIO",
     "debt": "46",
-    "gdp2024": "19.412",
     "gdp2025": "20.689",
     "gdppc2024": "2845.715",
-    "gdpppppc2024": "8695.963",
-    "growthgdp2024": "3.6",
     "id": "NI",
     "phoneCode": "+505",
     "rusName": "Никарагуа",
@@ -3549,7 +3252,8 @@
     "growthRate": 0.0128,
     "worldPercentage": 0.0009,
     "rank": 108,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "9081.754"
   },
   {
     "capital": "Niamey",
@@ -3557,11 +3261,8 @@
     "country": "Niger",
     "currency": "XOF",
     "debt": "51.1",
-    "gdp2024": "19.599",
     "gdp2025": "22.969",
     "gdppc2024": "707.47",
-    "gdpppppc2024": "1986.507",
-    "growthgdp2024": "10.3",
     "id": "NE",
     "phoneCode": "+227",
     "rusName": "Нигер",
@@ -3573,7 +3274,8 @@
     "growthRate": 0.0321,
     "worldPercentage": 0.0036,
     "rank": 53,
-    "growth2025": 6.6
+    "growth2025": 6.6,
+    "gdpppppc2025": "2095.238"
   },
   {
     "capital": "Abuja",
@@ -3581,11 +3283,8 @@
     "country": "Nigeria",
     "currency": "NGN",
     "debt": "38",
-    "gdp2024": "199.721",
     "gdp2025": "285.003",
     "gdppc2024": "824.021",
-    "gdpppppc2024": "6580.275",
-    "growthgdp2024": "3.4",
     "id": "NG",
     "phoneCode": "+234",
     "rusName": "Нигерия",
@@ -3597,7 +3296,8 @@
     "growthRate": 0.0206,
     "worldPercentage": 0.0303,
     "rank": 6,
-    "growth2025": 3.9
+    "growth2025": 3.9,
+    "gdpppppc2025": "9488.156"
   },
   {
     "capital": "Alofi",
@@ -3605,11 +3305,8 @@
     "country": "Niue",
     "currency": "NZD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "NU",
     "phoneCode": "+683",
     "rusName": "Ниуэ",
@@ -3621,7 +3318,8 @@
     "growthRate": 0.0005,
     "worldPercentage": 0,
     "rank": 234,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Kingston",
@@ -3629,11 +3327,8 @@
     "country": "Norfolk Island",
     "currency": "AUD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "NF",
     "phoneCode": "+672",
     "rusName": "Остров Норфолк",
@@ -3645,7 +3340,8 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Pyongyang",
@@ -3653,11 +3349,8 @@
     "country": "North Korea",
     "currency": "KPW",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "KP",
     "phoneCode": "+850",
     "rusName": "Северная Корея",
@@ -3669,7 +3362,8 @@
     "growthRate": 0.0024,
     "worldPercentage": 0.0033,
     "rank": 56,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Saipan",
@@ -3677,11 +3371,8 @@
     "country": "Northern Mariana Islands",
     "currency": "USD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "MP",
     "phoneCode": "+1-670",
     "rusName": "Северные Марианские острова",
@@ -3693,7 +3384,8 @@
     "growthRate": -0.0144,
     "worldPercentage": 0,
     "rank": 214,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Skopje",
@@ -3701,11 +3393,8 @@
     "country": "North Macedonia",
     "currency": "MKD",
     "debt": "51.8",
-    "gdp2024": "15.861",
     "gdp2025": "18.783",
     "gdppc2024": "9169.273",
-    "gdpppppc2024": "27681.123",
-    "growthgdp2024": "2.8",
     "id": "MK",
     "phoneCode": "+389",
     "rusName": "Северная Македония",
@@ -3717,7 +3406,8 @@
     "growthRate": -0.0054,
     "worldPercentage": 0.0002,
     "rank": 152,
-    "growth2025": 3.4
+    "growth2025": 3.4,
+    "gdpppppc2025": "29509.916"
   },
   {
     "capital": "Oslo",
@@ -3725,11 +3415,8 @@
     "country": "Norway",
     "currency": "NOK",
     "debt": "39.6",
-    "gdp2024": "503.752",
     "gdp2025": "517.102",
     "gdppc2024": "86611.173",
-    "gdpppppc2024": "103585.617",
-    "growthgdp2024": "2.1",
     "id": "NO",
     "phoneCode": "+47",
     "rusName": "Норвегия",
@@ -3741,7 +3428,8 @@
     "growthRate": 0.0053,
     "worldPercentage": 0.0007,
     "rank": 121,
-    "growth2025": 1.2
+    "growth2025": 1.2,
+    "gdpppppc2025": "106694.122"
   },
   {
     "capital": "Muscat",
@@ -3749,11 +3437,8 @@
     "country": "Oman",
     "currency": "OMR",
     "debt": "40.1",
-    "gdp2024": "109.993",
     "gdp2025": "105.19",
     "gdppc2024": "20059.326",
-    "gdpppppc2024": "41275.192",
-    "growthgdp2024": "1.7",
     "id": "OM",
     "phoneCode": "+968",
     "rusName": "Оман",
@@ -3765,7 +3450,8 @@
     "growthRate": 0.0322,
     "worldPercentage": 0.0007,
     "rank": 120,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "42211.199"
   },
   {
     "capital": "Islamabad",
@@ -3773,11 +3459,8 @@
     "country": "Pakistan",
     "currency": "PKR",
     "debt": "75.8",
-    "gdp2024": "374.595",
     "gdp2025": "410.495",
     "gdppc2024": "1581.174",
-    "gdpppppc2024": "6724.205",
-    "growthgdp2024": "2.5",
     "id": "PK",
     "phoneCode": "+92",
     "rusName": "Пакистан",
@@ -3789,7 +3472,8 @@
     "growthRate": 0.016,
     "worldPercentage": 0.0324,
     "rank": 5,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "6949.899"
   },
   {
     "capital": "Ngerulmud",
@@ -3797,11 +3481,8 @@
     "country": "Palau",
     "currency": "USD",
     "debt": "0",
-    "gdp2024": "0.316",
     "gdp2025": "0.341",
     "gdppc2024": "17405.886",
-    "gdpppppc2024": "16867.936",
-    "growthgdp2024": "7.1",
     "id": "PW",
     "phoneCode": "+680",
     "rusName": "Палау",
@@ -3813,7 +3494,8 @@
     "growthRate": -0.0028,
     "worldPercentage": 0,
     "rank": 222,
-    "growth2025": 4.5
+    "growth2025": 4.5,
+    "gdpppppc2025": "18958.274"
   },
   {
     "capital": "Jerusalem(East)",
@@ -3821,11 +3503,8 @@
     "country": "Palestine",
     "currency": "ILS",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "PS",
     "phoneCode": "+970",
     "rusName": "Палестина",
@@ -3837,7 +3516,8 @@
     "growthRate": 0.0185,
     "worldPercentage": 0.0007,
     "rank": 119,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Panama City",
@@ -3845,11 +3525,8 @@
     "country": "Panama",
     "currency": "PAB",
     "debt": "54.9",
-    "gdp2024": "87.347",
     "gdp2025": "90.408",
     "gdppc2024": "19445.064",
-    "gdpppppc2024": "41572.494",
-    "growthgdp2024": "2.9",
     "id": "PA",
     "phoneCode": "+507",
     "rusName": "Панама",
@@ -3861,7 +3538,8 @@
     "growthRate": 0.0119,
     "worldPercentage": 0.0006,
     "rank": 129,
-    "growth2025": 4
+    "growth2025": 4,
+    "gdpppppc2025": "43651.385"
   },
   {
     "capital": "Port Moresby",
@@ -3869,11 +3547,8 @@
     "country": "Papua New Guinea",
     "currency": "PGK",
     "debt": "49.2",
-    "gdp2024": "31.896",
     "gdp2025": "32.714",
     "gdppc2024": "2524.37",
-    "gdpppppc2024": "3573.503",
-    "growthgdp2024": "3.7",
     "id": "PG",
     "phoneCode": "+675",
     "rusName": "Папуа — Новая Гвинея",
@@ -3885,7 +3560,8 @@
     "growthRate": 0.0172,
     "worldPercentage": 0.0014,
     "rank": 89,
-    "growth2025": 4.7
+    "growth2025": 4.7,
+    "gdpppppc2025": "3761.99"
   },
   {
     "capital": "Asunción",
@@ -3893,11 +3569,8 @@
     "country": "Paraguay",
     "currency": "PYG",
     "debt": "40.9",
-    "gdp2024": "44.937",
     "gdp2025": "47.398",
     "gdppc2024": "6387.512",
-    "gdpppppc2024": "18593.027",
-    "growthgdp2024": "4",
     "id": "PY",
     "phoneCode": "+595",
     "rusName": "Парагвай",
@@ -3909,7 +3582,8 @@
     "growthRate": 0.0117,
     "worldPercentage": 0.0009,
     "rank": 109,
-    "growth2025": 4.4
+    "growth2025": 4.4,
+    "gdpppppc2025": "19717.194"
   },
   {
     "capital": "Lima",
@@ -3917,11 +3591,8 @@
     "country": "Peru",
     "currency": "PEN",
     "debt": "33.4",
-    "gdp2024": "283.309",
     "gdp2025": "318.48",
     "gdppc2024": "8485.019",
-    "gdpppppc2024": "17879.21",
-    "growthgdp2024": "3.3",
     "id": "PE",
     "phoneCode": "+51",
     "rusName": "Перу",
@@ -3933,7 +3604,8 @@
     "growthRate": 0.01,
     "worldPercentage": 0.0044,
     "rank": 48,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "18980.187"
   },
   {
     "capital": "Manila",
@@ -3941,11 +3613,8 @@
     "country": "Philippines",
     "currency": "PHP",
     "debt": "57.5",
-    "gdp2024": "470.062",
     "gdp2025": "494.158",
     "gdppc2024": "4078.977",
-    "gdpppppc2024": "12072.808",
-    "growthgdp2024": "5.7",
     "id": "PH",
     "phoneCode": "+63",
     "rusName": "Филиппины",
@@ -3957,7 +3626,8 @@
     "growthRate": 0.008,
     "worldPercentage": 0.0147,
     "rank": 14,
-    "growth2025": 5.4
+    "growth2025": 5.4,
+    "gdpppppc2025": "12920.042"
   },
   {
     "capital": "Warsaw",
@@ -3965,11 +3635,8 @@
     "country": "Poland",
     "currency": "PLN",
     "debt": "49.6",
-    "gdp2024": "862.908",
     "gdp2025": "1039.619",
     "gdppc2024": "24810.444",
-    "gdpppppc2024": "51983.429",
-    "growthgdp2024": "2.9",
     "id": "PL",
     "phoneCode": "+48",
     "rusName": "Польша",
@@ -3981,7 +3648,8 @@
     "growthRate": -0.0078,
     "worldPercentage": 0.0047,
     "rank": 42,
-    "growth2025": 3.2
+    "growth2025": 3.2,
+    "gdpppppc2025": "55340.224"
   },
   {
     "capital": "Lisbon",
@@ -3989,11 +3657,8 @@
     "country": "Portugal",
     "currency": "EUR",
     "debt": "116",
-    "gdp2024": "303.032",
     "gdp2025": "337.936",
     "gdppc2024": "28917.901",
-    "gdpppppc2024": "47996.659",
-    "growthgdp2024": "1.9",
     "id": "PT",
     "phoneCode": "+351",
     "rusName": "Португалия",
@@ -4005,7 +3670,8 @@
     "growthRate": -0.0016,
     "worldPercentage": 0.0013,
     "rank": 94,
-    "growth2025": 1.9
+    "growth2025": 1.9,
+    "gdpppppc2025": "49753.185"
   },
   {
     "capital": "San Juan",
@@ -4013,11 +3679,8 @@
     "country": "Puerto Rico",
     "currency": "USD",
     "debt": "16.3",
-    "gdp2024": "120.971",
     "gdp2025": "126.546",
     "gdppc2024": "37928.3",
-    "gdpppppc2024": "49608.139",
-    "growthgdp2024": "1",
     "id": "PR",
     "phoneCode": "+1-787",
     "rusName": "Пуэрто-Рико",
@@ -4029,7 +3692,8 @@
     "growthRate": -0.0039,
     "worldPercentage": 0.0004,
     "rank": 135,
-    "growth2025": -0.8
+    "growth2025": -0.8,
+    "gdpppppc2025": "51488.639"
   },
   {
     "capital": "Doha",
@@ -4037,11 +3701,8 @@
     "country": "Qatar",
     "currency": "QAR",
     "debt": "45.3",
-    "gdp2024": "221.406",
     "gdp2025": "222.119",
     "gdppc2024": "71583.128",
-    "gdpppppc2024": "116249.332",
-    "growthgdp2024": "2.4",
     "id": "QA",
     "phoneCode": "+974",
     "rusName": "Катар",
@@ -4053,7 +3714,8 @@
     "growthRate": 0.0185,
     "worldPercentage": 0.0004,
     "rank": 136,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "122283.218"
   },
   {
     "capital": "Brazzaville",
@@ -4061,11 +3723,8 @@
     "country": "Congo",
     "currency": "XAF",
     "debt": "99.6",
-    "gdp2024": "15.044",
     "gdp2025": "15.695",
     "gdppc2024": "2360.4",
-    "gdpppppc2024": "6390.614",
-    "growthgdp2024": "2.6",
     "id": "CG",
     "phoneCode": "+242",
     "rusName": "Республика Конго",
@@ -4077,7 +3736,8 @@
     "growthRate": 0.0236,
     "worldPercentage": 0.0008,
     "rank": 112,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "6515.358"
   },
   {
     "capital": "Saint-Denis",
@@ -4085,11 +3745,8 @@
     "country": "Reunion",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "RE",
     "phoneCode": "+262",
     "rusName": "Рейюньион",
@@ -4101,7 +3758,8 @@
     "growthRate": 0.0044,
     "worldPercentage": 0.0001,
     "rank": 163,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Bucharest",
@@ -4109,11 +3767,8 @@
     "country": "Romania",
     "currency": "RON",
     "debt": "48.7",
-    "gdp2024": "380.561",
     "gdp2025": "422.508",
     "gdppc2024": "20278.199",
-    "gdpppppc2024": "46906.351",
-    "growthgdp2024": "0.9",
     "id": "RO",
     "phoneCode": "+40",
     "rusName": "Румыния",
@@ -4125,7 +3780,8 @@
     "growthRate": -0.0057,
     "worldPercentage": 0.0023,
     "rank": 70,
-    "growth2025": 1
+    "growth2025": 1,
+    "gdpppppc2025": "48847.461"
   },
   {
     "capital": "Moscow",
@@ -4133,11 +3789,8 @@
     "country": "Russian Federation",
     "currency": "RUB",
     "debt": "19.6",
-    "gdp2024": "2184.316",
     "gdp2025": "2540.656",
     "gdppc2024": "14794.697",
-    "gdpppppc2024": "47269.22",
-    "growthgdp2024": "4.1",
     "id": "RU",
     "phoneCode": "+7",
     "rusName": "Россия",
@@ -4149,7 +3802,8 @@
     "growthRate": -0.0042,
     "worldPercentage": 0.0179,
     "rank": 9,
-    "growth2025": 0.6
+    "growth2025": 0.6,
+    "gdpppppc2025": "49048.991"
   },
   {
     "capital": "Kigali",
@@ -4157,11 +3811,8 @@
     "country": "Rwanda",
     "currency": "RWF",
     "debt": "64.4",
-    "gdp2024": "13.663",
     "gdp2025": "14.771",
     "gdppc2024": "1028.469",
-    "gdpppppc2024": "3814.347",
-    "growthgdp2024": "8.9",
     "id": "RW",
     "phoneCode": "+250",
     "rusName": "Руанда",
@@ -4173,7 +3824,8 @@
     "growthRate": 0.022,
     "worldPercentage": 0.0019,
     "rank": 77,
-    "growth2025": 7.1
+    "growth2025": 7.1,
+    "gdpppppc2025": "4100.683"
   },
   {
     "capital": "Gustavia",
@@ -4181,11 +3833,8 @@
     "country": "Saint Barthelemy",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "BL",
     "phoneCode": "+590",
     "rusName": "Сен-Бартельми",
@@ -4197,7 +3846,8 @@
     "growthRate": 0.0119,
     "worldPercentage": 0,
     "rank": 226,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Jamestown",
@@ -4205,11 +3855,8 @@
     "country": "Saint Helena",
     "currency": "SHP",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "SH",
     "phoneCode": "+290",
     "rusName": "о.Святой Елены",
@@ -4221,7 +3868,8 @@
     "growthRate": -0.0096,
     "worldPercentage": 0,
     "rank": 230,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Basseterre",
@@ -4229,11 +3877,8 @@
     "country": "Saint Kitts and Nevis",
     "currency": "XCD",
     "debt": "64.8",
-    "gdp2024": "1.158",
     "gdp2025": "1.141",
     "gdppc2024": "21726.255",
-    "gdpppppc2024": "32539.407",
-    "growthgdp2024": "1.5",
     "id": "KN",
     "phoneCode": "+1-869",
     "rusName": "Сент-Китс и Невис",
@@ -4245,7 +3890,8 @@
     "growthRate": 0.0015,
     "worldPercentage": 0,
     "rank": 211,
-    "growth2025": 1.7
+    "growth2025": 1.7,
+    "gdpppppc2025": "34096.36"
   },
   {
     "capital": "Marigot",
@@ -4253,11 +3899,8 @@
     "country": "Saint Martin",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "MF",
     "phoneCode": "+590",
     "rusName": "Сен-Мартен (Франция)",
@@ -4269,7 +3912,8 @@
     "growthRate": -0.0418,
     "worldPercentage": 0,
     "rank": 221,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Saint-Pierre",
@@ -4277,11 +3921,8 @@
     "country": "Saint Pierre and Miquelon",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "PM",
     "phoneCode": "+508",
     "rusName": "Сен-Пьер и Микелон",
@@ -4293,7 +3934,8 @@
     "growthRate": -0.0109,
     "worldPercentage": 0,
     "rank": 229,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Kingstown",
@@ -4301,11 +3943,8 @@
     "country": "Saint Vincent and the Grenadines",
     "currency": "XCD",
     "debt": "86.8",
-    "gdp2024": "1.173",
     "gdp2025": "1.238",
     "gdppc2024": "10457.609",
-    "gdpppppc2024": "19836.894",
-    "growthgdp2024": "4.8",
     "id": "VC",
     "phoneCode": "+1-784",
     "rusName": "Сент-Винсент и Гренадины",
@@ -4317,7 +3956,8 @@
     "growthRate": -0.0068,
     "worldPercentage": 0,
     "rank": 199,
-    "growth2025": 4.4
+    "growth2025": 4.4,
+    "gdpppppc2025": "21235.184"
   },
   {
     "capital": "Apia",
@@ -4325,11 +3965,8 @@
     "country": "Samoa",
     "currency": "WST",
     "debt": "43.7",
-    "gdp2024": "1.068",
     "gdp2025": "1.248",
     "gdppc2024": "5070.481",
-    "gdpppppc2024": "7088.831",
-    "growthgdp2024": "9.4",
     "id": "WS",
     "phoneCode": "+685",
     "rusName": "Самоа",
@@ -4341,7 +3978,8 @@
     "growthRate": 0.0056,
     "worldPercentage": 0,
     "rank": 188,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "8257.258"
   },
   {
     "capital": "City of San Marino",
@@ -4349,11 +3987,8 @@
     "country": "San Marino",
     "currency": "EUR",
     "debt": "81.2",
-    "gdp2024": "2.049",
     "gdp2025": "2.241",
     "gdppc2024": "60263.243",
-    "gdpppppc2024": "80322.06",
-    "growthgdp2024": "0.7",
     "id": "SM",
     "phoneCode": "+378",
     "rusName": "Сан-Марино",
@@ -4365,7 +4000,8 @@
     "growthRate": 0.001,
     "worldPercentage": 0,
     "rank": 220,
-    "growth2025": 1
+    "growth2025": 1,
+    "gdpppppc2025": "82886.405"
   },
   {
     "capital": "São Tomé",
@@ -4373,11 +4009,8 @@
     "country": "Sao Tome and Principe",
     "currency": "STD",
     "debt": "58.1",
-    "gdp2024": "0.812",
     "gdp2025": "0.976",
     "gdppc2024": "3357.442",
-    "gdpppppc2024": "6194.682",
-    "growthgdp2024": "0.9",
     "id": "ST",
     "phoneCode": "+239",
     "rusName": "Сан-Томе и Принсипи",
@@ -4389,7 +4022,8 @@
     "growthRate": 0.0197,
     "worldPercentage": 0,
     "rank": 187,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "6459.866"
   },
   {
     "capital": "Riyadh",
@@ -4397,11 +4031,8 @@
     "country": "Saudi Arabia",
     "currency": "SAR",
     "debt": "22.6",
-    "gdp2024": "1100.706",
     "gdp2025": "1268.535",
     "gdppc2024": "30746.453",
-    "gdpppppc2024": "59741.029",
-    "growthgdp2024": "1.3",
     "id": "SA",
     "phoneCode": "+966",
     "rusName": "Саудовская Аравия",
@@ -4413,7 +4044,8 @@
     "growthRate": 0.0173,
     "worldPercentage": 0.0044,
     "rank": 47,
-    "growth2025": 4
+    "growth2025": 4,
+    "gdpppppc2025": "74668.069"
   },
   {
     "capital": "Dakar",
@@ -4421,11 +4053,8 @@
     "country": "Senegal",
     "currency": "XOF",
     "debt": "75",
-    "gdp2024": "33.685",
     "gdp2025": "36.839",
     "gdppc2024": "1762.642",
-    "gdpppppc2024": "5075.038",
-    "growthgdp2024": "6.7",
     "id": "SN",
     "phoneCode": "+221",
     "rusName": "Сенегал",
@@ -4437,7 +4066,8 @@
     "growthRate": 0.023,
     "worldPercentage": 0.0024,
     "rank": 68,
-    "growth2025": 6
+    "growth2025": 6,
+    "gdpppppc2025": "5354.697"
   },
   {
     "capital": "Belgrade",
@@ -4445,11 +4075,8 @@
     "country": "Serbia",
     "currency": "RSD",
     "debt": "53.5",
-    "gdp2024": "82.55",
     "gdp2025": "100.048",
     "gdppc2024": "13544.907",
-    "gdpppppc2024": "30956.315",
-    "growthgdp2024": "3.9",
     "id": "RS",
     "phoneCode": "+381",
     "rusName": "Сербия",
@@ -4461,7 +4088,8 @@
     "growthRate": -0.007,
     "worldPercentage": 0.0008,
     "rank": 111,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "32741.865"
   },
   {
     "capital": "Victoria",
@@ -4469,11 +4097,8 @@
     "country": "Seychelles",
     "currency": "SCR",
     "debt": "63.4",
-    "gdp2024": "2.144",
     "gdp2025": "2.23",
     "gdppc2024": "21531.871",
-    "gdpppppc2024": "39880.72",
-    "growthgdp2024": "3",
     "id": "SC",
     "phoneCode": "+248",
     "rusName": "Сейшельские Острова",
@@ -4485,7 +4110,8 @@
     "growthRate": 0.0164,
     "worldPercentage": 0,
     "rank": 193,
-    "growth2025": 3.9
+    "growth2025": 3.9,
+    "gdpppppc2025": "42110.395"
   },
   {
     "capital": "Freetown",
@@ -4493,11 +4119,8 @@
     "country": "Sierra Leone",
     "currency": "SLL",
     "debt": "98.8",
-    "gdp2024": "7.411",
     "gdp2025": "8.639",
     "gdppc2024": "853.02",
-    "gdpppppc2024": "3371.959",
-    "growthgdp2024": "3.7",
     "id": "SL",
     "phoneCode": "+232",
     "rusName": "Сьерра-Леоне",
@@ -4509,7 +4132,8 @@
     "growthRate": 0.0201,
     "worldPercentage": 0.0011,
     "rank": 101,
-    "growth2025": 4.4
+    "growth2025": 4.4,
+    "gdpppppc2025": "3699.415"
   },
   {
     "capital": "Singapore",
@@ -4517,11 +4141,8 @@
     "country": "Singapore",
     "currency": "SGD",
     "debt": "134.2",
-    "gdp2024": "530.708",
     "gdp2025": "574.185",
     "gdppc2024": "90674.044",
-    "gdpppppc2024": "150689.491",
-    "growthgdp2024": "4.4",
     "id": "SG",
     "phoneCode": "+65",
     "rusName": "Сингапур",
@@ -4533,7 +4154,8 @@
     "growthRate": 0.006,
     "worldPercentage": 0.0007,
     "rank": 115,
-    "growth2025": 2.2
+    "growth2025": 2.2,
+    "gdpppppc2025": "156969.073"
   },
   {
     "capital": "Philipsburg",
@@ -4541,11 +4163,8 @@
     "country": "Sint Maarten",
     "currency": "ANG",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "SX",
     "phoneCode": "+1-721",
     "rusName": "Синт-Мартен (остров)",
@@ -4557,7 +4176,8 @@
     "growthRate": 0.0119,
     "worldPercentage": 0,
     "rank": 213,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Bratislava",
@@ -4565,11 +4185,8 @@
     "country": "Slovakia",
     "currency": "EUR",
     "debt": "58.8",
-    "gdp2024": "142.617",
     "gdp2025": "154.587",
     "gdppc2024": "25925.21",
-    "gdpppppc2024": "45582.773",
-    "growthgdp2024": "2",
     "id": "SK",
     "phoneCode": "+421",
     "rusName": "Словакия",
@@ -4581,7 +4198,8 @@
     "growthRate": -0.0043,
     "worldPercentage": 0.0007,
     "rank": 124,
-    "growth2025": 0.9
+    "growth2025": 0.9,
+    "gdpppppc2025": "47596.544"
   },
   {
     "capital": "Ljubljana",
@@ -4589,11 +4207,8 @@
     "country": "Slovenia",
     "currency": "EUR",
     "debt": "70.2",
-    "gdp2024": "73.198",
     "gdp2025": "79.221",
     "gdppc2024": "34117.175",
-    "gdpppppc2024": "55619.027",
-    "growthgdp2024": "1.6",
     "id": "SI",
     "phoneCode": "+386",
     "rusName": "Словения",
@@ -4605,7 +4220,8 @@
     "growthRate": -0.0012,
     "worldPercentage": 0.0003,
     "rank": 149,
-    "growth2025": 1.1
+    "growth2025": 1.1,
+    "gdpppppc2025": "57716.483"
   },
   {
     "capital": "Honiara",
@@ -4613,11 +4229,8 @@
     "country": "Solomon Islands",
     "currency": "SBD",
     "debt": "16.9",
-    "gdp2024": "1.73",
     "gdp2025": "1.904",
     "gdppc2024": "2269.051",
-    "gdpppppc2024": "2621.692",
-    "growthgdp2024": "2.5",
     "id": "SB",
     "phoneCode": "+677",
     "rusName": "Соломоновы Острова",
@@ -4629,7 +4242,8 @@
     "growthRate": 0.0234,
     "worldPercentage": 0.0001,
     "rank": 164,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "2711.602"
   },
   {
     "capital": "Mogadishu",
@@ -4637,11 +4251,8 @@
     "country": "Somalia",
     "currency": "SOS",
     "debt": "0",
-    "gdp2024": "12.729",
     "gdp2025": "12.944",
     "gdppc2024": "735.391",
-    "gdpppppc2024": "1844.608",
-    "growthgdp2024": "4",
     "id": "SO",
     "phoneCode": "+252",
     "rusName": "Сомали",
@@ -4653,7 +4264,8 @@
     "growthRate": 0.0331,
     "worldPercentage": 0.0025,
     "rank": 66,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "1897.715"
   },
   {
     "capital": "Pretoria",
@@ -4661,11 +4273,8 @@
     "country": "South Africa",
     "currency": "ZAR",
     "debt": "71",
-    "gdp2024": "403.045",
     "gdp2025": "426.383",
     "gdppc2024": "6331.913",
-    "gdpppppc2024": "15654.361",
-    "growthgdp2024": "0.6",
     "id": "ZA",
     "phoneCode": "+27",
     "rusName": "ЮАР",
@@ -4677,7 +4286,8 @@
     "growthRate": 0.0109,
     "worldPercentage": 0.0082,
     "rank": 24,
-    "growth2025": 1.1
+    "growth2025": 1.1,
+    "gdpppppc2025": "16049.821"
   },
   {
     "capital": "Seoul",
@@ -4685,11 +4295,8 @@
     "country": "South Korea",
     "currency": "KRW",
     "debt": "54.3",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "KR",
     "phoneCode": "+82",
     "rusName": "Республика Корея",
@@ -4701,7 +4308,8 @@
     "growthRate": -0.0013,
     "worldPercentage": 0.0064,
     "rank": 31,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Juba",
@@ -4709,11 +4317,8 @@
     "country": "South Sudan",
     "currency": "SSP",
     "debt": "39.6",
-    "gdp2024": "5.268",
     "gdp2025": "4.979",
     "gdppc2024": "351.023",
-    "gdpppppc2024": "750.318",
-    "growthgdp2024": "-27.6",
     "id": "SS",
     "phoneCode": "+211",
     "rusName": "Южный Судан",
@@ -4725,7 +4330,8 @@
     "growthRate": 0.0203,
     "worldPercentage": 0.0016,
     "rank": 80,
-    "growth2025": 24.3
+    "growth2025": 24.3,
+    "gdpppppc2025": "953.68"
   },
   {
     "capital": "Madrid",
@@ -4733,11 +4339,8 @@
     "country": "Spain",
     "currency": "EUR",
     "debt": "112",
-    "gdp2024": "1731.469",
     "gdp2025": "1891.371",
     "gdppc2024": "35091.647",
-    "gdpppppc2024": "54451.021",
-    "growthgdp2024": "3.2",
     "id": "ES",
     "phoneCode": "+34",
     "rusName": "Испания",
@@ -4749,7 +4352,8 @@
     "growthRate": -0.0008,
     "worldPercentage": 0.006,
     "rank": 34,
-    "growth2025": 2.9
+    "growth2025": 2.9,
+    "gdpppppc2025": "56887.928"
   },
   {
     "capital": "Colombo",
@@ -4757,11 +4361,8 @@
     "country": "Sri Lanka",
     "currency": "LKR",
     "debt": "117.7",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "4324.872",
-    "gdpppppc2024": "14972.338",
-    "growthgdp2024": "5",
     "id": "LK",
     "phoneCode": "+94",
     "rusName": "Шри-Ланка",
@@ -4773,7 +4374,8 @@
     "growthRate": 0.0051,
     "worldPercentage": 0.0029,
     "rank": 60,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Castries",
@@ -4781,11 +4383,8 @@
     "country": "Saint Lucia",
     "currency": "XCD",
     "debt": "83.5",
-    "gdp2024": "2.569",
     "gdp2025": "2.659",
     "gdppc2024": "13982.577",
-    "gdpppppc2024": "27438.475",
-    "growthgdp2024": "3.8",
     "id": "LC",
     "phoneCode": "+1-758",
     "rusName": "Сент-Люсия",
@@ -4797,7 +4396,8 @@
     "growthRate": 0.0019,
     "worldPercentage": 0,
     "rank": 190,
-    "growth2025": 2.4
+    "growth2025": 2.4,
+    "gdpppppc2025": "29257.601"
   },
   {
     "capital": "Khartoum",
@@ -4805,11 +4405,8 @@
     "country": "Sudan",
     "currency": "SDG",
     "debt": "127.6",
-    "gdp2024": "29.793",
     "gdp2025": "35.897",
     "gdppc2024": "575.284",
-    "gdpppppc2024": "2343.537",
-    "growthgdp2024": "-23.4",
     "id": "SD",
     "phoneCode": "+249",
     "rusName": "Судан",
@@ -4821,7 +4418,8 @@
     "growthRate": 0.0314,
     "worldPercentage": 0.0067,
     "rank": 29,
-    "growth2025": 3.2
+    "growth2025": 3.2,
+    "gdpppppc2025": "2418.619"
   },
   {
     "capital": "Paramaribo",
@@ -4829,11 +4427,8 @@
     "country": "Suriname",
     "currency": "SRD",
     "debt": "123.2",
-    "gdp2024": "4.918",
     "gdp2025": "4.496",
     "gdppc2024": "6888.591",
-    "gdpppppc2024": "21504.349",
-    "growthgdp2024": "3",
     "id": "SR",
     "phoneCode": "+597",
     "rusName": "Суринам",
@@ -4845,7 +4440,8 @@
     "growthRate": 0.0084,
     "worldPercentage": 0.0001,
     "rank": 169,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "22303.229"
   },
   {
     "capital": "Mbabane",
@@ -4853,11 +4449,8 @@
     "country": "Eswatini",
     "currency": "SZL",
     "debt": "45.4",
-    "gdp2024": "5.145",
     "gdp2025": "5.201",
     "gdppc2024": "4420.762",
-    "gdpppppc2024": "12862.194",
-    "growthgdp2024": "3.7",
     "id": "SZ",
     "phoneCode": "+268",
     "rusName": "Эсватини",
@@ -4869,7 +4462,8 @@
     "growthRate": 0.0109,
     "worldPercentage": 0.0002,
     "rank": 158,
-    "growth2025": 4.3
+    "growth2025": 4.3,
+    "gdpppppc2025": "13310.106"
   },
   {
     "capital": "Stockholm",
@@ -4877,11 +4471,8 @@
     "country": "Sweden",
     "currency": "SEK",
     "debt": "31.7",
-    "gdp2024": "609.039",
     "gdp2025": "662.318",
     "gdppc2024": "57625.095",
-    "gdpppppc2024": "72232.64",
-    "growthgdp2024": "1",
     "id": "SE",
     "phoneCode": "+46",
     "rusName": "Швеция",
@@ -4893,7 +4484,8 @@
     "growthRate": 0.0042,
     "worldPercentage": 0.0013,
     "rank": 91,
-    "growth2025": 0.7
+    "growth2025": 0.7,
+    "gdpppppc2025": "73069.51"
   },
   {
     "capital": "Bern",
@@ -4901,11 +4493,8 @@
     "country": "Switzerland",
     "currency": "CHF",
     "debt": "39.1",
-    "gdp2024": "942.265",
     "gdp2025": "1002.666",
     "gdppc2024": "104523.348",
-    "gdpppppc2024": "94937.215",
-    "growthgdp2024": "1.3",
     "id": "CH",
     "phoneCode": "+41",
     "rusName": "Швейцария",
@@ -4917,7 +4506,8 @@
     "growthRate": 0.0045,
     "worldPercentage": 0.0011,
     "rank": 100,
-    "growth2025": 0.9
+    "growth2025": 0.9,
+    "gdpppppc2025": "97659.278"
   },
   {
     "capital": "Damascus",
@@ -4925,11 +4515,8 @@
     "country": "Syria",
     "currency": "SYP",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "SY",
     "phoneCode": "+963",
     "rusName": "Сирия",
@@ -4941,7 +4528,8 @@
     "growthRate": 0.0333,
     "worldPercentage": 0.0033,
     "rank": 57,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Taipei",
@@ -4949,11 +4537,8 @@
     "country": "Taiwan",
     "currency": "TWD",
     "debt": "27.5",
-    "gdp2024": "775.017",
     "gdp2025": "884.387",
     "gdppc2024": "33437.355",
-    "gdpppppc2024": "79564.849",
-    "growthgdp2024": "4.3",
     "id": "TW",
     "phoneCode": "+886",
     "rusName": "Тайвань",
@@ -4965,7 +4550,8 @@
     "growthRate": -0.0044,
     "worldPercentage": 0.0029,
     "rank": 61,
-    "growth2025": 3.7
+    "growth2025": 3.7,
+    "gdpppppc2025": "85126.907"
   },
   {
     "capital": "Dushanbe",
@@ -4973,11 +4559,8 @@
     "country": "Tajikistan",
     "currency": "TJS",
     "debt": "34.6",
-    "gdp2024": "12.995",
     "gdp2025": "17.032",
     "gdppc2024": "1329.442",
-    "gdpppppc2024": "5615.024",
-    "growthgdp2024": "8.4",
     "id": "TJ",
     "phoneCode": "+992",
     "rusName": "Таджикистан",
@@ -4989,7 +4572,8 @@
     "growthRate": 0.0178,
     "worldPercentage": 0.0014,
     "rank": 88,
-    "growth2025": 7.5
+    "growth2025": 7.5,
+    "gdpppppc2025": "6088.848"
   },
   {
     "capital": "Dodoma",
@@ -4997,11 +4581,8 @@
     "country": "Tanzania",
     "currency": "TZS",
     "debt": "41.6",
-    "gdp2024": "79.867",
     "gdp2025": "87.444",
     "gdppc2024": "1229.041",
-    "gdpppppc2024": "4135.419",
-    "growthgdp2024": "5.4",
     "id": "TZ",
     "phoneCode": "+255",
     "rusName": "Танзания",
@@ -5013,7 +4594,8 @@
     "growthRate": 0.0286,
     "worldPercentage": 0.0091,
     "rank": 20,
-    "growth2025": 6
+    "growth2025": 6,
+    "gdpppppc2025": "4371.129"
   },
   {
     "capital": "Bangkok",
@@ -5021,11 +4603,8 @@
     "country": "Thailand",
     "currency": "THB",
     "debt": "60.5",
-    "gdp2024": "528.919",
     "gdp2025": "558.573",
     "gdppc2024": "7491.686",
-    "gdpppppc2024": "25210.871",
-    "growthgdp2024": "2.5",
     "id": "TH",
     "phoneCode": "+66",
     "rusName": "Таиланд",
@@ -5037,7 +4616,8 @@
     "growthRate": -0.0008,
     "worldPercentage": 0.0089,
     "rank": 21,
-    "growth2025": 2
+    "growth2025": 2,
+    "gdpppppc2025": "26358.583"
   },
   {
     "capital": "Dili",
@@ -5045,11 +4625,8 @@
     "country": "Timor-Leste",
     "currency": "USD",
     "debt": "7.5",
-    "gdp2024": "1.992",
     "gdp2025": "2.125",
     "gdppc2024": "1438.471",
-    "gdpppppc2024": "4727.695",
-    "growthgdp2024": "4.1",
     "id": "TL",
     "phoneCode": "+670",
     "rusName": "Восточный Тимор",
@@ -5061,7 +4638,8 @@
     "growthRate": 0.013,
     "worldPercentage": 0.0002,
     "rank": 155,
-    "growth2025": 3.9
+    "growth2025": 3.9,
+    "gdpppppc2025": "5018.747"
   },
   {
     "capital": "Lomé",
@@ -5069,11 +4647,8 @@
     "country": "Togo",
     "currency": "XOF",
     "debt": "68",
-    "gdp2024": "9.766",
     "gdp2025": "10.951",
     "gdppc2024": "1052.367",
-    "gdpppppc2024": "3290.793",
-    "growthgdp2024": "5.3",
     "id": "TG",
     "phoneCode": "+228",
     "rusName": "Того",
@@ -5085,7 +4660,8 @@
     "growthRate": 0.0215,
     "worldPercentage": 0.0012,
     "rank": 95,
-    "growth2025": 5.2
+    "growth2025": 5.2,
+    "gdpppppc2025": "3372.914"
   },
   {
     "capital": "Fakaofo",
@@ -5093,11 +4669,8 @@
     "country": "Tokelau",
     "currency": "NZD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "TK",
     "phoneCode": "+690",
     "rusName": "Токелау",
@@ -5109,7 +4682,8 @@
     "growthRate": 0.0318,
     "worldPercentage": 0,
     "rank": 233,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Nuku'alofa",
@@ -5117,11 +4691,8 @@
     "country": "Tonga",
     "currency": "TOP",
     "debt": "46.6",
-    "gdp2024": "0.545",
     "gdp2025": "0.587",
     "gdppc2024": "5415.944",
-    "gdpppppc2024": "7653.573",
-    "growthgdp2024": "2.1",
     "id": "TO",
     "phoneCode": "+676",
     "rusName": "Тонга",
@@ -5133,7 +4704,8 @@
     "growthRate": -0.0043,
     "worldPercentage": 0,
     "rank": 198,
-    "growth2025": 2.7
+    "growth2025": 2.7,
+    "gdpppppc2025": "8086.178"
   },
   {
     "capital": "Port of Spain",
@@ -5141,11 +4713,8 @@
     "country": "Trinidad and Tobago",
     "currency": "TTD",
     "debt": "53.8",
-    "gdp2024": "28.139",
     "gdp2025": "26.002",
     "gdppc2024": "17871.883",
-    "gdpppppc2024": "34436.256",
-    "growthgdp2024": "1.4",
     "id": "TT",
     "phoneCode": "+1-868",
     "rusName": "Тринидад и Тобаго",
@@ -5157,7 +4726,8 @@
     "growthRate": 0.0014,
     "worldPercentage": 0.0002,
     "rank": 154,
-    "growth2025": 1
+    "growth2025": 1,
+    "gdpppppc2025": "35899.578"
   },
   {
     "capital": "Tunis",
@@ -5165,11 +4735,8 @@
     "country": "Tunisia",
     "currency": "TND",
     "debt": "79.4",
-    "gdp2024": "52.636",
     "gdp2025": "59.069",
     "gdppc2024": "4301.62",
-    "gdpppppc2024": "14304.042",
-    "growthgdp2024": "1.4",
     "id": "TN",
     "phoneCode": "+216",
     "rusName": "Тунис",
@@ -5181,7 +4748,8 @@
     "growthRate": 0.0054,
     "worldPercentage": 0.0016,
     "rank": 81,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "14982.77"
   },
   {
     "capital": "Ankara",
@@ -5189,11 +4757,8 @@
     "country": "Turkey",
     "currency": "TRY",
     "debt": "31.2",
-    "gdp2024": "1344.318",
     "gdp2025": "1565.471",
     "gdppc2024": "15463.289",
-    "gdpppppc2024": "40501.47",
-    "growthgdp2024": "3.2",
     "id": "TR",
     "phoneCode": "+90",
     "rusName": "Турция",
@@ -5205,7 +4770,8 @@
     "growthRate": 0.0027,
     "worldPercentage": 0.011,
     "rank": 18,
-    "growth2025": 3.5
+    "growth2025": 3.5,
+    "gdpppppc2025": "43786.195"
   },
   {
     "capital": "Ashgabat",
@@ -5213,11 +4779,8 @@
     "country": "Turkmenistan",
     "currency": "TMT",
     "debt": "5.2",
-    "gdp2024": "83.883",
     "gdp2025": "72.119",
     "gdppc2024": "12505.855",
-    "gdpppppc2024": "26870.371",
-    "growthgdp2024": "2.3",
     "id": "TM",
     "phoneCode": "+993",
     "rusName": "Туркмения",
@@ -5229,7 +4792,8 @@
     "growthRate": 0.0155,
     "worldPercentage": 0.001,
     "rank": 104,
-    "growth2025": 2.3
+    "growth2025": 2.3,
+    "gdpppppc2025": "22855.95"
   },
   {
     "capital": "Cockburn Town",
@@ -5237,11 +4801,8 @@
     "country": "Turks and Caicos Islands",
     "currency": "USD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "TC",
     "phoneCode": "+1-649",
     "rusName": "Туркс и Кайкос",
@@ -5253,7 +4814,8 @@
     "growthRate": 0.0063,
     "worldPercentage": 0,
     "rank": 210,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Funafuti",
@@ -5261,11 +4823,8 @@
     "country": "Tuvalu",
     "currency": "AUD",
     "debt": "7.6",
-    "gdp2024": "0.073",
     "gdp2025": "0.058",
     "gdppc2024": "6598.62",
-    "gdpppppc2024": "6658.352",
-    "growthgdp2024": "3.3",
     "id": "TV",
     "phoneCode": "+688",
     "rusName": "Тувалу",
@@ -5277,7 +4836,8 @@
     "growthRate": -0.0137,
     "worldPercentage": 0,
     "rank": 228,
-    "growth2025": 3
+    "growth2025": 3,
+    "gdpppppc2025": "6157.997"
   },
   {
     "capital": "Kampala",
@@ -5285,11 +4845,8 @@
     "country": "Uganda",
     "currency": "UGX",
     "debt": "50.8",
-    "gdp2024": "55.587",
     "gdp2025": "64.993",
     "gdppc2024": "1210.836",
-    "gdpppppc2024": "3683.965",
-    "growthgdp2024": "6.3",
     "id": "UG",
     "phoneCode": "+256",
     "rusName": "Уганда",
@@ -5301,7 +4858,8 @@
     "growthRate": 0.0268,
     "worldPercentage": 0.0066,
     "rank": 30,
-    "growth2025": 6.4
+    "growth2025": 6.4,
+    "gdpppppc2025": "3904.245"
   },
   {
     "capital": "Kiev",
@@ -5309,11 +4867,8 @@
     "country": "Ukraine",
     "currency": "UAH",
     "debt": "81.7",
-    "gdp2024": "184.099",
     "gdp2025": "209.713",
     "gdppc2024": "5711.164",
-    "gdpppppc2024": "19765.075",
-    "growthgdp2024": "3.5",
     "id": "UA",
     "phoneCode": "+380",
     "rusName": "Украина",
@@ -5325,7 +4880,8 @@
     "growthRate": 0.0142,
     "worldPercentage": 0.0049,
     "rank": 40,
-    "growth2025": 2
+    "growth2025": 2,
+    "gdpppppc2025": "20903.942"
   },
   {
     "capital": "Abu Dhabi",
@@ -5333,11 +4889,8 @@
     "country": "United Arab Emirates",
     "currency": "AED",
     "debt": "30",
-    "gdp2024": "545.053",
     "gdp2025": "569.097",
     "gdppc2024": "48830.171",
-    "gdpppppc2024": "77094.761",
-    "growthgdp2024": "3.8",
     "id": "AE",
     "phoneCode": "+971",
     "rusName": "ОАЭ",
@@ -5349,7 +4902,8 @@
     "growthRate": 0.0202,
     "worldPercentage": 0.0014,
     "rank": 86,
-    "growth2025": 4.8
+    "growth2025": 4.8,
+    "gdpppppc2025": "84402.77"
   },
   {
     "capital": "London",
@@ -5357,11 +4911,8 @@
     "country": "United Kingdom",
     "currency": "GBP",
     "debt": "102.6",
-    "gdp2024": "3587.545",
     "gdp2025": "3958.78",
     "gdppc2024": "52648.187",
-    "gdpppppc2024": "61921.239",
-    "growthgdp2024": "1.1",
     "id": "GB",
     "phoneCode": "+44",
     "rusName": "Великобритания",
@@ -5373,7 +4924,8 @@
     "growthRate": 0.0055,
     "worldPercentage": 0.0087,
     "rank": 22,
-    "growth2025": 1.3
+    "growth2025": 1.3,
+    "gdpppppc2025": "63759.051"
   },
   {
     "capital": "Washington. D.C.",
@@ -5381,11 +4933,8 @@
     "country": "United States",
     "currency": "USD",
     "debt": "121.7",
-    "gdp2024": "29167.779",
     "gdp2025": "30615.743",
     "gdppc2024": "85812.176",
-    "gdpppppc2024": "85812.176",
-    "growthgdp2024": "2.8",
     "id": "US",
     "phoneCode": "+1",
     "rusName": "США",
@@ -5397,7 +4946,8 @@
     "growthRate": 0.0051,
     "worldPercentage": 0.0436,
     "rank": 3,
-    "growth2025": 2
+    "growth2025": 2,
+    "gdpppppc2025": "89598.86"
   },
   {
     "capital": "Montevideo",
@@ -5405,11 +4955,8 @@
     "country": "Uruguay",
     "currency": "UYU",
     "debt": "61",
-    "gdp2024": "82.482",
     "gdp2025": "84.986",
     "gdppc2024": "23089.277",
-    "gdpppppc2024": "35173.09",
-    "growthgdp2024": "3.1",
     "id": "UY",
     "phoneCode": "+598",
     "rusName": "Уругвай",
@@ -5421,7 +4968,8 @@
     "growthRate": -0.0006,
     "worldPercentage": 0.0004,
     "rank": 134,
-    "growth2025": 2.5
+    "growth2025": 2.5,
+    "gdpppppc2025": "37190.134"
   },
   {
     "capital": "Charlotte Amalie",
@@ -5429,11 +4977,8 @@
     "country": "United States Virgin Islands",
     "currency": "USD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "VI",
     "phoneCode": "+1-340",
     "rusName": "Виргинские острова США",
@@ -5445,7 +4990,8 @@
     "growthRate": -0.0088,
     "worldPercentage": 0,
     "rank": 203,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Tashkent",
@@ -5453,11 +4999,8 @@
     "country": "Uzbekistan",
     "currency": "UZS",
     "debt": "34.3",
-    "gdp2024": "112.653",
     "gdp2025": "137.48",
     "gdppc2024": "3113.335",
-    "gdpppppc2024": "11704.351",
-    "growthgdp2024": "6.5",
     "id": "UZ",
     "phoneCode": "+998",
     "rusName": "Узбекистан",
@@ -5469,7 +5012,8 @@
     "growthRate": 0.0181,
     "worldPercentage": 0.0047,
     "rank": 43,
-    "growth2025": 6.8
+    "growth2025": 6.8,
+    "gdpppppc2025": "12558.992"
   },
   {
     "capital": "Port Vila",
@@ -5477,11 +5021,8 @@
     "country": "Vanuatu",
     "currency": "VUV",
     "debt": "45.8",
-    "gdp2024": "1.169",
     "gdp2025": "1.119",
     "gdppc2024": "3491.778",
-    "gdpppppc2024": "2967.817",
-    "growthgdp2024": "0.9",
     "id": "VU",
     "phoneCode": "+678",
     "rusName": "Вануату",
@@ -5493,7 +5034,8 @@
     "growthRate": 0.0221,
     "worldPercentage": 0,
     "rank": 181,
-    "growth2025": 1.7
+    "growth2025": 1.7,
+    "gdpppppc2025": "2995.597"
   },
   {
     "capital": "Vatican City",
@@ -5501,11 +5043,8 @@
     "country": "Vatican City",
     "currency": "EUR",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "VA",
     "phoneCode": "+39",
     "rusName": "Ватикан",
@@ -5517,7 +5056,8 @@
     "growthRate": 0.01,
     "worldPercentage": 0,
     "rank": 235,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Caracas",
@@ -5525,11 +5065,8 @@
     "country": "Venezuela",
     "currency": "VEF",
     "debt": "157.8",
-    "gdp2024": "106.327",
     "gdp2025": "82.767",
     "gdppc2024": "4510.618",
-    "gdpppppc2024": "8556.8",
-    "growthgdp2024": "5.3",
     "id": "VE",
     "phoneCode": "+58",
     "rusName": "Венесуэла",
@@ -5541,7 +5078,8 @@
     "growthRate": 0.0041,
     "worldPercentage": 0.0036,
     "rank": 54,
-    "growth2025": 0.5
+    "growth2025": 0.5,
+    "gdpppppc2025": "8785.445"
   },
   {
     "capital": "Hanoi",
@@ -5549,11 +5087,8 @@
     "country": "Vietnam",
     "currency": "VND",
     "debt": "37.1",
-    "gdp2024": "468.485",
     "gdp2025": "484.726",
     "gdppc2024": "4535.756",
-    "gdpppppc2024": "16335.01",
-    "growthgdp2024": "7.1",
     "id": "VN",
     "phoneCode": "+84",
     "rusName": "Вьетнам",
@@ -5565,7 +5100,8 @@
     "growthRate": 0.0057,
     "worldPercentage": 0.0128,
     "rank": 16,
-    "growth2025": 6.5
+    "growth2025": 6.5,
+    "gdpppppc2025": "17688.249"
   },
   {
     "capital": "Mata-Utu",
@@ -5573,11 +5109,8 @@
     "country": "Wallis and Futuna",
     "currency": "XPF",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "WF",
     "phoneCode": "+681",
     "rusName": "Уоллис и Футуна",
@@ -5589,7 +5122,8 @@
     "growthRate": -0.0072,
     "worldPercentage": 0,
     "rank": 227,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "El-Aaiun",
@@ -5597,11 +5131,8 @@
     "country": "Western Sahara",
     "currency": "MAD",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "EH",
     "phoneCode": "+212",
     "rusName": "Западная Сахара",
@@ -5613,7 +5144,8 @@
     "growthRate": 0.0165,
     "worldPercentage": 0.0001,
     "rank": 171,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Longyearbyen",
@@ -5621,11 +5153,8 @@
     "country": "Svalbard",
     "currency": "NOK",
     "debt": "0",
-    "gdp2024": "0",
     "gdp2025": "0",
     "gdppc2024": "0",
-    "gdpppppc2024": "0",
-    "growthgdp2024": "0",
     "id": "SJ",
     "phoneCode": "+47",
     "rusName": "Шпицберген",
@@ -5637,7 +5166,8 @@
     "growthRate": 0,
     "worldPercentage": 0,
     "rank": 0,
-    "growth2025": 0
+    "growth2025": 0,
+    "gdpppppc2025": "0"
   },
   {
     "capital": "Sana'a",
@@ -5645,11 +5175,8 @@
     "country": "Yemen",
     "currency": "YER",
     "debt": "73.5",
-    "gdp2024": "16.192",
     "gdp2025": "17.352",
     "gdppc2024": "470.656",
-    "gdpppppc2024": "1704.843",
-    "growthgdp2024": "-1.5",
     "id": "YE",
     "phoneCode": "+967",
     "rusName": "Йемен",
@@ -5661,7 +5188,8 @@
     "growthRate": 0.0284,
     "worldPercentage": 0.0054,
     "rank": 37,
-    "growth2025": -1.5
+    "growth2025": -1.5,
+    "gdpppppc2025": "1673.722"
   },
   {
     "capital": "Lusaka",
@@ -5669,11 +5197,8 @@
     "country": "Zambia",
     "currency": "ZMK",
     "debt": "0",
-    "gdp2024": "25.913",
     "gdp2025": "29.369",
     "gdppc2024": "1245.619",
-    "gdpppppc2024": "4259.982",
-    "growthgdp2024": "4",
     "id": "ZM",
     "phoneCode": "+260",
     "rusName": "Замбия",
@@ -5685,7 +5210,8 @@
     "growthRate": 0.0277,
     "worldPercentage": 0.0028,
     "rank": 63,
-    "growth2025": 5.8
+    "growth2025": 5.8,
+    "gdpppppc2025": "4503.432"
   },
   {
     "capital": "Harare",
@@ -5693,11 +5219,8 @@
     "country": "Zimbabwe",
     "currency": "ZWL",
     "debt": "92.8",
-    "gdp2024": "35.919",
     "gdp2025": "53.31",
     "gdppc2024": "2072.911",
-    "gdpppppc2024": "5075.699",
-    "growthgdp2024": "2",
     "id": "ZW",
     "phoneCode": "+263",
     "rusName": "Зимбабве",
@@ -5709,6 +5232,7 @@
     "growthRate": 0.019,
     "worldPercentage": 0.0022,
     "rank": 74,
-    "growth2025": 6
+    "growth2025": 6,
+    "gdpppppc2025": "7842.812"
   }
 ]
