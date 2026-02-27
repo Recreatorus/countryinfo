@@ -4294,7 +4294,7 @@
     "code": "KOR",
     "country": "South Korea",
     "currency": "KRW",
-    "gdp2025": "0",
+    "gdp2025": "1858.572",
     "id": "KR",
     "phoneCode": "+82",
     "rusName": "Республика Корея",
@@ -4306,9 +4306,9 @@
     "growthRate": -0.0013,
     "worldPercentage": 0.0064,
     "rank": 31,
-    "growth2025": 0,
-    "gdpppppc2025": "0",
-    "gdppc2025": "0",
+    "growth2025": 0.9,
+    "gdpppppc2025": "65080.293",
+    "gdppc2025": "35962.344",
     "debt": "53.4"
   },
   {
