@@ -4,7 +4,6 @@
     "code": "AFG",
     "country": "Afghanistan",
     "currency": "AFN",
-    "debt": "0",
     "gdp2025": "0",
     "id": "AF",
     "phoneCode": "+93",
@@ -19,14 +18,14 @@
     "rank": 36,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Tirana",
     "code": "ALB",
     "country": "Albania",
     "currency": "ALL",
-    "debt": "67.6",
     "gdp2025": "29.939",
     "id": "AL",
     "phoneCode": "+355",
@@ -41,14 +40,14 @@
     "rank": 144,
     "growth2025": 3.4,
     "gdpppppc2025": "23327.052",
-    "gdppc2025": "11108.181"
+    "gdppc2025": "11108.181",
+    "debt": "54.1"
   },
   {
     "capital": "Algiers",
     "code": "DZA",
     "country": "Algeria",
     "currency": "DZD",
-    "debt": "52.4",
     "gdp2025": "288.013",
     "id": "DZ",
     "phoneCode": "+213",
@@ -63,14 +62,14 @@
     "rank": 32,
     "growth2025": 3.4,
     "gdpppppc2025": "18509.449",
-    "gdppc2025": "6095.322"
+    "gdppc2025": "6095.322",
+    "debt": "54"
   },
   {
     "capital": "Pago Pago",
     "code": "ASM",
     "country": "American Samoa",
     "currency": "USD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "AS",
     "phoneCode": "+1-684",
@@ -85,14 +84,14 @@
     "rank": 212,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Andorra la Vella",
     "code": "AND",
     "country": "Andorra",
     "currency": "EUR",
-    "debt": "38.8",
     "gdp2025": "4.408",
     "id": "AD",
     "phoneCode": "+376",
@@ -107,14 +106,14 @@
     "rank": 202,
     "growth2025": 2.4,
     "gdpppppc2025": "72359.32",
-    "gdppc2025": "49450.638"
+    "gdppc2025": "49450.638",
+    "debt": "31.7"
   },
   {
     "capital": "Luanda",
     "code": "AGO",
     "country": "Angola",
     "currency": "AOA",
-    "debt": "67",
     "gdp2025": "115.167",
     "id": "AO",
     "phoneCode": "+244",
@@ -129,14 +128,14 @@
     "rank": 39,
     "growth2025": 2.1,
     "gdpppppc2025": "10216.557",
-    "gdppc2025": "2930.687"
+    "gdppc2025": "2930.687",
+    "debt": "62.4"
   },
   {
     "capital": "The Valley",
     "code": "AIA",
     "country": "Anguilla",
     "currency": "XCD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "AI",
     "phoneCode": "+1-264",
@@ -151,14 +150,14 @@
     "rank": 223,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Saint John's",
     "code": "ATG",
     "country": "Antigua and Barbuda",
     "currency": "XCD",
-    "debt": "90.6",
     "gdp2025": "2.34",
     "id": "AG",
     "phoneCode": "+1-268",
@@ -173,14 +172,14 @@
     "rank": 200,
     "growth2025": 2.5,
     "gdpppppc2025": "31380.292",
-    "gdppc2025": "22313.811"
+    "gdppc2025": "22313.811",
+    "debt": "65.7"
   },
   {
     "capital": "Buenos Aires",
     "code": "ARG",
     "country": "Argentina",
     "currency": "ARS",
-    "debt": "84.5",
     "gdp2025": "683.371",
     "id": "AR",
     "phoneCode": "+54",
@@ -195,14 +194,14 @@
     "rank": 35,
     "growth2025": 4.5,
     "gdpppppc2025": "31311.011",
-    "gdppc2025": "14358.848"
+    "gdppc2025": "14358.848",
+    "debt": "78.8"
   },
   {
     "capital": "Yerevan",
     "code": "ARM",
     "country": "Armenia",
     "currency": "AMD",
-    "debt": "49.3",
     "gdp2025": "27.859",
     "id": "AM",
     "phoneCode": "+374",
@@ -217,14 +216,14 @@
     "rank": 140,
     "growth2025": 4.8,
     "gdpppppc2025": "23954.238",
-    "gdppc2025": "8968.916"
+    "gdppc2025": "8968.916",
+    "debt": "53.4"
   },
   {
     "capital": "Oranjestad",
     "code": "ABW",
     "country": "Aruba",
     "currency": "AWG",
-    "debt": "92",
     "gdp2025": "4.319",
     "id": "AW",
     "phoneCode": "+297",
@@ -239,14 +238,14 @@
     "rank": 196,
     "growth2025": 2,
     "gdpppppc2025": "49451.388",
-    "gdppc2025": "39606.356"
+    "gdppc2025": "39606.356",
+    "debt": "67.1"
   },
   {
     "capital": "Canberra",
     "code": "AUS",
     "country": "Australia",
     "currency": "AUD",
-    "debt": "55.7",
     "gdp2025": "1829.508",
     "id": "AU",
     "phoneCode": "+61",
@@ -261,14 +260,14 @@
     "rank": 55,
     "growth2025": 1.8,
     "gdpppppc2025": "71430.886",
-    "gdppc2025": "65946.015"
+    "gdppc2025": "65946.015",
+    "debt": "51"
   },
   {
     "capital": "Vienna",
     "code": "AUT",
     "country": "Austria",
     "currency": "EUR",
-    "debt": "77.8",
     "gdp2025": "566.456",
     "id": "AT",
     "phoneCode": "+43",
@@ -283,14 +282,14 @@
     "rank": 99,
     "growth2025": 0.3,
     "gdpppppc2025": "74852.289",
-    "gdppc2025": "61694.026"
+    "gdppc2025": "61694.026",
+    "debt": "82"
   },
   {
     "capital": "Baku",
     "code": "AZE",
     "country": "Azerbaijan",
     "currency": "AZN",
-    "debt": "20.7",
     "gdp2025": "76.39",
     "id": "AZ",
     "phoneCode": "+994",
@@ -305,14 +304,14 @@
     "rank": 93,
     "growth2025": 3,
     "gdpppppc2025": "26081.082",
-    "gdppc2025": "7365.278"
+    "gdppc2025": "7365.278",
+    "debt": "22.4"
   },
   {
     "capital": "Nassau",
     "code": "BHS",
     "country": "Bahamas",
     "currency": "BSD",
-    "debt": "89.4",
     "gdp2025": "16.393",
     "id": "BS",
     "phoneCode": "+1-242",
@@ -327,14 +326,14 @@
     "rank": 177,
     "growth2025": 2.2,
     "gdpppppc2025": "42002.508",
-    "gdppc2025": "39726.431"
+    "gdppc2025": "39726.431",
+    "debt": "74.1"
   },
   {
     "capital": "Manama",
     "code": "BHR",
     "country": "Bahrain",
     "currency": "BHD",
-    "debt": "117.6",
     "gdp2025": "47.391",
     "id": "BH",
     "phoneCode": "+973",
@@ -349,14 +348,14 @@
     "rank": 153,
     "growth2025": 2.9,
     "gdpppppc2025": "69270.719",
-    "gdppc2025": "29252.835"
+    "gdppc2025": "29252.835",
+    "debt": "142.5"
   },
   {
     "capital": "Dhaka",
     "code": "BGD",
     "country": "Bangladesh",
     "currency": "BDT",
-    "debt": "39.1",
     "gdp2025": "475.011",
     "id": "BD",
     "phoneCode": "+880",
@@ -371,14 +370,14 @@
     "rank": 8,
     "growth2025": 3.8,
     "gdpppppc2025": "10257.554",
-    "gdppc2025": "2734.098"
+    "gdppc2025": "2734.098",
+    "debt": "40.3"
   },
   {
     "capital": "Bridgetown",
     "code": "BRB",
     "country": "Barbados",
     "currency": "BBD",
-    "debt": "120.8",
     "gdp2025": "7.559",
     "id": "BB",
     "phoneCode": "+1-246",
@@ -393,14 +392,14 @@
     "rank": 186,
     "growth2025": 2.7,
     "gdpppppc2025": "23183.92",
-    "gdppc2025": "25926.578"
+    "gdppc2025": "25926.578",
+    "debt": "99.8"
   },
   {
     "capital": "Minsk",
     "code": "BLR",
     "country": "Belarus",
     "currency": "BYN",
-    "debt": "39.8",
     "gdp2025": "85.739",
     "id": "BY",
     "phoneCode": "+375",
@@ -415,14 +414,14 @@
     "rank": 102,
     "growth2025": 2.1,
     "gdpppppc2025": "34069.078",
-    "gdppc2025": "9435.376"
+    "gdppc2025": "9435.376",
+    "debt": "35.8"
   },
   {
     "capital": "Brussels",
     "code": "BEL",
     "country": "Belgium",
     "currency": "EUR",
-    "debt": "105.3",
     "gdp2025": "716.98",
     "id": "BE",
     "phoneCode": "+32",
@@ -437,14 +436,14 @@
     "rank": 83,
     "growth2025": 1.1,
     "gdpppppc2025": "75882.366",
-    "gdppc2025": "60417.875"
+    "gdppc2025": "60417.875",
+    "debt": "107.5"
   },
   {
     "capital": "Belmopan",
     "code": "BLZ",
     "country": "Belize",
     "currency": "BZD",
-    "debt": "64.1",
     "gdp2025": "3.297",
     "id": "BZ",
     "phoneCode": "+501",
@@ -459,14 +458,14 @@
     "rank": 176,
     "growth2025": 1.5,
     "gdpppppc2025": "14920.769",
-    "gdppc2025": "7896.841"
+    "gdppc2025": "7896.841",
+    "debt": "64.7"
   },
   {
     "capital": "Porto-Novo",
     "code": "BEN",
     "country": "Benin",
     "currency": "XOF",
-    "debt": "52.4",
     "gdp2025": "24.402",
     "id": "BJ",
     "phoneCode": "+229",
@@ -481,14 +480,14 @@
     "rank": 76,
     "growth2025": 7,
     "gdpppppc2025": "4719.244",
-    "gdppc2025": "1635.236"
+    "gdppc2025": "1635.236",
+    "debt": "50.7"
   },
   {
     "capital": "Hamilton",
     "code": "BMU",
     "country": "Bermuda",
     "currency": "BMD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "BM",
     "phoneCode": "+1-441",
@@ -503,14 +502,14 @@
     "rank": 207,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Thimphu",
     "code": "BTN",
     "country": "Bhutan",
     "currency": "BTN",
-    "debt": "124.8",
     "gdp2025": "3.408",
     "id": "BT",
     "phoneCode": "+975",
@@ -525,14 +524,14 @@
     "rank": 166,
     "growth2025": 6.8,
     "gdpppppc2025": "17721.787",
-    "gdppc2025": "4285.191"
+    "gdppc2025": "4285.191",
+    "debt": "105.6"
   },
   {
     "capital": "La Paz",
     "code": "BOL",
     "country": "Bolivia",
     "currency": "BOB",
-    "debt": "82.6",
     "gdp2025": "57.086",
     "id": "BO",
     "phoneCode": "+591",
@@ -547,14 +546,14 @@
     "rank": 79,
     "growth2025": 0.6,
     "gdpppppc2025": "11439.02",
-    "gdppc2025": "4585.184"
+    "gdppc2025": "4585.184",
+    "debt": "93.7"
   },
   {
     "capital": "Sarajevo",
     "code": "BIH",
     "country": "Bosnia and Herzegovina",
     "currency": "BAM",
-    "debt": "29.6",
     "gdp2025": "33.237",
     "id": "BA",
     "phoneCode": "+387",
@@ -569,14 +568,14 @@
     "rank": 138,
     "growth2025": 2.4,
     "gdpppppc2025": "22829.684",
-    "gdppc2025": "9647.635"
+    "gdppc2025": "9647.635",
+    "debt": "30.6"
   },
   {
     "capital": "Gaborone",
     "code": "BWA",
     "country": "Botswana",
     "currency": "BWP",
-    "debt": "19.9",
     "gdp2025": "19.186",
     "id": "BW",
     "phoneCode": "+267",
@@ -591,14 +590,14 @@
     "rank": 146,
     "growth2025": -0.9,
     "gdpppppc2025": "19053.102",
-    "gdppc2025": "6943.157"
+    "gdppc2025": "6943.157",
+    "debt": "38.8"
   },
   {
     "capital": "Brasília",
     "code": "BRA",
     "country": "Brazil",
     "currency": "BRL",
-    "debt": "85.9",
     "gdp2025": "2256.91",
     "id": "BR",
     "phoneCode": "+55",
@@ -613,14 +612,14 @@
     "rank": 7,
     "growth2025": 2.4,
     "gdpppppc2025": "23309.631",
-    "gdppc2025": "10577.855"
+    "gdppc2025": "10577.855",
+    "debt": "91.4"
   },
   {
     "capital": "Diego Garcia",
     "code": "IOT",
     "country": "British Indian Ocean Territory",
     "currency": "USD",
-    "debt": "0.0",
     "gdp2025": "0",
     "id": "IO",
     "phoneCode": "+246",
@@ -635,14 +634,14 @@
     "rank": 0,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "RoadTown",
     "code": "VGB",
     "country": "British Virgin Islands",
     "currency": "USD",
-    "debt": "0.0",
     "gdp2025": "0",
     "id": "VG",
     "phoneCode": "+1-284",
@@ -657,14 +656,14 @@
     "rank": 217,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Bandar Seri Begawan",
     "code": "BRN",
     "country": "Brunei",
     "currency": "BND",
-    "debt": "2.1",
     "gdp2025": "15.565",
     "id": "BN",
     "phoneCode": "+673",
@@ -679,14 +678,14 @@
     "rank": 175,
     "growth2025": 1.8,
     "gdpppppc2025": "94472.473",
-    "gdppc2025": "33858.364"
+    "gdppc2025": "33858.364",
+    "debt": "2.3"
   },
   {
     "capital": "Sofia",
     "code": "BGR",
     "country": "Bulgaria",
     "currency": "BGN",
-    "debt": "21.8",
     "gdp2025": "127.924",
     "id": "BG",
     "phoneCode": "+359",
@@ -701,14 +700,14 @@
     "rank": 110,
     "growth2025": 3,
     "gdpppppc2025": "42477.288",
-    "gdppc2025": "20425.72"
+    "gdppc2025": "20425.72",
+    "debt": "28.4"
   },
   {
     "capital": "Ouagadougou",
     "code": "BFA",
     "country": "Burkina Faso",
     "currency": "XOF",
-    "debt": "54.3",
     "gdp2025": "26.866",
     "id": "BF",
     "phoneCode": "+226",
@@ -723,14 +722,14 @@
     "rank": 59,
     "growth2025": 4,
     "gdpppppc2025": "3019.005",
-    "gdppc2025": "1115.018"
+    "gdppc2025": "1115.018",
+    "debt": "53.2"
   },
   {
     "capital": "Bujumbura",
     "code": "BDI",
     "country": "Burundi",
     "currency": "BIF",
-    "debt": "68.3",
     "gdp2025": "7.025",
     "id": "BI",
     "phoneCode": "+257",
@@ -745,14 +744,14 @@
     "rank": 78,
     "growth2025": 4.4,
     "gdpppppc2025": "989.295",
-    "gdppc2025": "485.542"
+    "gdppc2025": "485.542",
+    "debt": "40.3"
   },
   {
     "capital": "Praia",
     "code": "CPV",
     "country": "Cabo Verde",
     "currency": "CVE",
-    "debt": "127.4",
     "gdp2025": "2.915",
     "id": "CV",
     "phoneCode": "+238",
@@ -767,14 +766,14 @@
     "rank": 174,
     "growth2025": 5.2,
     "gdpppppc2025": "12335.268",
-    "gdppc2025": "5671.001"
+    "gdppc2025": "5671.001",
+    "debt": "106"
   },
   {
     "capital": "Phnom Penh",
     "code": "KHM",
     "country": "Cambodia",
     "currency": "KHR",
-    "debt": "36.5",
     "gdp2025": "48.802",
     "id": "KH",
     "phoneCode": "+855",
@@ -789,14 +788,14 @@
     "rank": 73,
     "growth2025": 4.8,
     "gdpppppc2025": "8707.071",
-    "gdppc2025": "2812.212"
+    "gdppc2025": "2812.212",
+    "debt": "27.8"
   },
   {
     "capital": "Yaoundé",
     "code": "CMR",
     "country": "Cameroon",
     "currency": "XAF",
-    "debt": "46.4",
     "gdp2025": "60.577",
     "id": "CM",
     "phoneCode": "+237",
@@ -811,14 +810,14 @@
     "rank": 51,
     "growth2025": 3.8,
     "gdpppppc2025": "5791.088",
-    "gdppc2025": "2027.399"
+    "gdppc2025": "2027.399",
+    "debt": "37.9"
   },
   {
     "capital": "Ottawa",
     "code": "CAN",
     "country": "Canada",
     "currency": "CAD",
-    "debt": "106.6",
     "gdp2025": "2283.599",
     "id": "CA",
     "phoneCode": "+1",
@@ -833,14 +832,14 @@
     "rank": 38,
     "growth2025": 1.2,
     "gdpppppc2025": "65500.245",
-    "gdppc2025": "54934.843"
+    "gdppc2025": "54934.843",
+    "debt": "113.9"
   },
   {
     "capital": "George Town",
     "code": "CYM",
     "country": "Cayman Islands",
     "currency": "KYD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "KY",
     "phoneCode": "+1-345",
@@ -855,14 +854,14 @@
     "rank": 204,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Bangui",
     "code": "CAF",
     "country": "Central African Republic",
     "currency": "XAF",
-    "debt": "50.7",
     "gdp2025": "3.3",
     "id": "CF",
     "phoneCode": "+236",
@@ -877,14 +876,14 @@
     "rank": 118,
     "growth2025": 3,
     "gdpppppc2025": "1369.326",
-    "gdppc2025": "598.522"
+    "gdppc2025": "598.522",
+    "debt": "57.1"
   },
   {
     "capital": "N'Djamena",
     "code": "TCD",
     "country": "Chad",
     "currency": "XAF",
-    "debt": "50.4",
     "gdp2025": "21.592",
     "id": "TD",
     "phoneCode": "+235",
@@ -899,14 +898,14 @@
     "rank": 64,
     "growth2025": 3.3,
     "gdpppppc2025": "3155.027",
-    "gdppc2025": "1138.773"
+    "gdppc2025": "1138.773",
+    "debt": "31.5"
   },
   {
     "capital": "Santiago",
     "code": "CHL",
     "country": "Chile",
     "currency": "CLP",
-    "debt": "38",
     "gdp2025": "347.174",
     "id": "CL",
     "phoneCode": "+56",
@@ -921,14 +920,14 @@
     "rank": 67,
     "growth2025": 2.5,
     "gdpppppc2025": "35286.468",
-    "gdppc2025": "17180.935"
+    "gdppc2025": "17180.935",
+    "debt": "42.7"
   },
   {
     "capital": "Beijing",
     "code": "CHN",
     "country": "China",
     "currency": "CNY",
-    "debt": "77.1",
     "gdp2025": "19398.577",
     "id": "CN",
     "phoneCode": "+86",
@@ -943,14 +942,14 @@
     "rank": 2,
     "growth2025": 4.8,
     "gdpppppc2025": "29191.097",
-    "gdppc2025": "13806.031"
+    "gdppc2025": "13806.031",
+    "debt": "96.3"
   },
   {
     "capital": "Bogotá",
     "code": "COL",
     "country": "Colombia",
     "currency": "COP",
-    "debt": "63.6",
     "gdp2025": "438.121",
     "id": "CO",
     "phoneCode": "+57",
@@ -965,14 +964,14 @@
     "rank": 28,
     "growth2025": 2.5,
     "gdpppppc2025": "22396.001",
-    "gdppc2025": "8249.219"
+    "gdppc2025": "8249.219",
+    "debt": "58.9"
   },
   {
     "capital": "Moroni",
     "code": "COM",
     "country": "Comoros",
     "currency": "KMF",
-    "debt": "29.1",
     "gdp2025": "1.613",
     "id": "KM",
     "phoneCode": "+269",
@@ -987,14 +986,14 @@
     "rank": 162,
     "growth2025": 3.8,
     "gdpppppc2025": "4015.311",
-    "gdppc2025": "1773.102"
+    "gdppc2025": "1773.102",
+    "debt": "30.2"
   },
   {
     "capital": "Avarua",
     "code": "COK",
     "country": "Cook Islands",
     "currency": "NZD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "CK",
     "phoneCode": "+682",
@@ -1009,14 +1008,14 @@
     "rank": 224,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "San José",
     "code": "CRI",
     "country": "Costa Rica",
     "currency": "CRC",
-    "debt": "63.8",
     "gdp2025": "102.637",
     "id": "CR",
     "phoneCode": "+506",
@@ -1031,14 +1030,14 @@
     "rank": 127,
     "growth2025": 3.6,
     "gdpppppc2025": "31485.04",
-    "gdppc2025": "19104.053"
+    "gdppc2025": "19104.053",
+    "debt": "59.7"
   },
   {
     "capital": "Yamoussoukro",
     "code": "CIV",
     "country": "Côte d'Ivoire",
     "currency": "XOF",
-    "debt": "56.8",
     "gdp2025": "99.207",
     "id": "CI",
     "phoneCode": "+225",
@@ -1053,14 +1052,14 @@
     "rank": 50,
     "growth2025": 6.4,
     "gdpppppc2025": "8112.673",
-    "gdppc2025": "3015.643"
+    "gdppc2025": "3015.643",
+    "debt": "55.6"
   },
   {
     "capital": "Zagreb",
     "code": "HRV",
     "country": "Croatia",
     "currency": "HRK",
-    "debt": "67.5",
     "gdp2025": "103.901",
     "id": "HR",
     "phoneCode": "+385",
@@ -1075,14 +1074,14 @@
     "rank": 130,
     "growth2025": 3.1,
     "gdpppppc2025": "51453.311",
-    "gdppc2025": "26957.85"
+    "gdppc2025": "26957.85",
+    "debt": "57"
   },
   {
     "capital": "Havana",
     "code": "CUB",
     "country": "Cuba",
     "currency": "CUP",
-    "debt": "0",
     "gdp2025": "0",
     "id": "CU",
     "phoneCode": "+53",
@@ -1097,14 +1096,14 @@
     "rank": 90,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Willemstad",
     "code": "CUW",
     "country": "Curacao",
     "currency": "ANG",
-    "debt": "0",
     "gdp2025": "0",
     "id": "CW",
     "phoneCode": "+599",
@@ -1119,14 +1118,14 @@
     "rank": 189,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Nicosia",
     "code": "CYP",
     "country": "Cyprus",
     "currency": "EUR",
-    "debt": "86.5",
     "gdp2025": "39.943",
     "id": "CY",
     "phoneCode": "+357",
@@ -1141,14 +1140,14 @@
     "rank": 156,
     "growth2025": 2.9,
     "gdpppppc2025": "65304.132",
-    "gdppc2025": "42412.816"
+    "gdppc2025": "42412.816",
+    "debt": "57.7"
   },
   {
     "capital": "Prague",
     "code": "CZE",
     "country": "Czech Republic",
     "currency": "CZK",
-    "debt": "42.3",
     "gdp2025": "383.384",
     "id": "CZ",
     "phoneCode": "+420",
@@ -1163,14 +1162,14 @@
     "rank": 92,
     "growth2025": 2.3,
     "gdpppppc2025": "59853.135",
-    "gdppc2025": "35161.476"
+    "gdppc2025": "35161.476",
+    "debt": "44"
   },
   {
     "capital": "Kinshasa",
     "code": "COD",
     "country": "The Democratic Republic of Congo",
     "currency": "CDF",
-    "debt": "14.6",
     "gdp2025": "82.262",
     "id": "CD",
     "phoneCode": "+243",
@@ -1185,14 +1184,14 @@
     "rank": 15,
     "growth2025": 5.3,
     "gdpppppc2025": "1974.505",
-    "gdppc2025": "772.032"
+    "gdppc2025": "772.032",
+    "debt": "19.1"
   },
   {
     "capital": "Copenhagen",
     "code": "DNK",
     "country": "Denmark",
     "currency": "DKK",
-    "debt": "29.7",
     "gdp2025": "459.612",
     "id": "DK",
     "phoneCode": "+45",
@@ -1207,14 +1206,14 @@
     "rank": 114,
     "growth2025": 1.8,
     "gdpppppc2025": "84762.884",
-    "gdppc2025": "76580.718"
+    "gdppc2025": "76580.718",
+    "debt": "29.6"
   },
   {
     "capital": "Djibouti",
     "code": "DJI",
     "country": "Djibouti",
     "currency": "DJF",
-    "debt": "40.6",
     "gdp2025": "4.613",
     "id": "DJ",
     "phoneCode": "+253",
@@ -1229,14 +1228,14 @@
     "rank": 160,
     "growth2025": 6,
     "gdpppppc2025": "9407.651",
-    "gdppc2025": "4368.54"
+    "gdppc2025": "4368.54",
+    "debt": "30.5"
   },
   {
     "capital": "Roseau",
     "code": "DMA",
     "country": "Dominica",
     "currency": "XCD",
-    "debt": "104.8",
     "gdp2025": "0.748",
     "id": "DM",
     "phoneCode": "+1-767",
@@ -1251,14 +1250,14 @@
     "rank": 205,
     "growth2025": 4.2,
     "gdpppppc2025": "19381.056",
-    "gdppc2025": "9944.043"
+    "gdppc2025": "9944.043",
+    "debt": "95.7"
   },
   {
     "capital": "Santo Domingo",
     "code": "DOM",
     "country": "Dominican Republic",
     "currency": "DOP",
-    "debt": "58.9",
     "gdp2025": "129.748",
     "id": "DO",
     "phoneCode": "+1-809",
@@ -1273,14 +1272,14 @@
     "rank": 84,
     "growth2025": 3,
     "gdpppppc2025": "30537.613",
-    "gdppc2025": "11919.42"
+    "gdppc2025": "11919.42",
+    "debt": "60"
   },
   {
     "capital": "Quito",
     "code": "ECU",
     "country": "Ecuador",
     "currency": "USD",
-    "debt": "57.3",
     "gdp2025": "130.529",
     "id": "EC",
     "phoneCode": "+593",
@@ -1295,14 +1294,14 @@
     "rank": 72,
     "growth2025": 3.2,
     "gdpppppc2025": "16805.019",
-    "gdppc2025": "7210.108"
+    "gdppc2025": "7210.108",
+    "debt": "0"
   },
   {
     "capital": "Cairo",
     "code": "EGY",
     "country": "Egypt",
     "currency": "EGP",
-    "debt": "88.5",
     "gdp2025": "349.264",
     "id": "EG",
     "phoneCode": "+20",
@@ -1317,14 +1316,14 @@
     "rank": 13,
     "growth2025": 4.3,
     "gdpppppc2025": "21758.838",
-    "gdppc2025": "3191.08"
+    "gdppc2025": "3191.08",
+    "debt": "87"
   },
   {
     "capital": "San Salvador",
     "code": "SLV",
     "country": "El Salvador",
     "currency": "USD",
-    "debt": "77.2",
     "gdp2025": "36.587",
     "id": "SV",
     "phoneCode": "+503",
@@ -1339,14 +1338,14 @@
     "rank": 113,
     "growth2025": 2.5,
     "gdpppppc2025": "13876.768",
-    "gdppc2025": "5743.686"
+    "gdppc2025": "5743.686",
+    "debt": "87.6"
   },
   {
     "capital": "Malabo",
     "code": "GNQ",
     "country": "Equatorial Guinea",
     "currency": "XAF",
-    "debt": "27.1",
     "gdp2025": "13.467",
     "id": "GQ",
     "phoneCode": "+240",
@@ -1361,14 +1360,14 @@
     "rank": 150,
     "growth2025": -1.6,
     "gdpppppc2025": "20493.834",
-    "gdppc2025": "8228.755"
+    "gdppc2025": "8228.755",
+    "debt": "36.6"
   },
   {
     "capital": "Asmara",
     "code": "ERI",
     "country": "Eritrea",
     "currency": "ERN",
-    "debt": "163.8",
     "gdp2025": "0",
     "id": "ER",
     "phoneCode": "+291",
@@ -1383,14 +1382,14 @@
     "rank": 132,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Tallinn",
     "code": "EST",
     "country": "Estonia",
     "currency": "EUR",
-    "debt": "17.2",
     "gdp2025": "46.763",
     "id": "EE",
     "phoneCode": "+372",
@@ -1405,14 +1404,14 @@
     "rank": 157,
     "growth2025": 0.5,
     "gdpppppc2025": "49087.453",
-    "gdppc2025": "34041.287"
+    "gdppc2025": "34041.287",
+    "debt": "24.4"
   },
   {
     "capital": "Addis Ababa",
     "code": "ETH",
     "country": "Ethiopia",
     "currency": "ETB",
-    "debt": "46.4",
     "gdp2025": "109.492",
     "id": "ET",
     "phoneCode": "+251",
@@ -1427,14 +1426,14 @@
     "rank": 10,
     "growth2025": 7.2,
     "gdpppppc2025": "4419.777",
-    "gdppc2025": "994.042"
+    "gdppc2025": "994.042",
+    "debt": "46.7"
   },
   {
     "capital": "FK",
     "code": "FLK",
     "country": "Falkland Islands",
     "currency": "FKP",
-    "debt": "0",
     "gdp2025": "0",
     "id": "FK",
     "phoneCode": "+500",
@@ -1449,14 +1448,14 @@
     "rank": 232,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Tórshavn",
     "code": "FRO",
     "country": "Faroe Islands",
     "currency": "DKK",
-    "debt": "0",
     "gdp2025": "0",
     "id": "FO",
     "phoneCode": "+298",
@@ -1471,14 +1470,14 @@
     "rank": 208,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Palikir",
     "code": "FSM",
     "country": "Micronesia",
     "currency": "USD",
-    "debt": "14",
     "gdp2025": "0.495",
     "id": "FM",
     "phoneCode": "+691",
@@ -1493,14 +1492,14 @@
     "rank": 195,
     "growth2025": 1,
     "gdpppppc2025": "4760.79",
-    "gdppc2025": "5241.065"
+    "gdppc2025": "5241.065",
+    "debt": "9.3"
   },
   {
     "capital": "Suva",
     "code": "FJI",
     "country": "Fiji",
     "currency": "FJD",
-    "debt": "92.8",
     "gdp2025": "6.336",
     "id": "FJ",
     "phoneCode": "+679",
@@ -1515,14 +1514,14 @@
     "rank": 161,
     "growth2025": 3.2,
     "gdpppppc2025": "16366.006",
-    "gdppc2025": "6825.462"
+    "gdppc2025": "6825.462",
+    "debt": "76.6"
   },
   {
     "capital": "Helsinki",
     "code": "FIN",
     "country": "Finland",
     "currency": "EUR",
-    "debt": "74.8",
     "gdp2025": "314.724",
     "id": "FI",
     "phoneCode": "+358",
@@ -1537,14 +1536,14 @@
     "rank": 122,
     "growth2025": 0.5,
     "gdpppppc2025": "66512.47",
-    "gdppc2025": "56083.74"
+    "gdppc2025": "56083.74",
+    "debt": "86.8"
   },
   {
     "capital": "Paris",
     "code": "FRA",
     "country": "France",
     "currency": "EUR",
-    "debt": "111.1",
     "gdp2025": "3361.557",
     "id": "FR",
     "phoneCode": "+33",
@@ -1559,14 +1558,14 @@
     "rank": 23,
     "growth2025": 0.7,
     "gdpppppc2025": "66060.528",
-    "gdppc2025": "48981.965"
+    "gdppc2025": "48981.965",
+    "debt": "116.5"
   },
   {
     "capital": "Cayenne",
     "code": "GUF",
     "country": "French Guiana",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "GF",
     "phoneCode": "+594",
@@ -1581,14 +1580,14 @@
     "rank": 183,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Papeete",
     "code": "PYF",
     "country": "French Polynesia",
     "currency": "XPF",
-    "debt": "0",
     "gdp2025": "0",
     "id": "PF",
     "phoneCode": "+689",
@@ -1603,14 +1602,14 @@
     "rank": 185,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Libreville",
     "code": "GAB",
     "country": "Gabon",
     "currency": "XAF",
-    "debt": "55.1",
     "gdp2025": "21.455",
     "id": "GA",
     "phoneCode": "+241",
@@ -1625,14 +1624,14 @@
     "rank": 145,
     "growth2025": 1.9,
     "gdpppppc2025": "24738.797",
-    "gdppc2025": "9303.04"
+    "gdppc2025": "9303.04",
+    "debt": "76.2"
   },
   {
     "capital": "Banjul",
     "code": "GMB",
     "country": "Gambia",
     "currency": "GMD",
-    "debt": "84",
     "gdp2025": "2.497",
     "id": "GM",
     "phoneCode": "+220",
@@ -1647,14 +1646,14 @@
     "rank": 141,
     "growth2025": 6,
     "gdpppppc2025": "3680.027",
-    "gdppc2025": "889.92"
+    "gdppc2025": "889.92",
+    "debt": "74.4"
   },
   {
     "capital": "Tbilisi",
     "code": "GEO",
     "country": "Georgia",
     "currency": "GEL",
-    "debt": "39.8",
     "gdp2025": "37.403",
     "id": "GE",
     "phoneCode": "+995",
@@ -1669,14 +1668,14 @@
     "rank": 131,
     "growth2025": 7.2,
     "gdpppppc2025": "31089.681",
-    "gdppc2025": "10125.977"
+    "gdppc2025": "10125.977",
+    "debt": "34.2"
   },
   {
     "capital": "Berlin",
     "code": "DEU",
     "country": "Germany",
     "currency": "EUR",
-    "debt": "66.5",
     "gdp2025": "5013.574",
     "id": "DE",
     "phoneCode": "+49",
@@ -1691,14 +1690,14 @@
     "rank": 19,
     "growth2025": 0.2,
     "gdpppppc2025": "73553.296",
-    "gdppc2025": "59925.317"
+    "gdppc2025": "59925.317",
+    "debt": "64.4"
   },
   {
     "capital": "Accra",
     "code": "GHA",
     "country": "Ghana",
     "currency": "GHS",
-    "debt": "88.8",
     "gdp2025": "111.963",
     "id": "GH",
     "phoneCode": "+233",
@@ -1713,14 +1712,14 @@
     "rank": 46,
     "growth2025": 4,
     "gdpppppc2025": "8410.294",
-    "gdppc2025": "3193.071"
+    "gdppc2025": "3193.071",
+    "debt": "59.1"
   },
   {
     "capital": "Gibraltar",
     "code": "GIB",
     "country": "Gibraltar",
     "currency": "GIP",
-    "debt": "0",
     "gdp2025": "0",
     "id": "GI",
     "phoneCode": "+350",
@@ -1735,14 +1734,14 @@
     "rank": 215,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Athens",
     "code": "GRC",
     "country": "Greece",
     "currency": "EUR",
-    "debt": "177.4",
     "gdp2025": "282.019",
     "id": "GR",
     "phoneCode": "+30",
@@ -1757,14 +1756,14 @@
     "rank": 96,
     "growth2025": 2,
     "gdpppppc2025": "44985.382",
-    "gdppc2025": "27169.693"
+    "gdppc2025": "27169.693",
+    "debt": "146.7"
   },
   {
     "capital": "Nuuk",
     "code": "GRL",
     "country": "Greenland",
     "currency": "DKK",
-    "debt": "0",
     "gdp2025": "0",
     "id": "GL",
     "phoneCode": "+299",
@@ -1779,14 +1778,14 @@
     "rank": 209,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "St. George's",
     "code": "GRD",
     "country": "Grenada",
     "currency": "XCD",
-    "debt": "64.5",
     "gdp2025": "1.458",
     "id": "GD",
     "phoneCode": " +1-473",
@@ -1801,14 +1800,14 @@
     "rank": 194,
     "growth2025": 3.3,
     "gdpppppc2025": "21414.454",
-    "gdppc2025": "12543.953"
+    "gdppc2025": "12543.953",
+    "debt": "67.7"
   },
   {
     "capital": "Basse-Terre",
     "code": "GLP",
     "country": "Guadeloupe",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "GP",
     "phoneCode": "+590",
@@ -1823,14 +1822,14 @@
     "rank": 179,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Hagåtña",
     "code": "GUM",
     "country": "Guam",
     "currency": "USD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "GU",
     "phoneCode": "+1-671",
@@ -1845,14 +1844,14 @@
     "rank": 191,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Guatemala City",
     "code": "GTM",
     "country": "Guatemala",
     "currency": "GTQ",
-    "debt": "30.1",
     "gdp2025": "120.85",
     "id": "GT",
     "phoneCode": "+502",
@@ -1867,14 +1866,14 @@
     "rank": 69,
     "growth2025": 3.8,
     "gdpppppc2025": "15100.087",
-    "gdppc2025": "6478.185"
+    "gdppc2025": "6478.185",
+    "debt": "27"
   },
   {
     "capital": "Conakry",
     "code": "GIN",
     "country": "Guinea",
     "currency": "GNF",
-    "debt": "33.4",
     "gdp2025": "27.515",
     "id": "GN",
     "phoneCode": "+224",
@@ -1889,14 +1888,14 @@
     "rank": 75,
     "growth2025": 7.2,
     "gdpppppc2025": "4751.115",
-    "gdppc2025": "1741.139"
+    "gdppc2025": "1741.139",
+    "debt": "42.2"
   },
   {
     "capital": "Bissau",
     "code": "GNB",
     "country": "Guinea-Bissau",
     "currency": "XOF",
-    "debt": "79.5",
     "gdp2025": "2.474",
     "id": "GW",
     "phoneCode": "+245",
@@ -1911,14 +1910,14 @@
     "rank": 148,
     "growth2025": 5.1,
     "gdpppppc2025": "3279.352",
-    "gdppc2025": "1225.352"
+    "gdppc2025": "1225.352",
+    "debt": "76.2"
   },
   {
     "capital": "Georgetown",
     "code": "GUY",
     "country": "Guyana",
     "currency": "GYD",
-    "debt": "27.8",
     "gdp2025": "25.064",
     "id": "GY",
     "phoneCode": "+592",
@@ -1933,14 +1932,14 @@
     "rank": 165,
     "growth2025": 10.3,
     "gdpppppc2025": "94189.295",
-    "gdppc2025": "31377.593"
+    "gdppc2025": "31377.593",
+    "debt": "29"
   },
   {
     "capital": "Port-au-Prince",
     "code": "HTI",
     "country": "Haiti",
     "currency": "HTG",
-    "debt": "25",
     "gdp2025": "30.908",
     "id": "HT",
     "phoneCode": "+509",
@@ -1955,14 +1954,14 @@
     "rank": 82,
     "growth2025": -3.1,
     "gdpppppc2025": "2976.222",
-    "gdppc2025": "2461.403"
+    "gdppc2025": "2461.403",
+    "debt": "11.8"
   },
   {
     "capital": "Tegucigalpa",
     "code": "HND",
     "country": "Honduras",
     "currency": "HNL",
-    "debt": "50",
     "gdp2025": "39.445",
     "id": "HN",
     "phoneCode": "+504",
@@ -1977,14 +1976,14 @@
     "rank": 87,
     "growth2025": 3.8,
     "gdpppppc2025": "7955.753",
-    "gdppc2025": "3636.621"
+    "gdppc2025": "3636.621",
+    "debt": "45.1"
   },
   {
     "capital": "Hong Kong",
     "code": "HKG",
     "country": "Hong Kong",
     "currency": "HKD",
-    "debt": "4.3",
     "gdp2025": "428.233",
     "id": "HK",
     "phoneCode": "+852",
@@ -1999,14 +1998,14 @@
     "rank": 107,
     "growth2025": 2.4,
     "gdpppppc2025": "78918.785",
-    "gdppc2025": "56843.908"
+    "gdppc2025": "56843.908",
+    "debt": "11.7"
   },
   {
     "capital": "Budapest",
     "code": "HUN",
     "country": "Hungary",
     "currency": "HUF",
-    "debt": "76.4",
     "gdp2025": "247.759",
     "id": "HU",
     "phoneCode": "+36",
@@ -2021,14 +2020,14 @@
     "rank": 98,
     "growth2025": 0.6,
     "gdpppppc2025": "48156.868",
-    "gdppc2025": "25916.328"
+    "gdppc2025": "25916.328",
+    "debt": "74.8"
   },
   {
     "capital": "Reykjavík",
     "code": "ISL",
     "country": "Iceland",
     "currency": "ISK",
-    "debt": "68.7",
     "gdp2025": "38.386",
     "id": "IS",
     "phoneCode": "+354",
@@ -2043,14 +2042,14 @@
     "rank": 178,
     "growth2025": 1.4,
     "gdpppppc2025": "80466.384",
-    "gdppc2025": "98149.915"
+    "gdppc2025": "98149.915",
+    "debt": "47.4"
   },
   {
     "capital": "New Delhi",
     "code": "IND",
     "country": "India",
     "currency": "INR",
-    "debt": "83.1",
     "gdp2025": "4125.213",
     "id": "IN",
     "phoneCode": "+91",
@@ -2065,14 +2064,14 @@
     "rank": 1,
     "growth2025": 6.6,
     "gdpppppc2025": "12100.965",
-    "gdppc2025": "2818.027"
+    "gdppc2025": "2818.027",
+    "debt": "81.4"
   },
   {
     "capital": "Jakarta",
     "code": "IDN",
     "country": "Indonesia",
     "currency": "IDR",
-    "debt": "39.9",
     "gdp2025": "1443.256",
     "id": "ID",
     "phoneCode": "+62",
@@ -2087,14 +2086,14 @@
     "rank": 4,
     "growth2025": 4.9,
     "gdpppppc2025": "17633.888",
-    "gdppc2025": "5074.049"
+    "gdppc2025": "5074.049",
+    "debt": "40.8"
   },
   {
     "capital": "Tehran",
     "code": "IRN",
     "country": "Iran",
     "currency": "IRR",
-    "debt": "34",
     "gdp2025": "356.513",
     "id": "IR",
     "phoneCode": "+98",
@@ -2109,14 +2108,14 @@
     "rank": 17,
     "growth2025": 0.6,
     "gdpppppc2025": "21473.13",
-    "gdppc2025": "4074.444"
+    "gdppc2025": "4074.444",
+    "debt": "35.6"
   },
   {
     "capital": "Baghdad",
     "code": "IRQ",
     "country": "Iraq",
     "currency": "IQD",
-    "debt": "43.3",
     "gdp2025": "265.455",
     "id": "IQ",
     "phoneCode": "+964",
@@ -2131,14 +2130,14 @@
     "rank": 33,
     "growth2025": 0.5,
     "gdpppppc2025": "15390.569",
-    "gdppc2025": "5831.552"
+    "gdppc2025": "5831.552",
+    "debt": "53.1"
   },
   {
     "capital": "Dublin",
     "code": "IRL",
     "country": "Ireland",
     "currency": "EUR",
-    "debt": "45.2",
     "gdp2025": "708.771",
     "id": "IE",
     "phoneCode": "+353",
@@ -2153,14 +2152,14 @@
     "rank": 125,
     "growth2025": 9.1,
     "gdpppppc2025": "147878.191",
-    "gdppc2025": "129131.78"
+    "gdppc2025": "129131.78",
+    "debt": "33"
   },
   {
     "capital": "Jerusalem",
     "code": "ISR",
     "country": "Israel",
     "currency": "ILS",
-    "debt": "60.9",
     "gdp2025": "610.752",
     "id": "IL",
     "phoneCode": "+972",
@@ -2175,14 +2174,14 @@
     "rank": 97,
     "growth2025": 2.5,
     "gdpppppc2025": "55766.414",
-    "gdppc2025": "60008.972"
+    "gdppc2025": "60008.972",
+    "debt": "69.2"
   },
   {
     "capital": "Rome",
     "code": "ITA",
     "country": "Italy",
     "currency": "EUR",
-    "debt": "144.7",
     "gdp2025": "2543.677",
     "id": "IT",
     "phoneCode": "+39",
@@ -2197,14 +2196,14 @@
     "rank": 25,
     "growth2025": 0.5,
     "gdpppppc2025": "63125.675",
-    "gdppc2025": "43161.196"
+    "gdppc2025": "43161.196",
+    "debt": "136.8"
   },
   {
     "capital": "Kingston",
     "code": "JAM",
     "country": "Jamaica",
     "currency": "JMD",
-    "debt": "84.1",
     "gdp2025": "23.137",
     "id": "JM",
     "phoneCode": "+1-876",
@@ -2219,14 +2218,14 @@
     "rank": 142,
     "growth2025": 2.1,
     "gdpppppc2025": "13924.09",
-    "gdppc2025": "8404.912"
+    "gdppc2025": "8404.912",
+    "debt": "59.2"
   },
   {
     "capital": "Tokyo",
     "code": "JPN",
     "country": "Japan",
     "currency": "JPY",
-    "debt": "261.3",
     "gdp2025": "4279.828",
     "id": "JP",
     "phoneCode": "+81",
@@ -2241,14 +2240,14 @@
     "rank": 12,
     "growth2025": 1.1,
     "gdpppppc2025": "54815.317",
-    "gdppc2025": "34713.248"
+    "gdppc2025": "34713.248",
+    "debt": "229.6"
   },
   {
     "capital": "Amman",
     "code": "JOR",
     "country": "Jordan",
     "currency": "JOD",
-    "debt": "89.4",
     "gdp2025": "56.157",
     "id": "JO",
     "phoneCode": "+962",
@@ -2263,14 +2262,14 @@
     "rank": 85,
     "growth2025": 2.7,
     "gdpppppc2025": "11510.847",
-    "gdppc2025": "4907.883"
+    "gdppc2025": "4907.883",
+    "debt": "89.7"
   },
   {
     "capital": "Astana (Nur-Sultan)",
     "code": "KAZ",
     "country": "Kazakhstan",
     "currency": "KZT",
-    "debt": "23.5",
     "gdp2025": "300.052",
     "id": "KZ",
     "phoneCode": "+77",
@@ -2285,14 +2284,14 @@
     "rank": 65,
     "growth2025": 5.9,
     "gdpppppc2025": "44777.865",
-    "gdppc2025": "14722.579"
+    "gdppc2025": "14722.579",
+    "debt": "24.8"
   },
   {
     "capital": "Nairobi",
     "code": "KEN",
     "country": "Kenya",
     "currency": "KES",
-    "debt": "67.9",
     "gdp2025": "136.014",
     "id": "KE",
     "phoneCode": "+254",
@@ -2307,14 +2306,14 @@
     "rank": 26,
     "growth2025": 4.8,
     "gdpppppc2025": "7556.076",
-    "gdppc2025": "2549.284"
+    "gdppc2025": "2549.284",
+    "debt": "68"
   },
   {
     "capital": "South Tarawa",
     "code": "KIR",
     "country": "Kiribati",
     "currency": "AUD",
-    "debt": "15.2",
     "gdp2025": "0.321",
     "id": "KI",
     "phoneCode": "+686",
@@ -2329,14 +2328,14 @@
     "rank": 192,
     "growth2025": 3.9,
     "gdpppppc2025": "3704.847",
-    "gdppc2025": "2481.332"
+    "gdppc2025": "2481.332",
+    "debt": "8.7"
   },
   {
     "capital": "Pristina",
     "code": "KIR",
     "country": "Kiribati",
     "currency": "EUR",
-    "debt": "19.3",
     "gdp2025": "0.321",
     "id": "KI",
     "phoneCode": "+383",
@@ -2351,14 +2350,14 @@
     "rank": 192,
     "growth2025": 3.9,
     "gdpppppc2025": "3704.847",
-    "gdppc2025": "2481.332"
+    "gdppc2025": "2481.332",
+    "debt": "8.7"
   },
   {
     "capital": "Kuwait City",
     "code": "KWT",
     "country": "Kuwait",
     "currency": "KWD",
-    "debt": "2.9",
     "gdp2025": "157.469",
     "id": "KW",
     "phoneCode": "+965",
@@ -2373,14 +2372,14 @@
     "rank": 128,
     "growth2025": 2.6,
     "gdpppppc2025": "52866.096",
-    "gdppc2025": "30805.156"
+    "gdppc2025": "30805.156",
+    "debt": "7.3"
   },
   {
     "capital": "Bishkek",
     "code": "KGZ",
     "country": "Kyrgyzstan",
     "currency": "KGS",
-    "debt": "53.5",
     "gdp2025": "20.16",
     "id": "KG",
     "phoneCode": "+996",
@@ -2395,14 +2394,14 @@
     "rank": 106,
     "growth2025": 8,
     "gdpppppc2025": "8870.37",
-    "gdppc2025": "2789.586"
+    "gdppc2025": "2789.586",
+    "debt": "37.8"
   },
   {
     "capital": "Vientiane",
     "code": "LAO",
     "country": "Laos",
     "currency": "LAK",
-    "debt": "128.5",
     "gdp2025": "16.934",
     "id": "LA",
     "phoneCode": "+856",
@@ -2417,14 +2416,14 @@
     "rank": 103,
     "growth2025": 3.5,
     "gdpppppc2025": "10212.326",
-    "gdppc2025": "2174.391"
+    "gdppc2025": "2174.391",
+    "debt": "90.7"
   },
   {
     "capital": "Riga",
     "code": "LVA",
     "country": "Latvia",
     "currency": "EUR",
-    "debt": "41.6",
     "gdp2025": "47.88",
     "id": "LV",
     "phoneCode": "+371",
@@ -2439,14 +2438,14 @@
     "rank": 151,
     "growth2025": 1,
     "gdpppppc2025": "44105.521",
-    "gdppc2025": "25629.634"
+    "gdppc2025": "25629.634",
+    "debt": "47.1"
   },
   {
     "capital": "Beirut",
     "code": "LBN",
     "country": "Lebanon",
     "currency": "LBP",
-    "debt": "0",
     "gdp2025": "0",
     "id": "LB",
     "phoneCode": "+961",
@@ -2461,14 +2460,14 @@
     "rank": 116,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Maseru",
     "code": "LSO",
     "country": "Lesotho",
     "currency": "LSL",
-    "debt": "57.9",
     "gdp2025": "2.39",
     "id": "LS",
     "phoneCode": "+266",
@@ -2483,14 +2482,14 @@
     "rank": 147,
     "growth2025": 1.4,
     "gdpppppc2025": "3089.293",
-    "gdppc2025": "1001.076"
+    "gdppc2025": "1001.076",
+    "debt": "57.1"
   },
   {
     "capital": "Monrovia",
     "code": "LBR",
     "country": "Liberia",
     "currency": "LRD",
-    "debt": "55.4",
     "gdp2025": "5.182",
     "id": "LR",
     "phoneCode": "+231",
@@ -2505,14 +2504,14 @@
     "rank": 117,
     "growth2025": 4.6,
     "gdpppppc2025": "1960.929",
-    "gdppc2025": "904.221"
+    "gdppc2025": "904.221",
+    "debt": "55.7"
   },
   {
     "capital": "Tripoli",
     "code": "LBY",
     "country": "Libya",
     "currency": "LYD",
-    "debt": "0",
     "gdp2025": "47.941",
     "id": "LY",
     "phoneCode": "+218",
@@ -2527,14 +2526,14 @@
     "rank": 105,
     "growth2025": 15.6,
     "gdpppppc2025": "17930.647",
-    "gdppc2025": "6866.143"
+    "gdppc2025": "6866.143",
+    "debt": "0"
   },
   {
     "capital": "Vaduz",
     "code": "LIE",
     "country": "Liechtenstein",
     "currency": "CHF",
-    "debt": "0",
     "gdp2025": "0",
     "id": "LI",
     "phoneCode": "+423",
@@ -2549,14 +2548,14 @@
     "rank": 216,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Vilnius",
     "code": "LTU",
     "country": "Lithuania",
     "currency": "LTL",
-    "debt": "39.6",
     "gdp2025": "95.274",
     "id": "LT",
     "phoneCode": "+370",
@@ -2571,14 +2570,14 @@
     "rank": 143,
     "growth2025": 2.7,
     "gdpppppc2025": "57201.425",
-    "gdppc2025": "32982.41"
+    "gdppc2025": "32982.41",
+    "debt": "41.8"
   },
   {
     "capital": "Luxembourg",
     "code": "LUX",
     "country": "Luxembourg",
     "currency": "EUR",
-    "debt": "24.3",
     "gdp2025": "100.642",
     "id": "LU",
     "phoneCode": "+352",
@@ -2593,14 +2592,14 @@
     "rank": 168,
     "growth2025": 1.2,
     "gdpppppc2025": "152394.648",
-    "gdppc2025": "146818.025"
+    "gdppc2025": "146818.025",
+    "debt": "27.1"
   },
   {
     "capital": "",
     "code": "MAC",
     "country": "Macao",
     "currency": "MOP",
-    "debt": "0",
     "gdp2025": "52.379",
     "id": "MO",
     "phoneCode": "+853",
@@ -2615,14 +2614,14 @@
     "rank": 167,
     "growth2025": 2.6,
     "gdpppppc2025": "132648.291",
-    "gdppc2025": "74920.67"
+    "gdppc2025": "74920.67",
+    "debt": "0"
   },
   {
     "capital": "Skopje",
     "code": "MKD",
     "country": "North Macedonia",
     "currency": "MKD",
-    "debt": "51.8",
     "gdp2025": "18.783",
     "id": "MK",
     "phoneCode": "+389",
@@ -2637,14 +2636,14 @@
     "rank": 152,
     "growth2025": 3.4,
     "gdpppppc2025": "29509.916",
-    "gdppc2025": "10377.988"
+    "gdppc2025": "10377.988",
+    "debt": "52.9"
   },
   {
     "capital": "Antananarivo",
     "code": "MDG",
     "country": "Madagascar",
     "currency": "MGA",
-    "debt": "57",
     "gdp2025": "19.377",
     "id": "MG",
     "phoneCode": "+261",
@@ -2659,14 +2658,14 @@
     "rank": 49,
     "growth2025": 3.8,
     "gdpppppc2025": "2039.724",
-    "gdppc2025": "616.221"
+    "gdppc2025": "616.221",
+    "debt": "49.7"
   },
   {
     "capital": "Lilongwe",
     "code": "MWI",
     "country": "Malawi",
     "currency": "MWK",
-    "debt": "70.1",
     "gdp2025": "14.975",
     "id": "MW",
     "phoneCode": "+265",
@@ -2681,14 +2680,14 @@
     "rank": 62,
     "growth2025": 2.4,
     "gdpppppc2025": "1757.703",
-    "gdppc2025": "622.47"
+    "gdppc2025": "622.47",
+    "debt": "80.4"
   },
   {
     "capital": "Kuala Lumpur",
     "code": "MYS",
     "country": "Malaysia",
     "currency": "MYR",
-    "debt": "66.3",
     "gdp2025": "470.572",
     "id": "MY",
     "phoneCode": "+60",
@@ -2703,14 +2702,14 @@
     "rank": 45,
     "growth2025": 4.5,
     "gdpppppc2025": "43664.705",
-    "gdppc2025": "13900.839"
+    "gdppc2025": "13900.839",
+    "debt": "70.4"
   },
   {
     "capital": "Malé",
     "code": "MDV",
     "country": "Maldives",
     "currency": "MVR",
-    "debt": "114.9",
     "gdp2025": "7.676",
     "id": "MV",
     "phoneCode": "+960",
@@ -2725,14 +2724,14 @@
     "rank": 173,
     "growth2025": 4.8,
     "gdpppppc2025": "36065.761",
-    "gdppc2025": "18683.902"
+    "gdppc2025": "18683.902",
+    "debt": "131.8"
   },
   {
     "capital": "Bamako",
     "code": "MLI",
     "country": "Mali",
     "currency": "XOF",
-    "debt": "53.2",
     "gdp2025": "25.591",
     "id": "ML",
     "phoneCode": "+223",
@@ -2747,14 +2746,14 @@
     "rank": 58,
     "growth2025": 5,
     "gdpppppc2025": "2889.967",
-    "gdppc2025": "1013.642"
+    "gdppc2025": "1013.642",
+    "debt": "48.9"
   },
   {
     "capital": "Valletta",
     "code": "MLT",
     "country": "Malta",
     "currency": "EUR",
-    "debt": "55.8",
     "gdp2025": "27.745",
     "id": "MT",
     "phoneCode": "+356",
@@ -2769,14 +2768,14 @@
     "rank": 172,
     "growth2025": 3.9,
     "gdpppppc2025": "78710.887",
-    "gdppc2025": "49277.47"
+    "gdppc2025": "49277.47",
+    "debt": "46.9"
   },
   {
     "capital": "Majuro",
     "code": "MHL",
     "country": "Marshall Islands",
     "currency": "USD",
-    "debt": "21.2",
     "gdp2025": "0.302",
     "id": "MH",
     "phoneCode": "+692",
@@ -2791,14 +2790,14 @@
     "rank": 219,
     "growth2025": 2.5,
     "gdpppppc2025": "7704.429",
-    "gdppc2025": "8286.564"
+    "gdppc2025": "8286.564",
+    "debt": "10.6"
   },
   {
     "capital": "Fort-de-France",
     "code": "MTQ",
     "country": "Martinique",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "MQ",
     "phoneCode": "+596",
@@ -2813,14 +2812,14 @@
     "rank": 182,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Nouakchott",
     "code": "MRT",
     "country": "Mauritania",
     "currency": "MRO",
-    "debt": "47.7",
     "gdp2025": "11.953",
     "id": "MR",
     "phoneCode": "+222",
@@ -2835,14 +2834,14 @@
     "rank": 123,
     "growth2025": 4,
     "gdpppppc2025": "8774.944",
-    "gdppc2025": "2582.099"
+    "gdppc2025": "2582.099",
+    "debt": "41.2"
   },
   {
     "capital": "Port Louis",
     "code": "MUS",
     "country": "Mauritius",
     "currency": "MUR",
-    "debt": "80.9",
     "gdp2025": "15.73",
     "id": "MU",
     "phoneCode": "+230",
@@ -2857,14 +2856,14 @@
     "rank": 159,
     "growth2025": 3.2,
     "gdpppppc2025": "33023.741",
-    "gdppc2025": "12518.848"
+    "gdppc2025": "12518.848",
+    "debt": "88.1"
   },
   {
     "capital": "Mamoudzou",
     "code": "MYT",
     "country": "Mayotte",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "YT",
     "phoneCode": "+262",
@@ -2879,14 +2878,14 @@
     "rank": 180,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Mexico City",
     "code": "MEX",
     "country": "Mexico",
     "currency": "MXN",
-    "debt": "56",
     "gdp2025": "1862.74",
     "id": "MX",
     "phoneCode": "+52",
@@ -2901,14 +2900,14 @@
     "rank": 11,
     "growth2025": 1,
     "gdpppppc2025": "25770.389",
-    "gdppc2025": "13966.98"
+    "gdppc2025": "13966.98",
+    "debt": "58.9"
   },
   {
     "capital": "Chisinau",
     "code": "MDA",
     "country": "Moldova",
     "currency": "MDL",
-    "debt": "33.5",
     "gdp2025": "19.62",
     "id": "MD",
     "phoneCode": "+373",
@@ -2923,14 +2922,14 @@
     "rank": 139,
     "growth2025": 1.7,
     "gdpppppc2025": "19590.727",
-    "gdppc2025": "8239.361"
+    "gdppc2025": "8239.361",
+    "debt": "37.8"
   },
   {
     "capital": "Monaco",
     "code": "MCO",
     "country": "Monaco",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "MC",
     "phoneCode": "+377",
@@ -2945,14 +2944,14 @@
     "rank": 218,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Ulan Bator",
     "code": "MNG",
     "country": "Mongolia",
     "currency": "MNT",
-    "debt": "82.4",
     "gdp2025": "25.105",
     "id": "MN",
     "phoneCode": "+976",
@@ -2967,14 +2966,14 @@
     "rank": 133,
     "growth2025": 5.5,
     "gdpppppc2025": "20378.301",
-    "gdppc2025": "7005.494"
+    "gdppc2025": "7005.494",
+    "debt": "46.6"
   },
   {
     "capital": "Podgorica",
     "code": "MNE",
     "country": "Montenegro",
     "currency": "EUR",
-    "debt": "71.2",
     "gdp2025": "9.353",
     "id": "ME",
     "phoneCode": "+382",
@@ -2989,14 +2988,14 @@
     "rank": 170,
     "growth2025": 3.2,
     "gdpppppc2025": "34407.847",
-    "gdppc2025": "14985.897"
+    "gdppc2025": "14985.897",
+    "debt": "60.8"
   },
   {
     "capital": "Plymouth",
     "code": "MSR",
     "country": "Montserrat",
     "currency": "XCD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "MS",
     "phoneCode": "+1-664",
@@ -3011,14 +3010,14 @@
     "rank": 231,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Rabat",
     "code": "MAR",
     "country": "Morocco",
     "currency": "MAD",
-    "debt": "68.8",
     "gdp2025": "179.612",
     "id": "MA",
     "phoneCode": "+212",
@@ -3033,14 +3032,14 @@
     "rank": 41,
     "growth2025": 4.4,
     "gdpppppc2025": "11437.148",
-    "gdppc2025": "4762.729"
+    "gdppc2025": "4762.729",
+    "debt": "67.2"
   },
   {
     "capital": "Maputo",
     "code": "MOZ",
     "country": "Mozambique",
     "currency": "MZN",
-    "debt": "104.5",
     "gdp2025": "24.726",
     "id": "MZ",
     "phoneCode": "+258",
@@ -3055,14 +3054,14 @@
     "rank": 44,
     "growth2025": 2.5,
     "gdpppppc2025": "1732.595",
-    "gdppc2025": "690.01"
+    "gdppc2025": "690.01",
+    "debt": "97.2"
   },
   {
     "capital": "Naypyidaw",
     "code": "MMR",
     "country": "Myanmar",
     "currency": "MMK",
-    "debt": "63.9",
     "gdp2025": "60.561",
     "id": "MM",
     "phoneCode": "+95",
@@ -3077,14 +3076,14 @@
     "rank": 27,
     "growth2025": -2.7,
     "gdpppppc2025": "4950.861",
-    "gdppc2025": "1097.473"
+    "gdppc2025": "1097.473",
+    "debt": "63.5"
   },
   {
     "capital": "Windhoek",
     "code": "NAM",
     "country": "Namibia",
     "currency": "NAD",
-    "debt": "71.3",
     "gdp2025": "14.686",
     "id": "NA",
     "phoneCode": "+264",
@@ -3099,14 +3098,14 @@
     "rank": 137,
     "growth2025": 3.6,
     "gdpppppc2025": "12341.506",
-    "gdppc2025": "4816.295"
+    "gdppc2025": "4816.295",
+    "debt": "63.6"
   },
   {
     "capital": "Yaren",
     "code": "NRU",
     "country": "Nauru",
     "currency": "AUD",
-    "debt": "24.3",
     "gdp2025": "0.172",
     "id": "NR",
     "phoneCode": "+674",
@@ -3121,14 +3120,14 @@
     "rank": 225,
     "growth2025": 2.1,
     "gdpppppc2025": "12267.627",
-    "gdppc2025": "14274.023"
+    "gdppc2025": "14274.023",
+    "debt": "15"
   },
   {
     "capital": "Kathmandu",
     "code": "NPL",
     "country": "Nepal",
     "currency": "NPR",
-    "debt": "43.8",
     "gdp2025": "45.513",
     "id": "NP",
     "phoneCode": "+977",
@@ -3143,14 +3142,14 @@
     "rank": 52,
     "growth2025": 4.3,
     "gdpppppc2025": "6139.804",
-    "gdppc2025": "1535.241"
+    "gdppc2025": "1535.241",
+    "debt": "49.3"
   },
   {
     "capital": "Amsterdam",
     "code": "NLD",
     "country": "Netherlands",
     "currency": "EUR",
-    "debt": "48.5",
     "gdp2025": "1320.635",
     "id": "NL",
     "phoneCode": "+31",
@@ -3165,14 +3164,14 @@
     "rank": 71,
     "growth2025": 1.4,
     "gdpppppc2025": "84035.223",
-    "gdppc2025": "73173.715"
+    "gdppc2025": "73173.715",
+    "debt": "44"
   },
   {
     "capital": "willemstad",
     "code": "ANT",
     "country": "Netherlands Antilles",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "AN",
     "phoneCode": "+599",
@@ -3187,14 +3186,14 @@
     "rank": 0,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Nouméa",
     "code": "NCL",
     "country": "New Caledonia",
     "currency": "XPF",
-    "debt": "0",
     "gdp2025": "0",
     "id": "NC",
     "phoneCode": "+687",
@@ -3209,14 +3208,14 @@
     "rank": 184,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Wellington",
     "code": "NZL",
     "country": "New Zealand",
     "currency": "NZD",
-    "debt": "52.8",
     "gdp2025": "262.909",
     "id": "NZ",
     "phoneCode": "+64",
@@ -3231,14 +3230,14 @@
     "rank": 126,
     "growth2025": 0.8,
     "gdpppppc2025": "55781.2",
-    "gdppc2025": "49383.388"
+    "gdppc2025": "49383.388",
+    "debt": "53.2"
   },
   {
     "capital": "Managua",
     "code": "NIC",
     "country": "Nicaragua",
     "currency": "NIO",
-    "debt": "46",
     "gdp2025": "20.689",
     "id": "NI",
     "phoneCode": "+505",
@@ -3253,14 +3252,14 @@
     "rank": 108,
     "growth2025": 3,
     "gdpppppc2025": "9081.754",
-    "gdppc2025": "2952.674"
+    "gdppc2025": "2952.674",
+    "debt": "39.3"
   },
   {
     "capital": "Niamey",
     "code": "NER",
     "country": "Niger",
     "currency": "XOF",
-    "debt": "51.1",
     "gdp2025": "22.969",
     "id": "NE",
     "phoneCode": "+227",
@@ -3275,14 +3274,14 @@
     "rank": 53,
     "growth2025": 6.6,
     "gdpppppc2025": "2095.238",
-    "gdppc2025": "788.616"
+    "gdppc2025": "788.616",
+    "debt": "42.2"
   },
   {
     "capital": "Abuja",
     "code": "NGA",
     "country": "Nigeria",
     "currency": "NGN",
-    "debt": "38",
     "gdp2025": "285.003",
     "id": "NG",
     "phoneCode": "+234",
@@ -3297,14 +3296,14 @@
     "rank": 6,
     "growth2025": 3.9,
     "gdpppppc2025": "9488.156",
-    "gdppc2025": "1199.623"
+    "gdppc2025": "1199.623",
+    "debt": "36.4"
   },
   {
     "capital": "Alofi",
     "code": "NIU",
     "country": "Niue",
     "currency": "NZD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "NU",
     "phoneCode": "+683",
@@ -3319,14 +3318,14 @@
     "rank": 234,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Kingston",
     "code": "NFK",
     "country": "Norfolk Island",
     "currency": "AUD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "NF",
     "phoneCode": "+6723",
@@ -3341,14 +3340,14 @@
     "rank": 0,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Pyongyang",
     "code": "PRK",
     "country": "North Korea",
     "currency": "KPW",
-    "debt": "0",
     "gdp2025": "0",
     "id": "KP",
     "phoneCode": "+850",
@@ -3363,14 +3362,14 @@
     "rank": 56,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Saipan",
     "code": "MNP",
     "country": "Northern Mariana Islands",
     "currency": "USD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "MP",
     "phoneCode": "+1-670",
@@ -3385,14 +3384,14 @@
     "rank": 214,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Skopje",
     "code": "MKD",
     "country": "North Macedonia",
     "currency": "MKD",
-    "debt": "51.8",
     "gdp2025": "18.783",
     "id": "MK",
     "phoneCode": "+389",
@@ -3407,14 +3406,14 @@
     "rank": 152,
     "growth2025": 3.4,
     "gdpppppc2025": "29509.916",
-    "gdppc2025": "10377.988"
+    "gdppc2025": "10377.988",
+    "debt": "52.9"
   },
   {
     "capital": "Oslo",
     "code": "NOR",
     "country": "Norway",
     "currency": "NOK",
-    "debt": "39.6",
     "gdp2025": "517.102",
     "id": "NO",
     "phoneCode": "+47",
@@ -3429,14 +3428,14 @@
     "rank": 121,
     "growth2025": 1.2,
     "gdpppppc2025": "106694.122",
-    "gdppc2025": "91883.687"
+    "gdppc2025": "91883.687",
+    "debt": "42.7"
   },
   {
     "capital": "Muscat",
     "code": "OMN",
     "country": "Oman",
     "currency": "OMR",
-    "debt": "40.1",
     "gdp2025": "105.19",
     "id": "OM",
     "phoneCode": "+968",
@@ -3451,14 +3450,14 @@
     "rank": 120,
     "growth2025": 2.9,
     "gdpppppc2025": "42211.199",
-    "gdppc2025": "19118.876"
+    "gdppc2025": "19118.876",
+    "debt": "35.1"
   },
   {
     "capital": "Islamabad",
     "code": "PAK",
     "country": "Pakistan",
     "currency": "PKR",
-    "debt": "75.8",
     "gdp2025": "410.495",
     "id": "PK",
     "phoneCode": "+92",
@@ -3473,14 +3472,14 @@
     "rank": 5,
     "growth2025": 2.7,
     "gdpppppc2025": "6949.899",
-    "gdppc2025": "1706.912"
+    "gdppc2025": "1706.912",
+    "debt": "71.6"
   },
   {
     "capital": "Ngerulmud",
     "code": "PLW",
     "country": "Palau",
     "currency": "USD",
-    "debt": "0",
     "gdp2025": "0.341",
     "id": "PW",
     "phoneCode": "+680",
@@ -3495,14 +3494,14 @@
     "rank": 222,
     "growth2025": 4.5,
     "gdpppppc2025": "18958.274",
-    "gdppc2025": "19456.088"
+    "gdppc2025": "19456.088",
+    "debt": "63.1"
   },
   {
     "capital": "Jerusalem(East)",
     "code": "PSE",
     "country": "Palestine",
     "currency": "ILS",
-    "debt": "0",
     "gdp2025": "0",
     "id": "PS",
     "phoneCode": "+970",
@@ -3517,14 +3516,14 @@
     "rank": 119,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Panama City",
     "code": "PAN",
     "country": "Panama",
     "currency": "PAB",
-    "debt": "54.9",
     "gdp2025": "90.408",
     "id": "PA",
     "phoneCode": "+507",
@@ -3539,14 +3538,14 @@
     "rank": 129,
     "growth2025": 4,
     "gdpppppc2025": "43651.385",
-    "gdppc2025": "19802.151"
+    "gdppc2025": "19802.151",
+    "debt": "59.6"
   },
   {
     "capital": "Port Moresby",
     "code": "PNG",
     "country": "Papua New Guinea",
     "currency": "PGK",
-    "debt": "49.2",
     "gdp2025": "32.714",
     "id": "PG",
     "phoneCode": "+675",
@@ -3561,14 +3560,14 @@
     "rank": 89,
     "growth2025": 4.7,
     "gdpppppc2025": "3761.99",
-    "gdppc2025": "2555.254"
+    "gdppc2025": "2555.254",
+    "debt": "50.4"
   },
   {
     "capital": "Asunción",
     "code": "PRY",
     "country": "Paraguay",
     "currency": "PYG",
-    "debt": "40.9",
     "gdp2025": "47.398",
     "id": "PY",
     "phoneCode": "+595",
@@ -3583,14 +3582,14 @@
     "rank": 109,
     "growth2025": 4.4,
     "gdpppppc2025": "19717.194",
-    "gdppc2025": "6798.756"
+    "gdppc2025": "6798.756",
+    "debt": "41.7"
   },
   {
     "capital": "Lima",
     "code": "PER",
     "country": "Peru",
     "currency": "PEN",
-    "debt": "33.4",
     "gdp2025": "318.48",
     "id": "PE",
     "phoneCode": "+51",
@@ -3605,14 +3604,14 @@
     "rank": 48,
     "growth2025": 2.9,
     "gdpppppc2025": "18980.187",
-    "gdppc2025": "9255.722"
+    "gdppc2025": "9255.722",
+    "debt": "32.1"
   },
   {
     "capital": "Manila",
     "code": "PHL",
     "country": "Philippines",
     "currency": "PHP",
-    "debt": "57.5",
     "gdp2025": "494.158",
     "id": "PH",
     "phoneCode": "+63",
@@ -3627,14 +3626,14 @@
     "rank": 14,
     "growth2025": 5.4,
     "gdpppppc2025": "12920.042",
-    "gdppc2025": "4320.557"
+    "gdppc2025": "4320.557",
+    "debt": "58.2"
   },
   {
     "capital": "Warsaw",
     "code": "POL",
     "country": "Poland",
     "currency": "PLN",
-    "debt": "49.6",
     "gdp2025": "1039.619",
     "id": "PL",
     "phoneCode": "+48",
@@ -3649,14 +3648,14 @@
     "rank": 42,
     "growth2025": 3.2,
     "gdpppppc2025": "55340.224",
-    "gdppc2025": "28484.671"
+    "gdppc2025": "28484.671",
+    "debt": "60"
   },
   {
     "capital": "Lisbon",
     "code": "PRT",
     "country": "Portugal",
     "currency": "EUR",
-    "debt": "116",
     "gdp2025": "337.936",
     "id": "PT",
     "phoneCode": "+351",
@@ -3671,14 +3670,14 @@
     "rank": 94,
     "growth2025": 1.9,
     "gdpppppc2025": "49753.185",
-    "gdppc2025": "31414.528"
+    "gdppc2025": "31414.528",
+    "debt": "90.9"
   },
   {
     "capital": "San Juan",
     "code": "PRI",
     "country": "Puerto Rico",
     "currency": "USD",
-    "debt": "16.3",
     "gdp2025": "126.546",
     "id": "PR",
     "phoneCode": "+1-787",
@@ -3693,14 +3692,14 @@
     "rank": 135,
     "growth2025": -0.8,
     "gdpppppc2025": "51488.639",
-    "gdppc2025": "39853.523"
+    "gdppc2025": "39853.523",
+    "debt": "18"
   },
   {
     "capital": "Doha",
     "code": "QAT",
     "country": "Qatar",
     "currency": "QAR",
-    "debt": "45.3",
     "gdp2025": "222.119",
     "id": "QA",
     "phoneCode": "+974",
@@ -3715,14 +3714,14 @@
     "rank": 136,
     "growth2025": 2.9,
     "gdpppppc2025": "122283.218",
-    "gdppc2025": "71441.418"
+    "gdppc2025": "71441.418",
+    "debt": "40.6"
   },
   {
     "capital": "Brazzaville",
     "code": "COG",
     "country": "Congo",
     "currency": "XAF",
-    "debt": "99.6",
     "gdp2025": "15.695",
     "id": "CG",
     "phoneCode": "+242",
@@ -3737,14 +3736,14 @@
     "rank": 112,
     "growth2025": 2.7,
     "gdpppppc2025": "6515.358",
-    "gdppc2025": "2419.764"
+    "gdppc2025": "2419.764",
+    "debt": "93.1"
   },
   {
     "capital": "Saint-Denis",
     "code": "REU",
     "country": "Reunion",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "RE",
     "phoneCode": "+262",
@@ -3759,14 +3758,14 @@
     "rank": 163,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Bucharest",
     "code": "ROU",
     "country": "Romania",
     "currency": "RON",
-    "debt": "48.7",
     "gdp2025": "422.508",
     "id": "RO",
     "phoneCode": "+40",
@@ -3781,14 +3780,14 @@
     "rank": 70,
     "growth2025": 1,
     "gdpppppc2025": "48847.461",
-    "gdppc2025": "22436.007"
+    "gdppc2025": "22436.007",
+    "debt": "61.2"
   },
   {
     "capital": "Moscow",
     "code": "RUS",
     "country": "Russian Federation",
     "currency": "RUB",
-    "debt": "19.6",
     "gdp2025": "2540.656",
     "id": "RU",
     "phoneCode": "+7",
@@ -3803,14 +3802,14 @@
     "rank": 9,
     "growth2025": 0.6,
     "gdpppppc2025": "49048.991",
-    "gdppc2025": "17445.75"
+    "gdppc2025": "17445.75",
+    "debt": "23.1"
   },
   {
     "capital": "Kigali",
     "code": "RWA",
     "country": "Rwanda",
     "currency": "RWF",
-    "debt": "64.4",
     "gdp2025": "14.771",
     "id": "RW",
     "phoneCode": "+250",
@@ -3825,14 +3824,14 @@
     "rank": 77,
     "growth2025": 7.1,
     "gdpppppc2025": "4100.683",
-    "gdppc2025": "1042.998"
+    "gdppc2025": "1042.998",
+    "debt": "73.2"
   },
   {
     "capital": "Gustavia",
     "code": "BLM",
     "country": "Saint Barthelemy",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "BL",
     "phoneCode": "+590",
@@ -3847,14 +3846,14 @@
     "rank": 226,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Jamestown",
     "code": "SHN",
     "country": "Saint Helena",
     "currency": "SHP",
-    "debt": "0",
     "gdp2025": "0",
     "id": "SH",
     "phoneCode": "+290",
@@ -3869,14 +3868,14 @@
     "rank": 230,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Basseterre",
     "code": "KNA",
     "country": "Saint Kitts and Nevis",
     "currency": "XCD",
-    "debt": "64.8",
     "gdp2025": "1.141",
     "id": "KN",
     "phoneCode": "+1-869",
@@ -3891,14 +3890,14 @@
     "rank": 211,
     "growth2025": 1.7,
     "gdpppppc2025": "34096.36",
-    "gdppc2025": "22157.53"
+    "gdppc2025": "22157.53",
+    "debt": "61.9"
   },
   {
     "capital": "Marigot",
     "code": "MAF",
     "country": "Saint Martin",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "MF",
     "phoneCode": "+590",
@@ -3913,14 +3912,14 @@
     "rank": 221,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Saint-Pierre",
     "code": "SPM",
     "country": "Saint Pierre and Miquelon",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "PM",
     "phoneCode": "+508",
@@ -3935,14 +3934,14 @@
     "rank": 229,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Kingstown",
     "code": "VCT",
     "country": "Saint Vincent and the Grenadines",
     "currency": "XCD",
-    "debt": "86.8",
     "gdp2025": "1.238",
     "id": "VC",
     "phoneCode": "+1-784",
@@ -3957,14 +3956,14 @@
     "rank": 199,
     "growth2025": 4.4,
     "gdpppppc2025": "21235.184",
-    "gdppc2025": "11132.381"
+    "gdppc2025": "11132.381",
+    "debt": "94"
   },
   {
     "capital": "Apia",
     "code": "WSM",
     "country": "Samoa",
     "currency": "WST",
-    "debt": "43.7",
     "gdp2025": "1.248",
     "id": "WS",
     "phoneCode": "+685",
@@ -3979,14 +3978,14 @@
     "rank": 188,
     "growth2025": 2.7,
     "gdpppppc2025": "8257.258",
-    "gdppc2025": "5886.586"
+    "gdppc2025": "5886.586",
+    "debt": "20.9"
   },
   {
     "capital": "City of San Marino",
     "code": "SMR",
     "country": "San Marino",
     "currency": "EUR",
-    "debt": "81.2",
     "gdp2025": "2.241",
     "id": "SM",
     "phoneCode": "+378",
@@ -4001,14 +4000,14 @@
     "rank": 220,
     "growth2025": 1,
     "gdpppppc2025": "82886.405",
-    "gdppc2025": "65269.006"
+    "gdppc2025": "65269.006",
+    "debt": "62.7"
   },
   {
     "capital": "São Tomé",
     "code": "STP",
     "country": "Sao Tome and Principe",
     "currency": "STD",
-    "debt": "58.1",
     "gdp2025": "0.976",
     "id": "ST",
     "phoneCode": "+239",
@@ -4023,14 +4022,14 @@
     "rank": 187,
     "growth2025": 2.9,
     "gdpppppc2025": "6459.866",
-    "gdppc2025": "4060.877"
+    "gdppc2025": "4060.877",
+    "debt": "51.4"
   },
   {
     "capital": "Riyadh",
     "code": "SAU",
     "country": "Saudi Arabia",
     "currency": "SAR",
-    "debt": "22.6",
     "gdp2025": "1268.535",
     "id": "SA",
     "phoneCode": "+966",
@@ -4045,14 +4044,14 @@
     "rank": 47,
     "growth2025": 4,
     "gdpppppc2025": "74668.069",
-    "gdppc2025": "35230.932"
+    "gdppc2025": "35230.932",
+    "debt": "29.2"
   },
   {
     "capital": "Dakar",
     "code": "SEN",
     "country": "Senegal",
     "currency": "XOF",
-    "debt": "75",
     "gdp2025": "36.839",
     "id": "SN",
     "phoneCode": "+221",
@@ -4067,14 +4066,14 @@
     "rank": 68,
     "growth2025": 6,
     "gdpppppc2025": "5354.697",
-    "gdppc2025": "1921.391"
+    "gdppc2025": "1921.391",
+    "debt": "122.9"
   },
   {
     "capital": "Belgrade",
     "code": "SRB",
     "country": "Serbia",
     "currency": "RSD",
-    "debt": "53.5",
     "gdp2025": "100.048",
     "id": "RS",
     "phoneCode": "+381",
@@ -4089,14 +4088,14 @@
     "rank": 111,
     "growth2025": 2.4,
     "gdpppppc2025": "32741.865",
-    "gdppc2025": "15322.201"
+    "gdppc2025": "15322.201",
+    "debt": "43.9"
   },
   {
     "capital": "Victoria",
     "code": "SYC",
     "country": "Seychelles",
     "currency": "SCR",
-    "debt": "63.4",
     "gdp2025": "2.23",
     "id": "SC",
     "phoneCode": "+248",
@@ -4111,14 +4110,14 @@
     "rank": 193,
     "growth2025": 3.9,
     "gdpppppc2025": "42110.395",
-    "gdppc2025": "21955.934"
+    "gdppc2025": "21955.934",
+    "debt": "56.7"
   },
   {
     "capital": "Freetown",
     "code": "SLE",
     "country": "Sierra Leone",
     "currency": "SLL",
-    "debt": "98.8",
     "gdp2025": "8.639",
     "id": "SL",
     "phoneCode": "+232",
@@ -4133,14 +4132,14 @@
     "rank": 101,
     "growth2025": 4.4,
     "gdpppppc2025": "3699.415",
-    "gdppc2025": "979.511"
+    "gdppc2025": "979.511",
+    "debt": "41.2"
   },
   {
     "capital": "Singapore",
     "code": "SGP",
     "country": "Singapore",
     "currency": "SGD",
-    "debt": "134.2",
     "gdp2025": "574.185",
     "id": "SG",
     "phoneCode": "+65",
@@ -4155,14 +4154,14 @@
     "rank": 115,
     "growth2025": 2.2,
     "gdpppppc2025": "156969.073",
-    "gdppc2025": "94480.797"
+    "gdppc2025": "94480.797",
+    "debt": "175.6"
   },
   {
     "capital": "Philipsburg",
     "code": "SXM",
     "country": "Sint Maarten",
     "currency": "ANG",
-    "debt": "0",
     "gdp2025": "0",
     "id": "SX",
     "phoneCode": "+1-721",
@@ -4177,14 +4176,14 @@
     "rank": 213,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Bratislava",
     "code": "SVK",
     "country": "Slovakia",
     "currency": "EUR",
-    "debt": "58.8",
     "gdp2025": "154.587",
     "id": "SK",
     "phoneCode": "+421",
@@ -4199,14 +4198,14 @@
     "rank": 124,
     "growth2025": 0.9,
     "gdpppppc2025": "47596.544",
-    "gdppc2025": "28524.477"
+    "gdppc2025": "28524.477",
+    "debt": "59.6"
   },
   {
     "capital": "Ljubljana",
     "code": "SVN",
     "country": "Slovenia",
     "currency": "EUR",
-    "debt": "70.2",
     "gdp2025": "79.221",
     "id": "SI",
     "phoneCode": "+386",
@@ -4221,14 +4220,14 @@
     "rank": 149,
     "growth2025": 1.1,
     "gdpppppc2025": "57716.483",
-    "gdppc2025": "37178.02"
+    "gdppc2025": "37178.02",
+    "debt": "66.6"
   },
   {
     "capital": "Honiara",
     "code": "SLB",
     "country": "Solomon Islands",
     "currency": "SBD",
-    "debt": "16.9",
     "gdp2025": "1.904",
     "id": "SB",
     "phoneCode": "+677",
@@ -4243,14 +4242,14 @@
     "rank": 164,
     "growth2025": 2.7,
     "gdpppppc2025": "2711.602",
-    "gdppc2025": "2385.574"
+    "gdppc2025": "2385.574",
+    "debt": "23.7"
   },
   {
     "capital": "Mogadishu",
     "code": "SOM",
     "country": "Somalia",
     "currency": "SOS",
-    "debt": "0",
     "gdp2025": "12.944",
     "id": "SO",
     "phoneCode": "+252",
@@ -4265,14 +4264,14 @@
     "rank": 66,
     "growth2025": 3,
     "gdpppppc2025": "1897.715",
-    "gdppc2025": "763.077"
+    "gdppc2025": "763.077",
+    "debt": "0"
   },
   {
     "capital": "Pretoria",
     "code": "ZAF",
     "country": "South Africa",
     "currency": "ZAR",
-    "debt": "71",
     "gdp2025": "426.383",
     "id": "ZA",
     "phoneCode": "+27",
@@ -4287,14 +4286,14 @@
     "rank": 24,
     "growth2025": 1.1,
     "gdpppppc2025": "16049.821",
-    "gdppc2025": "6666.705"
+    "gdppc2025": "6666.705",
+    "debt": "77.3"
   },
   {
     "capital": "Seoul",
     "code": "KOR",
     "country": "South Korea",
     "currency": "KRW",
-    "debt": "54.3",
     "gdp2025": "0",
     "id": "KR",
     "phoneCode": "+82",
@@ -4309,14 +4308,14 @@
     "rank": 31,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Juba",
     "code": "SSD",
     "country": "South Sudan",
     "currency": "SSP",
-    "debt": "39.6",
     "gdp2025": "4.979",
     "id": "SS",
     "phoneCode": "+211",
@@ -4331,14 +4330,14 @@
     "rank": 80,
     "growth2025": 24.3,
     "gdpppppc2025": "953.68",
-    "gdppc2025": "313.218"
+    "gdppc2025": "313.218",
+    "debt": "66"
   },
   {
     "capital": "Madrid",
     "code": "ESP",
     "country": "Spain",
     "currency": "EUR",
-    "debt": "112",
     "gdp2025": "1891.371",
     "id": "ES",
     "phoneCode": "+34",
@@ -4353,14 +4352,14 @@
     "rank": 34,
     "growth2025": 2.9,
     "gdpppppc2025": "56887.928",
-    "gdppc2025": "38039.876"
+    "gdppc2025": "38039.876",
+    "debt": "100.4"
   },
   {
     "capital": "Colombo",
     "code": "LKA",
     "country": "Sri Lanka",
     "currency": "LKR",
-    "debt": "117.7",
     "gdp2025": "0",
     "id": "LK",
     "phoneCode": "+94",
@@ -4375,14 +4374,14 @@
     "rank": 60,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Castries",
     "code": "LCA",
     "country": "Saint Lucia",
     "currency": "XCD",
-    "debt": "83.5",
     "gdp2025": "2.659",
     "id": "LC",
     "phoneCode": "+1-758",
@@ -4397,14 +4396,14 @@
     "rank": 190,
     "growth2025": 2.4,
     "gdpppppc2025": "29257.601",
-    "gdppc2025": "14647.443"
+    "gdppc2025": "14647.443",
+    "debt": "77"
   },
   {
     "capital": "Khartoum",
     "code": "SDN",
     "country": "Sudan",
     "currency": "SDG",
-    "debt": "127.6",
     "gdp2025": "35.897",
     "id": "SD",
     "phoneCode": "+249",
@@ -4419,14 +4418,14 @@
     "rank": 29,
     "growth2025": 3.2,
     "gdpppppc2025": "2418.619",
-    "gdppc2025": "711.995"
+    "gdppc2025": "711.995",
+    "debt": "221.5"
   },
   {
     "capital": "Paramaribo",
     "code": "SUR",
     "country": "Suriname",
     "currency": "SRD",
-    "debt": "123.2",
     "gdp2025": "4.496",
     "id": "SR",
     "phoneCode": "+597",
@@ -4441,14 +4440,14 @@
     "rank": 169,
     "growth2025": 2.7,
     "gdpppppc2025": "22303.229",
-    "gdppc2025": "6843.471"
+    "gdppc2025": "6843.471",
+    "debt": "89.1"
   },
   {
     "capital": "Mbabane",
     "code": "SWZ",
     "country": "Eswatini",
     "currency": "SZL",
-    "debt": "45.4",
     "gdp2025": "5.201",
     "id": "SZ",
     "phoneCode": "+268",
@@ -4463,14 +4462,14 @@
     "rank": 158,
     "growth2025": 4.3,
     "gdpppppc2025": "13310.106",
-    "gdppc2025": "4409.528"
+    "gdppc2025": "4409.528",
+    "debt": "42.8"
   },
   {
     "capital": "Stockholm",
     "code": "SWE",
     "country": "Sweden",
     "currency": "SEK",
-    "debt": "31.7",
     "gdp2025": "662.318",
     "id": "SE",
     "phoneCode": "+46",
@@ -4485,14 +4484,14 @@
     "rank": 91,
     "growth2025": 0.7,
     "gdpppppc2025": "73069.51",
-    "gdppc2025": "62036.06"
+    "gdppc2025": "62036.06",
+    "debt": "34.2"
   },
   {
     "capital": "Bern",
     "code": "CHE",
     "country": "Switzerland",
     "currency": "CHF",
-    "debt": "39.1",
     "gdp2025": "1002.666",
     "id": "CH",
     "phoneCode": "+41",
@@ -4507,14 +4506,14 @@
     "rank": 100,
     "growth2025": 0.9,
     "gdpppppc2025": "97659.278",
-    "gdppc2025": "111046.892"
+    "gdppc2025": "111046.892",
+    "debt": "36.9"
   },
   {
     "capital": "Damascus",
     "code": "SYR",
     "country": "Syria",
     "currency": "SYP",
-    "debt": "0",
     "gdp2025": "0",
     "id": "SY",
     "phoneCode": "+963",
@@ -4529,14 +4528,14 @@
     "rank": 57,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Taipei",
     "code": "TWN",
     "country": "Taiwan",
     "currency": "TWD",
-    "debt": "27.5",
     "gdp2025": "884.387",
     "id": "TW",
     "phoneCode": "+886",
@@ -4551,14 +4550,14 @@
     "rank": 61,
     "growth2025": 3.7,
     "gdpppppc2025": "85126.907",
-    "gdppc2025": "37826.616"
+    "gdppc2025": "37826.616",
+    "debt": "23.4"
   },
   {
     "capital": "Dushanbe",
     "code": "TJK",
     "country": "Tajikistan",
     "currency": "TJS",
-    "debt": "34.6",
     "gdp2025": "17.032",
     "id": "TJ",
     "phoneCode": "+992",
@@ -4573,14 +4572,14 @@
     "rank": 88,
     "growth2025": 7.5,
     "gdpppppc2025": "6088.848",
-    "gdppc2025": "1643.986"
+    "gdppc2025": "1643.986",
+    "debt": "22"
   },
   {
     "capital": "Dodoma",
     "code": "TZA",
     "country": "Tanzania",
     "currency": "TZS",
-    "debt": "41.6",
     "gdp2025": "87.444",
     "id": "TZ",
     "phoneCode": "+255",
@@ -4595,14 +4594,14 @@
     "rank": 20,
     "growth2025": 6,
     "gdpppppc2025": "4371.129",
-    "gdppc2025": "1301.737"
+    "gdppc2025": "1301.737",
+    "debt": "49.6"
   },
   {
     "capital": "Bangkok",
     "code": "THA",
     "country": "Thailand",
     "currency": "THB",
-    "debt": "60.5",
     "gdp2025": "558.573",
     "id": "TH",
     "phoneCode": "+66",
@@ -4617,14 +4616,14 @@
     "rank": 21,
     "growth2025": 2,
     "gdpppppc2025": "26358.583",
-    "gdppc2025": "7942.299"
+    "gdppc2025": "7942.299",
+    "debt": "64.9"
   },
   {
     "capital": "Dili",
     "code": "TLS",
     "country": "Timor-Leste",
     "currency": "USD",
-    "debt": "7.5",
     "gdp2025": "2.125",
     "id": "TL",
     "phoneCode": "+670",
@@ -4639,14 +4638,14 @@
     "rank": 155,
     "growth2025": 3.9,
     "gdpppppc2025": "5018.747",
-    "gdppc2025": "1507.874"
+    "gdppc2025": "1507.874",
+    "debt": "13.9"
   },
   {
     "capital": "Lomé",
     "code": "TGO",
     "country": "Togo",
     "currency": "XOF",
-    "debt": "68",
     "gdp2025": "10.951",
     "id": "TG",
     "phoneCode": "+228",
@@ -4661,14 +4660,14 @@
     "rank": 95,
     "growth2025": 5.2,
     "gdpppppc2025": "3372.914",
-    "gdppc2025": "1119.598"
+    "gdppc2025": "1119.598",
+    "debt": "71.9"
   },
   {
     "capital": "Fakaofo",
     "code": "TKL",
     "country": "Tokelau",
     "currency": "NZD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "TK",
     "phoneCode": "+690",
@@ -4683,14 +4682,14 @@
     "rank": 233,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Nuku'alofa",
     "code": "TON",
     "country": "Tonga",
     "currency": "TOP",
-    "debt": "46.6",
     "gdp2025": "0.587",
     "id": "TO",
     "phoneCode": "+676",
@@ -4705,14 +4704,14 @@
     "rank": 198,
     "growth2025": 2.7,
     "gdpppppc2025": "8086.178",
-    "gdppc2025": "5921.472"
+    "gdppc2025": "5921.472",
+    "debt": "31.6"
   },
   {
     "capital": "Port of Spain",
     "code": "TTO",
     "country": "Trinidad and Tobago",
     "currency": "TTD",
-    "debt": "53.8",
     "gdp2025": "26.002",
     "id": "TT",
     "phoneCode": "+1-868",
@@ -4727,14 +4726,14 @@
     "rank": 154,
     "growth2025": 1,
     "gdpppppc2025": "35899.578",
-    "gdppc2025": "18120.734"
+    "gdppc2025": "18120.734",
+    "debt": "65.3"
   },
   {
     "capital": "Tunis",
     "code": "TUN",
     "country": "Tunisia",
     "currency": "TND",
-    "debt": "79.4",
     "gdp2025": "59.069",
     "id": "TN",
     "phoneCode": "+216",
@@ -4749,14 +4748,14 @@
     "rank": 81,
     "growth2025": 2.5,
     "gdpppppc2025": "14982.77",
-    "gdppc2025": "4751.548"
+    "gdppc2025": "4751.548",
+    "debt": "80.6"
   },
   {
     "capital": "Ankara",
     "code": "TUR",
     "country": "Turkey",
     "currency": "TRY",
-    "debt": "31.2",
     "gdp2025": "1565.471",
     "id": "TR",
     "phoneCode": "+90",
@@ -4771,14 +4770,14 @@
     "rank": 18,
     "growth2025": 3.5,
     "gdpppppc2025": "43786.195",
-    "gdppc2025": "18197.575"
+    "gdppc2025": "18197.575",
+    "debt": "24.3"
   },
   {
     "capital": "Ashgabat",
     "code": "TKM",
     "country": "Turkmenistan",
     "currency": "TMT",
-    "debt": "5.2",
     "gdp2025": "72.119",
     "id": "TM",
     "phoneCode": "+993",
@@ -4793,14 +4792,14 @@
     "rank": 104,
     "growth2025": 2.3,
     "gdpppppc2025": "22855.95",
-    "gdppc2025": "10801.102"
+    "gdppc2025": "10801.102",
+    "debt": "3.9"
   },
   {
     "capital": "Cockburn Town",
     "code": "TCA",
     "country": "Turks and Caicos Islands",
     "currency": "USD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "TC",
     "phoneCode": "+1-649",
@@ -4815,14 +4814,14 @@
     "rank": 210,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Funafuti",
     "code": "TUV",
     "country": "Tuvalu",
     "currency": "AUD",
-    "debt": "7.6",
     "gdp2025": "0.058",
     "id": "TV",
     "phoneCode": "+688",
@@ -4837,14 +4836,14 @@
     "rank": 228,
     "growth2025": 3,
     "gdpppppc2025": "6157.997",
-    "gdppc2025": "5830.305"
+    "gdppc2025": "5830.305",
+    "debt": "3.6"
   },
   {
     "capital": "Kampala",
     "code": "UGA",
     "country": "Uganda",
     "currency": "UGX",
-    "debt": "50.8",
     "gdp2025": "64.993",
     "id": "UG",
     "phoneCode": "+256",
@@ -4859,14 +4858,14 @@
     "rank": 30,
     "growth2025": 6.4,
     "gdpppppc2025": "3904.245",
-    "gdppc2025": "1353.414"
+    "gdppc2025": "1353.414",
+    "debt": "52.4"
   },
   {
     "capital": "Kiev",
     "code": "UKR",
     "country": "Ukraine",
     "currency": "UAH",
-    "debt": "81.7",
     "gdp2025": "209.713",
     "id": "UA",
     "phoneCode": "+380",
@@ -4881,14 +4880,14 @@
     "rank": 40,
     "growth2025": 2,
     "gdpppppc2025": "20903.942",
-    "gdppc2025": "6381.676"
+    "gdppc2025": "6381.676",
+    "debt": "108.6"
   },
   {
     "capital": "Abu Dhabi",
     "code": "ARE",
     "country": "United Arab Emirates",
     "currency": "AED",
-    "debt": "30",
     "gdp2025": "569.097",
     "id": "AE",
     "phoneCode": "+971",
@@ -4903,14 +4902,14 @@
     "rank": 86,
     "growth2025": 4.8,
     "gdpppppc2025": "84402.77",
-    "gdppc2025": "51347.902"
+    "gdppc2025": "51347.902",
+    "debt": "34"
   },
   {
     "capital": "London",
     "code": "GBR",
     "country": "United Kingdom",
     "currency": "GBP",
-    "debt": "102.6",
     "gdp2025": "3958.78",
     "id": "GB",
     "phoneCode": "+44",
@@ -4925,14 +4924,14 @@
     "rank": 22,
     "growth2025": 1.3,
     "gdpppppc2025": "63759.051",
-    "gdppc2025": "56660.868"
+    "gdppc2025": "56660.868",
+    "debt": "103.4"
   },
   {
     "capital": "Washington. D.C.",
     "code": "USA",
     "country": "United States",
     "currency": "USD",
-    "debt": "121.7",
     "gdp2025": "30615.743",
     "id": "US",
     "phoneCode": "+1",
@@ -4947,14 +4946,14 @@
     "rank": 3,
     "growth2025": 2,
     "gdpppppc2025": "89598.86",
-    "gdppc2025": "89598.86"
+    "gdppc2025": "89598.86",
+    "debt": "125"
   },
   {
     "capital": "Montevideo",
     "code": "URY",
     "country": "Uruguay",
     "currency": "UYU",
-    "debt": "61",
     "gdp2025": "84.986",
     "id": "UY",
     "phoneCode": "+598",
@@ -4969,14 +4968,14 @@
     "rank": 134,
     "growth2025": 2.5,
     "gdpppppc2025": "37190.134",
-    "gdppc2025": "24379.608"
+    "gdppc2025": "24379.608",
+    "debt": "66.6"
   },
   {
     "capital": "Charlotte Amalie",
     "code": "VIR",
     "country": "United States Virgin Islands",
     "currency": "USD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "VI",
     "phoneCode": "+1-340",
@@ -4991,14 +4990,14 @@
     "rank": 203,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Tashkent",
     "code": "UZB",
     "country": "Uzbekistan",
     "currency": "UZS",
-    "debt": "34.3",
     "gdp2025": "137.48",
     "id": "UZ",
     "phoneCode": "+998",
@@ -5013,14 +5012,14 @@
     "rank": 43,
     "growth2025": 6.8,
     "gdpppppc2025": "12558.992",
-    "gdppc2025": "3646.604"
+    "gdppc2025": "3646.604",
+    "debt": "31.1"
   },
   {
     "capital": "Port Vila",
     "code": "VUT",
     "country": "Vanuatu",
     "currency": "VUV",
-    "debt": "45.8",
     "gdp2025": "1.119",
     "id": "VU",
     "phoneCode": "+678",
@@ -5035,14 +5034,14 @@
     "rank": 181,
     "growth2025": 1.7,
     "gdpppppc2025": "2995.597",
-    "gdppc2025": "3132.9"
+    "gdppc2025": "3132.9",
+    "debt": "48.6"
   },
   {
     "capital": "Vatican City",
     "code": "VAT",
     "country": "Vatican City",
     "currency": "EUR",
-    "debt": "0",
     "gdp2025": "0",
     "id": "VA",
     "phoneCode": "+39",
@@ -5057,14 +5056,14 @@
     "rank": 235,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Caracas",
     "code": "VEN",
     "country": "Venezuela",
     "currency": "VEF",
-    "debt": "157.8",
     "gdp2025": "82.767",
     "id": "VE",
     "phoneCode": "+58",
@@ -5079,14 +5078,14 @@
     "rank": 54,
     "growth2025": 0.5,
     "gdpppppc2025": "8785.445",
-    "gdppc2025": "3102.938"
+    "gdppc2025": "3102.938",
+    "debt": "0"
   },
   {
     "capital": "Hanoi",
     "code": "VNM",
     "country": "Vietnam",
     "currency": "VND",
-    "debt": "37.1",
     "gdp2025": "484.726",
     "id": "VN",
     "phoneCode": "+84",
@@ -5101,14 +5100,14 @@
     "rank": 16,
     "growth2025": 6.5,
     "gdpppppc2025": "17688.249",
-    "gdppc2025": "4744.725"
+    "gdppc2025": "4744.725",
+    "debt": "32"
   },
   {
     "capital": "Mata-Utu",
     "code": "WLF",
     "country": "Wallis and Futuna",
     "currency": "XPF",
-    "debt": "0",
     "gdp2025": "0",
     "id": "WF",
     "phoneCode": "+681",
@@ -5123,14 +5122,14 @@
     "rank": 227,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "El-Aaiun",
     "code": "ESH",
     "country": "Western Sahara",
     "currency": "MAD",
-    "debt": "0",
     "gdp2025": "0",
     "id": "EH",
     "phoneCode": "+212",
@@ -5145,14 +5144,14 @@
     "rank": 171,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Longyearbyen",
     "code": "SJM",
     "country": "Svalbard",
     "currency": "NOK",
-    "debt": "0",
     "gdp2025": "0",
     "id": "SJ",
     "phoneCode": "+47",
@@ -5167,14 +5166,14 @@
     "rank": 0,
     "growth2025": 0,
     "gdpppppc2025": "0",
-    "gdppc2025": "0"
+    "gdppc2025": "0",
+    "debt": "0"
   },
   {
     "capital": "Sana'a",
     "code": "YEM",
     "country": "Yemen",
     "currency": "YER",
-    "debt": "73.5",
     "gdp2025": "17.352",
     "id": "YE",
     "phoneCode": "+967",
@@ -5189,14 +5188,14 @@
     "rank": 37,
     "growth2025": -1.5,
     "gdpppppc2025": "1673.722",
-    "gdppc2025": "415.379"
+    "gdppc2025": "415.379",
+    "debt": "71.4"
   },
   {
     "capital": "Lusaka",
     "code": "ZMB",
     "country": "Zambia",
     "currency": "ZMK",
-    "debt": "0",
     "gdp2025": "29.369",
     "id": "ZM",
     "phoneCode": "+260",
@@ -5211,14 +5210,14 @@
     "rank": 63,
     "growth2025": 5.8,
     "gdpppppc2025": "4503.432",
-    "gdppc2025": "1352.989"
+    "gdppc2025": "1352.989",
+    "debt": "0"
   },
   {
     "capital": "Harare",
     "code": "ZWE",
     "country": "Zimbabwe",
     "currency": "ZWL",
-    "debt": "92.8",
     "gdp2025": "53.31",
     "id": "ZW",
     "phoneCode": "+263",
@@ -5233,6 +5232,7 @@
     "rank": 74,
     "growth2025": 6,
     "gdpppppc2025": "7842.812",
-    "gdppc2025": "3070.883"
+    "gdppc2025": "3070.883",
+    "debt": "45"
   }
 ]
