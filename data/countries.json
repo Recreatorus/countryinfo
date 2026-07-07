@@ -3388,28 +3388,6 @@
     "debt": "0"
   },
   {
-    "capital": "Skopje",
-    "code": "MKD",
-    "country": "North Macedonia",
-    "currency": "MKD",
-    "gdp2025": "19.142",
-    "id": "MK",
-    "phoneCode": "+389",
-    "rusName": "Северная Македония",
-    "timezones": "UTC+02:00",
-    "pop2026": 1804060,
-    "area": 25713,
-    "landAreaKm": 25220,
-    "density": 71.5329,
-    "growthRate": -0.0054,
-    "worldPercentage": 0.0002,
-    "rank": 152,
-    "growth2025": "3.5",
-    "gdpppppc2025": "29509.916",
-    "gdppc2025": "10377.988",
-    "debt": "52.9"
-  },
-  {
     "capital": "Oslo",
     "code": "NOR",
     "country": "Norway",
