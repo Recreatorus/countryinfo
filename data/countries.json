@@ -19,8 +19,7 @@
     "growth2025": "3",
     "gdpppppc2025": "0",
     "gdppc2025": "0",
-    "debt": "0",
-    "imfCountry": "Afghanistan"
+    "debt": "0"
   },
   {
     "capital": "Tirana",
@@ -42,8 +41,7 @@
     "growth2025": "3.7",
     "gdpppppc2025": "23327.052",
     "gdppc2025": "11108.181",
-    "debt": "54.1",
-    "imfCountry": "Albania"
+    "debt": "54.1"
   },
   {
     "capital": "Algiers",
@@ -65,8 +63,7 @@
     "growth2025": "3.8",
     "gdpppppc2025": "18509.449",
     "gdppc2025": "6095.322",
-    "debt": "54",
-    "imfCountry": "Algeria"
+    "debt": "54"
   },
   {
     "capital": "Pago Pago",
@@ -110,8 +107,7 @@
     "growth2025": "3.9",
     "gdpppppc2025": "72359.32",
     "gdppc2025": "49450.638",
-    "debt": "31.7",
-    "imfCountry": "Andorra"
+    "debt": "31.7"
   },
   {
     "capital": "Luanda",
@@ -133,8 +129,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "10216.557",
     "gdppc2025": "2930.687",
-    "debt": "62.4",
-    "imfCountry": "Angola"
+    "debt": "62.4"
   },
   {
     "capital": "The Valley",
@@ -178,8 +173,7 @@
     "growth2025": "3",
     "gdpppppc2025": "31380.292",
     "gdppc2025": "22313.811",
-    "debt": "65.7",
-    "imfCountry": "Antigua and Barbuda"
+    "debt": "65.7"
   },
   {
     "capital": "Buenos Aires",
@@ -201,8 +195,7 @@
     "growth2025": "4.4",
     "gdpppppc2025": "31311.011",
     "gdppc2025": "14358.848",
-    "debt": "78.8",
-    "imfCountry": "Argentina"
+    "debt": "78.8"
   },
   {
     "capital": "Yerevan",
@@ -224,8 +217,7 @@
     "growth2025": "7.2",
     "gdpppppc2025": "23954.238",
     "gdppc2025": "8968.916",
-    "debt": "53.4",
-    "imfCountry": "Armenia"
+    "debt": "53.4"
   },
   {
     "capital": "Oranjestad",
@@ -247,8 +239,7 @@
     "growth2025": "5.6",
     "gdpppppc2025": "49451.388",
     "gdppc2025": "39606.356",
-    "debt": "67.1",
-    "imfCountry": "Aruba"
+    "debt": "67.1"
   },
   {
     "capital": "Canberra",
@@ -270,8 +261,7 @@
     "growth2025": "2",
     "gdpppppc2025": "71430.886",
     "gdppc2025": "65946.015",
-    "debt": "51",
-    "imfCountry": "Australia"
+    "debt": "51"
   },
   {
     "capital": "Vienna",
@@ -293,8 +283,7 @@
     "growth2025": "0.6",
     "gdpppppc2025": "74852.289",
     "gdppc2025": "61694.026",
-    "debt": "82",
-    "imfCountry": "Austria"
+    "debt": "82"
   },
   {
     "capital": "Baku",
@@ -316,8 +305,7 @@
     "growth2025": "1.4",
     "gdpppppc2025": "26081.082",
     "gdppc2025": "7365.278",
-    "debt": "22.4",
-    "imfCountry": "Azerbaijan"
+    "debt": "22.4"
   },
   {
     "capital": "Nassau",
@@ -339,8 +327,7 @@
     "growth2025": "2.8",
     "gdpppppc2025": "42002.508",
     "gdppc2025": "39726.431",
-    "debt": "74.1",
-    "imfCountry": "Bahamas. The"
+    "debt": "74.1"
   },
   {
     "capital": "Manama",
@@ -362,8 +349,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "69270.719",
     "gdppc2025": "29252.835",
-    "debt": "142.5",
-    "imfCountry": "Bahrain"
+    "debt": "142.5"
   },
   {
     "capital": "Dhaka",
@@ -385,8 +371,7 @@
     "growth2025": "3.5",
     "gdpppppc2025": "10257.554",
     "gdppc2025": "2734.098",
-    "debt": "40.3",
-    "imfCountry": "Bangladesh"
+    "debt": "40.3"
   },
   {
     "capital": "Bridgetown",
@@ -408,8 +393,7 @@
     "growth2025": "2.7",
     "gdpppppc2025": "23183.92",
     "gdppc2025": "25926.578",
-    "debt": "99.8",
-    "imfCountry": "Barbados"
+    "debt": "99.8"
   },
   {
     "capital": "Minsk",
@@ -431,8 +415,7 @@
     "growth2025": "1.3",
     "gdpppppc2025": "34069.078",
     "gdppc2025": "9435.376",
-    "debt": "35.8",
-    "imfCountry": "Belarus"
+    "debt": "35.8"
   },
   {
     "capital": "Brussels",
@@ -454,8 +437,7 @@
     "growth2025": "1",
     "gdpppppc2025": "75882.366",
     "gdppc2025": "60417.875",
-    "debt": "107.5",
-    "imfCountry": "Belgium"
+    "debt": "107.5"
   },
   {
     "capital": "Belmopan",
@@ -477,8 +459,7 @@
     "growth2025": "2.7",
     "gdpppppc2025": "14920.769",
     "gdppc2025": "7896.841",
-    "debt": "64.7",
-    "imfCountry": "Belize"
+    "debt": "64.7"
   },
   {
     "capital": "Porto-Novo",
@@ -500,8 +481,7 @@
     "growth2025": "7.5",
     "gdpppppc2025": "4719.244",
     "gdppc2025": "1635.236",
-    "debt": "50.7",
-    "imfCountry": "Benin"
+    "debt": "50.7"
   },
   {
     "capital": "Hamilton",
@@ -545,8 +525,7 @@
     "growth2025": "7.1",
     "gdpppppc2025": "17721.787",
     "gdppc2025": "4285.191",
-    "debt": "105.6",
-    "imfCountry": "Bhutan"
+    "debt": "105.6"
   },
   {
     "capital": "La Paz",
@@ -568,8 +547,7 @@
     "growth2025": "-1.2",
     "gdpppppc2025": "11439.02",
     "gdppc2025": "4585.184",
-    "debt": "93.7",
-    "imfCountry": "Bolivia"
+    "debt": "93.7"
   },
   {
     "capital": "Sarajevo",
@@ -591,8 +569,7 @@
     "growth2025": "2",
     "gdpppppc2025": "22829.684",
     "gdppc2025": "9647.635",
-    "debt": "30.6",
-    "imfCountry": "Bosnia and Herzegovina"
+    "debt": "30.6"
   },
   {
     "capital": "Gaborone",
@@ -614,8 +591,7 @@
     "growth2025": "-0.9",
     "gdpppppc2025": "19053.102",
     "gdppc2025": "6943.157",
-    "debt": "38.8",
-    "imfCountry": "Botswana"
+    "debt": "38.8"
   },
   {
     "capital": "Brasília",
@@ -637,8 +613,7 @@
     "growth2025": "2.3",
     "gdpppppc2025": "23309.631",
     "gdppc2025": "10577.855",
-    "debt": "91.4",
-    "imfCountry": "Brazil"
+    "debt": "91.4"
   },
   {
     "capital": "Diego Garcia",
@@ -704,8 +679,7 @@
     "growth2025": "0.6",
     "gdpppppc2025": "94472.473",
     "gdppc2025": "33858.364",
-    "debt": "2.3",
-    "imfCountry": "Brunei Darussalam"
+    "debt": "2.3"
   },
   {
     "capital": "Sofia",
@@ -727,8 +701,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "42477.288",
     "gdppc2025": "20425.72",
-    "debt": "28.4",
-    "imfCountry": "Bulgaria"
+    "debt": "28.4"
   },
   {
     "capital": "Ouagadougou",
@@ -750,8 +723,7 @@
     "growth2025": "5",
     "gdpppppc2025": "3019.005",
     "gdppc2025": "1115.018",
-    "debt": "53.2",
-    "imfCountry": "Burkina Faso"
+    "debt": "53.2"
   },
   {
     "capital": "Bujumbura",
@@ -773,8 +745,7 @@
     "growth2025": "3.9",
     "gdpppppc2025": "989.295",
     "gdppc2025": "485.542",
-    "debt": "40.3",
-    "imfCountry": "Burundi"
+    "debt": "40.3"
   },
   {
     "capital": "Praia",
@@ -796,8 +767,7 @@
     "growth2025": "5.5",
     "gdpppppc2025": "12335.268",
     "gdppc2025": "5671.001",
-    "debt": "106",
-    "imfCountry": "Cabo Verde"
+    "debt": "106"
   },
   {
     "capital": "Phnom Penh",
@@ -819,8 +789,7 @@
     "growth2025": "5",
     "gdpppppc2025": "8707.071",
     "gdppc2025": "2812.212",
-    "debt": "27.8",
-    "imfCountry": "Cambodia"
+    "debt": "27.8"
   },
   {
     "capital": "Yaoundé",
@@ -842,8 +811,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "5791.088",
     "gdppc2025": "2027.399",
-    "debt": "37.9",
-    "imfCountry": "Cameroon"
+    "debt": "37.9"
   },
   {
     "capital": "Ottawa",
@@ -865,8 +833,7 @@
     "growth2025": "1.7",
     "gdpppppc2025": "65500.245",
     "gdppc2025": "54934.843",
-    "debt": "113.9",
-    "imfCountry": "Canada"
+    "debt": "113.9"
   },
   {
     "capital": "George Town",
@@ -910,8 +877,7 @@
     "growth2025": "4.8",
     "gdpppppc2025": "1369.326",
     "gdppc2025": "598.522",
-    "debt": "57.1",
-    "imfCountry": "Central African Republic"
+    "debt": "57.1"
   },
   {
     "capital": "N'Djamena",
@@ -933,8 +899,7 @@
     "growth2025": "5.6",
     "gdpppppc2025": "3155.027",
     "gdppc2025": "1138.773",
-    "debt": "31.5",
-    "imfCountry": "Chad"
+    "debt": "31.5"
   },
   {
     "capital": "Santiago",
@@ -956,8 +921,7 @@
     "growth2025": "2.3",
     "gdpppppc2025": "35286.468",
     "gdppc2025": "17180.935",
-    "debt": "42.7",
-    "imfCountry": "Chile"
+    "debt": "42.7"
   },
   {
     "capital": "Beijing",
@@ -979,8 +943,7 @@
     "growth2025": "5",
     "gdpppppc2025": "29191.097",
     "gdppc2025": "13806.031",
-    "debt": "96.3",
-    "imfCountry": "China. People's Republic of"
+    "debt": "96.3"
   },
   {
     "capital": "Bogotá",
@@ -1002,8 +965,7 @@
     "growth2025": "2.6",
     "gdpppppc2025": "22396.001",
     "gdppc2025": "8249.219",
-    "debt": "58.9",
-    "imfCountry": "Colombia"
+    "debt": "58.9"
   },
   {
     "capital": "Moroni",
@@ -1025,8 +987,7 @@
     "growth2025": "3.8",
     "gdpppppc2025": "4015.311",
     "gdppc2025": "1773.102",
-    "debt": "30.2",
-    "imfCountry": "Comoros"
+    "debt": "30.2"
   },
   {
     "capital": "Avarua",
@@ -1070,8 +1031,7 @@
     "growth2025": "4.6",
     "gdpppppc2025": "31485.04",
     "gdppc2025": "19104.053",
-    "debt": "59.7",
-    "imfCountry": "Costa Rica"
+    "debt": "59.7"
   },
   {
     "capital": "Yamoussoukro",
@@ -1093,8 +1053,7 @@
     "growth2025": "6.5",
     "gdpppppc2025": "8112.673",
     "gdppc2025": "3015.643",
-    "debt": "55.6",
-    "imfCountry": "Côte d'Ivoire"
+    "debt": "55.6"
   },
   {
     "capital": "Zagreb",
@@ -1116,8 +1075,7 @@
     "growth2025": "3.2",
     "gdpppppc2025": "51453.311",
     "gdppc2025": "26957.85",
-    "debt": "57",
-    "imfCountry": "Croatia"
+    "debt": "57"
   },
   {
     "capital": "Havana",
@@ -1183,8 +1141,7 @@
     "growth2025": "3.8",
     "gdpppppc2025": "65304.132",
     "gdppc2025": "42412.816",
-    "debt": "57.7",
-    "imfCountry": "Cyprus"
+    "debt": "57.7"
   },
   {
     "capital": "Prague",
@@ -1206,8 +1163,7 @@
     "growth2025": "2.5",
     "gdpppppc2025": "59853.135",
     "gdppc2025": "35161.476",
-    "debt": "44",
-    "imfCountry": "Czech Republic"
+    "debt": "44"
   },
   {
     "capital": "Kinshasa",
@@ -1229,8 +1185,7 @@
     "growth2025": "5.7",
     "gdpppppc2025": "1974.505",
     "gdppc2025": "772.032",
-    "debt": "19.1",
-    "imfCountry": "Congo. Dem. Rep. of the"
+    "debt": "19.1"
   },
   {
     "capital": "Copenhagen",
@@ -1252,8 +1207,7 @@
     "growth2025": "2.9",
     "gdpppppc2025": "84762.884",
     "gdppc2025": "76580.718",
-    "debt": "29.6",
-    "imfCountry": "Denmark"
+    "debt": "29.6"
   },
   {
     "capital": "Djibouti",
@@ -1275,8 +1229,7 @@
     "growth2025": "6",
     "gdpppppc2025": "9407.651",
     "gdppc2025": "4368.54",
-    "debt": "30.5",
-    "imfCountry": "Djibouti"
+    "debt": "30.5"
   },
   {
     "capital": "Roseau",
@@ -1298,8 +1251,7 @@
     "growth2025": "4.5",
     "gdpppppc2025": "19381.056",
     "gdppc2025": "9944.043",
-    "debt": "95.7",
-    "imfCountry": "Dominica"
+    "debt": "95.7"
   },
   {
     "capital": "Santo Domingo",
@@ -1321,8 +1273,7 @@
     "growth2025": "2.1",
     "gdpppppc2025": "30537.613",
     "gdppc2025": "11919.42",
-    "debt": "60",
-    "imfCountry": "Dominican Republic"
+    "debt": "60"
   },
   {
     "capital": "Quito",
@@ -1344,8 +1295,7 @@
     "growth2025": "3.7",
     "gdpppppc2025": "16805.019",
     "gdppc2025": "7210.108",
-    "debt": "0",
-    "imfCountry": "Ecuador"
+    "debt": "0"
   },
   {
     "capital": "Cairo",
@@ -1367,8 +1317,7 @@
     "growth2025": "4.4",
     "gdpppppc2025": "21758.838",
     "gdppc2025": "3191.08",
-    "debt": "87",
-    "imfCountry": "Egypt"
+    "debt": "87"
   },
   {
     "capital": "San Salvador",
@@ -1390,8 +1339,7 @@
     "growth2025": "3.7",
     "gdpppppc2025": "13876.768",
     "gdppc2025": "5743.686",
-    "debt": "87.6",
-    "imfCountry": "El Salvador"
+    "debt": "87.6"
   },
   {
     "capital": "Malabo",
@@ -1413,8 +1361,7 @@
     "growth2025": "-6.4",
     "gdpppppc2025": "20493.834",
     "gdppc2025": "8228.755",
-    "debt": "36.6",
-    "imfCountry": "Equatorial Guinea"
+    "debt": "36.6"
   },
   {
     "capital": "Asmara",
@@ -1436,8 +1383,7 @@
     "growth2025": "0",
     "gdpppppc2025": "0",
     "gdppc2025": "0",
-    "debt": "0",
-    "imfCountry": "Eritrea"
+    "debt": "0"
   },
   {
     "capital": "Tallinn",
@@ -1459,8 +1405,7 @@
     "growth2025": "0.6",
     "gdpppppc2025": "49087.453",
     "gdppc2025": "34041.287",
-    "debt": "24.4",
-    "imfCountry": "Estonia"
+    "debt": "24.4"
   },
   {
     "capital": "Addis Ababa",
@@ -1482,8 +1427,7 @@
     "growth2025": "9.2",
     "gdpppppc2025": "4419.777",
     "gdppc2025": "994.042",
-    "debt": "46.7",
-    "imfCountry": "Ethiopia"
+    "debt": "46.7"
   },
   {
     "capital": "FK",
@@ -1549,8 +1493,7 @@
     "growth2025": "1.1",
     "gdpppppc2025": "4760.79",
     "gdppc2025": "5241.065",
-    "debt": "9.3",
-    "imfCountry": "Micronesia. Fed. States of"
+    "debt": "9.3"
   },
   {
     "capital": "Suva",
@@ -1572,8 +1515,7 @@
     "growth2025": "3.2",
     "gdpppppc2025": "16366.006",
     "gdppc2025": "6825.462",
-    "debt": "76.6",
-    "imfCountry": "Fiji"
+    "debt": "76.6"
   },
   {
     "capital": "Helsinki",
@@ -1595,8 +1537,7 @@
     "growth2025": "0.2",
     "gdpppppc2025": "66512.47",
     "gdppc2025": "56083.74",
-    "debt": "86.8",
-    "imfCountry": "Finland"
+    "debt": "86.8"
   },
   {
     "capital": "Paris",
@@ -1618,8 +1559,7 @@
     "growth2025": "0.9",
     "gdpppppc2025": "66060.528",
     "gdppc2025": "48981.965",
-    "debt": "116.5",
-    "imfCountry": "France"
+    "debt": "116.5"
   },
   {
     "capital": "Cayenne",
@@ -1685,8 +1625,7 @@
     "growth2025": "2.5",
     "gdpppppc2025": "24738.797",
     "gdppc2025": "9303.04",
-    "debt": "76.2",
-    "imfCountry": "Gabon"
+    "debt": "76.2"
   },
   {
     "capital": "Banjul",
@@ -1708,8 +1647,7 @@
     "growth2025": "6",
     "gdpppppc2025": "3680.027",
     "gdppc2025": "889.92",
-    "debt": "74.4",
-    "imfCountry": "Gambia. The"
+    "debt": "74.4"
   },
   {
     "capital": "Tbilisi",
@@ -1731,8 +1669,7 @@
     "growth2025": "7.5",
     "gdpppppc2025": "31089.681",
     "gdppc2025": "10125.977",
-    "debt": "34.2",
-    "imfCountry": "Georgia"
+    "debt": "34.2"
   },
   {
     "capital": "Berlin",
@@ -1754,8 +1691,7 @@
     "growth2025": "0.2",
     "gdpppppc2025": "73553.296",
     "gdppc2025": "59925.317",
-    "debt": "64.4",
-    "imfCountry": "Germany"
+    "debt": "64.4"
   },
   {
     "capital": "Accra",
@@ -1777,8 +1713,7 @@
     "growth2025": "6",
     "gdpppppc2025": "8410.294",
     "gdppc2025": "3193.071",
-    "debt": "59.1",
-    "imfCountry": "Ghana"
+    "debt": "59.1"
   },
   {
     "capital": "Gibraltar",
@@ -1822,8 +1757,7 @@
     "growth2025": "2.1",
     "gdpppppc2025": "44985.382",
     "gdppc2025": "27169.693",
-    "debt": "146.7",
-    "imfCountry": "Greece"
+    "debt": "146.7"
   },
   {
     "capital": "Nuuk",
@@ -1867,8 +1801,7 @@
     "growth2025": "4.4",
     "gdpppppc2025": "21414.454",
     "gdppc2025": "12543.953",
-    "debt": "67.7",
-    "imfCountry": "Grenada"
+    "debt": "67.7"
   },
   {
     "capital": "Basse-Terre",
@@ -1934,8 +1867,7 @@
     "growth2025": "4.1",
     "gdpppppc2025": "15100.087",
     "gdppc2025": "6478.185",
-    "debt": "27",
-    "imfCountry": "Guatemala"
+    "debt": "27"
   },
   {
     "capital": "Conakry",
@@ -1957,8 +1889,7 @@
     "growth2025": "6.7",
     "gdpppppc2025": "4751.115",
     "gdppc2025": "1741.139",
-    "debt": "42.2",
-    "imfCountry": "Guinea"
+    "debt": "42.2"
   },
   {
     "capital": "Bissau",
@@ -1980,8 +1911,7 @@
     "growth2025": "5.5",
     "gdpppppc2025": "3279.352",
     "gdppc2025": "1225.352",
-    "debt": "76.2",
-    "imfCountry": "Guinea-Bissau"
+    "debt": "76.2"
   },
   {
     "capital": "Georgetown",
@@ -2003,8 +1933,7 @@
     "growth2025": "19.3",
     "gdpppppc2025": "94189.295",
     "gdppc2025": "31377.593",
-    "debt": "29",
-    "imfCountry": "Guyana"
+    "debt": "29"
   },
   {
     "capital": "Port-au-Prince",
@@ -2026,8 +1955,7 @@
     "growth2025": "-2.7",
     "gdpppppc2025": "2976.222",
     "gdppc2025": "2461.403",
-    "debt": "11.8",
-    "imfCountry": "Haiti"
+    "debt": "11.8"
   },
   {
     "capital": "Tegucigalpa",
@@ -2049,8 +1977,7 @@
     "growth2025": "3.7",
     "gdpppppc2025": "7955.753",
     "gdppc2025": "3636.621",
-    "debt": "45.1",
-    "imfCountry": "Honduras"
+    "debt": "45.1"
   },
   {
     "capital": "Hong Kong",
@@ -2072,8 +1999,7 @@
     "growth2025": "3.5",
     "gdpppppc2025": "78918.785",
     "gdppc2025": "56843.908",
-    "debt": "11.7",
-    "imfCountry": "Hong Kong SAR"
+    "debt": "11.7"
   },
   {
     "capital": "Budapest",
@@ -2095,8 +2021,7 @@
     "growth2025": "0.4",
     "gdpppppc2025": "48156.868",
     "gdppc2025": "25916.328",
-    "debt": "74.8",
-    "imfCountry": "Hungary"
+    "debt": "74.8"
   },
   {
     "capital": "Reykjavík",
@@ -2118,8 +2043,7 @@
     "growth2025": "1.3",
     "gdpppppc2025": "80466.384",
     "gdppc2025": "98149.915",
-    "debt": "47.4",
-    "imfCountry": "Iceland"
+    "debt": "47.4"
   },
   {
     "capital": "New Delhi",
@@ -2141,8 +2065,7 @@
     "growth2025": "7.6",
     "gdpppppc2025": "12100.965",
     "gdppc2025": "2818.027",
-    "debt": "81.4",
-    "imfCountry": "India"
+    "debt": "81.4"
   },
   {
     "capital": "Jakarta",
@@ -2164,8 +2087,7 @@
     "growth2025": "5.1",
     "gdpppppc2025": "17633.888",
     "gdppc2025": "5074.049",
-    "debt": "40.8",
-    "imfCountry": "Indonesia"
+    "debt": "40.8"
   },
   {
     "capital": "Tehran",
@@ -2187,8 +2109,7 @@
     "growth2025": "-1.5",
     "gdpppppc2025": "21473.13",
     "gdppc2025": "4074.444",
-    "debt": "35.6",
-    "imfCountry": "Iran"
+    "debt": "35.6"
   },
   {
     "capital": "Baghdad",
@@ -2210,8 +2131,7 @@
     "growth2025": "-0.4",
     "gdpppppc2025": "15390.569",
     "gdppc2025": "5831.552",
-    "debt": "53.1",
-    "imfCountry": "Iraq"
+    "debt": "53.1"
   },
   {
     "capital": "Dublin",
@@ -2233,8 +2153,7 @@
     "growth2025": "12.3",
     "gdpppppc2025": "147878.191",
     "gdppc2025": "129131.78",
-    "debt": "33",
-    "imfCountry": "Ireland"
+    "debt": "33"
   },
   {
     "capital": "Jerusalem",
@@ -2256,8 +2175,7 @@
     "growth2025": "2.9",
     "gdpppppc2025": "55766.414",
     "gdppc2025": "60008.972",
-    "debt": "69.2",
-    "imfCountry": "Israel"
+    "debt": "69.2"
   },
   {
     "capital": "Rome",
@@ -2279,8 +2197,7 @@
     "growth2025": "0.5",
     "gdpppppc2025": "63125.675",
     "gdppc2025": "43161.196",
-    "debt": "136.8",
-    "imfCountry": "Italy"
+    "debt": "136.8"
   },
   {
     "capital": "Kingston",
@@ -2302,8 +2219,7 @@
     "growth2025": "-0.1",
     "gdpppppc2025": "13924.09",
     "gdppc2025": "8404.912",
-    "debt": "59.2",
-    "imfCountry": "Jamaica"
+    "debt": "59.2"
   },
   {
     "capital": "Tokyo",
@@ -2325,8 +2241,7 @@
     "growth2025": "1.2",
     "gdpppppc2025": "54815.317",
     "gdppc2025": "34713.248",
-    "debt": "229.6",
-    "imfCountry": "Japan"
+    "debt": "229.6"
   },
   {
     "capital": "Amman",
@@ -2348,8 +2263,7 @@
     "growth2025": "2.7",
     "gdpppppc2025": "11510.847",
     "gdppc2025": "4907.883",
-    "debt": "89.7",
-    "imfCountry": "Jordan"
+    "debt": "89.7"
   },
   {
     "capital": "Astana (Nur-Sultan)",
@@ -2371,8 +2285,7 @@
     "growth2025": "6.5",
     "gdpppppc2025": "44777.865",
     "gdppc2025": "14722.579",
-    "debt": "24.8",
-    "imfCountry": "Kazakhstan"
+    "debt": "24.8"
   },
   {
     "capital": "Nairobi",
@@ -2394,8 +2307,7 @@
     "growth2025": "4.9",
     "gdpppppc2025": "7556.076",
     "gdppc2025": "2549.284",
-    "debt": "68",
-    "imfCountry": "Kenya"
+    "debt": "68"
   },
   {
     "capital": "South Tarawa",
@@ -2417,31 +2329,29 @@
     "growth2025": "4.3",
     "gdpppppc2025": "3704.847",
     "gdppc2025": "2481.332",
-    "debt": "8.7",
-    "imfCountry": "Kiribati"
+    "debt": "8.7"
   },
   {
     "capital": "Pristina",
-    "code": "KIR",
-    "country": "Kiribati",
+    "code": "XKX",
+    "country": "Kosovo",
     "currency": "EUR",
-    "gdp2025": "0.349",
-    "id": "KI",
+    "gdp2025": "11.5",
+    "id": "XK",
     "phoneCode": "+383",
-    "rusName": "Кирибати",
+    "rusName": "Косово",
     "timezones": "UTC+02:00",
-    "pop2026": 138445,
-    "area": 811,
-    "landAreaKm": 810,
-    "density": 170.9198,
-    "growthRate": 0.0143,
-    "worldPercentage": 0,
-    "rank": 192,
-    "growth2025": "4.3",
-    "gdpppppc2025": "3704.847",
-    "gdppc2025": "2481.332",
-    "debt": "8.7",
-    "imfCountry": "Kiribati"
+    "pop2026": 1791000,
+    "area": 10887,
+    "landAreaKm": 10887,
+    "density": 164.5,
+    "growthRate": 0.012,
+    "worldPercentage": 0.02,
+    "rank": 152,
+    "growth2025": "3.8",
+    "gdpppppc2025": "16500",
+    "gdppc2025": "5500",
+    "debt": "22.5"
   },
   {
     "capital": "Kuwait City",
@@ -2463,8 +2373,7 @@
     "growth2025": "3.5",
     "gdpppppc2025": "52866.096",
     "gdppc2025": "30805.156",
-    "debt": "7.3",
-    "imfCountry": "Kuwait"
+    "debt": "7.3"
   },
   {
     "capital": "Bishkek",
@@ -2486,8 +2395,7 @@
     "growth2025": "11.1",
     "gdpppppc2025": "8870.37",
     "gdppc2025": "2789.586",
-    "debt": "37.8",
-    "imfCountry": "Kyrgyz Republic"
+    "debt": "37.8"
   },
   {
     "capital": "Vientiane",
@@ -2509,8 +2417,7 @@
     "growth2025": "4.8",
     "gdpppppc2025": "10212.326",
     "gdppc2025": "2174.391",
-    "debt": "90.7",
-    "imfCountry": "Lao P.D.R."
+    "debt": "90.7"
   },
   {
     "capital": "Riga",
@@ -2532,8 +2439,7 @@
     "growth2025": "2.1",
     "gdpppppc2025": "44105.521",
     "gdppc2025": "25629.634",
-    "debt": "47.1",
-    "imfCountry": "Latvia"
+    "debt": "47.1"
   },
   {
     "capital": "Beirut",
@@ -2555,8 +2461,7 @@
     "growth2025": "4",
     "gdpppppc2025": "0",
     "gdppc2025": "0",
-    "debt": "0",
-    "imfCountry": "Lebanon"
+    "debt": "0"
   },
   {
     "capital": "Maseru",
@@ -2578,8 +2483,7 @@
     "growth2025": "1.4",
     "gdpppppc2025": "3089.293",
     "gdppc2025": "1001.076",
-    "debt": "57.1",
-    "imfCountry": "Lesotho"
+    "debt": "57.1"
   },
   {
     "capital": "Monrovia",
@@ -2601,8 +2505,7 @@
     "growth2025": "5.1",
     "gdpppppc2025": "1960.929",
     "gdppc2025": "904.221",
-    "debt": "55.7",
-    "imfCountry": "Liberia"
+    "debt": "55.7"
   },
   {
     "capital": "Tripoli",
@@ -2624,8 +2527,7 @@
     "growth2025": "15.9",
     "gdpppppc2025": "17930.647",
     "gdppc2025": "6866.143",
-    "debt": "0",
-    "imfCountry": "Libya"
+    "debt": "0"
   },
   {
     "capital": "Vaduz",
@@ -2669,8 +2571,7 @@
     "growth2025": "2.9",
     "gdpppppc2025": "57201.425",
     "gdppc2025": "32982.41",
-    "debt": "41.8",
-    "imfCountry": "Lithuania"
+    "debt": "41.8"
   },
   {
     "capital": "Luxembourg",
@@ -2692,8 +2593,7 @@
     "growth2025": "0.6",
     "gdpppppc2025": "152394.648",
     "gdppc2025": "146818.025",
-    "debt": "27.1",
-    "imfCountry": "Luxembourg"
+    "debt": "27.1"
   },
   {
     "capital": "",
@@ -2715,8 +2615,7 @@
     "growth2025": "4.7",
     "gdpppppc2025": "132648.291",
     "gdppc2025": "74920.67",
-    "debt": "0",
-    "imfCountry": "Macao SAR"
+    "debt": "0"
   },
   {
     "capital": "Skopje",
@@ -2738,8 +2637,7 @@
     "growth2025": "3.5",
     "gdpppppc2025": "29509.916",
     "gdppc2025": "10377.988",
-    "debt": "52.9",
-    "imfCountry": "North Macedonia"
+    "debt": "52.9"
   },
   {
     "capital": "Antananarivo",
@@ -2761,8 +2659,7 @@
     "growth2025": "2.8",
     "gdpppppc2025": "2039.724",
     "gdppc2025": "616.221",
-    "debt": "49.7",
-    "imfCountry": "Madagascar"
+    "debt": "49.7"
   },
   {
     "capital": "Lilongwe",
@@ -2784,8 +2681,7 @@
     "growth2025": "2.1",
     "gdpppppc2025": "1757.703",
     "gdppc2025": "622.47",
-    "debt": "80.4",
-    "imfCountry": "Malawi"
+    "debt": "80.4"
   },
   {
     "capital": "Kuala Lumpur",
@@ -2807,8 +2703,7 @@
     "growth2025": "5.2",
     "gdpppppc2025": "43664.705",
     "gdppc2025": "13900.839",
-    "debt": "70.4",
-    "imfCountry": "Malaysia"
+    "debt": "70.4"
   },
   {
     "capital": "Malé",
@@ -2830,8 +2725,7 @@
     "growth2025": "5",
     "gdpppppc2025": "36065.761",
     "gdppc2025": "18683.902",
-    "debt": "131.8",
-    "imfCountry": "Maldives"
+    "debt": "131.8"
   },
   {
     "capital": "Bamako",
@@ -2853,8 +2747,7 @@
     "growth2025": "4.9",
     "gdpppppc2025": "2889.967",
     "gdppc2025": "1013.642",
-    "debt": "48.9",
-    "imfCountry": "Mali"
+    "debt": "48.9"
   },
   {
     "capital": "Valletta",
@@ -2876,8 +2769,7 @@
     "growth2025": "4",
     "gdpppppc2025": "78710.887",
     "gdppc2025": "49277.47",
-    "debt": "46.9",
-    "imfCountry": "Malta"
+    "debt": "46.9"
   },
   {
     "capital": "Majuro",
@@ -2899,8 +2791,7 @@
     "growth2025": "2.5",
     "gdpppppc2025": "7704.429",
     "gdppc2025": "8286.564",
-    "debt": "10.6",
-    "imfCountry": "Marshall Islands"
+    "debt": "10.6"
   },
   {
     "capital": "Fort-de-France",
@@ -2944,8 +2835,7 @@
     "growth2025": "4.2",
     "gdpppppc2025": "8774.944",
     "gdppc2025": "2582.099",
-    "debt": "41.2",
-    "imfCountry": "Mauritania"
+    "debt": "41.2"
   },
   {
     "capital": "Port Louis",
@@ -2967,8 +2857,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "33023.741",
     "gdppc2025": "12518.848",
-    "debt": "88.1",
-    "imfCountry": "Mauritius"
+    "debt": "88.1"
   },
   {
     "capital": "Mamoudzou",
@@ -3012,8 +2901,7 @@
     "growth2025": "0.6",
     "gdpppppc2025": "25770.389",
     "gdppc2025": "13966.98",
-    "debt": "58.9",
-    "imfCountry": "Mexico"
+    "debt": "58.9"
   },
   {
     "capital": "Chisinau",
@@ -3035,8 +2923,7 @@
     "growth2025": "2.4",
     "gdpppppc2025": "19590.727",
     "gdppc2025": "8239.361",
-    "debt": "37.8",
-    "imfCountry": "Moldova"
+    "debt": "37.8"
   },
   {
     "capital": "Monaco",
@@ -3080,8 +2967,7 @@
     "growth2025": "6.8",
     "gdpppppc2025": "20378.301",
     "gdppc2025": "7005.494",
-    "debt": "46.6",
-    "imfCountry": "Mongolia"
+    "debt": "46.6"
   },
   {
     "capital": "Podgorica",
@@ -3103,8 +2989,7 @@
     "growth2025": "2.7",
     "gdpppppc2025": "34407.847",
     "gdppc2025": "14985.897",
-    "debt": "60.8",
-    "imfCountry": "Montenegro"
+    "debt": "60.8"
   },
   {
     "capital": "Plymouth",
@@ -3148,8 +3033,7 @@
     "growth2025": "4.9",
     "gdpppppc2025": "11437.148",
     "gdppc2025": "4762.729",
-    "debt": "67.2",
-    "imfCountry": "Morocco"
+    "debt": "67.2"
   },
   {
     "capital": "Maputo",
@@ -3171,8 +3055,7 @@
     "growth2025": "-0.5",
     "gdpppppc2025": "1732.595",
     "gdppc2025": "690.01",
-    "debt": "97.2",
-    "imfCountry": "Mozambique"
+    "debt": "97.2"
   },
   {
     "capital": "Naypyidaw",
@@ -3194,8 +3077,7 @@
     "growth2025": "-2",
     "gdpppppc2025": "4950.861",
     "gdppc2025": "1097.473",
-    "debt": "63.5",
-    "imfCountry": "Myanmar"
+    "debt": "63.5"
   },
   {
     "capital": "Windhoek",
@@ -3217,8 +3099,7 @@
     "growth2025": "2.4",
     "gdpppppc2025": "12341.506",
     "gdppc2025": "4816.295",
-    "debt": "63.6",
-    "imfCountry": "Namibia"
+    "debt": "63.6"
   },
   {
     "capital": "Yaren",
@@ -3240,8 +3121,7 @@
     "growth2025": "2.2",
     "gdpppppc2025": "12267.627",
     "gdppc2025": "14274.023",
-    "debt": "15",
-    "imfCountry": "Nauru"
+    "debt": "15"
   },
   {
     "capital": "Kathmandu",
@@ -3263,8 +3143,7 @@
     "growth2025": "4.6",
     "gdpppppc2025": "6139.804",
     "gdppc2025": "1535.241",
-    "debt": "49.3",
-    "imfCountry": "Nepal"
+    "debt": "49.3"
   },
   {
     "capital": "Amsterdam",
@@ -3286,8 +3165,7 @@
     "growth2025": "1.9",
     "gdpppppc2025": "84035.223",
     "gdppc2025": "73173.715",
-    "debt": "44",
-    "imfCountry": "Netherlands"
+    "debt": "44"
   },
   {
     "capital": "willemstad",
@@ -3353,8 +3231,7 @@
     "growth2025": "0.2",
     "gdpppppc2025": "55781.2",
     "gdppc2025": "49383.388",
-    "debt": "53.2",
-    "imfCountry": "New Zealand"
+    "debt": "53.2"
   },
   {
     "capital": "Managua",
@@ -3376,8 +3253,7 @@
     "growth2025": "4.9",
     "gdpppppc2025": "9081.754",
     "gdppc2025": "2952.674",
-    "debt": "39.3",
-    "imfCountry": "Nicaragua"
+    "debt": "39.3"
   },
   {
     "capital": "Niamey",
@@ -3399,8 +3275,7 @@
     "growth2025": "6.9",
     "gdpppppc2025": "2095.238",
     "gdppc2025": "788.616",
-    "debt": "42.2",
-    "imfCountry": "Niger"
+    "debt": "42.2"
   },
   {
     "capital": "Abuja",
@@ -3422,8 +3297,7 @@
     "growth2025": "4",
     "gdpppppc2025": "9488.156",
     "gdppc2025": "1199.623",
-    "debt": "36.4",
-    "imfCountry": "Nigeria"
+    "debt": "36.4"
   },
   {
     "capital": "Alofi",
@@ -3533,8 +3407,7 @@
     "growth2025": "3.5",
     "gdpppppc2025": "29509.916",
     "gdppc2025": "10377.988",
-    "debt": "52.9",
-    "imfCountry": "North Macedonia"
+    "debt": "52.9"
   },
   {
     "capital": "Oslo",
@@ -3556,8 +3429,7 @@
     "growth2025": "1.1",
     "gdpppppc2025": "106694.122",
     "gdppc2025": "91883.687",
-    "debt": "42.7",
-    "imfCountry": "Norway"
+    "debt": "42.7"
   },
   {
     "capital": "Muscat",
@@ -3579,8 +3451,7 @@
     "growth2025": "2.4",
     "gdpppppc2025": "42211.199",
     "gdppc2025": "19118.876",
-    "debt": "35.1",
-    "imfCountry": "Oman"
+    "debt": "35.1"
   },
   {
     "capital": "Islamabad",
@@ -3602,8 +3473,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "6949.899",
     "gdppc2025": "1706.912",
-    "debt": "71.6",
-    "imfCountry": "Pakistan"
+    "debt": "71.6"
   },
   {
     "capital": "Ngerulmud",
@@ -3625,8 +3495,7 @@
     "growth2025": "6.3",
     "gdpppppc2025": "18958.274",
     "gdppc2025": "19456.088",
-    "debt": "63.1",
-    "imfCountry": "Palau"
+    "debt": "63.1"
   },
   {
     "capital": "Jerusalem(East)",
@@ -3670,8 +3539,7 @@
     "growth2025": "4.4",
     "gdpppppc2025": "43651.385",
     "gdppc2025": "19802.151",
-    "debt": "59.6",
-    "imfCountry": "Panama"
+    "debt": "59.6"
   },
   {
     "capital": "Port Moresby",
@@ -3693,8 +3561,7 @@
     "growth2025": "5.6",
     "gdpppppc2025": "3761.99",
     "gdppc2025": "2555.254",
-    "debt": "50.4",
-    "imfCountry": "Papua New Guinea"
+    "debt": "50.4"
   },
   {
     "capital": "Asunción",
@@ -3716,8 +3583,7 @@
     "growth2025": "6",
     "gdpppppc2025": "19717.194",
     "gdppc2025": "6798.756",
-    "debt": "41.7",
-    "imfCountry": "Paraguay"
+    "debt": "41.7"
   },
   {
     "capital": "Lima",
@@ -3739,8 +3605,7 @@
     "growth2025": "3.4",
     "gdpppppc2025": "18980.187",
     "gdppc2025": "9255.722",
-    "debt": "32.1",
-    "imfCountry": "Peru"
+    "debt": "32.1"
   },
   {
     "capital": "Manila",
@@ -3762,8 +3627,7 @@
     "growth2025": "4.4",
     "gdpppppc2025": "12920.042",
     "gdppc2025": "4320.557",
-    "debt": "58.2",
-    "imfCountry": "Philippines"
+    "debt": "58.2"
   },
   {
     "capital": "Warsaw",
@@ -3785,8 +3649,7 @@
     "growth2025": "3.6",
     "gdpppppc2025": "55340.224",
     "gdppc2025": "28484.671",
-    "debt": "60",
-    "imfCountry": "Poland"
+    "debt": "60"
   },
   {
     "capital": "Lisbon",
@@ -3808,8 +3671,7 @@
     "growth2025": "1.9",
     "gdpppppc2025": "49753.185",
     "gdppc2025": "31414.528",
-    "debt": "90.9",
-    "imfCountry": "Portugal"
+    "debt": "90.9"
   },
   {
     "capital": "San Juan",
@@ -3831,8 +3693,7 @@
     "growth2025": "-0.8",
     "gdpppppc2025": "51488.639",
     "gdppc2025": "39853.523",
-    "debt": "18",
-    "imfCountry": "Puerto Rico"
+    "debt": "18"
   },
   {
     "capital": "Doha",
@@ -3854,8 +3715,7 @@
     "growth2025": "2.8",
     "gdpppppc2025": "122283.218",
     "gdppc2025": "71441.418",
-    "debt": "40.6",
-    "imfCountry": "Qatar"
+    "debt": "40.6"
   },
   {
     "capital": "Brazzaville",
@@ -3877,8 +3737,7 @@
     "growth2025": "2.4",
     "gdpppppc2025": "6515.358",
     "gdppc2025": "2419.764",
-    "debt": "93.1",
-    "imfCountry": "Congo. Republic of"
+    "debt": "93.1"
   },
   {
     "capital": "Saint-Denis",
@@ -3922,8 +3781,7 @@
     "growth2025": "0.7",
     "gdpppppc2025": "48847.461",
     "gdppc2025": "22436.007",
-    "debt": "61.2",
-    "imfCountry": "Romania"
+    "debt": "61.2"
   },
   {
     "capital": "Moscow",
@@ -3943,10 +3801,9 @@
     "worldPercentage": 0.0179,
     "rank": 9,
     "growth2025": "1",
-    "gdpppppc2025": "49048.991",
-    "gdppc2025": "17445.75",
-    "debt": "23.1",
-    "imfCountry": "Russian Federation"
+    "gdpppppc2025": "50255.084",
+    "gdppc2025": "17972.117",
+    "debt": "23.1"
   },
   {
     "capital": "Kigali",
@@ -3968,8 +3825,7 @@
     "growth2025": "7",
     "gdpppppc2025": "4100.683",
     "gdppc2025": "1042.998",
-    "debt": "73.2",
-    "imfCountry": "Rwanda"
+    "debt": "73.2"
   },
   {
     "capital": "Gustavia",
@@ -4035,8 +3891,7 @@
     "growth2025": "1.5",
     "gdpppppc2025": "34096.36",
     "gdppc2025": "22157.53",
-    "debt": "61.9",
-    "imfCountry": "Saint Kitts and Nevis"
+    "debt": "61.9"
   },
   {
     "capital": "Marigot",
@@ -4102,8 +3957,7 @@
     "growth2025": "3.4",
     "gdpppppc2025": "21235.184",
     "gdppc2025": "11132.381",
-    "debt": "94",
-    "imfCountry": "Saint Vincent and the Grenadines"
+    "debt": "94"
   },
   {
     "capital": "Apia",
@@ -4125,8 +3979,7 @@
     "growth2025": "4.2",
     "gdpppppc2025": "8257.258",
     "gdppc2025": "5886.586",
-    "debt": "20.9",
-    "imfCountry": "Samoa"
+    "debt": "20.9"
   },
   {
     "capital": "City of San Marino",
@@ -4148,8 +4001,7 @@
     "growth2025": "1.5",
     "gdpppppc2025": "82886.405",
     "gdppc2025": "65269.006",
-    "debt": "62.7",
-    "imfCountry": "San Marino"
+    "debt": "62.7"
   },
   {
     "capital": "São Tomé",
@@ -4171,8 +4023,7 @@
     "growth2025": "2.1",
     "gdpppppc2025": "6459.866",
     "gdppc2025": "4060.877",
-    "debt": "51.4",
-    "imfCountry": "São Tomé and Príncipe"
+    "debt": "51.4"
   },
   {
     "capital": "Riyadh",
@@ -4194,8 +4045,7 @@
     "growth2025": "4.5",
     "gdpppppc2025": "74668.069",
     "gdppc2025": "35230.932",
-    "debt": "29.2",
-    "imfCountry": "Saudi Arabia"
+    "debt": "29.2"
   },
   {
     "capital": "Dakar",
@@ -4217,8 +4067,7 @@
     "growth2025": "7.9",
     "gdpppppc2025": "5354.697",
     "gdppc2025": "1921.391",
-    "debt": "122.9",
-    "imfCountry": "Senegal"
+    "debt": "122.9"
   },
   {
     "capital": "Belgrade",
@@ -4240,8 +4089,7 @@
     "growth2025": "2",
     "gdpppppc2025": "32741.865",
     "gdppc2025": "15322.201",
-    "debt": "43.9",
-    "imfCountry": "Serbia"
+    "debt": "43.9"
   },
   {
     "capital": "Victoria",
@@ -4263,8 +4111,7 @@
     "growth2025": "5.1",
     "gdpppppc2025": "42110.395",
     "gdppc2025": "21955.934",
-    "debt": "56.7",
-    "imfCountry": "Seychelles"
+    "debt": "56.7"
   },
   {
     "capital": "Freetown",
@@ -4286,8 +4133,7 @@
     "growth2025": "4.4",
     "gdpppppc2025": "3699.415",
     "gdppc2025": "979.511",
-    "debt": "41.2",
-    "imfCountry": "Sierra Leone"
+    "debt": "41.2"
   },
   {
     "capital": "Singapore",
@@ -4309,8 +4155,7 @@
     "growth2025": "5",
     "gdpppppc2025": "156969.073",
     "gdppc2025": "94480.797",
-    "debt": "175.6",
-    "imfCountry": "Singapore"
+    "debt": "175.6"
   },
   {
     "capital": "Philipsburg",
@@ -4354,8 +4199,7 @@
     "growth2025": "0.8",
     "gdpppppc2025": "47596.544",
     "gdppc2025": "28524.477",
-    "debt": "59.6",
-    "imfCountry": "Slovak Republic"
+    "debt": "59.6"
   },
   {
     "capital": "Ljubljana",
@@ -4377,8 +4221,7 @@
     "growth2025": "1.1",
     "gdpppppc2025": "57716.483",
     "gdppc2025": "37178.02",
-    "debt": "66.6",
-    "imfCountry": "Slovenia"
+    "debt": "66.6"
   },
   {
     "capital": "Honiara",
@@ -4400,8 +4243,7 @@
     "growth2025": "2.7",
     "gdpppppc2025": "2711.602",
     "gdppc2025": "2385.574",
-    "debt": "23.7",
-    "imfCountry": "Solomon Islands"
+    "debt": "23.7"
   },
   {
     "capital": "Mogadishu",
@@ -4423,8 +4265,7 @@
     "growth2025": "3",
     "gdpppppc2025": "1897.715",
     "gdppc2025": "763.077",
-    "debt": "0",
-    "imfCountry": "Somalia"
+    "debt": "0"
   },
   {
     "capital": "Pretoria",
@@ -4446,8 +4287,7 @@
     "growth2025": "1.1",
     "gdpppppc2025": "16049.821",
     "gdppc2025": "6666.705",
-    "debt": "77.3",
-    "imfCountry": "South Africa"
+    "debt": "77.3"
   },
   {
     "capital": "Seoul",
@@ -4491,8 +4331,7 @@
     "growth2025": "46.1",
     "gdpppppc2025": "953.68",
     "gdppc2025": "313.218",
-    "debt": "66",
-    "imfCountry": "South Sudan. Republic of"
+    "debt": "66"
   },
   {
     "capital": "Madrid",
@@ -4514,8 +4353,7 @@
     "growth2025": "2.8",
     "gdpppppc2025": "56887.928",
     "gdppc2025": "38039.876",
-    "debt": "100.4",
-    "imfCountry": "Spain"
+    "debt": "100.4"
   },
   {
     "capital": "Colombo",
@@ -4537,8 +4375,7 @@
     "growth2025": "0",
     "gdpppppc2025": "0",
     "gdppc2025": "0",
-    "debt": "0",
-    "imfCountry": "Sri Lanka"
+    "debt": "0"
   },
   {
     "capital": "Castries",
@@ -4560,8 +4397,7 @@
     "growth2025": "1.7",
     "gdpppppc2025": "29257.601",
     "gdppc2025": "14647.443",
-    "debt": "77",
-    "imfCountry": "Saint Lucia"
+    "debt": "77"
   },
   {
     "capital": "Khartoum",
@@ -4583,8 +4419,7 @@
     "growth2025": "3.2",
     "gdpppppc2025": "2418.619",
     "gdppc2025": "711.995",
-    "debt": "221.5",
-    "imfCountry": "Sudan"
+    "debt": "221.5"
   },
   {
     "capital": "Paramaribo",
@@ -4606,8 +4441,7 @@
     "growth2025": "1.5",
     "gdpppppc2025": "22303.229",
     "gdppc2025": "6843.471",
-    "debt": "89.1",
-    "imfCountry": "Suriname"
+    "debt": "89.1"
   },
   {
     "capital": "Mbabane",
@@ -4629,8 +4463,7 @@
     "growth2025": "3.6",
     "gdpppppc2025": "13310.106",
     "gdppc2025": "4409.528",
-    "debt": "42.8",
-    "imfCountry": "Eswatini"
+    "debt": "42.8"
   },
   {
     "capital": "Stockholm",
@@ -4652,8 +4485,7 @@
     "growth2025": "1.5",
     "gdpppppc2025": "73069.51",
     "gdppc2025": "62036.06",
-    "debt": "34.2",
-    "imfCountry": "Sweden"
+    "debt": "34.2"
   },
   {
     "capital": "Bern",
@@ -4675,8 +4507,7 @@
     "growth2025": "1.3",
     "gdpppppc2025": "97659.278",
     "gdppc2025": "111046.892",
-    "debt": "36.9",
-    "imfCountry": "Switzerland"
+    "debt": "36.9"
   },
   {
     "capital": "Damascus",
@@ -4698,8 +4529,7 @@
     "growth2025": "0",
     "gdpppppc2025": "0",
     "gdppc2025": "0",
-    "debt": "0",
-    "imfCountry": "Syria"
+    "debt": "0"
   },
   {
     "capital": "Taipei",
@@ -4721,8 +4551,7 @@
     "growth2025": "8.7",
     "gdpppppc2025": "85126.907",
     "gdppc2025": "37826.616",
-    "debt": "23.4",
-    "imfCountry": "Taiwan Province of China"
+    "debt": "23.4"
   },
   {
     "capital": "Dushanbe",
@@ -4744,8 +4573,7 @@
     "growth2025": "8.4",
     "gdpppppc2025": "6088.848",
     "gdppc2025": "1643.986",
-    "debt": "22",
-    "imfCountry": "Tajikistan"
+    "debt": "22"
   },
   {
     "capital": "Dodoma",
@@ -4767,8 +4595,7 @@
     "growth2025": "5.9",
     "gdpppppc2025": "4371.129",
     "gdppc2025": "1301.737",
-    "debt": "49.6",
-    "imfCountry": "Tanzania"
+    "debt": "49.6"
   },
   {
     "capital": "Bangkok",
@@ -4790,8 +4617,7 @@
     "growth2025": "2.4",
     "gdpppppc2025": "26358.583",
     "gdppc2025": "7942.299",
-    "debt": "64.9",
-    "imfCountry": "Thailand"
+    "debt": "64.9"
   },
   {
     "capital": "Dili",
@@ -4813,8 +4639,7 @@
     "growth2025": "4.5",
     "gdpppppc2025": "5018.747",
     "gdppc2025": "1507.874",
-    "debt": "13.9",
-    "imfCountry": "Timor-Leste"
+    "debt": "13.9"
   },
   {
     "capital": "Lomé",
@@ -4836,8 +4661,7 @@
     "growth2025": "5.9",
     "gdpppppc2025": "3372.914",
     "gdppc2025": "1119.598",
-    "debt": "71.9",
-    "imfCountry": "Togo"
+    "debt": "71.9"
   },
   {
     "capital": "Fakaofo",
@@ -4881,8 +4705,7 @@
     "growth2025": "2.8",
     "gdpppppc2025": "8086.178",
     "gdppc2025": "5921.472",
-    "debt": "31.6",
-    "imfCountry": "Tonga"
+    "debt": "31.6"
   },
   {
     "capital": "Port of Spain",
@@ -4904,8 +4727,7 @@
     "growth2025": "0.8",
     "gdpppppc2025": "35899.578",
     "gdppc2025": "18120.734",
-    "debt": "65.3",
-    "imfCountry": "Trinidad and Tobago"
+    "debt": "65.3"
   },
   {
     "capital": "Tunis",
@@ -4927,8 +4749,7 @@
     "growth2025": "2.5",
     "gdpppppc2025": "14982.77",
     "gdppc2025": "4751.548",
-    "debt": "80.6",
-    "imfCountry": "Tunisia"
+    "debt": "80.6"
   },
   {
     "capital": "Ankara",
@@ -4950,8 +4771,7 @@
     "growth2025": "3.6",
     "gdpppppc2025": "43786.195",
     "gdppc2025": "18197.575",
-    "debt": "24.3",
-    "imfCountry": "Türkiye. Republic of"
+    "debt": "24.3"
   },
   {
     "capital": "Ashgabat",
@@ -4973,8 +4793,7 @@
     "growth2025": "3.6",
     "gdpppppc2025": "22855.95",
     "gdppc2025": "10801.102",
-    "debt": "3.9",
-    "imfCountry": "Turkmenistan"
+    "debt": "3.9"
   },
   {
     "capital": "Cockburn Town",
@@ -5018,8 +4837,7 @@
     "growth2025": "2.2",
     "gdpppppc2025": "6157.997",
     "gdppc2025": "5830.305",
-    "debt": "3.6",
-    "imfCountry": "Tuvalu"
+    "debt": "3.6"
   },
   {
     "capital": "Kampala",
@@ -5041,8 +4859,7 @@
     "growth2025": "6.7",
     "gdpppppc2025": "3904.245",
     "gdppc2025": "1353.414",
-    "debt": "52.4",
-    "imfCountry": "Uganda"
+    "debt": "52.4"
   },
   {
     "capital": "Kiev",
@@ -5064,8 +4881,7 @@
     "growth2025": "1.8",
     "gdpppppc2025": "20903.942",
     "gdppc2025": "6381.676",
-    "debt": "108.6",
-    "imfCountry": "Ukraine"
+    "debt": "108.6"
   },
   {
     "capital": "Abu Dhabi",
@@ -5087,8 +4903,7 @@
     "growth2025": "5.8",
     "gdpppppc2025": "84402.77",
     "gdppc2025": "51347.902",
-    "debt": "34",
-    "imfCountry": "United Arab Emirates"
+    "debt": "34"
   },
   {
     "capital": "London",
@@ -5110,8 +4925,7 @@
     "growth2025": "1.3",
     "gdpppppc2025": "63759.051",
     "gdppc2025": "56660.868",
-    "debt": "103.4",
-    "imfCountry": "United Kingdom"
+    "debt": "103.4"
   },
   {
     "capital": "Washington. D.C.",
@@ -5133,8 +4947,7 @@
     "growth2025": "2.1",
     "gdpppppc2025": "89598.86",
     "gdppc2025": "89598.86",
-    "debt": "128",
-    "imfCountry": "United States"
+    "debt": "128"
   },
   {
     "capital": "Montevideo",
@@ -5156,8 +4969,7 @@
     "growth2025": "1.8",
     "gdpppppc2025": "37190.134",
     "gdppc2025": "24379.608",
-    "debt": "66.6",
-    "imfCountry": "Uruguay"
+    "debt": "66.6"
   },
   {
     "capital": "Charlotte Amalie",
@@ -5201,8 +5013,7 @@
     "growth2025": "7.7",
     "gdpppppc2025": "12558.992",
     "gdppc2025": "3646.604",
-    "debt": "31.1",
-    "imfCountry": "Uzbekistan"
+    "debt": "31.1"
   },
   {
     "capital": "Port Vila",
@@ -5224,8 +5035,7 @@
     "growth2025": "3.1",
     "gdpppppc2025": "2995.597",
     "gdppc2025": "3132.9",
-    "debt": "48.6",
-    "imfCountry": "Vanuatu"
+    "debt": "48.6"
   },
   {
     "capital": "Vatican City",
@@ -5269,8 +5079,7 @@
     "growth2025": "1.5",
     "gdpppppc2025": "8785.445",
     "gdppc2025": "3102.938",
-    "debt": "0",
-    "imfCountry": "Venezuela"
+    "debt": "0"
   },
   {
     "capital": "Hanoi",
@@ -5292,8 +5101,7 @@
     "growth2025": "8",
     "gdpppppc2025": "17688.249",
     "gdppc2025": "4744.725",
-    "debt": "32",
-    "imfCountry": "Vietnam"
+    "debt": "32"
   },
   {
     "capital": "Mata-Utu",
@@ -5381,8 +5189,7 @@
     "growth2025": "-0.5",
     "gdpppppc2025": "1673.722",
     "gdppc2025": "415.379",
-    "debt": "71.4",
-    "imfCountry": "Yemen"
+    "debt": "71.4"
   },
   {
     "capital": "Lusaka",
@@ -5404,8 +5211,7 @@
     "growth2025": "3.8",
     "gdpppppc2025": "4503.432",
     "gdppc2025": "1352.989",
-    "debt": "0",
-    "imfCountry": "Zambia"
+    "debt": "0"
   },
   {
     "capital": "Harare",
@@ -5427,7 +5233,6 @@
     "growth2025": "7.5",
     "gdpppppc2025": "7842.812",
     "gdppc2025": "3070.883",
-    "debt": "45",
-    "imfCountry": "Zimbabwe"
+    "debt": "45"
   }
 ]
